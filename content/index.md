@@ -1,12 +1,13 @@
 ---
 tipo: portada
 titulo: "Libro Vivo sobre Autismo"
+title: "Autismo Vivo"
 autor: "Dr. Fernando Avalos Reyes"
 fecha_publicacion: "2026-07-28"
 ultima_actualizacion: "2026-07-28"
 dg-publish: true
-dg-home: false
-dg-permalink: /portada
+dg-home: true
+dg-permalink: /
 estado: publicado
 donacion_url: "https://ko-fi.com/A5X5242156"
 tags:
