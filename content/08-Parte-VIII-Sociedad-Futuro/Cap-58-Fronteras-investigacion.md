@@ -7,7 +7,7 @@ dg-publish: false
 dg-home: false
 dg-permalink: /capitulos/fronteras-investigacion
 ultima_actualizacion: "2026-07-29"
-version: "1.5"
+version: "1.6"
 fuentes_integradas:
   - "[[2025-Kim-An-precision-diagnosis-genomics]]"
   - "[[2026-Zabetakis-Grabrucker-synaptic-protein-mutations]]"
@@ -18,14 +18,16 @@ fuentes_integradas:
   - "[[2025-Mottron-asymmetric-developmental-bifurcations]]"
   - "[[2025-Hunt-DCIDE-evolutionary-autism]]"
   - "[[2026-Chahrour-hidden-genetic-architecture]]"
+  - "[[2025-Russo-developmental-approach-IQ-neuroimaging]]"
 estado: borrador
-resumen_ejecutivo: "Genómica, sinaptopatía, gut–ENS, oxitocina estratificada, LCOR≈ketamina (E/I) y subgrupos transcriptómicos-imagen (LEAP) como fronteras de precisión."
+resumen_ejecutivo: "Genómica, sinaptopatía, gut–ENS, oxitocina estratificada, LCOR≈ketamina (E/I) y subgrupos transcriptómicos-imagen (LEAP) como fronteras de precisión. Un debate metodológico transversal: gran parte de la investigación en neuroimagen no controla por capacidad cognitiva (CI), amenazando la validez de hallazgos atribuidos al autismo."
 preguntas_abiertas:
   - "¿Cómo integrar PS + variantes raras en consejería sin sesgo ancestral?"
   - "¿Qué fracción del TEA multifactorial será abordable con terapias dirigidas?"
   - "¿Cómo alinear precisión molecular con apoyos y derechos de la neurodiversidad?"
   - "¿Pueden organoides ENS guiar tratamientos GI personalizados?"
   - "¿Quién responde a oxitocina y con qué biomarcadores?"
+  - "¿Debería el control/emparejamiento por CI convertirse en estándar obligatorio de reporte en neuroimagen de autismo?"
 tags:
   - tea/capitulo
 bibliography: "03-Datos/references.bib"
@@ -68,11 +70,15 @@ Hay organoides GI en síndromes (p. ej. Phelan-McDermid), pero **faltan** estudi
 
 Junto a las fronteras moleculares, emergen marcos teóricos que buscan resolver la tensión entre "diferencia" y "trastorno". El marco de **bifurcaciones de desarrollo asimétricas (ADB)** de Mottron et al. propone tratar el autismo prototípico como una polaridad categórica del desarrollo, no una enfermedad ([@mottron2025]; [[2025-Mottron-asymmetric-developmental-bifurcations]]). El marco **DCIDE** de Hunt et al. aporta una metodología para evaluar sistemáticamente hipótesis evolutivas, favoreciendo explicaciones de nicho/sistematización sobre el "subproducto de inteligencia", con una fracción minoritaria (~5–20%) de casos potencialmente no-adaptativos ([@hunt2025]; [[2025-Hunt-DCIDE-evolutionary-autism]]). Ambos marcos son candidatos a integrarse con la evidencia molecular de precisión resumida arriba, y su relación con el enmascaramiento adaptativo ([[Cap-21-Enmascaramiento]]) es una pregunta abierta.
 
+### Frontera metodológica transversal: autismo no es sinónimo de CI
+
+Un comentario reciente plantea una advertencia que atraviesa buena parte de las fronteras moleculares y de imagen descritas en este capítulo: autismo y capacidad cognitiva (CI) son constructos **distintos y disociables**, y la investigación en neuroimagen sobre autismo frecuentemente no controla ni empareja por CI, lo que puede generar hallazgos espurios o inferencias causales inválidas atribuidas erróneamente al "autismo" cuando en realidad reflejan diferencias de CI entre grupos de comparación. Como ilustración, solo el 64% de los estudios de un meta-análisis reciente de EEG en reposo emparejaron los grupos por CI ([@russo2025]; [[2025-Russo-developmental-approach-IQ-neuroimaging]]). Esta es una frontera "de rigor" más que de descubrimiento: mejorar los estándares de reporte y diseño podría revisar sustancialmente la solidez de hallazgos ya publicados en neuroimagen (ver [[Cap-06-Neurobiologia]]) y en evaluación funcional ([[Cap-14-Evaluacion-funcional]]).
+
 ### Perspectivas clave
 
-- **Evidencia clínica:** genómica complementa; el diagnóstico conductual permanece.
+- **Evidencia clínica:** genómica complementa; el diagnóstico conductual permanece; el control por CI es un prerrequisito metodológico infravalorado en neuroimagen.
 - **Experiencia vivida:** acceso, consentimiento y no patologizar la identidad.
-- **Controversias:** precisión molecular vs. marco de neurodiversidad; sesgo de ancestría en PS.
+- **Controversias:** precisión molecular vs. marco de neurodiversidad; sesgo de ancestría en PS; cuánta literatura de neuroimagen debe reinterpretarse por no controlar CI.
 
 ### Preguntas abiertas
 
@@ -81,6 +87,7 @@ Junto a las fronteras moleculares, emergen marcos teóricos que buscan resolver 
 - ¿Cómo evitar que “precisión” se convierta en exclusión de apoyos?
 - ¿Organoides ENS + microbiota pueden estratificar ensayos GI?
 - ¿Biomarcadores de respuesta a oxitocina listos para ensayos?
+- ¿Debería el control/emparejamiento por CI convertirse en estándar obligatorio de reporte en neuroimagen de autismo?
 
 ## Fuentes integradas
 
@@ -102,6 +109,7 @@ SORT fecha_captura DESC
 - [@robas2025] — [[2025-Robas-Stern-digestive-neurobiology-ens]]
 - [@zabetakis2026] — [[2026-Zabetakis-Grabrucker-synaptic-protein-mutations]]
 - [@kim2025] — [[2025-Kim-An-precision-diagnosis-genomics]]
+- [@russo2025] — [[2025-Russo-developmental-approach-IQ-neuroimaging]]
 
 ## Enlaces relacionados
 
@@ -110,3 +118,5 @@ SORT fecha_captura DESC
 - [[Cap-07-Comorbilidades]]
 - [[Cap-10-Proceso-diagnostico]]
 - [[Cap-36-Farmacoterapia]]
+- [[Cap-14-Evaluacion-funcional]]
+- [[Cap-01-Que-es-el-autismo]]

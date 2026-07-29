@@ -7,7 +7,7 @@ dg-publish: true
 dg-home: false
 dg-permalink: /capitulos/que-es-el-autismo
 ultima_actualizacion: "2026-07-29"
-version: "1.5"
+version: "1.6"
 fuentes_integradas:
   - "[[2026-07-28-neurodiversidad-autismo-piloto]]"
   - "[[2012-Chaste-Leboyer-autism-risk-factors]]"
@@ -16,11 +16,14 @@ fuentes_integradas:
   - "[[2025-Mottron-asymmetric-developmental-bifurcations]]"
   - "[[2025-Hunt-DCIDE-evolutionary-autism]]"
   - "[[2026-Luyster-curiosity-creativity-autism]]"
+  - "[[2026-Han-behavioral-network-comorbidity]]"
+  - "[[2025-Russo-developmental-approach-IQ-neuroimaging]]"
 estado: publicado
-resumen_ejecutivo: "El autismo (TEA) es un perfil neurodesarrollado del espectro, con heterogeneidad clínica amplia. Clínicamente se define por comunicación social e intereses/conductas restringidas; etiologicamente es complejo (genes + ambiente). No equivale a un ‘trastorno de empatía’ global (meta-análisis 2025). Puede verse como categoría y como dimensión; la neurodiversidad añade una lente de derechos."
+resumen_ejecutivo: "El autismo (TEA) es un perfil neurodesarrollado del espectro, con heterogeneidad clínica amplia. Clínicamente se define por comunicación social e intereses/conductas restringidas; etiologicamente es complejo (genes + ambiente). No equivale a un ‘trastorno de empatía’ global (meta-análisis 2025). Puede verse como categoría y como dimensión; la neurodiversidad añade una lente de derechos. Un modelo de red reciente reconceptualiza el autismo como un sistema de conductas de aproximación-retirada más que como un conjunto fijo de síntomas; y un comentario metodológico recuerda que autismo y CI son constructos distintos que no deben confundirse en investigación."
 preguntas_abiertas:
   - "¿Cómo equilibrar modelo médico (acceso a servicios) y modelo neurodivergente (identidad)?"
   - "¿Qué subtipos o perfiles siguen siendo útiles clínicamente bajo el paradigma del espectro?"
+  - "¿El modelo de red de aproximación-retirada complementa o reemplaza los marcos categóricos DSM-5/CIE-11?"
 tags:
   - tea/capitulo
 bibliography: "03-Datos/references.bib"
@@ -62,16 +65,21 @@ Dos propuestas teóricas recientes buscan reencuadrar qué "tipo de cosa" es el 
 
 Un artículo teórico de Luyster et al. cuestiona los supuestos de que la curiosidad y la creatividad están disminuidas o son simplemente "diferentes" en autismo, proponiendo reencuadrar conductas clásicamente catalogadas como "restringidas y repetitivas" —exploración sensorial, uso no convencional de objetos, intereses intensos— como posibles expresiones no reconocidas de ambas capacidades, en lugar de patologizarlas por defecto ([@luyster2026]; [[2026-Luyster-curiosity-creativity-autism]]; ver [[Cap-22-Fortalezas-cognitivas]]).
 
+### El autismo como red de conductas, no solo como categoría de síntomas
+
+Una alternativa reciente al modelo de "lista de síntomas" es conceptualizar el autismo como un **sistema dinámico de conductas de aproximación-retirada**. Un modelo de red gaussiana en la cohorte ABC-CT (N=280, 6-11 años, evaluados con el PDDBI) muestra que los nodos de regulación afectiva se relacionan más fuertemente con síntomas internalizantes (ansiedad, TDAH), mientras que los nodos de regulación del arousal y sensoriales se relacionan de forma más específica con síntomas externalizantes ([@han2026]; [[2026-Han-behavioral-network-comorbidity]]). Este enfoque de red complementa la mirada dimensional/categórica ya discutida arriba (bifurcación de desarrollo, marco DCIDE): en lugar de preguntar "¿cuánto autismo tiene esta persona?", pregunta cómo se conectan entre sí sus distintas conductas y comorbilidades. Ver aplicación clínica detallada en [[Cap-07-Comorbilidades]] y [[Cap-47-Salud-mental]].
+
 ### Perspectivas clave
 
-- **Evidencia clínica:** Prevalencia en torno a ~1% en varias estimaciones modernas (ver [[Cap-04-Epidemiologia]]); diagnóstico conductual, sin biomarcador único ([@chaste2012]); empatía multidimensional, no déficit global ([@cusson2025]).
+- **Evidencia clínica:** Prevalencia en torno a ~1% en varias estimaciones modernas (ver [[Cap-04-Epidemiologia]]); diagnóstico conductual, sin biomarcador único ([@chaste2012]); empatía multidimensional, no déficit global ([@cusson2025]); modelos de red reconceptualizan el autismo como sistema de conductas interconectadas más que como categoría fija ([@han2026]).
 - **Experiencia vivida:** Muchas personas autistas prefieren "persona autista" (identidad) sobre "persona con autismo" (persona primero), aunque las preferencias varían.
-- **Controversias y debates:** Modelo médico vs. neurodivergente; utilidad de buscar "curar" el autismo vs. proporcionar apoyos; peso genes vs. ambiente ([@chaste2012]).
+- **Controversias y debates:** Modelo médico vs. neurodivergente; utilidad de buscar "curar" el autismo vs. proporcionar apoyos; peso genes vs. ambiente ([@chaste2012]); si conflar autismo y capacidad cognitiva (CI) en la investigación genera hallazgos espurios ([@russo2025]).
 
 ### Preguntas abiertas
 
 - ¿Cómo equilibrar modelo médico (acceso a servicios) y modelo neurodivergente (identidad)?
 - ¿Qué subtipos o perfiles siguen siendo útiles clínicamente bajo el paradigma del espectro?
+- ¿El modelo de red de aproximación-retirada complementa o reemplaza los marcos categóricos DSM-5/CIE-11?
 
 ## Referencias citadas
 
@@ -81,6 +89,8 @@ Un artículo teórico de Luyster et al. cuestiona los supuestos de que la curios
 - [@cusson2025] — [[2025-Cusson-empathy-measures-meta-analysis]]
 - [@thapar2021] — [[2021-Thapar-Rutter-genetic-advances]]
 - [@chaste2012] — [[2012-Chaste-Leboyer-autism-risk-factors]]
+- [@han2026] — [[2026-Han-behavioral-network-comorbidity]]
+- [@russo2025] — [[2025-Russo-developmental-approach-IQ-neuroimaging]]
 - [[2026-07-28-neurodiversidad-autismo-piloto]]
 
 ## Fuentes integradas
@@ -97,4 +107,7 @@ SORT fecha_captura DESC
 - [[Cap-05-Etiologia]]
 - [[Cap-04-Epidemiologia]]
 - [[Cap-51-Autodefensa-neurodiversidad]]
+- [[Cap-07-Comorbilidades]]
+- [[Cap-06-Neurobiologia]]
+- [[Apendice-A-Glosario]] — neurodiversidad, ADB, DCIDE, espectro, doble empatía
 

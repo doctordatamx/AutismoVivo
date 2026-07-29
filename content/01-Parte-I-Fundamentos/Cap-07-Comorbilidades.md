@@ -7,7 +7,7 @@ dg-publish: true
 dg-home: false
 dg-permalink: /capitulos/comorbilidades
 ultima_actualizacion: "2026-07-29"
-version: "1.6"
+version: "1.7"
 fuentes_integradas:
   - "[[2012-Chaste-Leboyer-autism-risk-factors]]"
   - "[[2021-Thapar-Rutter-genetic-advances]]"
@@ -21,13 +21,19 @@ fuentes_integradas:
   - "[[2026-Tavassoli-sensory-reactivity-review]]"
   - "[[2025-Segura-connectome-symptom-mapping-asd-adhd]]"
   - "[[2026-Dickinson-aging-autism-systematic-review]]"
+  - "[[2026-Adams-interoception-dimensions-autism]]"
+  - "[[2026-Han-behavioral-network-comorbidity]]"
+  - "[[2025-Chen-anxiety-scales-treatment-outcomes]]"
+  - "[[2025-Alatrash-irritability-network-autism]]"
+  - "[[2026-Brennan-circadian-family-synchronisation-scoping]]"
 estado: revision
-resumen_ejecutivo: "TEA coexiste con TDAH (OR≈22), DI, epilepsia, GI, FND y alteraciones de sueño/actividad (actimetría adulta: más sedentarismo, vínculo inactividad–menos sueño)."
+resumen_ejecutivo: "TEA coexiste con TDAH (OR≈22), DI, epilepsia, GI, FND y alteraciones de sueño/actividad. Marcos de red (aproximación-retirada, irritabilidad) muestran cómo comorbilidad ansiosa/externalizante emerge de nodos compartidos; la evaluación interoceptiva negativa (no la accuracy) conecta con ansiedad y FND."
 preguntas_abiertas:
   - "¿Cuándo la comorbilidad refleja vías genéticas compartidas vs. consecuencias secundarias?"
   - "¿Cómo priorizar tratamientos cuando DI, epilepsia, TDAH y TEA coocurren?"
   - "¿La disfunción ENS es causa, consecuencia o vía compartida del TEA?"
   - "¿Cómo adaptar servicios FND a pacientes autistas?"
+  - "¿Qué escalas de ansiedad centradas en interferencia funcional deberían adoptarse como estándar en investigación de TEA?"
 tags:
   - tea/capitulo
 bibliography: "03-Datos/references.bib"
@@ -121,11 +127,31 @@ Tavassoli et al. revisan evidencia multinivel (conductual, afectiva, perceptiva,
 
 Un estudio de familias con registros poblacionales suecos (>3,3 millones de individuos, 88.343 con autismo) halla que los **padres** de personas autistas tienen mayor riesgo de demencia (HR=1,36), más marcado en madres (HR=1,51); el efecto se atenúa en abuelos y tíos/tías, proporcional al porcentaje de ADN compartido, sugiriendo co-agregación familiar de causa genética aún no identificada por GWAS de variantes comunes ([@chang2025]; [[2025-Chang-autism-dementia-family-sweden]]). Esto no implica necesariamente mayor riesgo de demencia en las propias personas autistas: una revisión sistemática de 56 estudios sobre envejecimiento en adultos autistas **no** halla evidencia de deterioro cognitivo objetivo generalizado ni acelerado, aunque sí identifica quejas cognitivas subjetivas consistentemente elevadas y vulnerabilidades focalizadas en integridad de sustancia blanca y ciertos desenlaces cardiovasculares ([@dickinson2026]; [[2026-Dickinson-aging-autism-systematic-review]]; ver [[Cap-27-Adultez-madura]]).
 
+### El autismo como red de conductas de aproximación-retirada
+
+Han et al. proponen conceptualizar el autismo, y su relación con comorbilidad psiquiátrica infantil, como un **sistema de conductas de aproximación-retirada** interconectadas (marco motivacional transdiagnóstico ya usado para explicar ansiedad, depresión y TDAH), en lugar de una categoría diagnóstica aislada. En una red gaussiana construida con datos de **280 niños autistas** (cohorte ABC-CT, 6-11 años, PDDBI), las asociaciones más fuertes con comorbilidad fueron para **ansiedad** y **TDAH**; los nodos de **regulación afectiva** se relacionaron más con síntomas internalizantes, mientras que los nodos de **regulación del arousal y sensoriales** se asociaron de forma única con síntomas externalizantes ([@han2026]; [[2026-Han-behavioral-network-comorbidity]]). Este marco complementa el análisis de conectividad TEA-TDAH de Segura et al. y aporta objetivos clínicos específicos para el "diagnostic overshadowing" (atribuir toda comorbilidad al autismo); ver también [[Cap-14-Evaluacion-funcional]].
+
+### Irritabilidad: una red propia
+
+Un estudio de red independiente (N=132, niños autistas y neurotípicos) sitúa la **irritabilidad** dentro de una red propia de correlatos: asociaciones directas fuertes con conductas externalizantes, desregulación emocional y rasgos autistas, mientras que la reactividad y variabilidad de la frecuencia cardíaca se conectan con la irritabilidad de forma **indirecta**, mediadas por autorregulación y rasgos de TDAH ([@alatrash2025]; [[2025-Alatrash-irritability-network-autism]]). Esto refuerza, junto con Han et al., un giro hacia modelos de comorbilidad en **red** más que categorías aisladas; implicaciones de intervención en [[Cap-19-Funciones-ejecutivas]] y [[Cap-36-Farmacoterapia]].
+
+### Medir bien la ansiedad: instrumentos y resultados de tratamiento
+
+Un análisis secundario del ECA TAASD (N=212 niños autistas) muestra que la elección de instrumento para medir resultados de tratamiento de ansiedad importa mucho: la Child Anxiety Impact Scale-Parent (CAIS-P), centrada en **interferencia funcional**, detectó la recuperación diagnóstica (frente al estándar de oro ADIS/ASA) con AUC=**0,802**, mientras que escalas de síntomas convencionales rindieron con frecuencia por debajo de AUC=0,55 — casi al azar ([@chen2025]; [[2025-Chen-anxiety-scales-treatment-outcomes]]). Implicación práctica directa para investigación y práctica clínica en comorbilidad ansiosa; ver [[Cap-47-Salud-mental]], [[Cap-14-Evaluacion-funcional]].
+
+### Interocepción: más allá de la accuracy
+
+Un estudio con tres medidas autoinformadas de interocepción (N=519, 232 autistas) separa explícitamente **accuracy**, **atención** y **evaluación** interoceptiva, dimensiones a menudo conflacionadas en estudios previos. El diagnóstico de autismo se asoció específicamente con **evaluación interoceptiva más negativa** (interpretaciones más aversivas de señales corporales), sin diferencias significativas en accuracy o atención entre grupos diagnósticos; en la población general, mayores rasgos autistas se asociaron con más atención interoceptiva, menor accuracy autoinformada y más evaluación negativa ([@adams2026]; [[2026-Adams-interoception-dimensions-autism]]). Este hallazgo matiza el papel de la interocepción ya discutido para el vínculo TEA–FND (Cole et al., [[Cap-47-Salud-mental]]): el hilo conductor parece ser **cómo se interpretan afectivamente** las señales corporales, no solo si se detectan con precisión — relevante también para [[Cap-18-Procesamiento-sensorial]].
+
+### Sincronía circadiana familiar (frontera poco explorada)
+
+Una revisión de alcance sobre sincronización circadiana en familias (42 estudios) halla que **solo 6** se centraron específicamente en familias con niños autistas; la evidencia disponible sugiere sincronía de sueño-vigilia y ritmos de actividad tanto en familias con como sin autismo, pero los mecanismos en el contexto autista permanecen poco comprendidos. Los hermanos de niños autistas también presentan problemas de sueño con frecuencia, sugiriendo un posible efecto a nivel familiar más allá del niño autista individual ([@brennan2026]; [[2026-Brennan-circadian-family-synchronisation-scoping]]; ver [[Cap-46-Dinamica-familiar]]).
+
 ### Perspectivas clave
 
-- **Evidencia clínica:** co-agregación TEA–TDAH muy robusta (incluso a nivel neurobiológico dimensional); GI frecuente y multifactorial; FND en radar clínico; envejecimiento sin evidencia de deterioro cognitivo generalizado pero con vulnerabilidades focalizadas.
-- **Experiencia vivida:** tratar TDAH/epilepsia/GI/FND puede cambiar calidad de vida sin “tratar el autismo”.
-- **Controversias:** ¿comorbilidad o espectro neurodesarrollado único?; ¿intestino causa rasgos TEA o vías compartidas?; ¿riesgo familiar de demencia refleja genética compartida o factores de cuidado/estrés?
+- **Evidencia clínica:** co-agregación TEA–TDAH muy robusta (incluso a nivel neurobiológico dimensional y de red conductual); GI frecuente y multifactorial; FND en radar clínico; envejecimiento sin evidencia de deterioro cognitivo generalizado pero con vulnerabilidades focalizadas; la interferencia funcional (no solo síntomas) es clave para medir bien la ansiedad comórbida.
+- **Experiencia vivida:** tratar TDAH/epilepsia/GI/FND/irritabilidad/ansiedad puede cambiar calidad de vida sin “tratar el autismo”; la interpretación negativa de señales corporales puede ser tan relevante como su detección.
+- **Controversias:** ¿comorbilidad o espectro neurodesarrollado único?; ¿intestino causa rasgos TEA o vías compartidas?; ¿riesgo familiar de demencia refleja genética compartida o factores de cuidado/estrés?; ¿los modelos de red sustituirán o solo complementarán las categorías diagnósticas actuales?
 
 ## Referencias citadas
 
@@ -141,6 +167,11 @@ Un estudio de familias con registros poblacionales suecos (>3,3 millones de indi
 - [@tavassoli2026] — [[2026-Tavassoli-sensory-reactivity-review]]
 - [@segura2025] — [[2025-Segura-connectome-symptom-mapping-asd-adhd]]
 - [@dickinson2026] — [[2026-Dickinson-aging-autism-systematic-review]]
+- [@han2026] — [[2026-Han-behavioral-network-comorbidity]]
+- [@alatrash2025] — [[2025-Alatrash-irritability-network-autism]]
+- [@chen2025] — [[2025-Chen-anxiety-scales-treatment-outcomes]]
+- [@adams2026] — [[2026-Adams-interoception-dimensions-autism]]
+- [@brennan2026] — [[2026-Brennan-circadian-family-synchronisation-scoping]]
 
 ```dataview
 LIST
@@ -156,3 +187,8 @@ SORT fecha_captura DESC
 - [[Cap-36-Farmacoterapia]]
 - [[Cap-47-Salud-mental]]
 - [[Cap-01-Que-es-el-autismo]]
+- [[Cap-14-Evaluacion-funcional]]
+- [[Cap-19-Funciones-ejecutivas]]
+- [[Cap-46-Dinamica-familiar]]
+- [[Cap-18-Procesamiento-sensorial]]
+- [[Apendice-A-Glosario]] — comorbilidad, TDAH, FND, MGBA, irritabilidad

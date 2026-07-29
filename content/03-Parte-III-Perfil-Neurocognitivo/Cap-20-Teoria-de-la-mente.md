@@ -7,16 +7,18 @@ dg-publish: false
 dg-home: false
 dg-permalink: /capitulos/teoria-de-la-mente
 ultima_actualizacion: "2026-07-29"
-version: "1.2"
+version: "1.3"
 fuentes_integradas:
   - "[[2025-Cusson-empathy-measures-meta-analysis]]"
   - "[[2025-Bai-biological-motion-systematic-review]]"
   - "[[2025-Sapey-Triomphe-MMN-meta-analysis]]"
+  - "[[2025-Ghiglino-humanoid-robot-ToM-RCT]]"
 estado: revision
-resumen_ejecutivo: "La empatía es multidimensional (cognitiva vs afectiva). Meta-análisis 2025 (226 estudios): reducción grande en empatía cognitiva (g≈−0.85) y en medidas unidimensionales tipo EQ (g≈−1.70); afectiva solo ligeramente menor (g≈−0.17) y no significativa en estudios de alta calidad. IRI: menos concern pero más distress personal. El instrumento determina el hallazgo; no tratar el autismo como ‘trastorno de empatía’ global."
+resumen_ejecutivo: "La empatía es multidimensional (cognitiva vs afectiva). Meta-análisis 2025 (226 estudios): reducción grande en empatía cognitiva (g≈−0.85) y en medidas unidimensionales tipo EQ (g≈−1.70); afectiva solo ligeramente menor (g≈−0.17) y no significativa en estudios de alta calidad. IRI: menos concern pero más distress personal. El instrumento determina el hallazgo; no tratar el autismo como ‘trastorno de empatía’ global. Un ECA cruzado muestra que el entrenamiento de ToM con el robot humanoide iCub mejora NEPSY-II ToM más que terapia estándar y más que el mismo protocolo con un clínico humano."
 preguntas_abiertas:
   - "¿Qué medidas de empatía tienen invariancia de medición en muestras autistas?"
   - "¿Cómo operacionalizar doble empatía en diseños experimentales de díadas mixtas?"
+  - "¿Los beneficios del entrenamiento de ToM asistido por robot se generalizan más allá del contexto de rol-playing entrenado?"
 tags:
   - tea/capitulo
 bibliography: "03-Datos/references.bib"
@@ -72,11 +74,15 @@ Una revisión sistemática de 51 estudios sobre percepción de movimiento bioló
 
 Un meta-análisis de 38 estudios de mismatch negativity (MMN) auditiva —índice electrofisiológico de error de predicción— halla un patrón dependiente de la edad: niños/adolescentes autistas muestran MMN reducida en paradigmas de mayor incertidumbre (multifeature), mientras que los adultos autistas muestran MMN aumentada, sin diferencias de latencia ([@sapeytriomphe2025]; [[2025-Sapey-Triomphe-MMN-meta-analysis]]). Este hallazgo aporta evidencia electrofisiológica concreta a los marcos de codificación predictiva que buscan explicar diferencias en la atribución de estados mentales e intenciones ajenas, sugiriendo que el "error de predicción" alterado no es estático sino que cambia a lo largo del desarrollo (ver también [[Cap-18-Procesamiento-sensorial]]).
 
+### Entrenamiento de ToM asistido por robot humanoide (ECA)
+
+Un ensayo controlado aleatorizado cruzado (N=32 niños autistas, 7,53±1,32 años) comparó el entrenamiento de teoría de la mente asistido por el robot humanoide **iCub** (Robot-Assisted Training, RAT) con la terapia estándar en curso (ST), usando la subescala de Percepción Social del NEPSY-II como desenlace. El grupo RAT mostró mejoras significativamente mayores que ST (interacción F(1,62)=43,6, p<.001). Para aislar la contribución específica del robot, un grupo de control humano activo (N=14) replicó el mismo protocolo de rol-playing con un clínico entrenado en lugar del robot, y **no mostró mejora significativa** (d=-1,99 favoreciendo a RAT, p<.001) — evidencia de que la presencia física y consistencia del robot, no solo el protocolo de entrenamiento, impulsó la mejora ([@ghiglino2025]; [[2025-Ghiglino-humanoid-robot-ToM-RCT]]). Las mejoras se mantuvieron en el seguimiento sin regresión observable. Ver aplicaciones tecnológicas más amplias en [[Cap-38-Tecnologia-asistiva]] y su relación con habilidades sociales en [[Cap-35-Habilidades-sociales]].
+
 ### Perspectivas clave
 
-- **Evidencia clínica:** perfil cognitivo ↓ / afectivo ≈; no “cero empatía”; evidencia electrofisiológica (MMN) de errores de predicción alterados de forma dependiente de la edad.
-- **Experiencia vivida:** parecer frío puede ser sobrecarga afectiva o malentendido mutuo.
-- **Controversias:** EQ como cribado de “rasgos”; extreme male brain; ToM como mito totalizador.
+- **Evidencia clínica:** perfil cognitivo ↓ / afectivo ≈; no “cero empatía”; evidencia electrofisiológica (MMN) de errores de predicción alterados de forma dependiente de la edad; evidencia experimental (ECA) de que el entrenamiento de ToM asistido por robot humanoide supera a terapia estándar y a un control humano activo equivalente.
+- **Experiencia vivida:** parecer frío puede ser sobrecarga afectiva o malentendido mutuo; la consistencia y previsibilidad de un robot puede reducir la ansiedad social durante el entrenamiento de habilidades de ToM.
+- **Controversias:** EQ como cribado de “rasgos”; extreme male brain; ToM como mito totalizador; si la tecnología robótica en terapia complementa o distrae de la relación terapéutica humana.
 
 ### Preguntas abiertas
 
@@ -97,6 +103,7 @@ SORT fecha_captura DESC
 - [@bai2025] — [[2025-Bai-biological-motion-systematic-review]]
 - [@cusson2025] — [[2025-Cusson-empathy-measures-meta-analysis]]
 - [@sapeytriomphe2025] — [[2025-Sapey-Triomphe-MMN-meta-analysis]]
+- [@ghiglino2025] — [[2025-Ghiglino-humanoid-robot-ToM-RCT]]
 
 ## Enlaces relacionados
 
@@ -105,3 +112,6 @@ SORT fecha_captura DESC
 - [[Cap-01-Que-es-el-autismo]]
 - [[Cap-51-Autodefensa-neurodiversidad]]
 - [[Cap-18-Procesamiento-sensorial]]
+- [[Cap-38-Tecnologia-asistiva]]
+- [[Cap-35-Habilidades-sociales]]
+- [[Apendice-A-Glosario]] — ToM, doble empatía, alexitimia, codificación predictiva

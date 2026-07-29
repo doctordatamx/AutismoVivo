@@ -7,7 +7,7 @@ dg-publish: true
 dg-home: false
 dg-permalink: /capitulos/neurobiologia
 ultima_actualizacion: "2026-07-29"
-version: "1.8"
+version: "1.9"
 fuentes_integradas:
   - "[[2012-Chaste-Leboyer-autism-risk-factors]]"
   - "[[2025-Wang-understanding-autism]]"
@@ -27,11 +27,13 @@ fuentes_integradas:
   - "[[2026-Chahrour-hidden-genetic-architecture]]"
   - "[[2026-Ma-Shank3-oligodendrocyte-erk]]"
   - "[[2025-Segura-connectome-symptom-mapping-asd-adhd]]"
+  - "[[2025-Russo-developmental-approach-IQ-neuroimaging]]"
 estado: revision
-resumen_ejecutivo: "Sinaptopatía, GER, inmune/hormonas/MGBA; LCOR↓ en DMN co-localiza con glutamato/GABA y se asemeja a ketamina (E/I). Subgrupos transcriptómicos-imagen (LEAP). Microbiota: correlación humana; prevención LGR-1 solo en ratones."
+resumen_ejecutivo: "Sinaptopatía, GER, inmune/hormonas/MGBA; LCOR↓ en DMN co-localiza con glutamato/GABA y se asemeja a ketamina (E/I). Subgrupos transcriptómicos-imagen (LEAP). Microbiota: correlación humana; prevención LGR-1 solo en ratones. Un comentario metodológico advierte que gran parte de la investigación en neuroimagen no controla por capacidad cognitiva (CI), generando hallazgos potencialmente espurios."
 preguntas_abiertas:
   - "¿La activación microglial es causa, consecuencia o ambas?"
   - "¿Qué paneles (genética + metabolómica + imagen) predicen subtipos útiles clínicamente?"
+  - "¿Cuántos de los hallazgos de neuroimagen revisados en este capítulo controlaron adecuadamente por CI?"
 tags:
   - tea/capitulo
 bibliography: "03-Datos/references.bib"
@@ -145,11 +147,15 @@ En el modelo murino Shank3Δ11(−/−), la deficiencia de Shank3 desregula el d
 
 Un meta-análisis de 38 estudios de EEG sobre mismatch negativity (MMN) halla una interacción edad × diseño: niños/adolescentes autistas muestran MMN reducida en paradigmas multifeature (g=0,25), mientras que adultos autistas muestran MMN aumentada (g=-0,26), sin diferencias de latencia — un patrón compatible con errores de predicción alterados de forma dependiente de la edad, más que un déficit sensorial fijo ([@sapeytriomphe2025]; [[2025-Sapey-Triomphe-MMN-meta-analysis]]; ver [[Cap-18-Procesamiento-sensorial]], [[Cap-20-Teoria-de-la-mente]]).
 
+### Un prerrequisito metodológico ignorado: controlar por capacidad cognitiva
+
+Russo et al. argumentan que autismo y CI son constructos **distintos y disociables**, y que gran parte de la investigación en neuroimagen sobre autismo no controla ni empareja por capacidad cognitiva, lo que puede generar hallazgos espurios o inferencias causales inválidas: diferencias atribuidas al "autismo" podrían reflejar en realidad diferencias de CI entre grupos. Como ejemplo concreto, citan que solo el **64%** de los estudios incluidos en un meta-análisis reciente de EEG en reposo (Neo et al.) emparejaron los grupos por CI ([@russo2025]; [[2025-Russo-developmental-approach-IQ-neuroimaging]]). Este señalamiento metodológico es relevante para interpretar con cautela buena parte de los hallazgos de este capítulo (p. ej. LCOR, MMN, conectividad funcional) cuando no se reporta explícitamente el control por CI; ver también [[Cap-14-Evaluacion-funcional]] sobre la relación entre CI y otros instrumentos de evaluación.
+
 ### Perspectivas clave
 
 - **Evidencia clínica:** imagen (fMRI, DTI, MRS, PET) y EEG como candidatos a biomarcadores digitales — ver [[Cap-09-Herramientas-cribado]]; conectividad y variantes genéticas raras convergen en modelos dimensionales de severidad compartidos entre TEA y TDAH.
 - **Experiencia vivida:** biomarcadores no definen identidad.
-- **Controversias:** causalidad de neuroinflamación y mtDNA; traducibilidad de hallazgos preclínicos (oligodendrocitos, Erk) a formas idiopáticas de TEA.
+- **Controversias:** causalidad de neuroinflamación y mtDNA; traducibilidad de hallazgos preclínicos (oligodendrocitos, Erk) a formas idiopáticas de TEA; cuánta de la literatura de neuroimagen en autismo es confundible por CI no controlado.
 
 ## Referencias citadas
 
@@ -173,6 +179,7 @@ Un meta-análisis de 38 estudios de EEG sobre mismatch negativity (MMN) halla un
 - [@kim2025] — [[2025-Kim-An-precision-diagnosis-genomics]]
 - [@wang2025] — [[2025-Wang-understanding-autism]]
 - [@chaste2012] — [[2012-Chaste-Leboyer-autism-risk-factors]]
+- [@russo2025] — [[2025-Russo-developmental-approach-IQ-neuroimaging]]
 
 ```dataview
 LIST
@@ -186,3 +193,6 @@ SORT fecha_captura DESC
 - [[Cap-05-Etiologia]]
 - [[Cap-07-Comorbilidades]]
 - [[Cap-09-Herramientas-cribado]]
+- [[Cap-14-Evaluacion-funcional]]
+- [[Cap-58-Fronteras-investigacion]]
+- [[Apendice-A-Glosario]] — LCOR, E/I, MGBA, ENS, MMN, SSN, sinaptopatía

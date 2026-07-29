@@ -6,13 +6,14 @@ titulo: "Herramientas de cribado (M-CHAT, ADOS, ADI-R, y otras)"
 dg-publish: true
 dg-home: false
 dg-permalink: /capitulos/herramientas-cribado
-ultima_actualizacion: "2026-07-28"
-version: "1.1"
+ultima_actualizacion: "2026-07-29"
+version: "1.2"
 fuentes_integradas:
   - "[[2025-Wang-understanding-autism]]"
   - "[[2025-Yoon-eye-tracking-treatment-monitoring-meta]]"
+  - "[[2025-Marques-Brazil-adult-autism-screening]]"
 estado: revision
-resumen_ejecutivo: "El diagnóstico sigue basado en evaluación conductual estandarizada (p. ej. ADOS-2) más historia del desarrollo. Los biomarcadores digitales (eye-tracking, EEG, fMRI) y biológicos (citocinas, metabolómica, microbiota) son prometedores pero, por la heterogeneidad del TEA, no hay un marcador único validado para uso clínico universal."
+resumen_ejecutivo: "El diagnóstico sigue basado en evaluación conductual estandarizada (p. ej. ADOS-2) más historia del desarrollo. Los biomarcadores digitales (eye-tracking, EEG, fMRI) y biológicos (citocinas, metabolómica, microbiota) son prometedores pero, por la heterogeneidad del TEA, no hay un marcador único validado para uso clínico universal. Nuevos instrumentos de autocribado adulto validados en Brasil (SfA-A/SfA-F, N combinado >11.000) muestran buena psicometría y una versión específica para mujeres sensible al camuflaje."
 preguntas_abiertas:
   - "¿Qué paneles multi-biomarcador logran validación multi-sitio y multi-país?"
   - "¿Cómo llevar eye-tracking/EEG a atención primaria sin sesgos poblacionales?"
@@ -61,21 +62,27 @@ Un meta-análisis multinivel de 25 estudios (n=828) distingue dos usos del eye t
 
 Citocinas (p. ej. G-CSF, IL-1, TNF-α), expresión génica (SOD2, RORA), miRNAs, proteómica/metabolómica plasmática/salival, autoanticuerpos maternos, y **microbiota** (modelo multi-dominio AUC ~0,91 en un estudio; requiere validación cross-población) ([@wang2025]).
 
+### Cribado de autismo en adultos: nuevos instrumentos validados
+
+Fuera de los biomarcadores biológicos, el cribado conductual autoinformado en adultos también avanza. En Brasil se desarrollaron y validaron psicométricamente dos escalas nuevas: **SfA-A** (Screening for Autism – Adults, general, N=3302) y **SfA-F** (versión específica para mujeres, N=7738). Ambas muestran buen ajuste de modelo (ESEM/CFA), alta consistencia interna (α>0,8) y validez de criterio razonable frente al AQ-10 (r=0,73 y r=0,68 respectivamente). La versión femenina (SfA-F) incorpora factores específicos de **camuflaje social**, ausentes en instrumentos de cribado genéricos ([@marques2025]; [[2025-Marques-Brazil-adult-autism-screening]]). Esto es relevante porque los instrumentos de cribado tradicionales (diseñados y validados mayormente en niños varones) tienden a subdetectar mujeres y personas que enmascaran rasgos; ver [[Cap-11-Diagnostico-mujeres]] y [[Cap-12-Diagnostico-adultos]].
+
 ### Perspectivas clave
 
-- **Evidencia clínica:** ADOS-2 sigue siendo referencia; digitales/biológicos = investigación.
-- **Experiencia vivida:** herramientas deben reducir demoras diagnósticas sin sobrediagnosticar.
-- **Controversias:** “diagnóstico por IA/biomarcador” prematuro.
+- **Evidencia clínica:** ADOS-2 sigue siendo referencia; digitales/biológicos = investigación; los nuevos instrumentos de autocribado adulto (SfA-A/SfA-F) amplían las opciones validadas fuera de los países de habla inglesa.
+- **Experiencia vivida:** herramientas deben reducir demoras diagnósticas sin sobrediagnosticar; instrumentos que consideran el camuflaje pueden mejorar la detección en personas que aprendieron a "pasar por neurotípicas".
+- **Controversias:** “diagnóstico por IA/biomarcador” prematuro; si los factores de camuflaje deben integrarse en todo instrumento de cribado o solo en versiones específicas por género.
 
 ### Preguntas abiertas
 
 - ¿Qué paneles se validan multi-país?
 - ¿Cómo llevar eye-tracking a primaria?
+- ¿Los instrumentos SfA-A/SfA-F se replican bien fuera de la población brasileña?
 
 ## Referencias citadas
 
 - [@yoon2025] — [[2025-Yoon-eye-tracking-treatment-monitoring-meta]]
 - [@wang2025] — [[2025-Wang-understanding-autism]]
+- [@marques2025] — [[2025-Marques-Brazil-adult-autism-screening]]
 
 ```dataview
 LIST
@@ -89,3 +96,4 @@ SORT fecha_captura DESC
 - [[Cap-10-Proceso-diagnostico]]
 - [[Cap-11-Diagnostico-mujeres]]
 - [[Cap-08-Senales-tempranas]]
+- [[Cap-12-Diagnostico-adultos]]

@@ -64,16 +64,17 @@ Si utilizas la información, la estructura o las síntesis de **Libro Vivo: Auti
 | **Última actualización** | 28 de julio de 2026 |
 | **Sitio web** | [doctordatamx.github.io/AutismoVivo](https://doctordatamx.github.io/AutismoVivo/) |
 | **Repositorio** | [github.com/doctordatamx/AutismoVivo](https://github.com/doctordatamx/AutismoVivo) |
-| **Artículos ingeridos** | **49** papers integrados · 2026-07-29 ([[gestion-ingesta]]) |
+| **Artículos ingeridos** | **58** papers integrados · 2026-07-29 ([[gestion-ingesta]]) |
 
 ### Artículos integrados
 
 
 
 
+
 <div class="web-only">
 
-📚 **49** artículos científicos ingeridos e integrados al libro (registro 2026-07-29). Ver [[gestion-ingesta]] · [[Apendice-D-Bibliografia|Bibliografía]].
+📚 **58** artículos científicos ingeridos e integrados al libro (registro 2026-07-29). Ver [[gestion-ingesta]] · [[Apendice-D-Bibliografia|Bibliografía]].
 
 </div>
 
@@ -90,18 +91,19 @@ GROUP BY true
 
 
 
+
 <div class="web-only">
 
 | Capítulo | Fecha | Ver. |
 | --- | --- | --- |
-| [[Cap-58-Fronteras-investigacion|Capítulo 58 — Fronteras de investigación y preguntas abiertas]] | 2026-07-29 | 1.5 |
+| [[Cap-58-Fronteras-investigacion|Capítulo 58 — Fronteras de investigación y preguntas abiertas]] | 2026-07-29 | 1.6 |
 | [[Cap-57-Investigacion-etica|Capítulo 57 — Investigación participativa y ética en autismo]] | 2026-07-29 | 1.1 |
 | [[Cap-52-Derechos-legales|Capítulo 52 — Derechos legales, legislación y políticas públicas]] | 2026-07-29 | 1.1 |
-| [[Cap-36-Farmacoterapia|Capítulo 36 — Farmacoterapia (síntomas asociados, no curar autismo)]] | 2026-07-29 | 1.6 |
-| [[Cap-32-Terapia-lenguaje-CAA|Capítulo 32 — Terapia del lenguaje y comunicación aumentativa (CAA)]] | 2026-07-29 | 1.2 |
-| [[Cap-31-ABA-controversias|Capítulo 31 — ABA y análisis conductual aplicado: evidencia y controversias]] | 2026-07-29 | 1.1 |
-| [[Cap-29-Principios-intervencion|Capítulo 29 — Principios de intervención basada en evidencia]] | 2026-07-29 | 1.2 |
-| [[Cap-27-Adultez-madura|Capítulo 27 — Adultez madura y envejecimiento]] | 2026-07-29 | 1.1 |
+| [[Cap-50-Autocuidado-burnout|Capítulo 50 — Autocuidado, límites y prevención del burnout]] | 2026-07-29 | 1.2 |
+| [[Cap-47-Salud-mental|Capítulo 47 — Salud mental: ansiedad, depresión, trauma, suicidio]] | 2026-07-29 | 1.3 |
+| [[Cap-46-Dinamica-familiar|Capítulo 46 — Dinámica familiar, hermanos y cuidadores]] | 2026-07-29 | 1.1 |
+| [[Cap-38-Tecnologia-asistiva|Capítulo 38 — Tecnología asistiva, apps y herramientas digitales]] | 2026-07-29 | 1.2 |
+| [[Cap-36-Farmacoterapia|Capítulo 36 — Farmacoterapia (síntomas asociados, no curar autismo)]] | 2026-07-29 | 1.7 |
 
 </div>
 

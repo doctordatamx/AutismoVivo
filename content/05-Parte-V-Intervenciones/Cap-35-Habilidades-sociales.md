@@ -6,13 +6,14 @@ titulo: "Habilidades sociales: enfoques actuales y críticas"
 dg-publish: false
 dg-home: false
 dg-permalink: /capitulos/habilidades-sociales
-ultima_actualizacion: "2026-07-28"
-version: "1.1"
+ultima_actualizacion: "2026-07-29"
+version: "1.2"
 fuentes_integradas:
   - "[[2025-Soto-Icaza-classroom-social-networks]]"
   - "[[2025-Ziegler-DAN-PACT-protocol]]"
+  - "[[2025-Ghiglino-humanoid-robot-ToM-RCT]]"
 estado: borrador
-resumen_ejecutivo: "Datos objetivos de redes sociales de aula muestran menor centralidad/reciprocidad en niños autistas. La intervención mediada por padres PACT se replica en Dinamarca (DAN-PACT, protocolo, n=280); resultados aún pendientes."
+resumen_ejecutivo: "Datos objetivos de redes sociales de aula muestran menor centralidad/reciprocidad en niños autistas. La intervención mediada por padres PACT se replica en Dinamarca (DAN-PACT, protocolo, n=280); resultados aún pendientes. Un ECA con el robot humanoide iCub muestra mejoras específicas en teoría de la mente, un componente clave de la cognición social entrenable."
 preguntas_abiertas:
   - "¿Las intervenciones de habilidades sociales mejoran la posición real en la red social, no solo medidas de autoinforme?"
 tags:
@@ -40,11 +41,15 @@ El estudio "Game of Stars" (N=625, 18 autistas) documenta objetivamente menor ce
 
 DAN-PACT es un ensayo controlado aleatorizado danés (n=280) que adapta culturalmente **PACT (Paediatric Autism Communication Therapy)**, una intervención de comunicación social mediada por padres con videofeedback, con evidencia previa de eficacia en el Reino Unido. Compara PACT + manejo habitual vs. manejo habitual solo, con ADOS-2 CSS como desenlace primario ([@ziegler2025]; [[2025-Ziegler-DAN-PACT-protocol]]). **Solo protocolo publicado**: resultados de eficacia aún no disponibles.
 
+### Robots humanoides como herramienta de cognición social (ECA)
+
+Un ensayo controlado aleatorizado cruzado (N=32 niños autistas) evaluó el entrenamiento de teoría de la mente asistido por el robot humanoide **iCub** en escenarios de rol-playing (café, cine), integrando principios de ABA. El grupo con robot mejoró significativamente más en NEPSY-II ToM que el de terapia estándar, y un grupo de control humano activo que replicó el mismo protocolo sin robot no mostró mejora, sugiriendo un efecto específico de la consistencia/previsibilidad del robot ([@ghiglino2025]; [[2025-Ghiglino-humanoid-robot-ToM-RCT]]). Aunque el desenlace medido fue teoría de la mente (no una medida de red social como en Soto-Icaza et al.), este componente de cognición social es un prerrequisito plausible para habilidades sociales más complejas; ver [[Cap-38-Tecnologia-asistiva]], [[Cap-20-Teoria-de-la-mente]].
+
 ### Perspectivas clave
 
-- **Evidencia clínica:** PACT tiene evidencia previa de eficacia (RU); DAN-PACT es una réplica en curso, sin resultados propios todavía.
-- **Experiencia vivida:** la posición social objetiva en el aula (Soto-Icaza et al.) es un desenlace más ecológico que escalas de habilidad social percibida.
-- **Controversias y debates:** entrenar habilidades "típicas" vs. adaptar el entorno social (doble empatía).
+- **Evidencia clínica:** PACT tiene evidencia previa de eficacia (RU); DAN-PACT es una réplica en curso, sin resultados propios todavía; el entrenamiento asistido por robot muestra evidencia experimental (ECA con control activo) de mejora en ToM a corto plazo.
+- **Experiencia vivida:** la posición social objetiva en el aula (Soto-Icaza et al.) es un desenlace más ecológico que escalas de habilidad social percibida; la consistencia de un robot puede reducir la ansiedad social durante el entrenamiento.
+- **Controversias y debates:** entrenar habilidades "típicas" vs. adaptar el entorno social (doble empatía); si las ganancias en tareas de ToM entrenadas con robot se generalizan a interacciones sociales reales fuera del contexto de entrenamiento.
 
 ### Preguntas abiertas
 
@@ -63,10 +68,13 @@ SORT fecha_captura DESC
 
 - [@sotoicaza2025] — [[2025-Soto-Icaza-classroom-social-networks]]
 - [@ziegler2025] — [[2025-Ziegler-DAN-PACT-protocol]]
+- [@ghiglino2025] — [[2025-Ghiglino-humanoid-robot-ToM-RCT]]
 
 ## Enlaces relacionados
 
 - [[Cap-39-Educacion-inclusiva]]
 - [[Cap-30-Intervencion-temprana]]
 - [[Cap-32-Terapia-lenguaje-CAA]]
+- [[Cap-38-Tecnologia-asistiva]]
+- [[Cap-20-Teoria-de-la-mente]]
 

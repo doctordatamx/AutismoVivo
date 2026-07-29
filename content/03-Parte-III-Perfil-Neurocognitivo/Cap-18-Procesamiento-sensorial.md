@@ -7,17 +7,19 @@ dg-publish: false
 dg-home: false
 dg-permalink: /capitulos/procesamiento-sensorial
 ultima_actualizacion: "2026-07-29"
-version: "1.2"
+version: "1.3"
 fuentes_integradas:
   - "[[2025-Seelemeyer-decomposing-brain-domains-LEAP]]"
   - "[[2025-Bai-biological-motion-systematic-review]]"
   - "[[2026-Tavassoli-sensory-reactivity-review]]"
   - "[[2025-Sapey-Triomphe-MMN-meta-analysis]]"
+  - "[[2026-Adams-interoception-dimensions-autism]]"
 estado: borrador
-resumen_ejecutivo: "El procesamiento sensorial atípico (ASP) tiene correlatos corticales dimensionales propios (LEAP), distintos de los de comunicación social o RRB. La percepción de movimiento biológico muestra dificultades concentradas en identificación/interpretación más que en detección básica, sugiriendo un componente perceptivo global."
+resumen_ejecutivo: "El procesamiento sensorial atípico (ASP) tiene correlatos corticales dimensionales propios (LEAP), distintos de los de comunicación social o RRB. La percepción de movimiento biológico muestra dificultades concentradas en identificación/interpretación más que en detección básica. En interocepción, el diagnóstico de autismo se asocia específicamente con evaluación afectiva más negativa de las señales corporales, no con menor accuracy o atención."
 preguntas_abiertas:
   - "¿Qué proporción de las diferencias en interpretación de acciones es perceptiva vs. social/motivacional?"
   - "¿Los correlatos corticales de ASP predicen respuesta a intervenciones sensoriales?"
+  - "¿La evaluación interoceptiva negativa es modificable con intervención, y mejora la ansiedad asociada?"
 tags:
   - tea/capitulo
 bibliography: "03-Datos/references.bib"
@@ -51,11 +53,15 @@ Una revisión multinivel (conductual, afectiva, perceptiva, fisiológica y neura
 
 Un meta-análisis de 38 estudios de EEG sobre *mismatch negativity* (MMN, un índice de error de predicción auditiva) halla un patrón dependiente de la **edad**: niños y adolescentes autistas muestran MMN **reducida** en paradigmas multifeature (g=0,25), mientras que los adultos autistas muestran MMN **aumentada** (g=-0,26); los desviantes de fonema producen además una MMN significativamente menor en TEA (g=0,41), sin diferencias de latencia en ningún subanálisis ([@sapeytriomphe2025]; [[2025-Sapey-Triomphe-MMN-meta-analysis]]). Este patrón cambiante con la edad es compatible con teorías de codificación predictiva que postulan un error de predicción elevado en la adultez autista, contrastando con un posible hipo-prior en la infancia — una trayectoria de desarrollo cambiante más que un patrón sensorial fijo.
 
+### Interocepción: accuracy, atención y evaluación
+
+La interocepción —el procesamiento de señales internas del cuerpo— es un dominio sensorial distinto de la percepción exteroceptiva, con literatura previa inconsistente. Un estudio que separa explícitamente tres dimensiones interoceptivas autoinformadas (accuracy, atención, evaluación) en 519 participantes (232 autistas) halla que el diagnóstico de autismo se asocia específicamente con **evaluación interoceptiva más negativa** (interpretación afectiva más aversiva de las señales corporales), **sin** diferencias significativas en accuracy o atención entre grupos diagnósticos. En la población general, mayores rasgos autistas sí se asociaron con más atención interoceptiva, menor accuracy autoinformada y más evaluación negativa ([@adams2026]; [[2026-Adams-interoception-dimensions-autism]]). Este patrón sugiere que las inconsistencias de estudios previos sobre "interocepción atípica" en autismo podrían deberse en parte a la conflación de estas tres dimensiones distintas; el hallazgo más robusto y clínicamente relevante parece ser afectivo/evaluativo, con implicaciones para ansiedad y salud mental (ver [[Cap-47-Salud-mental]], [[Cap-07-Comorbilidades]]).
+
 ### Perspectivas clave
 
-- **Evidencia clínica:** ASP tiene correlatos corticales propios (LEAP); la percepción de acciones/movimiento biológico falla más en interpretación que en detección; hiperreactividad ligada a síntomas internalizantes; MMN muestra un patrón invertido niños/adultos, coherente con codificación predictiva dependiente de la edad.
-- **Experiencia vivida:** hipo/hiper-sensibilidad sensorial es una fuente frecuente de agotamiento y sobrecarga cotidiana; la búsqueda sensorial puede ser una estrategia activa de autorregulación, no solo un síntoma a eliminar.
-- **Controversias y debates:** si el procesamiento sensorial atípico es causa, correlato o consecuencia de las dificultades sociales/comunicativas; si los biomarcadores auditivos de "predicción" (como MMN) son generalizables entre grupos de edad.
+- **Evidencia clínica:** ASP tiene correlatos corticales propios (LEAP); la percepción de acciones/movimiento biológico falla más en interpretación que en detección; hiperreactividad ligada a síntomas internalizantes; MMN muestra un patrón invertido niños/adultos, coherente con codificación predictiva dependiente de la edad; en interocepción, la evaluación afectiva negativa —no la accuracy— distingue mejor a personas autistas de no autistas.
+- **Experiencia vivida:** hipo/hiper-sensibilidad sensorial es una fuente frecuente de agotamiento y sobrecarga cotidiana; la búsqueda sensorial puede ser una estrategia activa de autorregulación, no solo un síntoma a eliminar; interpretar negativamente las señales del propio cuerpo puede alimentar la ansiedad sin que haya un déficit de detección real.
+- **Controversias y debates:** si el procesamiento sensorial atípico es causa, correlato o consecuencia de las dificultades sociales/comunicativas; si los biomarcadores auditivos de "predicción" (como MMN) son generalizables entre grupos de edad; si separar accuracy/atención/evaluación resuelve o solo desplaza el debate sobre interocepción atípica en autismo.
 
 ### Preguntas abiertas
 
@@ -77,10 +83,14 @@ SORT fecha_captura DESC
 - [@bai2025] — [[2025-Bai-biological-motion-systematic-review]]
 - [@tavassoli2026] — [[2026-Tavassoli-sensory-reactivity-review]]
 - [@sapeytriomphe2025] — [[2025-Sapey-Triomphe-MMN-meta-analysis]]
+- [@adams2026] — [[2026-Adams-interoception-dimensions-autism]]
 
 ## Enlaces relacionados
 
 - [[Cap-06-Neurobiologia]]
 - [[Cap-20-Teoria-de-la-mente]]
 - [[Cap-16-Interaccion-social]]
+- [[Cap-47-Salud-mental]]
+- [[Cap-07-Comorbilidades]]
+- [[Apendice-A-Glosario]] — ASP, interocepción, MMN, codificación predictiva, movimiento biológico
 

@@ -7,18 +7,20 @@ dg-publish: true
 dg-home: false
 dg-permalink: /capitulos/diagnostico-mujeres
 ultima_actualizacion: "2026-07-29"
-version: "1.5"
+version: "1.6"
 fuentes_integradas:
   - "[[2025-Wang-understanding-autism]]"
   - "[[2021-Thapar-Rutter-genetic-advances]]"
   - "[[2025-Kim-An-precision-diagnosis-genomics]]"
   - "[[2025-Cusson-empathy-measures-meta-analysis]]"
   - "[[2025-Couture-healthcare-trajectories-sex-idd]]"
+  - "[[2025-Marques-Brazil-adult-autism-screening]]"
 estado: revision
-resumen_ejecutivo: "El ratio hombres:mujeres (~3,8–4:1) probablemente sobreestima la diferencia real. Las mujeres suelen diagnosticarse más tarde. Datos genéticos apoyan efecto protector femenino. En empatía unidimensional (EQ), el gap autista–típico es mayor en mujeres que en varones (meta-análisis 2025)."
+resumen_ejecutivo: "El ratio hombres:mujeres (~3,8–4:1) probablemente sobreestima la diferencia real. Las mujeres suelen diagnosticarse más tarde. Datos genéticos apoyan efecto protector femenino. En empatía unidimensional (EQ), el gap autista–típico es mayor en mujeres que en varones (meta-análisis 2025). Un nuevo instrumento de cribado adulto validado en Brasil (SfA-F, N=7738) incorpora factores específicos de camuflaje social ausentes en escalas genéricas."
 preguntas_abiertas:
   - "¿Cómo adaptar ADOS/cribados a presentaciones feminizadas y enmascaradas?"
   - "¿Qué métricas capturan camuflaje sin patologizar la adaptación?"
+  - "¿Los factores de camuflaje del SfA-F mejoran la detección temprana frente a instrumentos genéricos?"
 tags:
   - tea/capitulo
 bibliography: "03-Datos/references.bib"
@@ -61,16 +63,21 @@ En empatía **unidimensional** (sobre todo EQ), el gap entre mujeres autistas y 
 
 Una cohorte administrativa de Quebec (n=5289) cuantifica el impacto en salud del retraso diagnóstico: las mujeres son diagnosticadas en promedio a los 22,2 años, frente a 13,9 en hombres, y presentan casi el **doble** de días de hospitalización cuando son diagnosticadas en la infancia comparado con hombres. Las tasas de hospitalización más altas se dan en personas diagnosticadas en la adultez, particularmente mujeres y personas con discapacidad intelectual/del desarrollo, sugiriendo brechas de continuidad en la atención ([@couture2025]; [[2025-Couture-healthcare-trajectories-sex-idd]]). Este hallazgo traduce en desenlaces de salud concretos la brecha de edad al diagnóstico ya documentada en la epidemiología del subdiagnóstico femenino.
 
+### Un instrumento de cribado adulto sensible al camuflaje (Brasil)
+
+La mayoría de los instrumentos de cribado adulto se validaron originalmente en poblaciones predominantemente masculinas y no capturan bien el camuflaje social. Un desarrollo reciente en Brasil aborda esto directamente: **SfA-F** (Screening for Autism – Female form, N=7738), hermana de la escala general SfA-A (N=3302), incorpora ítems y factores específicos de camuflaje social, con buen ajuste de modelo (CFA/ESEM), alta consistencia interna (α>0,8) y validez de criterio razonable frente al AQ-10 (r=0,68) ([@marques2025]; [[2025-Marques-Brazil-adult-autism-screening]]). Este tipo de instrumento responde directamente a la crítica de que los cribados "neutrales al género" subdetectan presentaciones feminizadas y enmascaradas; ver también [[Cap-09-Herramientas-cribado]] y [[Cap-12-Diagnostico-adultos]].
+
 ### Perspectivas clave
 
-- **Evidencia clínica:** subdiagnóstico femenino bien documentado en revisiones recientes; consecuencias medibles en salud (mayor hospitalización) asociadas al retraso diagnóstico.
+- **Evidencia clínica:** subdiagnóstico femenino bien documentado en revisiones recientes; consecuencias medibles en salud (mayor hospitalización) asociadas al retraso diagnóstico; nuevos instrumentos como SfA-F ofrecen una vía de cribado más sensible al camuflaje.
 - **Experiencia vivida:** camuflaje, agotamiento y diagnósticos tardíos — ver [[Cap-21-Enmascaramiento]].
-- **Controversias:** riesgo de sobrediagnóstico si se relajan umbrales sin rigor.
+- **Controversias:** riesgo de sobrediagnóstico si se relajan umbrales sin rigor; si instrumentos específicos por género refuerzan o desafían estereotipos de presentación.
 
 ### Preguntas abiertas
 
 - ¿Cómo adaptar herramientas a presentaciones enmascaradas?
 - ¿Qué métricas de camuflaje son éticas y útiles?
+- ¿El SfA-F se replica en poblaciones fuera de Brasil?
 
 ## Referencias citadas
 
@@ -79,6 +86,7 @@ Una cohorte administrativa de Quebec (n=5289) cuantifica el impacto en salud del
 - [@kim2025] — [[2025-Kim-An-precision-diagnosis-genomics]]
 - [@wang2025] — [[2025-Wang-understanding-autism]]
 - [@thapar2021] — [[2021-Thapar-Rutter-genetic-advances]]
+- [@marques2025] — [[2025-Marques-Brazil-adult-autism-screening]]
 
 ```dataview
 LIST
@@ -92,3 +100,4 @@ SORT fecha_captura DESC
 - [[Cap-04-Epidemiologia]]
 - [[Cap-21-Enmascaramiento]]
 - [[Cap-09-Herramientas-cribado]]
+- [[Cap-12-Diagnostico-adultos]]

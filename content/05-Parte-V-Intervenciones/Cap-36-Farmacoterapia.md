@@ -7,7 +7,7 @@ dg-publish: true
 dg-home: false
 dg-permalink: /capitulos/farmacoterapia
 ultima_actualizacion: "2026-07-29"
-version: "1.6"
+version: "1.7"
 fuentes_integradas:
   - "[[2025-Wang-understanding-autism]]"
   - "[[2025-Kim-An-precision-diagnosis-genomics]]"
@@ -20,11 +20,13 @@ fuentes_integradas:
   - "[[2025-Zheng-nigrostriatal-VPA-dopamine]]"
   - "[[2025-Patwardhan-social-salience-network-oxytocin]]"
   - "[[2026-Ma-Shank3-oligodendrocyte-erk]]"
+  - "[[2025-Alatrash-irritability-network-autism]]"
 estado: revision
-resumen_ejecutivo: "Sin fármacos aprobados para síntomas nucleares. Oxitocina: precisión (edad/OXTR/dosis). Sinapsis/mTOR mixtos. Probióticos/FMT: GI > core; LGR-1 solo preclínico. CAM: GFCF sin respaldo. Patrones cerebrales TEA ≈ ketamina (E/I) — no tratamiento."
+resumen_ejecutivo: "Sin fármacos aprobados para síntomas nucleares. Oxitocina: precisión (edad/OXTR/dosis). Sinapsis/mTOR mixtos. Probióticos/FMT: GI > core; LGR-1 solo preclínico. CAM: GFCF sin respaldo. Patrones cerebrales TEA ≈ ketamina (E/I) — no tratamiento. Un análisis de red sugiere que la irritabilidad se conecta con la reactividad fisiológica de forma indirecta, vía autorregulación y rasgos de TDAH, lo que podría orientar objetivos de intervención más allá de la sola supresión farmacológica del síntoma."
 preguntas_abiertas:
   - "¿Qué subtipos (p. ej. TSC/mTOR, SCN2A, OXTR/OT basal) responden mejor a terapias dirigidas?"
   - "¿Oxitocina + terapia conductual supera a cualquiera sola a largo plazo?"
+  - "¿Intervenir sobre autorregulación/TDAH reduce la irritabilidad más que tratarla directamente?"
 tags:
   - tea/capitulo
 bibliography: "03-Datos/references.bib"
@@ -95,16 +97,21 @@ La farmacología de precisión exige subtipificación genética + fenotipo (ver 
 
 En el modelo murino Shank3Δ11(−/−), la inhibición farmacológica de la vía **Erk** (mirdametinib in vivo, ya en desarrollo clínico para RASopatías) restauró la maduración de oligodendrocitos, rescató déficits de mielinización y mejoró **parcialmente** conductas tipo-autista y función motora, actuando sobre el eje Wnt5a-Erk desregulado por la deficiencia de Shank3 ([@ma2026shank3]; [[2026-Ma-Shank3-oligodendrocyte-erk]]). Es un hallazgo **exclusivamente preclínico** y específico de formas de TEA relacionadas con *SHANK3*/síndrome de Phelan-McDermid, no generalizable al TEA idiopático — refuerza la narrativa de terapias dirigidas a síndromes monogénicos, no de "cura" del TEA multifactorial (ver [[Cap-06-Neurobiologia]]).
 
+### Irritabilidad: ¿tratar el síntoma o la vía indirecta?
+
+La irritabilidad es uno de los blancos farmacológicos más frecuentes (antipsicóticos atípicos) en autismo, pero un análisis de red reciente (N=132, niños autistas y neurotípicos, 7-16 años) sugiere que su arquitectura es más compleja de lo que implica el modelo "síntoma único → fármaco único". La irritabilidad se asoció **directamente** con conductas externalizantes, desregulación emocional y rasgos autistas, mientras que la reactividad y variabilidad de la frecuencia cardíaca (marcadores fisiológicos de arousal) se conectaron con la irritabilidad de forma **indirecta**, mediada por autorregulación y rasgos de TDAH, no de forma directa ([@alatrash2025]; [[2025-Alatrash-irritability-network-autism]]). Esto sugiere que intervenciones dirigidas a mejorar la autorregulación o tratar el TDAH comórbido podrían tener efectos en cascada sobre la irritabilidad, complementando (no necesariamente sustituyendo) el abordaje farmacológico directo; ver el marco de red más amplio en [[Cap-07-Comorbilidades]] y [[Cap-19-Funciones-ejecutivas]].
+
 ### Perspectivas clave
 
-- **Evidencia clínica:** comorbilidades sí; “cura del autismo” no; oxitocina/genoterapia en subgrupos/síndromes.
+- **Evidencia clínica:** comorbilidades sí; “cura del autismo” no; oxitocina/genoterapia en subgrupos/síndromes; la irritabilidad tiene una arquitectura de red con vías directas e indirectas, relevante para decidir dónde intervenir.
 - **Experiencia vivida:** consentimiento informado sobre off-label y ensayos.
-- **Controversias:** medicalización vs. apoyos; ver [[Cap-37-Complementarios-pseudociencia]].
+- **Controversias:** medicalización vs. apoyos; ver [[Cap-37-Complementarios-pseudociencia]]; si abordar autorregulación/TDAH debería probarse como alternativa o complemento antes de escalar antipsicóticos para irritabilidad.
 
 ### Preguntas abiertas
 
 - ¿Subtipos moleculares (y *OXTR*/edad) guiarán fármacos?
 - ¿Combinaciones fármaco + terapia?
+- ¿Intervenir sobre autorregulación/TDAH reduce la irritabilidad más que tratarla directamente?
 
 ## Referencias citadas
 
@@ -119,6 +126,7 @@ En el modelo murino Shank3Δ11(−/−), la inhibición farmacológica de la ví
 - [@zabetakis2026] — [[2026-Zabetakis-Grabrucker-synaptic-protein-mutations]]
 - [@kim2025] — [[2025-Kim-An-precision-diagnosis-genomics]]
 - [@wang2025] — [[2025-Wang-understanding-autism]]
+- [@alatrash2025] — [[2025-Alatrash-irritability-network-autism]]
 
 ```dataview
 LIST
@@ -133,3 +141,4 @@ SORT fecha_captura DESC
 - [[Cap-07-Comorbilidades]]
 - [[Cap-37-Complementarios-pseudociencia]]
 - [[Cap-58-Fronteras-investigacion]]
+- [[Cap-19-Funciones-ejecutivas]]
