@@ -7,13 +7,14 @@ dg-publish: true
 dg-home: false
 dg-permalink: /capitulos/que-es-el-autismo
 ultima_actualizacion: "2026-07-28"
-version: "1.3"
+version: "1.4"
 fuentes_integradas:
   - "[[2026-07-28-neurodiversidad-autismo-piloto]]"
   - "[[2012-Chaste-Leboyer-autism-risk-factors]]"
   - "[[2021-Thapar-Rutter-genetic-advances]]"
+  - "[[2025-Cusson-empathy-measures-meta-analysis]]"
 estado: publicado
-resumen_ejecutivo: "El autismo (TEA) es un perfil neurodesarrollado del espectro, con heterogeneidad clínica amplia. Clínicamente se define por comunicación social e intereses/conductas restringidas; etiologicamente es complejo (genes + ambiente). Puede verse como categoría y como dimensión; la neurodiversidad añade una lente de derechos."
+resumen_ejecutivo: "El autismo (TEA) es un perfil neurodesarrollado del espectro, con heterogeneidad clínica amplia. Clínicamente se define por comunicación social e intereses/conductas restringidas; etiologicamente es complejo (genes + ambiente). No equivale a un ‘trastorno de empatía’ global (meta-análisis 2025). Puede verse como categoría y como dimensión; la neurodiversidad añade una lente de derechos."
 preguntas_abiertas:
   - "¿Cómo equilibrar modelo médico (acceso a servicios) y modelo neurodivergente (identidad)?"
   - "¿Qué subtipos o perfiles siguen siendo útiles clínicamente bajo el paradigma del espectro?"
@@ -46,9 +47,13 @@ Familiares de personas autistas muestran a menudo un **fenotipo amplio** (rasgos
 
 La neurodiversidad, acuñada por Judy Singer en los años 90, propone que variaciones como el autismo son parte de la diversidad humana. **No niega las dificultades**, sino que cuestiona marcos que patologizan la identidad. Ver [[Cap-51-Autodefensa-neurodiversidad]] para el movimiento de autodefensa.
 
+### ¿Es el autismo un “trastorno de empatía”?
+
+Instrumentos diagnósticos y modelos (p. ej. empathizing–systemizing / *extreme male brain*) han tratado la empatía reducida como rasgo nuclear. Un meta-análisis de **226 estudios** ([@cusson2025]; [[2025-Cusson-empathy-measures-meta-analysis]]) matiza: empatía **cognitiva** reducida (efecto grande), empatía **afectiva** solo ligeramente menor (y no significativa en estudios de alta calidad). Medidas unidimensionales como el EQ **inflan** la impresión de déficit. Conclusión: no reducir el TEA a “falta de empatía”. Detalle: [[Cap-20-Teoria-de-la-mente]].
+
 ### Perspectivas clave
 
-- **Evidencia clínica:** Prevalencia en torno a ~1% en varias estimaciones modernas (ver [[Cap-04-Epidemiologia]]); diagnóstico conductual, sin biomarcador único ([@chaste2012]).
+- **Evidencia clínica:** Prevalencia en torno a ~1% en varias estimaciones modernas (ver [[Cap-04-Epidemiologia]]); diagnóstico conductual, sin biomarcador único ([@chaste2012]); empatía multidimensional, no déficit global ([@cusson2025]).
 - **Experiencia vivida:** Muchas personas autistas prefieren "persona autista" (identidad) sobre "persona con autismo" (persona primero), aunque las preferencias varían.
 - **Controversias y debates:** Modelo médico vs. neurodivergente; utilidad de buscar "curar" el autismo vs. proporcionar apoyos; peso genes vs. ambiente ([@chaste2012]).
 
@@ -59,6 +64,7 @@ La neurodiversidad, acuñada por Judy Singer en los años 90, propone que variac
 
 ## Referencias citadas
 
+- [@cusson2025] — [[2025-Cusson-empathy-measures-meta-analysis]]
 - [@thapar2021] — [[2021-Thapar-Rutter-genetic-advances]]
 - [@chaste2012] — [[2012-Chaste-Leboyer-autism-risk-factors]]
 - [[2026-07-28-neurodiversidad-autismo-piloto]]

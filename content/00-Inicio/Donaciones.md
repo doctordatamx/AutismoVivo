@@ -6,7 +6,7 @@ ultima_actualizacion: "2026-07-28"
 dg-publish: true
 dg-permalink: /donaciones
 estado: publicado
-donacion_url: "https://ko-fi.com/TU_USUARIO"
+donacion_url: "https://ko-fi.com/A5X5242156"
 tags:
   - tea/meta
 ---
@@ -15,9 +15,11 @@ tags:
 
 Gracias por considerar una donación. Este proyecto lo mantiene el **Dr. Fernando Avalos Reyes** como recurso abierto para familias, profesionales y personas autistas.
 
-<a href="https://ko-fi.com/TU_USUARIO" class="button" target="_blank" rel="noopener">☕ Donar ahora</a>
+<a href="https://ko-fi.com/A5X5242156" target="_blank" rel="noopener">
+  <img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" height="36" style="border:0;height:36px;" alt="Support me on Ko-fi">
+</a>
 
-[**→ Ir a la página de donaciones**](https://ko-fi.com/TU_USUARIO)
+[**→ Ir a Ko-fi**](https://ko-fi.com/A5X5242156)
 
 ---
 
@@ -25,7 +27,7 @@ Gracias por considerar una donación. Este proyecto lo mantiene el **Dr. Fernand
 
 - Tiempo de curación e integración de artículos nuevos
 - Revisión editorial de capítulos
-- Hosting y herramientas (si aplica)
+- Hosting y herramientas
 - Mantener el libro actualizado y accesible sin muro de pago
 
 ---
@@ -43,7 +45,7 @@ Gracias por considerar una donación. Este proyecto lo mantiene el **Dr. Fernand
 
 ### Recomendación práctica
 
-1. **Primera opción:** **Ko-fi** — crea la página, copia el enlace y pégalo en `donacion_url` de [[00-Portada]] y de esta nota.  
+1. **Primera opción:** **Ko-fi** — página activa: [ko-fi.com/A5X5242156](https://ko-fi.com/A5X5242156) (`donacion_url` en [[00-Portada]]).  
 2. **Si tu audiencia es mayoritariamente LatAm:** añade **Mercado Pago** como segundo botón (enlace de pago o QR).  
 3. **Complemento:** **PayPal.Me** para quien no use Ko-fi.
 
@@ -53,13 +55,14 @@ No hace falta usar tres a la vez: **Ko-fi + Mercado Pago** cubre casi todo.
 
 ## Cómo activar el botón (checklist)
 
-1. [ ] Crear cuenta en Ko-fi (o Mercado Pago / PayPal.Me)
-2. [ ] Copiar tu URL pública (ej. `https://ko-fi.com/fernandoavalos`)
-3. [ ] Reemplazar `https://ko-fi.com/TU_USUARIO` en:
-   - [[00-Portada]]
-   - Esta página ([[Donaciones]])
-   - Frontmatter `donacion_url`
-4. [ ] Publicar de nuevo el sitio (GitHub Pages / Digital Garden)
+1. [x] Crear cuenta en Ko-fi
+2. [x] URL pública: `https://ko-fi.com/A5X5242156`
+3. [x] Enlaces actualizados en [[00-Portada]] y esta página
+4. [ ] Publicar de nuevo el sitio (push → GitHub Pages)
+
+### Nota técnica: widget JavaScript de Ko-fi
+
+El código que Ko-fi da con `<script>...kofiwidget2.init...</script>` **no se puede pegar** en la nota Markdown: Obsidian bloquea scripts y Quartz (GitHub Pages) los sanitiza. Usa el botón por imagen (arriba), que apunta al mismo ID `A5X5242156`.
 
 ---
 

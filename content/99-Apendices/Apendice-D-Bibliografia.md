@@ -20,6 +20,8 @@ Plugin: **Citations** — ver [[plugin-citations]].
 
 | Citekey | Autores | Año | Nota |
 |---------|---------|-----|------|
+| `cusson2025` | Cusson et al. | 2025 | [[2025-Cusson-empathy-measures-meta-analysis]] |
+| `kim2025` | Kim & An | 2025 | [[2025-Kim-An-precision-diagnosis-genomics]] |
 | `wang2025` | Wang et al. | 2025 | [[2025-Wang-understanding-autism]] |
 | `thapar2021` | Thapar & Rutter | 2021 | [[2021-Thapar-Rutter-genetic-advances]] |
 | `chaste2012` | Chaste & Leboyer | 2012 | [[2012-Chaste-Leboyer-autism-risk-factors]] |

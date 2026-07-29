@@ -18,7 +18,7 @@ Registro detallado (vault): [[changelog-libro]]
 
 ## Última publicación
 
-**28 de julio de 2026** — Ingesta Thapar & Rutter 2021 (*Genetic Advances in Autism*); actualización Cap-01, Cap-05, Cap-07, Cap-10, Cap-11.
+**28 de julio de 2026** — Ingesta Cusson et al. 2025 (*empatía y medidas*); Cap-01, Cap-11, Cap-16, Cap-20, Cap-51. Antes: Kim & An 2025, Thapar 2021, Wang 2025, Chaste 2012.
 
 ## Capítulos con fecha de actualización
 

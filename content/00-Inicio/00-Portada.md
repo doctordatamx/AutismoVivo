@@ -8,14 +8,21 @@ dg-publish: true
 dg-home: true
 dg-permalink: /
 estado: publicado
-donacion_url: "https://ko-fi.com/TU_USUARIO"
+donacion_url: "https://ko-fi.com/A5X5242156"
 tags:
   - tea/portada
 ---
 
-# El gran libro del autismo.
+# Autismo Vivo
 
-**Un compendio en constante actualización sobre el Trastorno del Espectro Autista (TEA)**
+**La evidencia cientifica que nunca deja de crecer sobre el Trastorno del Espectro Autista (TEA)**
+
+Para Liam.
+
+Me enseñó a mirar el mundo desde una perspectiva completamente nueva y a entender que la mente humana no tiene una sola forma de ser brillante.
+
+Este libro vivo nació por ti y para ti. Es el testimonio de mi búsqueda por comprenderte mejor, por construir puentes y por asegurarme de que nunca nadie te defina con etiquetas estrechas. Gracias por ser uno de mis  mayores maestros, mi inspiración constante y la razón por la cual este proyecto sigue creciendo cada día.
+
 
 ---
 
@@ -50,7 +57,7 @@ Este libro sintetiza artículos, papers y fuentes curadas sobre autismo. No es u
 
 > Las fuentes se capturan, se resumen con apoyo de IA y se integran a los capítulos bajo criterios editoriales explícitos. Ver [[criterios-editoriales]] y [[00-Indice|tabla de contenidos]].
 
-**Empieza por:** [[00-Indice|Índice completo del libro]] · [[Cap-01-Que-es-el-autismo]] · [[Cap-05-Etiologia]]
+**Empieza por:** [[00-Indice|Índice completo del libro]] · [[Cap-01-Que-es-el-autismo|Capítulo 01 — ¿Qué es el autismo?]] · [[Cap-05-Etiologia|Capítulo 05 — Etiología]]
 
 ---
 
@@ -58,11 +65,11 @@ Este libro sintetiza artículos, papers y fuentes curadas sobre autismo. No es u
 
 El *Libro Vivo sobre Autismo* es de acceso abierto. Si te es útil, puedes apoyar su mantenimiento (curación de fuentes, revisión editorial y publicación).
 
-<a href="https://ko-fi.com/TU_USUARIO" class="button" target="_blank" rel="noopener">☕ Invítame un café — Donar</a>
+<a href="https://ko-fi.com/A5X5242156" target="_blank" rel="noopener">
+  <img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" height="36" style="border:0;height:36px;" alt="Support me on Ko-fi">
+</a>
 
-[**→ Donar / Apoyar el libro**](https://ko-fi.com/TU_USUARIO)
-
-*Sustituye `TU_USUARIO` por tu página real de Ko-fi (o el enlace de PayPal / Mercado Pago). Ver [[Donaciones]].*
+[**→ Apoyar en Ko-fi**](https://ko-fi.com/A5X5242156) · más detalle en [[Donaciones]]
 
 ---
 

@@ -7,13 +7,14 @@ dg-publish: true
 dg-home: false
 dg-permalink: /capitulos/farmacoterapia
 ultima_actualizacion: "2026-07-28"
-version: "1.1"
+version: "1.2"
 fuentes_integradas:
   - "[[2025-Wang-understanding-autism]]"
+  - "[[2025-Kim-An-precision-diagnosis-genomics]]"
 estado: revision
-resumen_ejecutivo: "No existen fármacos oficialmente aprobados para síntomas nucleares del TEA. En clínica se usan psicoestimulantes, antipsicóticos, antidepresivos e hipnóticos según comorbilidades. Pipelines experimentales (oxitocina, balovaptan/AVPR1a, PPAR, mTOR, antioxidantes, probióticos, etc.) muestran resultados mixtos en RCTs."
+resumen_ejecutivo: "No existen fármacos oficialmente aprobados para síntomas nucleares del TEA. Se tratan comorbilidades. Pipelines experimentales (oxitocina, balovaptan, mTOR, etc.) son mixtos. Terapias génicas/ASO/CRISPR avanzan en síndromes monogénicos relacionados (Angelman, Rett, Fragile X, SCN2A), no en el TEA idiomático general."
 preguntas_abiertas:
-  - "¿Qué subtipos (p. ej. TSC/mTOR) responden mejor a inhibidores específicos?"
+  - "¿Qué subtipos (p. ej. TSC/mTOR, SCN2A) responden mejor a terapias dirigidas?"
   - "¿Oxitocina + terapia conductual supera a cualquiera sola a largo plazo?"
 tags:
   - tea/capitulo
@@ -45,19 +46,32 @@ Prescripción según comorbilidad (regulación emocional, TDAH, sueño, etc.): p
 
 Fuente: ([@wang2025]; [[2025-Wang-understanding-autism]]).
 
+### Terapias génicas y precisión molecular
+
+Kim & An ([@kim2025]; [[2025-Kim-An-precision-diagnosis-genomics]]) sitúan la traslación en **trastornos monogénicos relacionados**, no en “cura” del TEA core:
+
+| Enfoque | Ejemplos citados |
+|---------|------------------|
+| ASO / reactivación | Angelman (*UBE3A*); Fragile X |
+| Genoterapia / edición | Rett (*MECP2*); ensayos *SCN2A* (ASO/CRISPR) |
+| Límite clínico | Beneficio etiológico en síndromes; **no** generalizable al TEA multifactorial |
+
+La farmacología de precisión exige subtipificación genética + fenotipo (ver [[Cap-05-Etiologia]], [[Cap-58-Fronteras-investigacion]]).
+
 ### Perspectivas clave
 
-- **Evidencia clínica:** comorbilidades sí; “cura del autismo” no.
+- **Evidencia clínica:** comorbilidades sí; “cura del autismo” no; genoterapia en síndromes selectos.
 - **Experiencia vivida:** consentimiento informado sobre off-label y ensayos.
 - **Controversias:** medicalización vs. apoyos; ver [[Cap-37-Complementarios-pseudociencia]].
 
 ### Preguntas abiertas
 
-- ¿Subtipos moleculares guiarán fármacos?
+- ¿Subtipos moleculares guiarán fármacos y ASO?
 - ¿Combinaciones fármaco + terapia?
 
 ## Referencias citadas
 
+- [@kim2025] — [[2025-Kim-An-precision-diagnosis-genomics]]
 - [@wang2025] — [[2025-Wang-understanding-autism]]
 
 ```dataview

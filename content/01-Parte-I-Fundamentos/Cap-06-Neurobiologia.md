@@ -7,12 +7,13 @@ dg-publish: true
 dg-home: false
 dg-permalink: /capitulos/neurobiologia
 ultima_actualizacion: "2026-07-28"
-version: "1.2"
+version: "1.3"
 fuentes_integradas:
   - "[[2012-Chaste-Leboyer-autism-risk-factors]]"
   - "[[2025-Wang-understanding-autism]]"
+  - "[[2025-Kim-An-precision-diagnosis-genomics]]"
 estado: revision
-resumen_ejecutivo: "Convergencia en disfunción sináptica, glía/inmunidad y, en revisiones recientes, estrés oxidativo y disfunción mitocondrial. Transcriptómica: genes sinápticos infraexpresados y módulos inmunes sobreexpresados. Organoides y single-cell muestran efectos en neuronas excitatorias y GABAérgicas."
+resumen_ejecutivo: "Convergencia en disfunción sináptica (NC) y regulación génica temprana (GER), estrés oxidativo/mitocondria, y glía/inmunidad. Single-cell y organoides muestran efectos en progenitores vs. neuronas maduras; genes ASD-predominantes vs. DD-predominantes difieren en trayectoria temporal."
 preguntas_abiertas:
   - "¿La activación microglial es causa, consecuencia o ambas?"
   - "¿Qué paneles (genética + metabolómica + imagen) predicen subtipos útiles clínicamente?"
@@ -31,7 +32,12 @@ Convergencia en disfunción sináptica, glía/inmunidad y, en revisiones recient
 
 ### Sinapsis y convergencia genética
 
-Vías NLGN–NRXN–SHANK y cientos de genes SFARI convergen en desarrollo neuronal, glía y sinapsis ([@chaste2012]; [@wang2025]). Organoides con mutaciones (*SUV420H1*, *ARID1B*, *CHD8*) alteran neuronas GABAérgicas y proyecciones excitatorias profundas ([@wang2025]).
+Vías NLGN–NRXN–SHANK y cientos de genes convergen en desarrollo neuronal ([@chaste2012]; [@wang2025]). Kim & An ([@kim2025]; [[2025-Kim-An-precision-diagnosis-genomics]]) distinguen:
+
+- **GER** (regulación de expresión): pico prenatal (progenitores / neuronas tempranas) — p. ej. *ARID1B*, cromatina
+- **NC** (comunicación neuronal): pico postnatal en neuronas maduras — p. ej. *SHANK3*, *PTEN*/mTOR
+
+Genes **ASD-predominantes** vs. **DD-predominantes** tienen trayectorias distintas (Fu et al., citado en [@kim2025]). Organoides/CRISPR reproducen defectos de neurogénesis y circuitos.
 
 ### Estrés oxidativo y mitocondria (actualización 2025)
 
@@ -56,6 +62,7 @@ Activación microglial/astroglial y citocinas ([@chaste2012]); en ASD, upregulat
 
 ## Referencias citadas
 
+- [@kim2025] — [[2025-Kim-An-precision-diagnosis-genomics]]
 - [@wang2025] — [[2025-Wang-understanding-autism]]
 - [@chaste2012] — [[2012-Chaste-Leboyer-autism-risk-factors]]
 

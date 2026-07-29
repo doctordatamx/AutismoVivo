@@ -7,16 +7,17 @@ dg-publish: true
 dg-home: false
 dg-permalink: /capitulos/etiologia
 ultima_actualizacion: "2026-07-28"
-version: "1.3"
+version: "1.4"
 fuentes_integradas:
   - "[[2012-Chaste-Leboyer-autism-risk-factors]]"
   - "[[2025-Wang-understanding-autism]]"
   - "[[2021-Thapar-Rutter-genetic-advances]]"
+  - "[[2025-Kim-An-precision-diagnosis-genomics]]"
 estado: revision
-resumen_ejecutivo: "El TEA es altamente heredable (meta-análisis ~64–91%; mediana ~81% en 5 países) con ambiente compartido negligible en diseños de gemelos/familia, a la vez que revisiones recientes destacan exposiciones prenatales. Contribuyen variantes comunes (pequeño efecto) y raras (gran efecto). ~75–80% sin mutación monogénica clara. Pruebas genéticas (microarray) según contexto clínico (DI/dismorfia vs. rutina)."
+resumen_ejecutivo: "El TEA es altamente heredable. Convergen variantes raras (WES/WGS; ~72–102 genes de alta confianza según umbral FDR) y carga poligénica (PS ≈2% de liability). WGS añade no-codificante (enhancers, STRs ~2.6–4%). Modelo de umbral: distintas combinaciones rara+común cruzan el diagnóstico. Ambiente prenatal también relevante. Pruebas genéticas y terapias génicas en síndromes están en traslación temprana."
 preguntas_abiertas:
-  - "¿Cómo reconciliar heredabilidad alta (gemelos) con el aumento de prevalencia y factores ambientales reportados?"
-  - "¿Cuándo ampliar secuenciación genómica rutinaria en TEA sin DI?"
+  - "¿Cómo reconciliar heredabilidad alta con aumento de prevalencia y factores ambientales?"
+  - "¿Cuándo integrar PS + variantes raras en consejería clínica con equidad ancestral?"
   - "¿Qué paneles GxE son robustos en humanos?"
 tags:
   - tea/capitulo
@@ -51,10 +52,20 @@ Durante décadas la investigación priorizó causas genéticas por las altas est
 | GWAS | 5 loci genoma-amplios (Grove 2019; n≈18k); SNP-h² ≈ **0,118**; sin utilidad predictiva clínica aún | [@thapar2021] |
 | Pleiotropía | Correlaciones genéticas TEA–TDAH (rg≈0,44), depresión (≈0,45), esquizofrenia (≈0,22) | [@thapar2021] |
 | CNVs | Recurrentes: 1q21.1, 3q29, 7q11.23, **16p11.2**, 15q11.2–13, 22q11.2 | [@thapar2021]; [@sebat2007] |
-| Exoma | ~**102** genes (Satterstrom); PTV de novo ×**3,5**; ~**10–40%** de casos atribuibles a variantes raras de novo | [@thapar2021] |
-| Biología | Proteínas sinápticas, cromatina y regulación transcripcional; expresión prenatal | [@thapar2021] |
+| Exoma | ~**102** genes (Satterstrom FDR≤0.1); Fu+SPARK → **72** genes FDR≤0.001; Trost WGS → **53** (FDR≤0.001) | [@thapar2021]; [@kim2025] |
+| No-codificante / STR | Enhancers, promotores, UTR; STRs raros ≈**2,6%** del riesgo (hasta ≈**4%** con de novo) | [@kim2025] |
+| Biología | GER (prenatal) vs NC (sinapsis postnatal); single-cell / organoides | [@kim2025]; [@thapar2021] |
 
-Las variantes raras actúan **sobre un fondo poligénico**; no hay frontera nítida entre “autismo monogénico” y “multifactorial” ([@thapar2021]).
+Las variantes raras actúan **sobre un fondo poligénico**; modelo de **umbral de liability**: un PTV de gran efecto (p. ej. *SCN2A*) puede bastar; variantes moderadas + PS elevado se suman ([@kim2025]; [[2025-Kim-An-precision-diagnosis-genomics]]). No hay frontera nítida monogénico/multifactorial ([@thapar2021]).
+
+### Actualización genómica 2025 (Kim & An)
+
+Kim y An ([@kim2025]) sintetizan:
+
+- Consorcios ASC, SSC, SPARK, MSSNG → tamaños muestrales >60k en WES combinados
+- Interacción rara↔común: hallazgos de **aditividad** (pTDT) y de **compensación** (menor PS si hay DNV de alto impacto)
+- PS ASD ≈ **2%** de la varianza; multi-PGS / ML (p. ej. STAR-NN AUC ~0,73) mejoran pero aún no son clínicos de rutina
+- Distinguir **SFARI** (lista amplia de candidatos) vs. genes a FDR estricto en TADA
 
 ### Controversia genes vs. ambiente (síntesis del libro)
 
@@ -107,8 +118,9 @@ Síntesis de Thapar & Rutter ([@thapar2021]; [[2021-Thapar-Rutter-genetic-advanc
 - **Microarray cromosómico**: primera línea en muchos países; en EE.UU. a menudo recomendado en **todo** TEA; en UK/NICE típicamente si hay **DI o dismorfia**
 - Beneficios: riesgo de recurrencia más individualizado, grupos de apoyo, vigilancia de comorbilidades médicas/psiquiátricas (p. ej. riesgo de psicosis en 22q11)
 - Límites: penetrancia variable, expresividad y **pleiotropía**; resultado negativo no excluye genética; impactos psicosociales y de seguros
-- Variantes comunes/PRS: **sin** utilidad clínica predictiva actual
+- Variantes comunes/PRS: utilidad clínica **aún limitada** (~2% liability; [@kim2025]; [@thapar2021])
 - Derivación a genética clínica razonable en TEA + DI o presentación compleja; el umbral evolucionará con evidencia de utilidad y coste-efectividad
+- Emergente: variantes de splicing / snRNA (*RNU4-2*, *RNU2-2*) en NDD con rasgos autistas ([@kim2025])
 
 ### Genotipo–fenotipo y solapamientos
 
@@ -168,6 +180,7 @@ Los estudios humanos de GxE aún son escasos y de baja potencia; cohortes prospe
 
 ## Referencias citadas en este capítulo
 
+- [@kim2025] — [[2025-Kim-An-precision-diagnosis-genomics]]
 - [@thapar2021] — [[2021-Thapar-Rutter-genetic-advances]]
 - [@wang2025] — [[2025-Wang-understanding-autism]]
 - [@chaste2012] — [[2012-Chaste-Leboyer-autism-risk-factors]]
