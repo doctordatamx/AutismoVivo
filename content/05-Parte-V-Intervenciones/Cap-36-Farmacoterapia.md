@@ -6,8 +6,8 @@ titulo: "Farmacoterapia (síntomas asociados, no curar autismo)"
 dg-publish: true
 dg-home: false
 dg-permalink: /capitulos/farmacoterapia
-ultima_actualizacion: "2026-07-28"
-version: "1.5"
+ultima_actualizacion: "2026-07-29"
+version: "1.6"
 fuentes_integradas:
   - "[[2025-Wang-understanding-autism]]"
   - "[[2025-Kim-An-precision-diagnosis-genomics]]"
@@ -19,6 +19,7 @@ fuentes_integradas:
   - "[[2025-Yang-LGR1-prenatal-microbiome-autism-mice]]"
   - "[[2025-Zheng-nigrostriatal-VPA-dopamine]]"
   - "[[2025-Patwardhan-social-salience-network-oxytocin]]"
+  - "[[2026-Ma-Shank3-oligodendrocyte-erk]]"
 estado: revision
 resumen_ejecutivo: "Sin fármacos aprobados para síntomas nucleares. Oxitocina: precisión (edad/OXTR/dosis). Sinapsis/mTOR mixtos. Probióticos/FMT: GI > core; LGR-1 solo preclínico. CAM: GFCF sin respaldo. Patrones cerebrales TEA ≈ ketamina (E/I) — no tratamiento."
 preguntas_abiertas:
@@ -90,6 +91,10 @@ Kim & An ([@kim2025]; [[2025-Kim-An-precision-diagnosis-genomics]]) sitúan la t
 
 La farmacología de precisión exige subtipificación genética + fenotipo (ver [[Cap-05-Etiologia]], [[Cap-58-Fronteras-investigacion]]).
 
+### Diana preclínica candidata: oligodendrocitos y vía Erk (Shank3)
+
+En el modelo murino Shank3Δ11(−/−), la inhibición farmacológica de la vía **Erk** (mirdametinib in vivo, ya en desarrollo clínico para RASopatías) restauró la maduración de oligodendrocitos, rescató déficits de mielinización y mejoró **parcialmente** conductas tipo-autista y función motora, actuando sobre el eje Wnt5a-Erk desregulado por la deficiencia de Shank3 ([@ma2026shank3]; [[2026-Ma-Shank3-oligodendrocyte-erk]]). Es un hallazgo **exclusivamente preclínico** y específico de formas de TEA relacionadas con *SHANK3*/síndrome de Phelan-McDermid, no generalizable al TEA idiopático — refuerza la narrativa de terapias dirigidas a síndromes monogénicos, no de "cura" del TEA multifactorial (ver [[Cap-06-Neurobiologia]]).
+
 ### Perspectivas clave
 
 - **Evidencia clínica:** comorbilidades sí; “cura del autismo” no; oxitocina/genoterapia en subgrupos/síndromes.
@@ -103,6 +108,7 @@ La farmacología de precisión exige subtipificación genética + fenotipo (ver 
 
 ## Referencias citadas
 
+- [@ma2026shank3] — [[2026-Ma-Shank3-oligodendrocyte-erk]]
 - [@zheng2025] — [[2025-Zheng-nigrostriatal-VPA-dopamine]]
 - [@patwardhan2025] — [[2025-Patwardhan-social-salience-network-oxytocin]]
 - [@doherty2025] — [[2025-Doherty-CAM-autism-systematic-review]]

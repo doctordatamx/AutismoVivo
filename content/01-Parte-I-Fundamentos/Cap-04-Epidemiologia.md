@@ -6,14 +6,15 @@ titulo: "Epidemiología: prevalencia, tendencias, sesgos de medición"
 dg-publish: true
 dg-home: false
 dg-permalink: /capitulos/epidemiologia
-ultima_actualizacion: "2026-07-28"
-version: "1.3"
+ultima_actualizacion: "2026-07-29"
+version: "1.4"
 fuentes_integradas:
   - "[[2012-Chaste-Leboyer-autism-risk-factors]]"
   - "[[2025-Wang-understanding-autism]]"
   - "[[2025-Veilleux-Ismail-autism-hormones-immune-gut]]"
   - "[[2025-van-der-Schaaf-maternal-asthma-autism-meta]]"
   - "[[2025-Rubenstein-autism-down-syndrome-medicaid]]"
+  - "[[2026-Dickinson-aging-autism-systematic-review]]"
 estado: revision
 autor_libro: "Dr. Fernando Avalos Reyes"
 resumen_ejecutivo: "La prevalencia reportada del TEA sigue subiendo. Estimaciones globales ~1/100 niños; ADDM EE.UU. 2020 ~1/36. Ratio H:M ~3,8–4:1 (variable por país/CI; subdiagnóstico femenino). Factores ambientales prenatales (p. ej. asma materna OR≈1,3) aportan riesgo poblacional modesto junto a genética."
@@ -89,9 +90,13 @@ Meta-análisis de asma materna (19 estudios, ~2,53M; [@vanderschaf2025]; [[2025-
 
 Un estudio de reclamaciones Medicaid de EE.UU. (2011–2019, N=519.450 adultos) muestra que la prevalencia de TEA condicional a tener **síndrome de Down** subió de **4,1% a 6,6%** en ese período, con el mayor incremento en adultos jóvenes (18–25 años, 3,9%→8,7%). El grupo con doble diagnóstico (Down+TEA) presentó los costos y la utilización de servicios más altos de los tres grupos comparados ([@rubenstein2025]; [[2025-Rubenstein-autism-down-syndrome-medicaid]]). Detalle de comorbilidad asociada: [[Cap-07-Comorbilidades]].
 
+### Epidemiología del envejecimiento autista
+
+A medida que las primeras cohortes ampliamente diagnosticadas en la infancia (años 1990-2000) llegan a la mediana edad y más allá, la epidemiología del envejecimiento en autismo cobra relevancia creciente. Una revisión sistemática de 56 estudios sobre desenlaces cognitivos, neurales y de salud física en adultos autistas que envejecen no halla evidencia de deterioro cognitivo generalizado ni acelerado, aunque sí documenta vulnerabilidades focalizadas en integridad de sustancia blanca y ciertos desenlaces cardiovasculares ([@dickinson2026]; [[2026-Dickinson-aging-autism-systematic-review]]; ver [[Cap-27-Adultez-madura]]).
+
 ### Perspectivas clave
 
-- **Evidencia clínica:** series ADDM son la referencia más citada en países de altos ingresos.
+- **Evidencia clínica:** series ADDM son la referencia más citada en países de altos ingresos; la epidemiología del envejecimiento autista es un área emergente sin evidencia de deterioro cognitivo generalizado.
 - **Experiencia vivida:** “1 de cada 36” no implica homogeneidad clínica ni pronóstico único.
 - **Controversias:** magnitud del aumento “real” vs. detección ([@wang2025]).
 
@@ -102,6 +107,7 @@ Un estudio de reclamaciones Medicaid de EE.UU. (2011–2019, N=519.450 adultos) 
 
 ## Referencias citadas
 
+- [@dickinson2026] — [[2026-Dickinson-aging-autism-systematic-review]]
 - [@rubenstein2025] — [[2025-Rubenstein-autism-down-syndrome-medicaid]]
 - [@vanderschaf2025] — [[2025-van-der-Schaaf-maternal-asthma-autism-meta]]
 - [@veilleux2025] — [[2025-Veilleux-Ismail-autism-hormones-immune-gut]]

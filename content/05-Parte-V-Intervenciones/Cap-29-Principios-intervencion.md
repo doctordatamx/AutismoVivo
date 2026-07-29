@@ -6,10 +6,11 @@ titulo: "Principios de intervención basada en evidencia"
 dg-publish: true
 dg-home: false
 dg-permalink: /capitulos/principios-intervencion
-ultima_actualizacion: "2026-07-28"
-version: "1.1"
+ultima_actualizacion: "2026-07-29"
+version: "1.2"
 fuentes_integradas:
   - "[[2025-Wang-understanding-autism]]"
+  - "[[2025-Bottema-Beutel-problem-behavior-measurement]]"
 estado: revision
 resumen_ejecutivo: "No hay fármacos aprobados para síntomas nucleares del TEA. Las intervenciones no farmacológicas (habilidades, comunicación, terapias psicosociales, digitales, ejercicio, etc.) buscan autonomía, comunicación y calidad de vida. La estimulación cerebral no invasiva (tDCS/rTMS) y fármacos experimentales siguen en evaluación; priorizar individualización y etiología."
 preguntas_abiertas:
@@ -48,15 +49,20 @@ Wang et al. agrupan ([@wang2025]):
 
 Ver [[Cap-36-Farmacoterapia]]: psicofármacos para comorbilidades; oxitocina, balovaptan, PPAR, mTOR, etc. en fase experimental con resultados mixtos ([@wang2025]).
 
+### Definir bien el objetivo: la crítica a "conducta problema"
+
+Una revisión sistemática secundaria del corpus Project AIM (102 estudios de intervención temprana no farmacológica) halla que solo el **8%** ofreció una definición conceptual explícita de "conducta problema" antes de intervenir para reducirla, y el 62% describió la reducción de conducta como objetivo sin justificación clara. Casi todas las escalas de medición mezclan conductas con alto potencial de daño (agresión, autolesión) con conductas no normativas pero no dañinas por sí mismas (p. ej. estereotipias, ecolalia). Los autores llaman a definiciones y justificaciones más rigurosas, desarrolladas en colaboración con la comunidad autista, y proponen vocabulario alternativo desde la neurodiversidad —"meltdown" (sobrecarga sensorial), "shutdown" (retirada), "burnout" (agotamiento crónico)— que invita a cambios en el entorno en lugar de solo modificar la conducta del niño ([@bottemabeutel2025]; [[2025-Bottema-Beutel-problem-behavior-measurement]]; ver [[Cap-31-ABA-controversias]]).
+
 ### Perspectivas clave
 
-- **Evidencia clínica:** núcleo = apoyos/habilidades; fármacos nucleares = pipeline abierto.
-- **Experiencia vivida:** priorizar metas definidas por la persona y familia.
+- **Evidencia clínica:** núcleo = apoyos/habilidades; fármacos nucleares = pipeline abierto; rigor conceptual en la definición de objetivos de intervención sigue siendo insuficiente en la literatura.
+- **Experiencia vivida:** priorizar metas definidas por la persona y familia; distinguir entre conductas dañinas y conductas simplemente no normativas.
 - **Controversias:** ABA y autonomía — ver [[Cap-31-ABA-controversias]].
 
 ## Referencias citadas
 
 - [@wang2025] — [[2025-Wang-understanding-autism]]
+- [@bottemabeutel2025] — [[2025-Bottema-Beutel-problem-behavior-measurement]]
 
 ```dataview
 LIST

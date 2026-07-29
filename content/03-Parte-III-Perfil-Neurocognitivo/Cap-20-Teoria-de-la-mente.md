@@ -6,11 +6,12 @@ titulo: "Teoría de la mente, empatía y perspectiva autista"
 dg-publish: false
 dg-home: false
 dg-permalink: /capitulos/teoria-de-la-mente
-ultima_actualizacion: "2026-07-28"
-version: "1.1"
+ultima_actualizacion: "2026-07-29"
+version: "1.2"
 fuentes_integradas:
   - "[[2025-Cusson-empathy-measures-meta-analysis]]"
   - "[[2025-Bai-biological-motion-systematic-review]]"
+  - "[[2025-Sapey-Triomphe-MMN-meta-analysis]]"
 estado: revision
 resumen_ejecutivo: "La empatía es multidimensional (cognitiva vs afectiva). Meta-análisis 2025 (226 estudios): reducción grande en empatía cognitiva (g≈−0.85) y en medidas unidimensionales tipo EQ (g≈−1.70); afectiva solo ligeramente menor (g≈−0.17) y no significativa en estudios de alta calidad. IRI: menos concern pero más distress personal. El instrumento determina el hallazgo; no tratar el autismo como ‘trastorno de empatía’ global."
 preguntas_abiertas:
@@ -67,9 +68,13 @@ Revisión cualitativa: distress fingido, *empathic accuracy*, empatía al dolor 
 
 Una revisión sistemática de 51 estudios sobre percepción de movimiento biológico y acciones halla que las diferencias autistas son más consistentes en tareas de **identificación/interpretación** de la acción que en la mera **detección** del movimiento ([@bai2025]; [[2025-Bai-biological-motion-systematic-review]]). Esto matiza los modelos puramente "mentalistas" de teoría de la mente: parte de la dificultad para inferir intenciones ajenas podría tener raíz en el procesamiento **perceptivo global**, no solo en la atribución mental en sí ([[Cap-18-Procesamiento-sensorial]]).
 
+### Codificación predictiva: evidencia electrofisiológica
+
+Un meta-análisis de 38 estudios de mismatch negativity (MMN) auditiva —índice electrofisiológico de error de predicción— halla un patrón dependiente de la edad: niños/adolescentes autistas muestran MMN reducida en paradigmas de mayor incertidumbre (multifeature), mientras que los adultos autistas muestran MMN aumentada, sin diferencias de latencia ([@sapeytriomphe2025]; [[2025-Sapey-Triomphe-MMN-meta-analysis]]). Este hallazgo aporta evidencia electrofisiológica concreta a los marcos de codificación predictiva que buscan explicar diferencias en la atribución de estados mentales e intenciones ajenas, sugiriendo que el "error de predicción" alterado no es estático sino que cambia a lo largo del desarrollo (ver también [[Cap-18-Procesamiento-sensorial]]).
+
 ### Perspectivas clave
 
-- **Evidencia clínica:** perfil cognitivo ↓ / afectivo ≈; no “cero empatía”.
+- **Evidencia clínica:** perfil cognitivo ↓ / afectivo ≈; no “cero empatía”; evidencia electrofisiológica (MMN) de errores de predicción alterados de forma dependiente de la edad.
 - **Experiencia vivida:** parecer frío puede ser sobrecarga afectiva o malentendido mutuo.
 - **Controversias:** EQ como cribado de “rasgos”; extreme male brain; ToM como mito totalizador.
 
@@ -91,6 +96,7 @@ SORT fecha_captura DESC
 
 - [@bai2025] — [[2025-Bai-biological-motion-systematic-review]]
 - [@cusson2025] — [[2025-Cusson-empathy-measures-meta-analysis]]
+- [@sapeytriomphe2025] — [[2025-Sapey-Triomphe-MMN-meta-analysis]]
 
 ## Enlaces relacionados
 

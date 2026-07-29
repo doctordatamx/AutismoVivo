@@ -6,8 +6,8 @@ titulo: "Fronteras de investigación y preguntas abiertas"
 dg-publish: false
 dg-home: false
 dg-permalink: /capitulos/fronteras-investigacion
-ultima_actualizacion: "2026-07-28"
-version: "1.4"
+ultima_actualizacion: "2026-07-29"
+version: "1.5"
 fuentes_integradas:
   - "[[2025-Kim-An-precision-diagnosis-genomics]]"
   - "[[2026-Zabetakis-Grabrucker-synaptic-protein-mutations]]"
@@ -17,6 +17,7 @@ fuentes_integradas:
   - "[[2026-Leyhausen-transcriptomic-subgroup-IDP-autism]]"
   - "[[2025-Mottron-asymmetric-developmental-bifurcations]]"
   - "[[2025-Hunt-DCIDE-evolutionary-autism]]"
+  - "[[2026-Chahrour-hidden-genetic-architecture]]"
 estado: borrador
 resumen_ejecutivo: "Genómica, sinaptopatía, gut–ENS, oxitocina estratificada, LCOR≈ketamina (E/I) y subgrupos transcriptómicos-imagen (LEAP) como fronteras de precisión."
 preguntas_abiertas:
@@ -48,6 +49,8 @@ Kim & An ([@kim2025]) resumen el estado del arte:
 - Single-cell y organoides: vías GER vs NC; subtipificación ASD- vs DD-predominante
 
 Detalle etiológico: [[Cap-05-Etiologia]]; proceso clínico: [[Cap-10-Proceso-diagnostico]].
+
+La secuenciación de **lectura larga** amplía este catálogo iluminando variación estructural y de repeticiones antes inaccesible: variantes raras (SV + repeticiones + SNVs) explican 11,7% de la varianza de caso TEA (~7,4% heredabilidad), 13,8% (~8,9%) sumando riesgo poligénico común, actuando en gran medida mediante disrupción de regulación génica y detección de eventos mosaico-somáticos ([@chahrour2026]; [[2026-Chahrour-hidden-genetic-architecture]]). Gran parte del "missing heritability" podría deberse a limitaciones tecnológicas previas más que a ausencia real de señal genética — un área activa de escalamiento a cohortes grandes.
 
 ### Terapias dirigidas
 
@@ -90,6 +93,7 @@ SORT fecha_captura DESC
 
 ## Referencias citadas
 
+- [@chahrour2026] — [[2026-Chahrour-hidden-genetic-architecture]]
 - [@mottron2025] — [[2025-Mottron-asymmetric-developmental-bifurcations]]
 - [@hunt2025] — [[2025-Hunt-DCIDE-evolutionary-autism]]
 - [@leyhausen2026] — [[2026-Leyhausen-transcriptomic-subgroup-IDP-autism]]

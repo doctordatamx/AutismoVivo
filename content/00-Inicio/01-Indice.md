@@ -12,7 +12,7 @@ tags:
   - tea/indice
 ---
 
-# Índice — Libro Vivo sobre Autismo
+# Índice — Libro Vivo: Autismo
 
 **Autor:** Dr. Fernando Avalos Reyes  
 **Publicación:** 28 de julio de 2026  

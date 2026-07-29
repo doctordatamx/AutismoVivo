@@ -6,8 +6,8 @@ titulo: "Neurobiología: cerebro, conectividad, biomarcadores"
 dg-publish: true
 dg-home: false
 dg-permalink: /capitulos/neurobiologia
-ultima_actualizacion: "2026-07-28"
-version: "1.7"
+ultima_actualizacion: "2026-07-29"
+version: "1.8"
 fuentes_integradas:
   - "[[2012-Chaste-Leboyer-autism-risk-factors]]"
   - "[[2025-Wang-understanding-autism]]"
@@ -23,6 +23,10 @@ fuentes_integradas:
   - "[[2025-Zhou-OPFR-autism-gene-networks]]"
   - "[[2025-Zheng-nigrostriatal-VPA-dopamine]]"
   - "[[2025-Patwardhan-social-salience-network-oxytocin]]"
+  - "[[2025-Sapey-Triomphe-MMN-meta-analysis]]"
+  - "[[2026-Chahrour-hidden-genetic-architecture]]"
+  - "[[2026-Ma-Shank3-oligodendrocyte-erk]]"
+  - "[[2025-Segura-connectome-symptom-mapping-asd-adhd]]"
 estado: revision
 resumen_ejecutivo: "Sinaptopatía, GER, inmune/hormonas/MGBA; LCOR↓ en DMN co-localiza con glutamato/GABA y se asemeja a ketamina (E/I). Subgrupos transcriptómicos-imagen (LEAP). Microbiota: correlación humana; prevención LGR-1 solo en ratones."
 preguntas_abiertas:
@@ -125,14 +129,34 @@ En el modelo murino de exposición prenatal a valproato, Zheng et al. identifica
 
 Zhou et al. muestran, en un diseño multi-ómico cross-species, que los **retardantes de llama organofosforados (OPFRs)** alteran redes de co-expresión génica que se superponen con genes de riesgo TEA durante el desarrollo ([@zhou2025]; [[2025-Zhou-OPFR-autism-gene-networks]]) — candidato preclínico de riesgo ambiental, ver también [[Cap-05-Etiologia]].
 
+### Conectividad funcional y comorbilidad TEA-TDAH
+
+Segura et al. muestran, en niños con autismo y/o TDAH, que la conectividad funcional entre el giro frontal medio y la corteza cingulada posterior se asocia con la **severidad** de síntomas de autismo —no con la etiqueta diagnóstica categórica— incluso en niños con TDAH sin autismo; los genes implicados en esta red de conectividad están enriquecidos para variantes de riesgo compartidas entre ambas condiciones ([@segura2025]; [[2025-Segura-connectome-symptom-mapping-asd-adhd]]; ver [[Cap-07-Comorbilidades]]).
+
+### Arquitectura genética oculta: secuenciación de lectura larga
+
+La secuenciación de genoma de lectura larga —capaz de detectar variación estructural, repeticiones en tándem y eventos mosaico-somáticos invisibles al short-read— revela que las variantes raras explican el 11,7% de la varianza del estatus de caso TEA, actuando principalmente mediante disrupción de la **regulación génica** (splicing, elementos reguladores no codificantes, metilación) más que de la secuencia codificante ([@chahrour2026]; [[2026-Chahrour-hidden-genetic-architecture]]; ver [[Cap-05-Etiologia]]).
+
+### Oligodendrocitos y mielinización (modelo Shank3)
+
+En el modelo murino Shank3Δ11(−/−), la deficiencia de Shank3 desregula el desarrollo de oligodendrocitos (mayor proliferación de precursores, menor maduración/mielinización) mediante hiperactivación de la vía **Erk**, dependiente del eje Wnt5a-Erk no canónico. La inhibición farmacológica de Erk (mirdametinib/PD0325901) restauró la maduración de oligodendrocitos, rescató la mielinización in vivo y mejoró parcialmente conductas tipo-autista y función motora — evidencia preclínica que vincula disfunción glial/de sustancia blanca con formas monogénicas de TEA relacionadas con *SHANK3* ([@ma2026shank3]; [[2026-Ma-Shank3-oligodendrocyte-erk]]; ver [[Cap-36-Farmacoterapia]]).
+
+### Codificación predictiva: mismatch negativity
+
+Un meta-análisis de 38 estudios de EEG sobre mismatch negativity (MMN) halla una interacción edad × diseño: niños/adolescentes autistas muestran MMN reducida en paradigmas multifeature (g=0,25), mientras que adultos autistas muestran MMN aumentada (g=-0,26), sin diferencias de latencia — un patrón compatible con errores de predicción alterados de forma dependiente de la edad, más que un déficit sensorial fijo ([@sapeytriomphe2025]; [[2025-Sapey-Triomphe-MMN-meta-analysis]]; ver [[Cap-18-Procesamiento-sensorial]], [[Cap-20-Teoria-de-la-mente]]).
+
 ### Perspectivas clave
 
-- **Evidencia clínica:** imagen (fMRI, DTI, MRS, PET) y EEG como candidatos a biomarcadores digitales — ver [[Cap-09-Herramientas-cribado]].
+- **Evidencia clínica:** imagen (fMRI, DTI, MRS, PET) y EEG como candidatos a biomarcadores digitales — ver [[Cap-09-Herramientas-cribado]]; conectividad y variantes genéticas raras convergen en modelos dimensionales de severidad compartidos entre TEA y TDAH.
 - **Experiencia vivida:** biomarcadores no definen identidad.
-- **Controversias:** causalidad de neuroinflamación y mtDNA.
+- **Controversias:** causalidad de neuroinflamación y mtDNA; traducibilidad de hallazgos preclínicos (oligodendrocitos, Erk) a formas idiopáticas de TEA.
 
 ## Referencias citadas
 
+- [@segura2025] — [[2025-Segura-connectome-symptom-mapping-asd-adhd]]
+- [@chahrour2026] — [[2026-Chahrour-hidden-genetic-architecture]]
+- [@ma2026shank3] — [[2026-Ma-Shank3-oligodendrocyte-erk]]
+- [@sapeytriomphe2025] — [[2025-Sapey-Triomphe-MMN-meta-analysis]]
 - [@seelemeyer2025] — [[2025-Seelemeyer-decomposing-brain-domains-LEAP]]
 - [@patwardhan2025] — [[2025-Patwardhan-social-salience-network-oxytocin]]
 - [@zheng2025] — [[2025-Zheng-nigrostriatal-VPA-dopamine]]

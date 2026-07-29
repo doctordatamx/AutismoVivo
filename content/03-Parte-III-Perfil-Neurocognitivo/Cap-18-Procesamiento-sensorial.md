@@ -6,11 +6,13 @@ titulo: "Procesamiento sensorial (hipo/hiper/búsqueda sensorial)"
 dg-publish: false
 dg-home: false
 dg-permalink: /capitulos/procesamiento-sensorial
-ultima_actualizacion: "2026-07-28"
-version: "1.1"
+ultima_actualizacion: "2026-07-29"
+version: "1.2"
 fuentes_integradas:
   - "[[2025-Seelemeyer-decomposing-brain-domains-LEAP]]"
   - "[[2025-Bai-biological-motion-systematic-review]]"
+  - "[[2026-Tavassoli-sensory-reactivity-review]]"
+  - "[[2025-Sapey-Triomphe-MMN-meta-analysis]]"
 estado: borrador
 resumen_ejecutivo: "El procesamiento sensorial atípico (ASP) tiene correlatos corticales dimensionales propios (LEAP), distintos de los de comunicación social o RRB. La percepción de movimiento biológico muestra dificultades concentradas en identificación/interpretación más que en detección básica, sugiriendo un componente perceptivo global."
 preguntas_abiertas:
@@ -41,11 +43,19 @@ En la cohorte EU-AIMS LEAP (N=428), el dominio ASP (medido con el Short Sensory 
 
 Una revisión sistemática de 51 estudios encuentra que las dificultades autistas para percibir movimiento biológico se concentran en tareas de **identificación/interpretación** de acciones más que en la **detección** básica del movimiento, donde muchos estudios no hallan diferencias con controles ([@bai2025]; [[2025-Bai-biological-motion-systematic-review]]). Esto sugiere un componente de procesamiento **perceptivo global** (integración forma-movimiento) que trasciende lo estrictamente social, relevante también para [[Cap-20-Teoria-de-la-mente]] y [[Cap-16-Interaccion-social]].
 
+### Sensibilidad sensorial e impacto en salud mental
+
+Una revisión multinivel (conductual, afectiva, perceptiva, fisiológica y neural) de Tavassoli et al. muestra que la **hiperreactividad sensorial** predice de forma consistente síntomas internalizantes (ansiedad, depresión), mientras que la **búsqueda sensorial** se asocia más a conductas externalizantes y puede funcionar como estrategia de autorregulación; los autores destacan también especificidad de dominio en la percepción sensorial (visual, auditiva, táctil) más que un patrón único de "hiper" o "hipo" reactividad generalizada ([@tavassoli2026]; [[2026-Tavassoli-sensory-reactivity-review]]; ver también [[Cap-07-Comorbilidades]]).
+
+### Mismatch negativity y codificación predictiva
+
+Un meta-análisis de 38 estudios de EEG sobre *mismatch negativity* (MMN, un índice de error de predicción auditiva) halla un patrón dependiente de la **edad**: niños y adolescentes autistas muestran MMN **reducida** en paradigmas multifeature (g=0,25), mientras que los adultos autistas muestran MMN **aumentada** (g=-0,26); los desviantes de fonema producen además una MMN significativamente menor en TEA (g=0,41), sin diferencias de latencia en ningún subanálisis ([@sapeytriomphe2025]; [[2025-Sapey-Triomphe-MMN-meta-analysis]]). Este patrón cambiante con la edad es compatible con teorías de codificación predictiva que postulan un error de predicción elevado en la adultez autista, contrastando con un posible hipo-prior en la infancia — una trayectoria de desarrollo cambiante más que un patrón sensorial fijo.
+
 ### Perspectivas clave
 
-- **Evidencia clínica:** ASP tiene correlatos corticales propios (LEAP); la percepción de acciones/movimiento biológico falla más en interpretación que en detección.
-- **Experiencia vivida:** hipo/hiper-sensibilidad sensorial es una fuente frecuente de agotamiento y sobrecarga cotidiana.
-- **Controversias y debates:** si el procesamiento sensorial atípico es causa, correlato o consecuencia de las dificultades sociales/comunicativas.
+- **Evidencia clínica:** ASP tiene correlatos corticales propios (LEAP); la percepción de acciones/movimiento biológico falla más en interpretación que en detección; hiperreactividad ligada a síntomas internalizantes; MMN muestra un patrón invertido niños/adultos, coherente con codificación predictiva dependiente de la edad.
+- **Experiencia vivida:** hipo/hiper-sensibilidad sensorial es una fuente frecuente de agotamiento y sobrecarga cotidiana; la búsqueda sensorial puede ser una estrategia activa de autorregulación, no solo un síntoma a eliminar.
+- **Controversias y debates:** si el procesamiento sensorial atípico es causa, correlato o consecuencia de las dificultades sociales/comunicativas; si los biomarcadores auditivos de "predicción" (como MMN) son generalizables entre grupos de edad.
 
 ### Preguntas abiertas
 
@@ -65,6 +75,8 @@ SORT fecha_captura DESC
 
 - [@seelemeyer2025] — [[2025-Seelemeyer-decomposing-brain-domains-LEAP]]
 - [@bai2025] — [[2025-Bai-biological-motion-systematic-review]]
+- [@tavassoli2026] — [[2026-Tavassoli-sensory-reactivity-review]]
+- [@sapeytriomphe2025] — [[2025-Sapey-Triomphe-MMN-meta-analysis]]
 
 ## Enlaces relacionados
 

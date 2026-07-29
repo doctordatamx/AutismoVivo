@@ -6,8 +6,8 @@ titulo: "Etiología: genética, epigenética, factores ambientales"
 dg-publish: true
 dg-home: false
 dg-permalink: /capitulos/etiologia
-ultima_actualizacion: "2026-07-28"
-version: "1.8"
+ultima_actualizacion: "2026-07-29"
+version: "1.9"
 fuentes_integradas:
   - "[[2012-Chaste-Leboyer-autism-risk-factors]]"
   - "[[2025-Wang-understanding-autism]]"
@@ -22,6 +22,9 @@ fuentes_integradas:
   - "[[2025-Mottron-asymmetric-developmental-bifurcations]]"
   - "[[2025-Zhou-OPFR-autism-gene-networks]]"
   - "[[2025-Hunt-DCIDE-evolutionary-autism]]"
+  - "[[2025-Chang-autism-dementia-family-sweden]]"
+  - "[[2026-Chahrour-hidden-genetic-architecture]]"
+  - "[[2024-Aishworiya-newborn-genetic-testing-ethics]]"
 estado: revision
 resumen_ejecutivo: "El TEA es altamente heredable. Convergen variantes raras y poligénicas; muchas actúan en la sinapsis y en el ENS. Ambiente prenatal (hormonas, MIA, asma materna OR≈1,3) converge en inmune–sinapsis–gut. Pruebas genéticas y terapias en síndromes/subtipos están en traslación."
 preguntas_abiertas:
@@ -149,6 +152,18 @@ Síntesis de Thapar & Rutter ([@thapar2021]; [[2021-Thapar-Rutter-genetic-advanc
 - Emergente: variantes de splicing / snRNA (*RNU4-2*, *RNU2-2*) en NDD con rasgos autistas ([@kim2025])
 - Impactos psicosociales del resultado: alivio/culpa/miedo mixtos en padres; adultos autistas destacan consentimiento y riesgo de discriminación — perspectivas **no** idénticas ([@wills2025]; [[2025-Wills-psychosocial-impacts-autism-genetic-testing]])
 
+### Arquitectura genética oculta: variación estructural y de repeticiones
+
+Un comentario de Chahrour sobre un estudio de secuenciación de genoma de **lectura larga** (long-read) —tecnología que accede a regiones repetitivas y complejas tradicionalmente invisibles al short-read— muestra que las variantes raras (estructurales + repeticiones en tándem + SNVs) explican el **11,7%** de la varianza del estatus de caso TEA (~7,4% de heredabilidad); sumando riesgo poligénico común, el total asciende a **13,8%** (~8,9%). Estas variantes alteran la regulación génica (splicing, elementos reguladores no codificantes, metilación) más que la secuencia codificante, sugiriendo que buena parte de la heredabilidad "perdida" del TEA refleja limitaciones tecnológicas previas más que ausencia real de señal genética ([@chahrour2026]; [[2026-Chahrour-hidden-genetic-architecture]]).
+
+### Riesgo familiar de demencia
+
+Un estudio de familias con registros poblacionales suecos halla co-agregación entre autismo y demencia: los padres de personas autistas presentan mayor riesgo de demencia (HR=1,36), en proporción al ADN compartido, lo que sugiere una base genética común aún no capturada por GWAS de variantes comunes ([@chang2025]; [[2025-Chang-autism-dementia-family-sweden]]; ver [[Cap-07-Comorbilidades]], [[Cap-27-Adultez-madura]]).
+
+### Cribado genético neonatal: un debate bioético
+
+Un análisis de ética médica examina si el cribado genético neonatal debería incluir autismo, concluyendo que el cribado poblacional **no está justificado** actualmente por la penetrancia variable de los genes de riesgo y la heterogeneidad fenotípica marcada; en su lugar, propone facilitar y subsidiar **pruebas diagnósticas** tras el diagnóstico clínico de autismo, especialmente relevantes para decisiones reproductivas de los padres ([@aishworiya2024]; [[2024-Aishworiya-newborn-genetic-testing-ethics]]; ver también [[Cap-10-Proceso-diagnostico]], [[Cap-57-Investigacion-etica]]).
+
 ### Genotipo–fenotipo y solapamientos
 
 El mismo CNV (p. ej. 16p11) o gen (*SHANK3*, *NRXN1*) puede asociarse a **autismo, esquizofrenia o TDAH** según contexto ([@chaste2012]). Hipótesis:
@@ -211,6 +226,9 @@ Más allá del modelo gen–ambiente clásico, dos propuestas teóricas reciente
 
 ## Referencias citadas en este capítulo
 
+- [@chahrour2026] — [[2026-Chahrour-hidden-genetic-architecture]]
+- [@chang2025] — [[2025-Chang-autism-dementia-family-sweden]]
+- [@aishworiya2024] — [[2024-Aishworiya-newborn-genetic-testing-ethics]]
 - [@mottron2025] — [[2025-Mottron-asymmetric-developmental-bifurcations]]
 - [@zhou2025] — [[2025-Zhou-OPFR-autism-gene-networks]]
 - [@hunt2025] — [[2025-Hunt-DCIDE-evolutionary-autism]]

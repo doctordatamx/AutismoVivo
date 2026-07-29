@@ -6,8 +6,8 @@ titulo: "¿Qué es el autismo? Conceptos, espectro y neurodiversidad"
 dg-publish: true
 dg-home: false
 dg-permalink: /capitulos/que-es-el-autismo
-ultima_actualizacion: "2026-07-28"
-version: "1.4"
+ultima_actualizacion: "2026-07-29"
+version: "1.5"
 fuentes_integradas:
   - "[[2026-07-28-neurodiversidad-autismo-piloto]]"
   - "[[2012-Chaste-Leboyer-autism-risk-factors]]"
@@ -15,6 +15,7 @@ fuentes_integradas:
   - "[[2025-Cusson-empathy-measures-meta-analysis]]"
   - "[[2025-Mottron-asymmetric-developmental-bifurcations]]"
   - "[[2025-Hunt-DCIDE-evolutionary-autism]]"
+  - "[[2026-Luyster-curiosity-creativity-autism]]"
 estado: publicado
 resumen_ejecutivo: "El autismo (TEA) es un perfil neurodesarrollado del espectro, con heterogeneidad clínica amplia. Clínicamente se define por comunicación social e intereses/conductas restringidas; etiologicamente es complejo (genes + ambiente). No equivale a un ‘trastorno de empatía’ global (meta-análisis 2025). Puede verse como categoría y como dimensión; la neurodiversidad añade una lente de derechos."
 preguntas_abiertas:
@@ -57,6 +58,10 @@ Instrumentos diagnósticos y modelos (p. ej. empathizing–systemizing / *extrem
 
 Dos propuestas teóricas recientes buscan reencuadrar qué "tipo de cosa" es el autismo. Mottron et al. sugieren que el autismo prototípico podría entenderse como una **bifurcación de desarrollo asimétrica (ADB)**: una de dos "ramas" categóricas estables de un sistema polarizado (sesgo social vs. su ausencia), agrupable con otras variantes humanas no patológicas como la gemelaridad o la lateralidad zurda, en lugar de una enfermedad clásica ([@mottron2025]; [[2025-Mottron-asymmetric-developmental-bifurcations]]). Desde una perspectiva evolutiva más formal, Hunt et al. desarrollan el marco **DCIDE** para evaluar hipótesis evolutivas y concluyen que las explicaciones de **nicho ecológico y sistematización** son más plausibles que la idea de "subproducto" de la inteligencia general, aunque reconocen que una fracción (~5–20%) de los casos podría ser no-adaptativa ([@hunt2025]; [[2025-Hunt-DCIDE-evolutionary-autism]]). Ambos marcos son conceptuales y dialogan con —sin reemplazar— la neurodiversidad y la evidencia etiológica ya presentada ([[Cap-05-Etiologia]]).
 
+### Curiosidad, creatividad y conductas restringidas/repetitivas
+
+Un artículo teórico de Luyster et al. cuestiona los supuestos de que la curiosidad y la creatividad están disminuidas o son simplemente "diferentes" en autismo, proponiendo reencuadrar conductas clásicamente catalogadas como "restringidas y repetitivas" —exploración sensorial, uso no convencional de objetos, intereses intensos— como posibles expresiones no reconocidas de ambas capacidades, en lugar de patologizarlas por defecto ([@luyster2026]; [[2026-Luyster-curiosity-creativity-autism]]; ver [[Cap-22-Fortalezas-cognitivas]]).
+
 ### Perspectivas clave
 
 - **Evidencia clínica:** Prevalencia en torno a ~1% en varias estimaciones modernas (ver [[Cap-04-Epidemiologia]]); diagnóstico conductual, sin biomarcador único ([@chaste2012]); empatía multidimensional, no déficit global ([@cusson2025]).
@@ -70,6 +75,7 @@ Dos propuestas teóricas recientes buscan reencuadrar qué "tipo de cosa" es el 
 
 ## Referencias citadas
 
+- [@luyster2026] — [[2026-Luyster-curiosity-creativity-autism]]
 - [@mottron2025] — [[2025-Mottron-asymmetric-developmental-bifurcations]]
 - [@hunt2025] — [[2025-Hunt-DCIDE-evolutionary-autism]]
 - [@cusson2025] — [[2025-Cusson-empathy-measures-meta-analysis]]

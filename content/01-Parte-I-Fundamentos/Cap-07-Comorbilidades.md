@@ -6,8 +6,8 @@ titulo: "Comorbilidades: TDAH, ansiedad, epilepsia, GI, sueño"
 dg-publish: true
 dg-home: false
 dg-permalink: /capitulos/comorbilidades
-ultima_actualizacion: "2026-07-28"
-version: "1.5"
+ultima_actualizacion: "2026-07-29"
+version: "1.6"
 fuentes_integradas:
   - "[[2012-Chaste-Leboyer-autism-risk-factors]]"
   - "[[2021-Thapar-Rutter-genetic-advances]]"
@@ -16,6 +16,11 @@ fuentes_integradas:
   - "[[2026-Cole-Happe-autism-FND-association]]"
   - "[[2026-Weissenkampen-sleep-activity-actimetry-autism]]"
   - "[[2025-Rubenstein-autism-down-syndrome-medicaid]]"
+  - "[[2025-Ren-adhd-presentation-recharge]]"
+  - "[[2025-Chang-autism-dementia-family-sweden]]"
+  - "[[2026-Tavassoli-sensory-reactivity-review]]"
+  - "[[2025-Segura-connectome-symptom-mapping-asd-adhd]]"
+  - "[[2026-Dickinson-aging-autism-systematic-review]]"
 estado: revision
 resumen_ejecutivo: "TEA coexiste con TDAH (OR≈22), DI, epilepsia, GI, FND y alteraciones de sueño/actividad (actimetría adulta: más sedentarismo, vínculo inactividad–menos sueño)."
 preguntas_abiertas:
@@ -47,6 +52,8 @@ Thapar & Rutter ([@thapar2021]) resumen:
 - DSM-5/CIE-11 permiten co-diagnóstico TEA–TDAH (antes a menudo excluyente)
 
 Implicación: la liability genética del TEA puede **manifestarse como TDAH** (u otro neurodesarrollado), no solo como TEA.
+
+El estudio longitudinal ReCHARGE (n=645, 8-20 años, seguimiento del CHARGE Study) cuantifica esta trayectoria: el diagnóstico temprano (2-5 años) de autismo predice fuertemente TDAH posterior, con un riesgo relativo de 5,4 para la presentación Combinada/Hiperactiva-Impulsiva y de 3,1 para cualquier presentación de TDAH; el 46,2% de los niños diagnosticados con autismo en la primera infancia cumplió criterios de TDAH en la adolescencia/adultez temprana ([@ren2025]; [[2025-Ren-adhd-presentation-recharge]]). A nivel neurobiológico, Segura et al. muestran que la conectividad funcional entre el giro frontal medio y la corteza cingulada posterior se asocia con la **severidad** de síntomas de autismo —no con la etiqueta diagnóstica— incluso en niños con TDAH sin autismo, y que los genes implicados en esta red de conectividad están enriquecidos para variantes de riesgo compartidas entre TEA y TDAH ([@segura2025]; [[2025-Segura-connectome-symptom-mapping-asd-adhd]]), reforzando la idea de una biología dimensional compartida más que categorías discretas.
 
 ### Discapacidad intelectual
 
@@ -106,11 +113,19 @@ Cole et al. ([@cole2026]; [[2026-Cole-Happe-autism-FND-association]]) revisan la
 *Figura. Cuentas de predictive processing y vulnerabilidad TEA–FND. ([@cole2026]; licencia CC BY 4.0).*
 
 
+### Sensibilidad sensorial y salud mental
+
+Tavassoli et al. revisan evidencia multinivel (conductual, afectiva, perceptiva, fisiológica, neural) mostrando que la **hiperreactividad sensorial** predice síntomas internalizantes (ansiedad, depresión), mientras que la búsqueda sensorial se asocia más a conductas externalizantes y puede funcionar como estrategia de autorregulación ([@tavassoli2026]; [[2026-Tavassoli-sensory-reactivity-review]]); ver detalle mecanístico en [[Cap-18-Procesamiento-sensorial]].
+
+### Envejecimiento y demencia
+
+Un estudio de familias con registros poblacionales suecos (>3,3 millones de individuos, 88.343 con autismo) halla que los **padres** de personas autistas tienen mayor riesgo de demencia (HR=1,36), más marcado en madres (HR=1,51); el efecto se atenúa en abuelos y tíos/tías, proporcional al porcentaje de ADN compartido, sugiriendo co-agregación familiar de causa genética aún no identificada por GWAS de variantes comunes ([@chang2025]; [[2025-Chang-autism-dementia-family-sweden]]). Esto no implica necesariamente mayor riesgo de demencia en las propias personas autistas: una revisión sistemática de 56 estudios sobre envejecimiento en adultos autistas **no** halla evidencia de deterioro cognitivo objetivo generalizado ni acelerado, aunque sí identifica quejas cognitivas subjetivas consistentemente elevadas y vulnerabilidades focalizadas en integridad de sustancia blanca y ciertos desenlaces cardiovasculares ([@dickinson2026]; [[2026-Dickinson-aging-autism-systematic-review]]; ver [[Cap-27-Adultez-madura]]).
+
 ### Perspectivas clave
 
-- **Evidencia clínica:** co-agregación TEA–TDAH muy robusta; GI frecuente y multifactorial; FND en radar clínico.
+- **Evidencia clínica:** co-agregación TEA–TDAH muy robusta (incluso a nivel neurobiológico dimensional); GI frecuente y multifactorial; FND en radar clínico; envejecimiento sin evidencia de deterioro cognitivo generalizado pero con vulnerabilidades focalizadas.
 - **Experiencia vivida:** tratar TDAH/epilepsia/GI/FND puede cambiar calidad de vida sin “tratar el autismo”.
-- **Controversias:** ¿comorbilidad o espectro neurodesarrollado único?; ¿intestino causa rasgos TEA o vías compartidas?
+- **Controversias:** ¿comorbilidad o espectro neurodesarrollado único?; ¿intestino causa rasgos TEA o vías compartidas?; ¿riesgo familiar de demencia refleja genética compartida o factores de cuidado/estrés?
 
 ## Referencias citadas
 
@@ -121,6 +136,11 @@ Cole et al. ([@cole2026]; [[2026-Cole-Happe-autism-FND-association]]) revisan la
 - [@robas2025] — [[2025-Robas-Stern-digestive-neurobiology-ens]]
 - [@thapar2021] — [[2021-Thapar-Rutter-genetic-advances]]
 - [@chaste2012] — [[2012-Chaste-Leboyer-autism-risk-factors]]
+- [@ren2025] — [[2025-Ren-adhd-presentation-recharge]]
+- [@chang2025] — [[2025-Chang-autism-dementia-family-sweden]]
+- [@tavassoli2026] — [[2026-Tavassoli-sensory-reactivity-review]]
+- [@segura2025] — [[2025-Segura-connectome-symptom-mapping-asd-adhd]]
+- [@dickinson2026] — [[2026-Dickinson-aging-autism-systematic-review]]
 
 ```dataview
 LIST
