@@ -70,4 +70,4 @@ El código que Ko-fi da con `<script>...kofiwidget2.init...</script>` **no se pu
 
 Este libro es de **acceso libre**. Las donaciones son voluntarias y no condicionan el contenido ni la perspectiva editorial (ver [[criterios-editoriales]]).
 
-← Volver a la [[00-Portada|portada]] · [[00-Indice|índice]]
+← Volver a la [[00-Portada|portada]] · [[01-Indice|índice]]

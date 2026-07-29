@@ -42,6 +42,24 @@ Este libro vivo nació por ti y para ti. Es el testimonio de mi búsqueda por co
 
 ### Capítulos actualizados recientemente
 
+
+
+
+<div class="web-only">
+
+| Capítulo | Fecha | Ver. |
+| --- | --- | --- |
+| [[Cap-58-Fronteras-investigacion|Capítulo 58 — Fronteras de investigación y preguntas abiertas]] | 2026-07-28 | 1.1 |
+| [[Cap-51-Autodefensa-neurodiversidad|Capítulo 51 — Movimiento de autodefensa y neurodiversidad]] | 2026-07-28 | 1.3 |
+| [[Cap-50-Autocuidado-burnout|Capítulo 50 — Autocuidado, límites y prevención del burnout]] | 2026-07-28 | 1.1 |
+| [[Cap-47-Salud-mental|Capítulo 47 — Salud mental: ansiedad, depresión, trauma, suicidio]] | 2026-07-28 | 1.1 |
+| [[Cap-36-Farmacoterapia|Capítulo 36 — Farmacoterapia (síntomas asociados, no curar autismo)]] | 2026-07-28 | 1.2 |
+| [[Cap-29-Principios-intervencion|Capítulo 29 — Principios de intervención basada en evidencia]] | 2026-07-28 | 1.1 |
+| [[Cap-21-Enmascaramiento|Capítulo 21 — Enmascaramiento (camouflaging), agotamiento y burnout autista]] | 2026-07-28 | 1.1 |
+| [[Cap-20-Teoria-de-la-mente|Capítulo 20 — Teoría de la mente, empatía y perspectiva autista]] | 2026-07-28 | 1.1 |
+
+</div>
+
 ```dataview
 TABLE ultima_actualizacion AS "Fecha", version AS "Ver."
 FROM "02-Libro"
@@ -56,9 +74,9 @@ LIMIT 8
 
 Este libro sintetiza artículos, papers y fuentes curadas sobre autismo. No es un texto cerrado: los capítulos se revisan cuando entra evidencia nueva, con citas y metodología transparente.
 
-> Las fuentes se capturan, se resumen con apoyo de IA y se integran a los capítulos bajo criterios editoriales explícitos. Ver [[criterios-editoriales]] y [[00-Indice|tabla de contenidos]].
+> Las fuentes se capturan, se resumen con apoyo de IA y se integran a los capítulos bajo criterios editoriales explícitos. Ver [[criterios-editoriales]] y [[01-Indice|tabla de contenidos]].
 
-**Empieza por:** [[00-Indice|Índice completo del libro]] · [[Cap-01-Que-es-el-autismo|Capítulo 01 — ¿Qué es el autismo?]] · [[Cap-05-Etiologia|Capítulo 05 — Etiología]]
+**Empieza por:** [[01-Indice|Índice completo del libro]] · [[Cap-01-Que-es-el-autismo|Capítulo 01 — ¿Qué es el autismo?]] · [[Cap-05-Etiologia|Capítulo 05 — Etiología]]
 
 ---
 
@@ -76,7 +94,7 @@ El *Libro Vivo sobre Autismo* es de acceso abierto. Si te es útil, puedes apoya
 
 ## Navegación
 
-- [[00-Indice|Tabla de contenidos]]
+- [[01-Indice|Tabla de contenidos]]
 - [[Apendice-A-Glosario|Glosario]]
 - [[Apendice-D-Bibliografia|Bibliografía]]
 - [[Apendice-E-Changelog|Historial de actualizaciones]]

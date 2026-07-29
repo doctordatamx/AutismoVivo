@@ -20,6 +20,7 @@ Plugin: **Citations** — ver [[plugin-citations]].
 
 | Citekey | Autores | Año | Nota |
 |---------|---------|-----|------|
+| `ali2025` | Ali, Bougoure et al. | 2025 | [[2025-Ali-Bougoure-autistic-burnout-review]] |
 | `cusson2025` | Cusson et al. | 2025 | [[2025-Cusson-empathy-measures-meta-analysis]] |
 | `kim2025` | Kim & An | 2025 | [[2025-Kim-An-precision-diagnosis-genomics]] |
 | `wang2025` | Wang et al. | 2025 | [[2025-Wang-understanding-autism]] |

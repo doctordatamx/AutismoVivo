@@ -18,7 +18,7 @@ Registro detallado (vault): [[changelog-libro]]
 
 ## Última publicación
 
-**28 de julio de 2026** — Ingesta Cusson et al. 2025 (*empatía y medidas*); Cap-01, Cap-11, Cap-16, Cap-20, Cap-51. Antes: Kim & An 2025, Thapar 2021, Wang 2025, Chaste 2012.
+**28 de julio de 2026** — Ingesta Ali & Bougoure et al. 2025 (*burnout autista*); Cap-21, Cap-47, Cap-50, Cap-51. Antes: Cusson empatía, Kim genómica, Thapar, Wang, Chaste.
 
 ## Capítulos con fecha de actualización
 
@@ -29,4 +29,4 @@ WHERE tipo = "capitulo" AND ultima_actualizacion != ""
 SORT ultima_actualizacion DESC
 ```
 
-← [[00-Portada|Portada]] · [[00-Indice|Índice]]
+← [[00-Portada|Portada]] · [[01-Indice|Índice]]
