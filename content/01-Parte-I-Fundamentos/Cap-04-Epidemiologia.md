@@ -7,13 +7,16 @@ dg-publish: true
 dg-home: false
 dg-permalink: /capitulos/epidemiologia
 ultima_actualizacion: "2026-07-28"
-version: "1.2"
+version: "1.3"
 fuentes_integradas:
   - "[[2012-Chaste-Leboyer-autism-risk-factors]]"
   - "[[2025-Wang-understanding-autism]]"
+  - "[[2025-Veilleux-Ismail-autism-hormones-immune-gut]]"
+  - "[[2025-van-der-Schaaf-maternal-asthma-autism-meta]]"
+  - "[[2025-Rubenstein-autism-down-syndrome-medicaid]]"
 estado: revision
 autor_libro: "Dr. Fernando Avalos Reyes"
-resumen_ejecutivo: "La prevalencia reportada del TEA sigue subiendo. Estimaciones globales ~1/100 niños; en vigilancia ADDM (EE.UU., 2020) alcanzó 2,76% (~1 de cada 36) en 0–8 años, frente a ~1/88 citado en revisiones de 2012. Parte del aumento se explica por criterios, conciencia y acceso; no se descarta contribución ambiental. Hay fuertes inequidades por país, raza/etnia y SES."
+resumen_ejecutivo: "La prevalencia reportada del TEA sigue subiendo. Estimaciones globales ~1/100 niños; ADDM EE.UU. 2020 ~1/36. Ratio H:M ~3,8–4:1 (variable por país/CI; subdiagnóstico femenino). Factores ambientales prenatales (p. ej. asma materna OR≈1,3) aportan riesgo poblacional modesto junto a genética."
 preguntas_abiertas:
   - "¿Qué fracción del aumento 2000–2020 es artefacto vs. incidencia real?"
   - "¿Cómo mejorar vigilancia en países de bajos ingresos donde la prevalencia es desconocida?"
@@ -68,7 +71,23 @@ Factores documentados ([@wang2025]; [@chaste2012]):
 
 ### Sexo
 
-Ratio clásico ~**4:1**; ADDM 2020 **3,8:1**. La brecha podría estrecharse: subdiagnóstico femenino, presentación más sutil, sesgo social hacia diagnosticar varones ([@wang2025]; ver [[Cap-11-Diagnostico-mujeres]]).
+Ratio clásico ~**4:1**; ADDM 2020 **3,8:1**. La brecha podría estrecharse: subdiagnóstico femenino, presentación más sutil, sesgo social hacia diagnosticar varones ([@wang2025]; ver [[Cap-11-Diagnostico-mujeres]]). El ratio varía por país (p. ej. ~2:1 Corea vs ~6:1 Taiwán) y por CI (más cercano a 1:1 con DI grave) ([@veilleux2025]; [[2025-Veilleux-Ismail-autism-hormones-immune-gut]]).
+
+### Factores de riesgo poblacionales (ejemplo)
+
+Meta-análisis de asma materna (19 estudios, ~2,53M; [@vanderschaf2025]; [[2025-van-der-Schaaf-maternal-asthma-autism-meta]]): **OR = 1,32** (IC 1,21–1,44) para cualquier historia de asma; **OR = 1,23** si asma durante el embarazo. El exceso con medicación antiasmática vs. no-asma se atenúa al comparar medicadas vs. asmáticas sin medicación — apunta más a la enfermedad materna que al fármaco. Detalle etiológico: [[Cap-05-Etiologia]].
+
+![PRISMA asma materna–TEA](assets/figures/Cap-04/vanderschaf2025-fig1-prisma.png)
+
+*Figura. Diagrama PRISMA de la revisión sistemática asma materna–TEA. ([@vanderschaf2025]; licencia CC BY 4.0).*
+
+![Forest plot asma materna](assets/figures/Cap-04/vanderschaf2025-fig2-forest-asthma.png)
+
+*Figura. Forest plot: odds de TEA infantil con cualquier historia de asma materna. ([@vanderschaf2025]; licencia CC BY 4.0).*
+
+### Prevalencia en poblaciones específicas: síndrome de Down
+
+Un estudio de reclamaciones Medicaid de EE.UU. (2011–2019, N=519.450 adultos) muestra que la prevalencia de TEA condicional a tener **síndrome de Down** subió de **4,1% a 6,6%** en ese período, con el mayor incremento en adultos jóvenes (18–25 años, 3,9%→8,7%). El grupo con doble diagnóstico (Down+TEA) presentó los costos y la utilización de servicios más altos de los tres grupos comparados ([@rubenstein2025]; [[2025-Rubenstein-autism-down-syndrome-medicaid]]). Detalle de comorbilidad asociada: [[Cap-07-Comorbilidades]].
 
 ### Perspectivas clave
 
@@ -83,6 +102,9 @@ Ratio clásico ~**4:1**; ADDM 2020 **3,8:1**. La brecha podría estrecharse: sub
 
 ## Referencias citadas
 
+- [@rubenstein2025] — [[2025-Rubenstein-autism-down-syndrome-medicaid]]
+- [@vanderschaf2025] — [[2025-van-der-Schaaf-maternal-asthma-autism-meta]]
+- [@veilleux2025] — [[2025-Veilleux-Ismail-autism-hormones-immune-gut]]
 - [@wang2025] — [[2025-Wang-understanding-autism]]
 - [@chaste2012] — [[2012-Chaste-Leboyer-autism-risk-factors]]
 

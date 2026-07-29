@@ -18,7 +18,7 @@ Registro detallado (vault): [[changelog-libro]]
 
 ## Última publicación
 
-**28 de julio de 2026** — Ingesta Ali & Bougoure et al. 2025 (*burnout autista*); Cap-21, Cap-47, Cap-50, Cap-51. Antes: Cusson empatía, Kim genómica, Thapar, Wang, Chaste.
+**28 de julio de 2026** — Ingesta masiva (24 fuentes en registro): Anderson, Mitchell (crítica microbiota), Ma VR, Sandham; Wills, Doherty CAM, Verkooijen, Weissenkampen, Grumbach/Leyhausen, Yang LGR-1; hormonas, asma, MGBA, FND, oxitocina, ENS, sinapsis. Cap-04–07, 10, 32, 36–38, 47, 51, 58.
 
 ## Capítulos con fecha de actualización
 

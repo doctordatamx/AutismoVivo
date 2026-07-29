@@ -20,6 +20,24 @@ Plugin: **Citations** — ver [[plugin-citations]].
 
 | Citekey | Autores | Año | Nota |
 |---------|---------|-----|------|
+| `anderson2026` | Anderson | 2026 | [[2026-Anderson-STAT3-NFkB-melatonergic-ASD]] |
+| `mitchell2025` | Mitchell, Dahly, Bishop | 2025 | [[2025-Mitchell-Bishop-microbiome-autism-critique]] |
+| `ma2025vr` | Ma & Song | 2025 | [[2025-Ma-Song-VR-motion-serious-game-RCT]] |
+| `sandham2025` | Sandham et al. | 2025 | [[2025-Sandham-translatability-communication-interventions]] |
+| `wills2025` | Wills, Appelbaum et al. | 2025 | [[2025-Wills-psychosocial-impacts-autism-genetic-testing]] |
+| `doherty2025` | Doherty, Foley, Schloss | 2025 | [[2025-Doherty-CAM-autism-systematic-review]] |
+| `verkooijen2026` | Verkooijen et al. | 2026 | [[2026-Verkooijen-peer-support-autism-review]] |
+| `grumbach2025` | Grumbach et al. | 2025 | [[2025-Grumbach-local-activity-neurotransmitters-ketamine]] |
+| `leyhausen2026` | Leyhausen et al. | 2026 | [[2026-Leyhausen-transcriptomic-subgroup-IDP-autism]] |
+| `weissenkampen2026` | Weissenkampen et al. | 2026 | [[2026-Weissenkampen-sleep-activity-actimetry-autism]] |
+| `yang2025lgr1` | Yang et al. | 2025 | [[2025-Yang-LGR1-prenatal-microbiome-autism-mice]] |
+| `zabetakis2026` | Zabetakis & Grabrucker | 2026 | [[2026-Zabetakis-Grabrucker-synaptic-protein-mutations]] |
+| `boulton2026` | Boulton & Guastella | 2026 | [[2026-Boulton-Guastella-oxytocin-precision-medicine]] |
+| `cole2026` | Cole, Happé et al. | 2026 | [[2026-Cole-Happe-autism-FND-association]] |
+| `robas2025` | Robas, Stern et al. | 2025 | [[2025-Robas-Stern-digestive-neurobiology-ens]] |
+| `zhang2025mgba` | Zhang et al. | 2025 | [[2025-Zhang-microbiota-gut-brain-axis-autism]] |
+| `vanderschaf2025` | van der Schaaf et al. | 2025 | [[2025-van-der-Schaaf-maternal-asthma-autism-meta]] |
+| `veilleux2025` | Veilleux, Ismail et al. | 2025 | [[2025-Veilleux-Ismail-autism-hormones-immune-gut]] |
 | `ali2025` | Ali, Bougoure et al. | 2025 | [[2025-Ali-Bougoure-autistic-burnout-review]] |
 | `cusson2025` | Cusson et al. | 2025 | [[2025-Cusson-empathy-measures-meta-analysis]] |
 | `kim2025` | Kim & An | 2025 | [[2025-Kim-An-precision-diagnosis-genomics]] |

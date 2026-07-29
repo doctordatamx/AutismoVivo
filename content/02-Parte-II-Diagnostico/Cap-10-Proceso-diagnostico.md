@@ -11,6 +11,7 @@ version: "1.2"
 fuentes_integradas:
   - "[[2021-Thapar-Rutter-genetic-advances]]"
   - "[[2025-Kim-An-precision-diagnosis-genomics]]"
+  - "[[2025-Wills-psychosocial-impacts-autism-genetic-testing]]"
 estado: revision
 resumen_ejecutivo: "El diagnóstico de TEA es clínico (historia + observación estandarizada). Instrumentos rigurosos (ADI/ADOS) son valiosos, pero no debe retrasarse la intervención por fronteras diagnósticas perfectas. Microarray/WES/WGS se indican según comorbilidad; PS (~2% liability) aún sin utilidad clínica rutinaria. Interpretación: umbral rara+poligénica, snRNA emergentes."
 preguntas_abiertas:
@@ -50,6 +51,10 @@ El diagnóstico de TEA es **clínico** (historia + observación estandarizada). 
 - **Evidencia clínica:** diagnóstico conductual sigue siendo estándar; genómica es **complemento** etiológico.
 - **Experiencia vivida:** demoras diagnósticas dañan; rigor ≠ interminable.
 - **Controversias:** testing genético universal vs. selectivo; sesgo ancestral en PS.
+
+### Resultados genéticos: impactos psicosociales
+
+Wills et al. ([@wills2025]; [[2025-Wills-psychosocial-impacts-autism-genetic-testing]]): al devolver resultados genéticos relacionados con TEA, padres reportan emociones mixtas (alivio/culpa/miedo) y a veces cambios en cuidado o planificación familiar; adultos autistas enfatizan **consentimiento** y riesgo de **discriminación**. Consejería: sopesar perspectivas parentales y de personas autistas.
 
 ## Referencias citadas
 

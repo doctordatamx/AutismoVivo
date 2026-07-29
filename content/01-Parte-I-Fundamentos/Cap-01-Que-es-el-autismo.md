@@ -13,6 +13,8 @@ fuentes_integradas:
   - "[[2012-Chaste-Leboyer-autism-risk-factors]]"
   - "[[2021-Thapar-Rutter-genetic-advances]]"
   - "[[2025-Cusson-empathy-measures-meta-analysis]]"
+  - "[[2025-Mottron-asymmetric-developmental-bifurcations]]"
+  - "[[2025-Hunt-DCIDE-evolutionary-autism]]"
 estado: publicado
 resumen_ejecutivo: "El autismo (TEA) es un perfil neurodesarrollado del espectro, con heterogeneidad clínica amplia. Clínicamente se define por comunicación social e intereses/conductas restringidas; etiologicamente es complejo (genes + ambiente). No equivale a un ‘trastorno de empatía’ global (meta-análisis 2025). Puede verse como categoría y como dimensión; la neurodiversidad añade una lente de derechos."
 preguntas_abiertas:
@@ -51,6 +53,10 @@ La neurodiversidad, acuñada por Judy Singer en los años 90, propone que variac
 
 Instrumentos diagnósticos y modelos (p. ej. empathizing–systemizing / *extreme male brain*) han tratado la empatía reducida como rasgo nuclear. Un meta-análisis de **226 estudios** ([@cusson2025]; [[2025-Cusson-empathy-measures-meta-analysis]]) matiza: empatía **cognitiva** reducida (efecto grande), empatía **afectiva** solo ligeramente menor (y no significativa en estudios de alta calidad). Medidas unidimensionales como el EQ **inflan** la impresión de déficit. Conclusión: no reducir el TEA a “falta de empatía”. Detalle: [[Cap-20-Teoria-de-la-mente]].
 
+### ¿Enfermedad, diferencia o variante evolutiva?
+
+Dos propuestas teóricas recientes buscan reencuadrar qué "tipo de cosa" es el autismo. Mottron et al. sugieren que el autismo prototípico podría entenderse como una **bifurcación de desarrollo asimétrica (ADB)**: una de dos "ramas" categóricas estables de un sistema polarizado (sesgo social vs. su ausencia), agrupable con otras variantes humanas no patológicas como la gemelaridad o la lateralidad zurda, en lugar de una enfermedad clásica ([@mottron2025]; [[2025-Mottron-asymmetric-developmental-bifurcations]]). Desde una perspectiva evolutiva más formal, Hunt et al. desarrollan el marco **DCIDE** para evaluar hipótesis evolutivas y concluyen que las explicaciones de **nicho ecológico y sistematización** son más plausibles que la idea de "subproducto" de la inteligencia general, aunque reconocen que una fracción (~5–20%) de los casos podría ser no-adaptativa ([@hunt2025]; [[2025-Hunt-DCIDE-evolutionary-autism]]). Ambos marcos son conceptuales y dialogan con —sin reemplazar— la neurodiversidad y la evidencia etiológica ya presentada ([[Cap-05-Etiologia]]).
+
 ### Perspectivas clave
 
 - **Evidencia clínica:** Prevalencia en torno a ~1% en varias estimaciones modernas (ver [[Cap-04-Epidemiologia]]); diagnóstico conductual, sin biomarcador único ([@chaste2012]); empatía multidimensional, no déficit global ([@cusson2025]).
@@ -64,6 +70,8 @@ Instrumentos diagnósticos y modelos (p. ej. empathizing–systemizing / *extrem
 
 ## Referencias citadas
 
+- [@mottron2025] — [[2025-Mottron-asymmetric-developmental-bifurcations]]
+- [@hunt2025] — [[2025-Hunt-DCIDE-evolutionary-autism]]
 - [@cusson2025] — [[2025-Cusson-empathy-measures-meta-analysis]]
 - [@thapar2021] — [[2021-Thapar-Rutter-genetic-advances]]
 - [@chaste2012] — [[2012-Chaste-Leboyer-autism-risk-factors]]

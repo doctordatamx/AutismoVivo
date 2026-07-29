@@ -7,14 +7,23 @@ dg-publish: true
 dg-home: false
 dg-permalink: /capitulos/etiologia
 ultima_actualizacion: "2026-07-28"
-version: "1.4"
+version: "1.8"
 fuentes_integradas:
   - "[[2012-Chaste-Leboyer-autism-risk-factors]]"
   - "[[2025-Wang-understanding-autism]]"
   - "[[2021-Thapar-Rutter-genetic-advances]]"
   - "[[2025-Kim-An-precision-diagnosis-genomics]]"
+  - "[[2026-Zabetakis-Grabrucker-synaptic-protein-mutations]]"
+  - "[[2025-Robas-Stern-digestive-neurobiology-ens]]"
+  - "[[2025-Veilleux-Ismail-autism-hormones-immune-gut]]"
+  - "[[2025-van-der-Schaaf-maternal-asthma-autism-meta]]"
+  - "[[2025-Wills-psychosocial-impacts-autism-genetic-testing]]"
+  - "[[2026-Leyhausen-transcriptomic-subgroup-IDP-autism]]"
+  - "[[2025-Mottron-asymmetric-developmental-bifurcations]]"
+  - "[[2025-Zhou-OPFR-autism-gene-networks]]"
+  - "[[2025-Hunt-DCIDE-evolutionary-autism]]"
 estado: revision
-resumen_ejecutivo: "El TEA es altamente heredable. Convergen variantes raras (WES/WGS; ~72–102 genes de alta confianza según umbral FDR) y carga poligénica (PS ≈2% de liability). WGS añade no-codificante (enhancers, STRs ~2.6–4%). Modelo de umbral: distintas combinaciones rara+común cruzan el diagnóstico. Ambiente prenatal también relevante. Pruebas genéticas y terapias génicas en síndromes están en traslación temprana."
+resumen_ejecutivo: "El TEA es altamente heredable. Convergen variantes raras y poligénicas; muchas actúan en la sinapsis y en el ENS. Ambiente prenatal (hormonas, MIA, asma materna OR≈1,3) converge en inmune–sinapsis–gut. Pruebas genéticas y terapias en síndromes/subtipos están en traslación."
 preguntas_abiertas:
   - "¿Cómo reconciliar heredabilidad alta con aumento de prevalencia y factores ambientales?"
   - "¿Cuándo integrar PS + variantes raras en consejería clínica con equidad ancestral?"
@@ -29,7 +38,7 @@ bibliography: "03-Datos/references.bib"
 
 ## Resumen ejecutivo
 
-El TEA es **altamente heredable** (meta-análisis de gemelos **64–91%**; mediana **~81%** en cinco países) con **ambiente compartido negligible** en esos diseños ([@thapar2021]; [[2021-Thapar-Rutter-genetic-advances]]), a la vez que revisiones recientes enfatizan exposiciones prenatales ([@wang2025]). Contribuyen variantes **comunes** (pequeño efecto) y **raras** (gran efecto). SFARI ~1231 genes; ~75–80% sin mutación monogénica/CNV clara ([@wang2025]). Sin vínculo causal con vacunas ([@chaste2012]).
+El TEA es **altamente heredable** (meta-análisis de gemelos **64–91%**; mediana **~81%** en cinco países) con **ambiente compartido negligible** en esos diseños ([@thapar2021]; [[2021-Thapar-Rutter-genetic-advances]]), a la vez que revisiones recientes enfatizan exposiciones prenatales ([@wang2025]). Contribuyen variantes **comunes** (pequeño efecto) y **raras** (gran efecto). Muchas actúan en la **sinapsis** (enriquecimiento ~10× en el proteoma SynGO; [@zabetakis2026]); parte del genoma ASD se expresa también en el **ENS** (~387 genes; [@robas2025]). SFARI ~1231 genes; ~75–80% sin mutación monogénica/CNV clara ([@wang2025]). Sin vínculo causal con vacunas ([@chaste2012]).
 
 ## Contenido
 
@@ -69,11 +78,11 @@ Kim y An ([@kim2025]) sintetizan:
 
 ### Controversia genes vs. ambiente (síntesis del libro)
 
-| Postura | Mensaje | Fuente |
-|---------|---------|--------|
-| Gemelos/familia | Heredabilidad alta; ambiente **compartido** negligible | [@thapar2021] |
-| Revisiones ambientales | Diabetes, hormonas, contaminantes, edad parental | [@wang2025]; [@chaste2012] |
-| Puente | Ambiente **no compartido**, correlación G×E, exposiciones que pueden correlacionarse con genética parental; G×E convincente en humanos aún escasa | [@thapar2021]; [@chaste2012] |
+| Postura                | Mensaje                                                                                                                                           | Fuente                       |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
+| Gemelos/familia        | Heredabilidad alta; ambiente **compartido** negligible                                                                                            | [@thapar2021]                |
+| Revisiones ambientales | Diabetes, hormonas, contaminantes, edad parental                                                                                                  | [@wang2025]; [@chaste2012]   |
+| Puente                 | Ambiente **no compartido**, correlación G×E, exposiciones que pueden correlacionarse con genética parental; G×E convincente en humanos aún escasa | [@thapar2021]; [@chaste2012] |
 
 No presentar una sola narrativa: **ambas líneas de evidencia** son parte del estado del conocimiento.
 
@@ -88,12 +97,25 @@ La identificación de alelos específicos ha iluminado mecanismos, sobre todo la
 | *NRXN1*, vía NLGN–NRXN–SHANK | Formación y mantenimiento sináptico | [@chaste2012] |
 | CNVs 15q11-q13, **16p11.2** | Rearrangements recurrentes | [@sebat2007]; [@chaste2012] |
 | Exoma: nonsense de novo 2–4× | Carga mutacional; vínculo con edad paterna | [@chaste2012] |
+| Proteoma sináptico (SynGO ∩ SFARI) | **380** proteínas ASD-linked de 1112 SynGO; OR ≈ **10,2**; ~251 post / ~149 pre | [@zabetakis2026] |
 
 Se estiman **>234 loci** contribuyentes en estimaciones tempranas ([@chaste2012]); bases actuales como **SFARI Gene** listan **~1231 genes** de riesgo y **17 loci CNV** recurrentes ([@wang2025]; [[2025-Wang-understanding-autism]]). Tabla histórica de CNVs: [[Tabla-CNV-genes-sinapticos-chaste2012]].
 
+Zabetakis y Grabrucker ([@zabetakis2026]; [[2026-Zabetakis-Grabrucker-synaptic-protein-mutations]]) enmarcan gran parte del riesgo como **sinaptopatía**: genes y exposiciones prenatales (p. ej. VPA, inflamación materna, zinc) convergen en proteínas y procesos sinápticos; vías núcleo **NRXN–NLGN–SHANK** y **mTOR/PI3K** (detalle en [[Cap-06-Neurobiologia]]).
+
+Muchos genes ASD se expresan también en el **sistema nervioso entérico** (~**387** genes GWAS∩GTEx ENS; [@robas2025]; [[2025-Robas-Stern-digestive-neurobiology-ens]]): modelos de *SHANK3*, *NLGN3*, *CNTNAP2*, *CHD8*, *DYRK1A*, etc. alteran motilidad y plexos entéricos — puente etiológico con la comorbilidad GI ([[Cap-07-Comorbilidades]]).
+
+![Vías ASD∩ENS](assets/figures/Cap-05/robas2025-fig3-ens-pathways.jpg)
+
+*Figura. Enriquecimiento de vías de genes ASD-asociados expresados en el ENS. ([@robas2025]; licencia CC BY 4.0).*
+
+![Forest asma materna](assets/figures/Cap-05/vanderschaf2025-fig2-forest-asthma.png)
+
+*Figura. Asma materna y odds de TEA infantil (meta-análisis). ([@vanderschaf2025]; licencia CC BY 4.0).*
+
 Aun así, ~**75–80%** de personas con TEA **no** tienen una mutación monogénica o CNV claramente identificable → modelo multifactorial ([@wang2025]).
 
-Bases de datos: SFARI Gene, AutDB ([@chaste2012]; [@wang2025]).
+Bases de datos: SFARI Gene, AutDB, SynGO ([@chaste2012]; [@wang2025]; [@zabetakis2026]).
 
 ### Actualización ambiental (Wang et al. 2025)
 
@@ -103,13 +125,17 @@ Factores tempranos con peso creciente en la literatura reciente ([@wang2025]; [[
 |--------|----------------------------------|
 | Edad parental avanzada | Madre ≥40, padre ≥50; mutaciones de novo + epigenética (esperma/mtDNA) |
 | Diabetes materna / gestacional | Inmune, ROS, SOD2, mitocondria, epigenética (p. ej. *OR2L13*) |
-| Hormonas / PCOS | Andrógenos, estradiol, progesterona; ERβ, OXT, RORA; sesgo masculino |
+| Hormonas / PCOS | Andrógenos, estradiol, progesterona; ERβ, OXT, RORA; sesgo masculino ([@wang2025]; [@veilleux2025]) |
 | Infecciones + antibióticos | CMV, influenza, etc.; penicilina temprana asociada en un estudio (OR~1,6) |
 | Contaminantes | PM2.5, NO₂, metales, glifosato, ftalatos, microplásticos |
 | Valproato | Confirmado (también en [@chaste2012], riesgo ×8) |
+| **Asma materna** | Meta-análisis: OR **1,32** (historia); **1,23** en embarazo; medicación refleja más el asma que el fármaco ([@vanderschaf2025]) |
 | Antidepresivos / ansiolíticos | Cohortajes grandes recientes: **sin asociación clara** ([@wang2025]) — contraste con señal modestas previas ([@chaste2012]) |
+| **Retardantes de llama organofosforados (OPFRs)** | Estudio multi-ómico cross-species: alteran redes de co-expresión génica que se superponen con genes de riesgo TEA (desarrollo neuronal, sinaptogénesis); evidencia preclínica, candidato de riesgo ambiental ([@zhou2025]; [[2025-Zhou-OPFR-autism-gene-networks]]) |
 
 COVID-19 prenatal: datos básicos sugieren disrupción inmune; cohortes poblacionales **no** confirman aumento de TEA ([@wang2025]).
+
+Veilleux et al. ([@veilleux2025]; [[2025-Veilleux-Ismail-autism-hormones-immune-gut]]) sintetizan el puente **hormonas–MIA–inmune–gut**: testosterona/progesterona/cortisol/tiroides fetales; ~**15%** de TEA con historia de MIA; citocinas (IL-1β, IL-6) y desequilibrio Th; disbiosis como modulador — complementa, no reemplaza, la genética de alta confianza.
 
 ### Pruebas genéticas y consejería (clínica)
 
@@ -121,6 +147,7 @@ Síntesis de Thapar & Rutter ([@thapar2021]; [[2021-Thapar-Rutter-genetic-advanc
 - Variantes comunes/PRS: utilidad clínica **aún limitada** (~2% liability; [@kim2025]; [@thapar2021])
 - Derivación a genética clínica razonable en TEA + DI o presentación compleja; el umbral evolucionará con evidencia de utilidad y coste-efectividad
 - Emergente: variantes de splicing / snRNA (*RNU4-2*, *RNU2-2*) en NDD con rasgos autistas ([@kim2025])
+- Impactos psicosociales del resultado: alivio/culpa/miedo mixtos en padres; adultos autistas destacan consentimiento y riesgo de discriminación — perspectivas **no** idénticas ([@wills2025]; [[2025-Wills-psychosocial-impacts-autism-genetic-testing]])
 
 ### Genotipo–fenotipo y solapamientos
 
@@ -130,7 +157,7 @@ El mismo CNV (p. ej. 16p11) o gen (*SHANK3*, *NRXN1*) puede asociarse a **autism
 2. Combinación de variantes raras + comunes
 3. Modulación ambiental del fenotipo
 
-Ratio ~**4:1** hombres:mujeres; mecanismos (cromosoma X, hormonas prenatales) aún no confirmados ([@chaste2012]).
+Ratio ~**4:1** hombres:mujeres; mecanismos (cromosoma X, hormonas prenatales, resolución inflamatoria vía ERβ) aún parcialmente especulativos ([@chaste2012]; [@veilleux2025]).
 
 ### Epigenética
 
@@ -166,6 +193,10 @@ Individuos con TEA pueden tolerar peor la misma experiencia perinatal que sus he
 
 Los estudios humanos de GxE aún son escasos y de baja potencia; cohortes prospectivas (National Children’s Study, Autism Birth Cohort) se impulsaron para cubrir esta laguna ([@chaste2012]).
 
+### Marcos conceptuales alternativos: evolución y neurodiversidad
+
+Más allá del modelo gen–ambiente clásico, dos propuestas teóricas recientes buscan reencuadrar el origen del autismo. Mottron et al. proponen las **bifurcaciones de desarrollo asimétricas (ADB)**: el autismo prototípico surgiría como una de dos "ramas" estables de un sistema polarizado en un período crítico breve del desarrollo —análogo a la gemelaridad, la presentación de nalgas o la lateralidad zurda— sin requerir un modelo de enfermedad ([@mottron2025]; [[2025-Mottron-asymmetric-developmental-bifurcations]]). En paralelo, Hunt et al. desarrollan **DCIDE**, un marco de cinco criterios para evaluar rigurosamente hipótesis evolutivas; al aplicarlo al autismo, favorecen explicaciones de **nicho ecológico y sistematización** sobre la hipótesis de "subproducto de la inteligencia general", y estiman que solo **~5–20%** de los casos corresponderían a formas no-adaptativas (mutaciones de novo, disrupción del desarrollo) ([@hunt2025]; [[2025-Hunt-DCIDE-evolutionary-autism]]). Ambos marcos son conceptuales —no evidencia empírica primaria— pero ofrecen alternativas al modelo puramente deficitario sin negar el costo adaptativo que el autismo puede implicar para algunos individuos.
+
 ### Perspectivas clave
 
 - **Evidencia clínica:** genética de alta confianza para variantes raras; ambiente con factores específicos (valproato); vacunas descartadas como causa.
@@ -180,6 +211,15 @@ Los estudios humanos de GxE aún son escasos y de baja potencia; cohortes prospe
 
 ## Referencias citadas en este capítulo
 
+- [@mottron2025] — [[2025-Mottron-asymmetric-developmental-bifurcations]]
+- [@zhou2025] — [[2025-Zhou-OPFR-autism-gene-networks]]
+- [@hunt2025] — [[2025-Hunt-DCIDE-evolutionary-autism]]
+- [@wills2025] — [[2025-Wills-psychosocial-impacts-autism-genetic-testing]]
+- [@leyhausen2026] — [[2026-Leyhausen-transcriptomic-subgroup-IDP-autism]]
+- [@vanderschaf2025] — [[2025-van-der-Schaaf-maternal-asthma-autism-meta]]
+- [@veilleux2025] — [[2025-Veilleux-Ismail-autism-hormones-immune-gut]]
+- [@robas2025] — [[2025-Robas-Stern-digestive-neurobiology-ens]]
+- [@zabetakis2026] — [[2026-Zabetakis-Grabrucker-synaptic-protein-mutations]]
 - [@kim2025] — [[2025-Kim-An-precision-diagnosis-genomics]]
 - [@thapar2021] — [[2021-Thapar-Rutter-genetic-advances]]
 - [@wang2025] — [[2025-Wang-understanding-autism]]

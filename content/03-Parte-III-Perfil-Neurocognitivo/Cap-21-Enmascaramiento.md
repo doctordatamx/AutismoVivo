@@ -10,6 +10,7 @@ ultima_actualizacion: "2026-07-28"
 version: "1.1"
 fuentes_integradas:
   - "[[2025-Ali-Bougoure-autistic-burnout-review]]"
+  - "[[2025-Hunt-DCIDE-evolutionary-autism]]"
 estado: revision
 resumen_ejecutivo: "El camouflaging (suprimir o compensar rasgos autistas) exige un coste cognitivo/emocional alto. La revisión Ali et al. 2025 lo identifica como contribuyente central al burnout (correlaciones CAT-Q–burnout ≈0.26–0.36). El ciclo estigma→mask→agotamiento→menos capacidad de mask→más vulnerabilidad es clave clínicamente y socialmente."
 preguntas_abiertas:
@@ -42,6 +43,8 @@ Estrategias para ocultar o compensar diferencias autistas (contacto visual forza
 
 Participantes distinguen camouflaging como **herramienta puntual** (“conseguir algo concreto”) frente a identidad forzada; reducir mask innecesario aparece como estrategia preventiva ([@ali2025]).
 
+El coste adaptativo del enmascaramiento resuena con marcos evolutivos recientes: el modelo **DCIDE** de Hunt et al. reconoce que la "rama rara" del desarrollo autista puede implicar un costo compatible con la supervivencia pero no trivial ([@hunt2025]; [[2025-Hunt-DCIDE-evolutionary-autism]]) — el enmascaramiento sería una manifestación conductual concreta de ese costo adaptativo en contextos sociales poco acomodaticios.
+
 ### Perspectivas clave
 
 - **Evidencia clínica:** camouflaging asociado a peor salud mental y burnout.
@@ -65,6 +68,7 @@ SORT fecha_captura DESC
 ## Referencias citadas
 
 - [@ali2025] — [[2025-Ali-Bougoure-autistic-burnout-review]]
+- [@hunt2025] — [[2025-Hunt-DCIDE-evolutionary-autism]]
 
 ## Enlaces relacionados
 

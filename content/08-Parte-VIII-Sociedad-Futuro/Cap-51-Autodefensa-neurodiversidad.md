@@ -7,13 +7,14 @@ dg-publish: true
 dg-home: false
 dg-permalink: /capitulos/autodefensa-neurodiversidad
 ultima_actualizacion: "2026-07-28"
-version: "1.3"
+version: "1.4"
 fuentes_integradas:
   - "[[2026-07-28-neurodiversidad-autismo-piloto]]"
   - "[[2025-Cusson-empathy-measures-meta-analysis]]"
   - "[[2025-Ali-Bougoure-autistic-burnout-review]]"
+  - "[[2026-Verkooijen-peer-support-autism-review]]"
 estado: publicado
-resumen_ejecutivo: "Autodefensa y neurodiversidad: participación autista en políticas e investigación; rechazo a ‘normalizar’. Evidencia 2025: empatía no es déficit global; burnout ligado a estigma, camouflaging y entornos no adaptados — hace falta cambio social, no solo coping individual."
+resumen_ejecutivo: "Autodefensa y neurodiversidad: participación autista en políticas e investigación; rechazo a ‘normalizar’. Empatía no es déficit global; burnout ligado a estigma. Peer support prometedor (bienestar/autoestima) con evidencia aún metodológicamente débil."
 preguntas_abiertas:
   - "¿Cómo garantizar representación autista real en paneles de política pública?"
   - "¿Qué intervenciones considera la comunidad autista como dañinas vs. útiles?"
@@ -51,9 +52,13 @@ La idea de que las personas autistas “carecen de empatía” alimenta estigma 
 
 Ali et al. ([@ali2025]; [[2025-Ali-Bougoure-autistic-burnout-review]]) muestran que el burnout autista se alimenta de **ignorancia, estigma y falta de ajustes** en escuela, trabajo y salud — no de “falta de resiliencia”. La recuperación exige apoyo comunitario y servicios reales; la auto-advocacia sin resultados también agota. Ver [[Cap-50-Autocuidado-burnout]].
 
+### Peer support
+
+Verkooijen et al. ([@verkooijen2026]; [[2026-Verkooijen-peer-support-autism-review]]) revisaron **12** programas (≥12 años): mejoras reportadas en bienestar, autoestima y académicos; el valor de conectar en espacios **autism-focused**. Evidencia aún débil metodológicamente (muestras pequeñas, pocos controles) — prometedor, no panacea.
+
 ### Perspectivas clave
 
-- **Evidencia clínica:** Creciente literatura sobre calidad de vida y outcomes autorreportados; empatía multidimensional ([@cusson2025]); burnout como prioridad de medición ([@ali2025]).
+- **Evidencia clínica:** Creciente literatura sobre calidad de vida y outcomes autorreportados; empatía multidimensional ([@cusson2025]); burnout ([@ali2025]); peer support ([@verkooijen2026]).
 - **Experiencia vivida:** El enmascaramiento (camouflaging) para "pasar como no autista" se asocia con agotamiento y salud mental deteriorada.
 - **Controversias y debates:** Alcance del concepto neurodiversidad; relación con discapacidad legal; ABA y autodefensa.
 
@@ -73,9 +78,13 @@ SORT fecha_captura DESC
 
 ## Referencias citadas
 
+- [@verkooijen2026] — [[2026-Verkooijen-peer-support-autism-review]]
 - [@ali2025] — [[2025-Ali-Bougoure-autistic-burnout-review]]
 - [@cusson2025] — [[2025-Cusson-empathy-measures-meta-analysis]]
 - [[2026-07-28-neurodiversidad-autismo-piloto]]
 
 ## Enlaces relacionados
+
+- [[Cap-50-Autocuidado-burnout]]
+- [[Cap-47-Salud-mental]]
 

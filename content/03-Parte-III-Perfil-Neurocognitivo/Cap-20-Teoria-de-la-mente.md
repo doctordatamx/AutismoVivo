@@ -10,6 +10,7 @@ ultima_actualizacion: "2026-07-28"
 version: "1.1"
 fuentes_integradas:
   - "[[2025-Cusson-empathy-measures-meta-analysis]]"
+  - "[[2025-Bai-biological-motion-systematic-review]]"
 estado: revision
 resumen_ejecutivo: "La empatía es multidimensional (cognitiva vs afectiva). Meta-análisis 2025 (226 estudios): reducción grande en empatía cognitiva (g≈−0.85) y en medidas unidimensionales tipo EQ (g≈−1.70); afectiva solo ligeramente menor (g≈−0.17) y no significativa en estudios de alta calidad. IRI: menos concern pero más distress personal. El instrumento determina el hallazgo; no tratar el autismo como ‘trastorno de empatía’ global."
 preguntas_abiertas:
@@ -62,6 +63,10 @@ Mayor **variabilidad** relativa de scores en el grupo autista → muchos individ
 
 Revisión cualitativa: distress fingido, *empathic accuracy*, empatía al dolor y self-other suelen mostrar **diferencias mínimas o mixtas** ([@cusson2025]). El **problema de la doble empatía** (neurotipos distintos) sugiere que las medidas hechas por/para neurotipicos sesgan el resultado; ver [[Cap-51-Autodefensa-neurodiversidad]].
 
+### Percepción de acciones: ¿mentalizar o percibir?
+
+Una revisión sistemática de 51 estudios sobre percepción de movimiento biológico y acciones halla que las diferencias autistas son más consistentes en tareas de **identificación/interpretación** de la acción que en la mera **detección** del movimiento ([@bai2025]; [[2025-Bai-biological-motion-systematic-review]]). Esto matiza los modelos puramente "mentalistas" de teoría de la mente: parte de la dificultad para inferir intenciones ajenas podría tener raíz en el procesamiento **perceptivo global**, no solo en la atribución mental en sí ([[Cap-18-Procesamiento-sensorial]]).
+
 ### Perspectivas clave
 
 - **Evidencia clínica:** perfil cognitivo ↓ / afectivo ≈; no “cero empatía”.
@@ -84,6 +89,7 @@ SORT fecha_captura DESC
 
 ## Referencias citadas
 
+- [@bai2025] — [[2025-Bai-biological-motion-systematic-review]]
 - [@cusson2025] — [[2025-Cusson-empathy-measures-meta-analysis]]
 
 ## Enlaces relacionados
@@ -92,3 +98,4 @@ SORT fecha_captura DESC
 - [[Cap-15-Comunicacion-social]]
 - [[Cap-01-Que-es-el-autismo]]
 - [[Cap-51-Autodefensa-neurodiversidad]]
+- [[Cap-18-Procesamiento-sensorial]]

@@ -13,17 +13,42 @@ tags:
   - tea/portada
 ---
 
-# Autismo Vivo
+# Libro Vivo: Autismo
 
-**La evidencia cientifica que nunca deja de crecer sobre el Trastorno del Espectro Autista (TEA)**
-
-Para Liam..
-
-Me enseñó a mirar el mundo desde una perspectiva completamente nueva y a entender que la mente humana no tiene una sola forma de ser brillante.
-
-Este libro vivo nació por ti y para ti. Es el testimonio de mi búsqueda por comprenderte mejor, por construir puentes y por asegurarme de que nunca nadie te defina con etiquetas estrechas. Gracias por ser uno de mis  mayores maestros, mi inspiración constante y la razón por la cual este proyecto sigue creciendo cada día.
+### Un repositorio dinámico entre la evidencia científica y la comprensión del espectro autista.
 
 
+*Para Liam.
+
+*Me enseñó a mirar el mundo desde una perspectiva completamente nueva y a entender que la mente humana no tiene una sola forma de ser brillante.
+
+*Este libro vivo nació por ti y para ti. Es el testimonio de mi búsqueda por comprenderte mejor, por construir puentes y por asegurarme de que nunca nadie te defina con etiquetas estrechas. Gracias por ser uno de mis  mayores maestros, mi inspiración constante y la razón por la cual este proyecto sigue creciendo cada día.*
+
+
+
+
+## 📖 Cómo Citar este Proyecto / How to Cite
+
+Si utilizas la información, la estructura o las síntesis de **Libro Vivo: Autismo** para fines académicos, educativos o de investigación, por favor cita este repositorio de la siguiente manera:
+
+### Formato APA (7ª ed.)
+> Avalos Reyes, F. (2026). *Libro Vivo: Autismo — Un repositorio dinámico entre la evidencia científica y la comprensión del espectro autista* [Repositorio de GitHub]. GitHub. https://github.com/doctordatamx/autismovivo
+
+### Formato Cita Rápida / Texto Plano
+> **Libro Vivo: Autismo** (2026). Creado por Fernando Avalos Reyes. Disponible en: https://github.com/doctordatamx/autismovivo.
+
+### Formato BibTeX (para LaTeX, Zotero o Mendeley)
+```bibtex
+@misc{avalos_reyes_autismo_vivo_2026,
+  author       = {Avalos Reyes, Fernando},
+  title        = {Libro Vivo: Autismo --- Un repositorio dinámico entre la evidencia científica y la comprensión del espectro autista},
+  year         = {2026},
+  publisher    = {GitHub},
+  journal      = {GitHub repository},
+  howpublished = {\url{[https://github.com/doctordatamx/autismovivo](https://github.com/doctordatamx/autismovivo)}}
+}
+
+```
 ---
 
 ## Ficha del libro
@@ -39,9 +64,9 @@ Este libro vivo nació por ti y para ti. Es el testimonio de mi búsqueda por co
 | **Sitio web** | [doctordatamx.github.io/AutismoVivo](https://doctordatamx.github.io/AutismoVivo/) |
 | **Repositorio** | [github.com/doctordatamx/AutismoVivo](https://github.com/doctordatamx/AutismoVivo) |
 
+
+
 ### Capítulos actualizados recientemente
-
-
 
 
 <div class="web-only">
