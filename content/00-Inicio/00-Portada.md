@@ -17,7 +17,7 @@ tags:
 
 **La evidencia cientifica que nunca deja de crecer sobre el Trastorno del Espectro Autista (TEA)**
 
-Para Liam.
+Para Liam..
 
 Me enseñó a mirar el mundo desde una perspectiva completamente nueva y a entender que la mente humana no tiene una sola forma de ser brillante.
 
