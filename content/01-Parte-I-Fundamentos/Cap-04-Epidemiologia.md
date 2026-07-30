@@ -7,7 +7,7 @@ dg-publish: true
 dg-home: false
 dg-permalink: /capitulos/epidemiologia
 ultima_actualizacion: "2026-07-29"
-version: "1.4"
+version: "1.6"
 fuentes_integradas:
   - "[[2012-Chaste-Leboyer-autism-risk-factors]]"
   - "[[2025-Wang-understanding-autism]]"
@@ -15,6 +15,12 @@ fuentes_integradas:
   - "[[2025-van-der-Schaaf-maternal-asthma-autism-meta]]"
   - "[[2025-Rubenstein-autism-down-syndrome-medicaid]]"
   - "[[2026-Dickinson-aging-autism-systematic-review]]"
+  - "[[2021-Zuckerman-REAL-START-latino-screening]]"
+  - "[[2025-Chen-parental-education-autism-risk]]"
+  - "[[2025-Kanina-neonatal-jaundice-autism-sweden]]"
+  - "[[2025-Cajachagua-Torres-cannabis-tobacco-prenatal-autism]]"
+  - "[[2025-Ranjan-NDIS-autism-prevalence]]"
+  - "[[2025-Furnier-ADDM-prevalence-adaptive]]"
 estado: revision
 autor_libro: "Dr. Fernando Avalos Reyes"
 resumen_ejecutivo: "La prevalencia reportada del TEA sigue subiendo. Estimaciones globales ~1/100 niños; ADDM EE.UU. 2020 ~1/36. Ratio H:M ~3,8–4:1 (variable por país/CI; subdiagnóstico femenino). Factores ambientales prenatales (p. ej. asma materna OR≈1,3) aportan riesgo poblacional modesto junto a genética."
@@ -94,6 +100,22 @@ Un estudio de reclamaciones Medicaid de EE.UU. (2011–2019, N=519.450 adultos) 
 
 A medida que las primeras cohortes ampliamente diagnosticadas en la infancia (años 1990-2000) llegan a la mediana edad y más allá, la epidemiología del envejecimiento en autismo cobra relevancia creciente. Una revisión sistemática de 56 estudios sobre desenlaces cognitivos, neurales y de salud física en adultos autistas que envejecen no halla evidencia de deterioro cognitivo generalizado ni acelerado, aunque sí documenta vulnerabilidades focalizadas en integridad de sustancia blanca y ciertos desenlaces cardiovasculares ([@dickinson2026]; [[2026-Dickinson-aging-autism-systematic-review]]; ver [[Cap-27-Adultez-madura]]).
 
+### Disparidades de detección: población latina en atención primaria (EE. UU.)
+
+Buena parte de las diferencias de prevalencia diagnosticada entre grupos refleja diferencias de **detección**, no de ocurrencia. La intervención REAL-START en seis clínicas de atención primaria de Oregón que atienden a población latina elevó el cribado de autismo del **70% al 94%**, el cribado general del desarrollo del **62% al 95%** y la adherencia a las guías del **46% al 91%** ([@zuckerman2021]; [[2021-Zuckerman-REAL-START-latino-screening]]). Lo relevante para la epidemiología es que buena parte del «déficit» de prevalencia en poblaciones minorizadas es un artefacto **corregible** del sistema de detección (ver [[Cap-09-Herramientas-cribado]], [[Cap-55-Contextos-culturales]]).
+
+### Nivel educativo parental: un gradiente que cambia de signo según el país
+
+En países de renta alta se describió durante décadas una asociación entre **mayor** nivel educativo parental y **más** diagnósticos de autismo, atribuida a mayor capacidad de detección. Un caso-control en Guangzhou (835 niños autistas y 504 con desarrollo típico) encuentra el patrón **inverso**: la educación materna de posgrado se asoció a **menor** riesgo (OR≈**0,35**), y solo el 46,6% de las madres del grupo autista tenía titulación universitaria frente al 73,7% de los controles ([@chen2025edu]; [[2025-Chen-parental-education-autism-risk]]). La inversión del signo según contexto indica que estos gradientes miden sobre todo **acceso al diagnóstico** (ver [[Cap-05-Etiologia]]).
+
+### Factores perinatales: cómo la confusión infla las asociaciones
+
+La epidemiología de factores tempranos está poblada de asociaciones crudas que se desvanecen al ajustar. Una cohorte sueca de **1 669 830** personas nacidas entre 1992 y 2010 encontró inicialmente que la ictericia neonatal se asociaba a autismo (HR **1,48**; IC95% 1,37-1,60), pero tras ajustar por edad gestacional, peso al nacer y el resto de covariables perinatales la asociación **se anuló** (HR **1,02**; IC95% 0,93-1,12) ([@kanina2025]; [[2025-Kanina-neonatal-jaundice-autism-sweden]]). El confusor dominante fue la **prematuridad**: no todos los confusores relevantes son genéticos o familiares (ver [[Cap-05-Etiologia]]).
+
+### Cannabis y tabaco en el embarazo: un nulo y un positivo
+
+En la cohorte poblacional Generation R (Róterdam), el consumo **prenatal de cannabis** no se asoció con síntomas autistas en la descendencia; sí lo hicieron el consumo materno **preconcepcional** de cannabis y, sobre todo, el consumo materno de **tabaco mantenido durante todo el embarazo**, mientras que el consumo **paterno** de tabaco no mostró asociación ([@cajachaguatorres2025]; [[2025-Cajachagua-Torres-cannabis-tobacco-prenatal-autism]]). El contraste materno/paterno funciona como **control negativo**: si el efecto fuese puramente confusión social o genética compartida, cabría esperar señal también en la línea paterna (ver [[Cap-05-Etiologia]]).
+
 ### Perspectivas clave
 
 - **Evidencia clínica:** series ADDM son la referencia más citada en países de altos ingresos; la epidemiología del envejecimiento autista es un área emergente sin evidencia de deterioro cognitivo generalizado.
@@ -105,8 +127,24 @@ A medida que las primeras cohortes ampliamente diagnosticadas en la infancia (a�
 - ¿Qué fracción del aumento es artefacto vs. incidencia?
 - ¿Cómo estandarizar vigilancia global?
 
+
+### NDIS y el +32% de prevalencia diagnóstica
+
+El NDIS australiano se asocia a ~32% más prevalencia diagnóstica de autismo y a ~47% de los nuevos diagnósticos desde 2013: la política de apoyos individualizados desplaza umbrales de identificación y cifras epidemiológicas. ([@ranjan2025]; [[2025-Ranjan-NDIS-autism-prevalence]]; ver [[Cap-52-Derechos-legales]], [[Cap-10-Proceso-diagnostico]]).
+
+### Prevalencia ADDM por nivel adaptativo (leve ↑)
+
+En ADDM, la prevalencia con funcionamiento adaptativo leve pasa de 5,1 a 17,6/1000 mientras moderado–profundo permanece estable: el aumento epidemiológico se concentra en el estrato leve. ([@furnier2025]; [[2025-Furnier-ADDM-prevalence-adaptive]]).
+
 ## Referencias citadas
 
+- [@ranjan2025] — [[2025-Ranjan-NDIS-autism-prevalence]]
+- [@furnier2025] — [[2025-Furnier-ADDM-prevalence-adaptive]]
+
+- [@zuckerman2021] — [[2021-Zuckerman-REAL-START-latino-screening]]
+- [@chen2025edu] — [[2025-Chen-parental-education-autism-risk]]
+- [@kanina2025] — [[2025-Kanina-neonatal-jaundice-autism-sweden]]
+- [@cajachaguatorres2025] — [[2025-Cajachagua-Torres-cannabis-tobacco-prenatal-autism]]
 - [@dickinson2026] — [[2026-Dickinson-aging-autism-systematic-review]]
 - [@rubenstein2025] — [[2025-Rubenstein-autism-down-syndrome-medicaid]]
 - [@vanderschaf2025] — [[2025-van-der-Schaaf-maternal-asthma-autism-meta]]

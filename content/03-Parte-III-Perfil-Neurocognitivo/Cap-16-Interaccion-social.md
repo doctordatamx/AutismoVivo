@@ -6,13 +6,17 @@ titulo: "Interacción social, amistad y soledad"
 dg-publish: false
 dg-home: false
 dg-permalink: /capitulos/interaccion-social
-ultima_actualizacion: "2026-07-28"
-version: "1.1"
+ultima_actualizacion: "2026-07-29"
+version: "1.3"
 fuentes_integradas:
   - "[[2025-Cusson-empathy-measures-meta-analysis]]"
   - "[[2025-Soto-Icaza-classroom-social-networks]]"
   - "[[2025-Bai-biological-motion-systematic-review]]"
   - "[[2025-Patwardhan-social-salience-network-oxytocin]]"
+  - "[[2024-Cheang-empathic-accuracy-double-empathy]]"
+  - "[[2024-Brett-Perth-Empathy-Scale]]"
+  - "[[2025-Koelkebeck-body-facial-emotion]]"
+  - "[[2025-McGugin-laminar-FFA-thickness]]"
 estado: revision
 resumen_ejecutivo: "Las dificultades sociales del TEA no equivalen a falta de empatía afectiva. Meta-análisis 2025: empatía cognitiva reducida; afectiva casi comparable; en tareas ecológicas las diferencias suelen ser mínimas. La apariencia de ‘falta de empatía’ puede ser distress, malentendido mutuo o sesgo de medida."
 preguntas_abiertas:
@@ -53,6 +57,10 @@ Una revisión sistemática de 51 estudios sobre percepción de movimiento bioló
 
 La **hipótesis de la red de saliencia social (SSN)** propone que las dificultades sociales nucleares del TEA reflejan una alteración en la priorización atencional/motivacional de estímulos sociales —modulada por oxitocina— más que un déficit puro de "habilidad" social ([@patwardhan2025]; [[2025-Patwardhan-social-salience-network-oxytocin]]; ver [[Cap-06-Neurobiologia]]).
 
+### Precisión empática: evidencia experimental de doble empatía
+
+En una tarea de **precisión empática** con relatos autobiográficos, 81 adultos de población general acertaron **significativamente menos** al inferir las emociones de narradores **autistas** que de narradores no autistas, especialmente para alegría y tristeza; al mismo tiempo, informaron una **intensidad corporal mayor** ante los narradores autistas, sobre todo para ira y miedo ([@cheang2024]; [[2024-Cheang-empathic-accuracy-double-empathy]]). Sentir más no equivale a comprender mejor: el resultado apoya el **problema de la doble empatía** y sitúa parte de la dificultad en el observador no autista (ver [[Cap-20-Teoria-de-la-mente]], [[Cap-51-Autodefensa-neurodiversidad]]).
+
 ### Perspectivas clave
 
 - **Evidencia clínica:** perfil empático desbalanceado, no vacío afectivo.
@@ -73,8 +81,26 @@ WHERE contains(capitulos_relacionados, this.file.link)
 SORT fecha_captura DESC
 ```
 
+
+### Perth Empathy Scale y heterogeneidad empática
+
+Con la Perth Empathy Scale en N=239 personas autistas se confirma que la empatía no es un déficit unitario sino un conjunto heterogéneo de manifestaciones: el mito de la «falta de empatía» no encaja con la estructura empírica de la PES. ([@brett2024]; [[2024-Brett-Perth-Empathy-Scale]]).
+
+### Cuerpo y rostro en percepción emocional (autismo/SAD)
+
+En N=107 (autismo, ansiedad social y NT), la percepción emocional alterada involucra rostro y cuerpo: el perfil multimodal ayuda a distinguir y solapar contribuciones del autismo y de la ansiedad social. ([@koelkebeck2025]; [[2025-Koelkebeck-body-facial-emotion]]).
+
+### Grosor laminar del FFA: caras vs coches
+
+En FFA laminar, la experiencia/selectividad facial se asocia a corteza más delgada y la de coches a mayor grosor: plasticidad dominio-específica a escala laminar en autismo. ([@mcgugin2025]; [[2025-McGugin-laminar-FFA-thickness]]).
+
 ## Referencias citadas
 
+- [@brett2024] — [[2024-Brett-Perth-Empathy-Scale]]
+- [@koelkebeck2025] — [[2025-Koelkebeck-body-facial-emotion]]
+- [@mcgugin2025] — [[2025-McGugin-laminar-FFA-thickness]]
+
+- [@cheang2024] — [[2024-Cheang-empathic-accuracy-double-empathy]]
 - [@sotoicaza2025] — [[2025-Soto-Icaza-classroom-social-networks]]
 - [@bai2025] — [[2025-Bai-biological-motion-systematic-review]]
 - [@patwardhan2025] — [[2025-Patwardhan-social-salience-network-oxytocin]]

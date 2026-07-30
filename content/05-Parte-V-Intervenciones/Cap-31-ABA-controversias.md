@@ -7,15 +7,18 @@ dg-publish: false
 dg-home: false
 dg-permalink: /capitulos/aba-controversias
 ultima_actualizacion: "2026-07-29"
-version: "1.1"
+version: "1.2"
 fuentes_integradas:
   - "[[2025-Bottema-Beutel-problem-behavior-measurement]]"
+  - "[[2026-Nosova-autistic-adults-views-early-intervention]]"
+  - "[[2024-Anixt-evidence-based-interventions-autism]]"
 estado: borrador
 resumen_ejecutivo: "Una revisión sistemática de 102 estudios de intervención temprana halla que solo el 8% definió conceptualmente qué es 'conducta problema' antes de intervenir para eliminarla, aportando evidencia empírica a la crítica de rigor conceptual en ABA e intervenciones conductuales tradicionales."
 preguntas_abiertas:
   - "¿Cómo desarrollar herramientas de medición de conducta en colaboración con la comunidad autista que distingan conductas dañinas de conductas simplemente no normativas?"
 tags:
   - tea/capitulo
+bibliography: "03-Datos/references.bib"
 ---
 
 # Capítulo 31 — ABA y análisis conductual aplicado: evidencia y controversias
@@ -38,6 +41,14 @@ Bottema-Beutel et al. codificaron 102 estudios del corpus del metaanálisis Proj
 
 Frente al lenguaje clínico tradicional de "conducta problema", perspectivas desde la comunidad autista proponen reencuadres como "meltdown" (sobrecarga sensorial o estrés prolongado), "shutdown" (retirada/desconexión) y "burnout" (agotamiento crónico), que invitan a intervenir sobre el entorno y los apoyos disponibles, no solo sobre la conducta del niño ([@bottemabeutel2025]; [[2025-Bottema-Beutel-problem-behavior-measurement]]; ver [[Cap-29-Principios-intervencion]]).
 
+### «El daño hecho»: intervención temprana revisada por adultos autistas
+
+Una revisión sistemática de métodos mixtos de 19 estudios sobre las visiones de adultos autistas identificó, como tema **transversal**, las experiencias negativas de quienes pasaron por intervenciones tempranas; y en los datos cuantitativos, las personas autistas **no respaldaron** los objetivos dirigidos a **reducir rasgos autistas**, aunque sí los de bienestar, accesibilidad y reducción de conductas dañinas ([@nosova2026]; [[2026-Nosova-autistic-adults-views-early-intervention]]). El desacuerdo central del debate sobre ABA no es tanto sobre eficacia como sobre la **legitimidad de los objetivos** medidos (ver [[Cap-29-Principios-intervencion]], [[Cap-51-Autodefensa-neurodiversidad]]).
+
+### La lectura pediátrica de la evidencia conductual
+
+La revisión pediátrica de referencia sitúa la intervención conductual intensiva temprana entre las prácticas con mejor respaldo empírico, documentando ganancias en **CI** y en ubicación escolar, dentro del marco NSP2/NCAEP que distingue modelos integrales de prácticas focalizadas ([@anixt2024]; [[2024-Anixt-evidence-based-interventions-autism]]). Presentar esta síntesis junto a las críticas de medición ([@bottemabeutel2025]) y a las visiones de adultos autistas ([@nosova2026]) es la forma honesta de exponer el estado del debate.
+
 ### Perspectivas clave
 
 - **Evidencia clínica:** falta generalizada de definiciones conceptuales claras antes de intervenir para reducir conductas, incluso en un corpus grande y reciente de estudios de intervención temprana.
@@ -59,6 +70,8 @@ SORT fecha_captura DESC
 
 ## Referencias citadas
 
+- [@nosova2026] — [[2026-Nosova-autistic-adults-views-early-intervention]]
+- [@anixt2024] — [[2024-Anixt-evidence-based-interventions-autism]]
 - [@bottemabeutel2025] — [[2025-Bottema-Beutel-problem-behavior-measurement]]
 
 ## Enlaces relacionados

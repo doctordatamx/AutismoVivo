@@ -7,11 +7,15 @@ dg-publish: true
 dg-home: false
 dg-permalink: /capitulos/tecnologia-asistiva
 ultima_actualizacion: "2026-07-29"
-version: "1.2"
+version: "1.3"
 fuentes_integradas:
   - "[[2025-Ma-Song-VR-motion-serious-game-RCT]]"
   - "[[2025-Yoon-eye-tracking-treatment-monitoring-meta]]"
   - "[[2025-Ghiglino-humanoid-robot-ToM-RCT]]"
+  - "[[2025-Hacohen-Simons-Sleep-Project]]"
+  - "[[2025-Poglitsch-GPT4o-ToM-gamified]]"
+  - "[[2026-Gultig-BlinkLab-smartphone-sensorimotor]]"
+  - "[[2026-Ranjabaran-SSL-multi-brain-EEG]]"
 estado: revision
 resumen_ejecutivo: "Tecnología asistiva y VR emergentes. RCT Ma & Song 2025: juego serio VR-motion interactivo en niños TEA — señal prometedora; un ensayo no define estándar. Un ECA cruzado con el robot humanoide iCub muestra mejoras específicas en teoría de la mente frente a terapia estándar y frente a un control humano activo equivalente. Evaluar accesibilidad, coste y preferencias."
 tags:
@@ -56,7 +60,29 @@ Un ensayo controlado aleatorizado cruzado (N=32 niños autistas) evaluó el entr
 - **Experiencia vivida:** tecnología como apoyo, no sustituye relación humana; la previsibilidad tecnológica puede reducir ansiedad social durante el entrenamiento.
 - **Controversias:** “pantallas vs. juego real”; accesibilidad de plataformas robóticas de investigación (iCub) frente a alternativas comerciales más simples aún no probadas con el mismo rigor.
 
+
+### Simons Sleep Project: recurso abierto de sueño
+
+El Simons Sleep Project libera un recurso abierto con 102 niños autistas y hermanos y >3600 noches de registro, con latencia de sueño más larga en autismo: una base escalable para investigación digital del sueño y comorbilidades. ([@hacohen2025]; [[2025-Hacohen-Simons-Sleep-Project]]).
+
+### GPT-4o y evaluación gamificada de teoría de la mente
+
+GPT-4o iguala aproximadamente a expertos humanos al calificar tareas de teoría de la mente en un entorno gamificado: prometedor para evaluación asistida escalable, pendiente de validación ética y ecológica. ([@poglitsch2025]; [[2025-Poglitsch-GPT4o-ToM-gamified]]).
+
+### BlinkLab: PPI reducido vía smartphone
+
+Con BlinkLab (smartphone), N=431 completaron evaluación sensoriomotora y se observa PPI reducido en autismo: fenotipado remoto viable para diferencias sensoriomotoras y posible apoyo al cribado. ([@gultig2026]; [[2026-Gultig-BlinkLab-smartphone-sensorimotor]]).
+
+### SSL multi-brain EEG (~78% en díadas ASC)
+
+Un enfoque SSL de decodificación multi-cerebro con EEG alcanza ~78% de precisión en díadas ASC: una frontera metodológica para hiperscanning y marcadores interpersonales en autismo. ([@ranjabaran2026]; [[2026-Ranjabaran-SSL-multi-brain-EEG]]).
+
 ## Referencias citadas
+
+- [@hacohen2025] — [[2025-Hacohen-Simons-Sleep-Project]]
+- [@poglitsch2025] — [[2025-Poglitsch-GPT4o-ToM-gamified]]
+- [@gultig2026] — [[2026-Gultig-BlinkLab-smartphone-sensorimotor]]
+- [@ranjabaran2026] — [[2026-Ranjabaran-SSL-multi-brain-EEG]]
 
 - [@yoon2025] — [[2025-Yoon-eye-tracking-treatment-monitoring-meta]]
 - [@ma2025vr] — [[2025-Ma-Song-VR-motion-serious-game-RCT]]

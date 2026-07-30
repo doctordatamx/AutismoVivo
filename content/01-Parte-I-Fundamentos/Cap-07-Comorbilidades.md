@@ -7,7 +7,7 @@ dg-publish: true
 dg-home: false
 dg-permalink: /capitulos/comorbilidades
 ultima_actualizacion: "2026-07-29"
-version: "1.7"
+version: "1.9"
 fuentes_integradas:
   - "[[2012-Chaste-Leboyer-autism-risk-factors]]"
   - "[[2021-Thapar-Rutter-genetic-advances]]"
@@ -26,6 +26,16 @@ fuentes_integradas:
   - "[[2025-Chen-anxiety-scales-treatment-outcomes]]"
   - "[[2025-Alatrash-irritability-network-autism]]"
   - "[[2026-Brennan-circadian-family-synchronisation-scoping]]"
+  - "[[2025-Miles-autism-psychosis-meta-analysis]]"
+  - "[[2026-Ozek-autistic-traits-thought-action-fusion-ocd]]"
+  - "[[2026-Liang-functional-tic-like-behaviours-autism]]"
+  - "[[2025-Craddock-audhd-women-residual-categories]]"
+  - "[[2025-Dwyer-auditory-hyperreactivity-ADHD-autism]]"
+  - "[[2025-Albantakis-alexithymia-personality-disorder]]"
+  - "[[2025-Hacohen-Simons-Sleep-Project]]"
+  - "[[2025-Kallitsounaki-autism-gender-clinic-youth]]"
+  - "[[2026-Sotosgracia-camouflaging-ASD-BPD-women]]"
+  - "[[2025-Pasion-P300-autism-schizotypal]]"
 estado: revision
 resumen_ejecutivo: "TEA coexiste con TDAH (OR≈22), DI, epilepsia, GI, FND y alteraciones de sueño/actividad. Marcos de red (aproximación-retirada, irritabilidad) muestran cómo comorbilidad ansiosa/externalizante emerge de nodos compartidos; la evaluación interoceptiva negativa (no la accuracy) conecta con ansiedad y FND."
 preguntas_abiertas:
@@ -147,14 +157,66 @@ Un estudio con tres medidas autoinformadas de interocepción (N=519, 232 autista
 
 Una revisión de alcance sobre sincronización circadiana en familias (42 estudios) halla que **solo 6** se centraron específicamente en familias con niños autistas; la evidencia disponible sugiere sincronía de sueño-vigilia y ritmos de actividad tanto en familias con como sin autismo, pero los mecanismos en el contexto autista permanecen poco comprendidos. Los hermanos de niños autistas también presentan problemas de sueño con frecuencia, sugiriendo un posible efecto a nivel familiar más allá del niño autista individual ([@brennan2026]; [[2026-Brennan-circadian-family-synchronisation-scoping]]; ver [[Cap-46-Dinamica-familiar]]).
 
+### Autismo y psicosis: magnitud real y problemas de medición
+
+Un meta-análisis actualizado de **63 artículos** (N≈**6,9 millones**) estima una **odds ratio ≈7,03** de recibir un diagnóstico de trastorno psicótico entre personas autistas. A nivel de rasgos, los rasgos autistas se asocian sobre todo con los rasgos psicóticos **negativos** (r≈**0,506**) y mucho menos con los positivos, patrón compatible con solapamiento de **expresión** (retraimiento, aparente aplanamiento afectivo) y de **medición** ([@miles2025]; [[2025-Miles-autism-psychosis-meta-analysis]]). Las recomendaciones prácticas son claras: usar instrumentos que exijan **ejemplos concretos** de los fenómenos psicóticos y valorar siempre la **historia del desarrollo** (ver [[Cap-13-Diagnostico-diferencial]], [[Cap-47-Salud-mental]]).
+
+### Rasgos autistas y fusión pensamiento-acción en el TOC
+
+En 83 pacientes con TOC evaluados con Y-BOCS, SPQ, AQ y la escala de **fusión pensamiento-acción (TAF)**, las dimensiones de cambio atencional, atención al detalle y comunicación del AQ se asociaron a mayor **TAF-Probabilidad/Yo**, y el AQ total la predijo (β=0,250) junto con la gravedad obsesiva (β=0,386) y los rasgos esquizotípicos cognitivo-perceptuales (β=0,289) ([@ozek2026]; [[2026-Ozek-autistic-traits-thought-action-fusion-ocd]]). Es un ejemplo de cómo los rasgos autistas modulan mecanismos cognitivos de otra condición sin confundirse con ella (ver [[Cap-47-Salud-mental]]).
+
+### Conductas funcionales tipo tic (FTLB)
+
+Entre 63 menores atendidos por **conductas funcionales tipo tic** en un servicio terciario británico, el **69,8%** tenía diagnóstico de autismo y el **37%** síndrome de Tourette; quienes tenían autismo presentaban además más **TDAH** (61%) y más trastornos específicos del aprendizaje, con niveles de afectación similares en el SDQ ([@liang2026]; [[2026-Liang-functional-tic-like-behaviours-autism]]). Amplía la asociación entre autismo y trastornos neurológicos funcionales ya descrita en este capítulo ([@cole2026]) al subgrupo específico de tics funcionales (ver [[Cap-09-Herramientas-cribado]], [[Cap-10-Proceso-diagnostico]]).
+
+### AuDHD: la comorbilidad como categoría residual
+
+El diagnóstico combinado de autismo y TDAH es clínicamente frecuente pero carece de representación formal en los sistemas diagnósticos. Un análisis fenomenológico interpretativo con seis mujeres diagnosticadas en la adultez describe la ambivalencia de habitar esa **categoría residual**: contradicción entre perfiles («dos partes separadas de mi cerebro»), complementariedad ocasional («dos caras de la misma moneda») y tensión entre narrativa de neurodiversidad y narrativa médica ([@craddock2025]; [[2025-Craddock-audhd-women-residual-categories]]). La conclusión práctica es la necesidad de **procesos diagnósticos integrados** en lugar de evaluaciones separadas y secuenciales (ver [[Cap-11-Diagnostico-mujeres]], [[Cap-12-Diagnostico-adultos]], [[Cap-21-Enmascaramiento]]).
+
 ### Perspectivas clave
 
 - **Evidencia clínica:** co-agregación TEA–TDAH muy robusta (incluso a nivel neurobiológico dimensional y de red conductual); GI frecuente y multifactorial; FND en radar clínico; envejecimiento sin evidencia de deterioro cognitivo generalizado pero con vulnerabilidades focalizadas; la interferencia funcional (no solo síntomas) es clave para medir bien la ansiedad comórbida.
 - **Experiencia vivida:** tratar TDAH/epilepsia/GI/FND/irritabilidad/ansiedad puede cambiar calidad de vida sin “tratar el autismo”; la interpretación negativa de señales corporales puede ser tan relevante como su detección.
 - **Controversias:** ¿comorbilidad o espectro neurodesarrollado único?; ¿intestino causa rasgos TEA o vías compartidas?; ¿riesgo familiar de demencia refleja genética compartida o factores de cuidado/estrés?; ¿los modelos de red sustituirán o solo complementarán las categorías diagnósticas actuales?
 
+
+### Hiperreactividad auditiva transdiagnóstica (autismo/TDAH)
+
+En 492 adultos, la hiperreactividad auditiva está marcadamente elevada tanto en autismo como en TDAH frente a comparación (δ≈0,46–0,84), con diferencias pequeñas entre diagnósticos; un modelo de rutas sugiere un ciclo atención–ansiedad en el que hipervigilancia, hiperfoque e inatención se vinculan a la hiperreactividad y esta a la ansiedad. ([@dwyer2025]; [[2025-Dwyer-auditory-hyperreactivity-ADHD-autism]]).
+
+### Alexitimia y rasgos autistas frente a dimensiones de personalidad
+
+Con N=89 personas autistas, los rasgos autistas predicen sobre todo dimensiones de personalidad tipo OCPD, mientras que la alexitimia predice dimensiones tipo borderline: el solapamiento clínico no es uniforme y exige disentangling alexitimia vs. rasgos autistas en la evaluación adulta. ([@albantakis2025]; [[2025-Albantakis-alexithymia-personality-disorder]]).
+
+### Simons Sleep Project: recurso abierto de sueño
+
+El Simons Sleep Project libera un recurso abierto con 102 niños autistas y hermanos y >3600 noches de registro, con latencia de sueño más larga en autismo: una base escalable para investigación digital del sueño y comorbilidades. ([@hacohen2025]; [[2025-Hacohen-Simons-Sleep-Project]]).
+
+### Autismo en jóvenes de clínica de género (~11%)
+
+Alrededor del 11% de jóvenes referidos a clínica de género presentan autismo, y su fenotipo conductual es comparable al de jóvenes autistas cisgénero: el mensaje clínico es cribado y evaluación estándar, no un perfil «especial» por el contexto de género. ([@kallitsounaki2025]; [[2025-Kallitsounaki-autism-gender-clinic-youth]]).
+
+### Camuflaje CAT-Q: mujeres TEA ≈ TLP
+
+En N=225, las mujeres con TEA y con TLP muestran niveles de camuflaje CAT-Q prácticamente equivalentes: el enmascaramiento no basta para diferenciar autismo y borderline, y el diagnóstico femenino debe apoyarse en historia del desarrollo y pragmática contextualizada. ([@sotosgracia2026]; [[2026-Sotosgracia-camouflaging-ASD-BPD-women]]).
+
+### P300: rasgos autistas vs esquizotípicos en predicción neural
+
+En N=122, el P300 muestra que rasgos autistas y esquizotípicos modulan de forma distinta el procesamiento predictivo neural: solapamiento fenotípico no implica el mismo mecanismo de predicción. ([@pasion2025]; [[2025-Pasion-P300-autism-schizotypal]]).
+
 ## Referencias citadas
 
+- [@dwyer2025] — [[2025-Dwyer-auditory-hyperreactivity-ADHD-autism]]
+- [@albantakis2025] — [[2025-Albantakis-alexithymia-personality-disorder]]
+- [@hacohen2025] — [[2025-Hacohen-Simons-Sleep-Project]]
+- [@kallitsounaki2025] — [[2025-Kallitsounaki-autism-gender-clinic-youth]]
+- [@sotosgracia2026] — [[2026-Sotosgracia-camouflaging-ASD-BPD-women]]
+- [@pasion2025] — [[2025-Pasion-P300-autism-schizotypal]]
+
+- [@miles2025] — [[2025-Miles-autism-psychosis-meta-analysis]]
+- [@ozek2026] — [[2026-Ozek-autistic-traits-thought-action-fusion-ocd]]
+- [@liang2026] — [[2026-Liang-functional-tic-like-behaviours-autism]]
+- [@craddock2025] — [[2025-Craddock-audhd-women-residual-categories]]
 - [@rubenstein2025] — [[2025-Rubenstein-autism-down-syndrome-medicaid]]
 - [@weissenkampen2026] — [[2026-Weissenkampen-sleep-activity-actimetry-autism]]
 - [@cole2026] — [[2026-Cole-Happe-autism-FND-association]]

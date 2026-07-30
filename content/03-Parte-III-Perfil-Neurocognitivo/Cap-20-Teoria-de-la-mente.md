@@ -7,12 +7,16 @@ dg-publish: false
 dg-home: false
 dg-permalink: /capitulos/teoria-de-la-mente
 ultima_actualizacion: "2026-07-29"
-version: "1.3"
+version: "1.5"
 fuentes_integradas:
   - "[[2025-Cusson-empathy-measures-meta-analysis]]"
   - "[[2025-Bai-biological-motion-systematic-review]]"
   - "[[2025-Sapey-Triomphe-MMN-meta-analysis]]"
   - "[[2025-Ghiglino-humanoid-robot-ToM-RCT]]"
+  - "[[2024-Cheang-empathic-accuracy-double-empathy]]"
+  - "[[2024-Brett-Perth-Empathy-Scale]]"
+  - "[[2025-Poglitsch-GPT4o-ToM-gamified]]"
+  - "[[2025-Koelkebeck-body-facial-emotion]]"
 estado: revision
 resumen_ejecutivo: "La empatía es multidimensional (cognitiva vs afectiva). Meta-análisis 2025 (226 estudios): reducción grande en empatía cognitiva (g≈−0.85) y en medidas unidimensionales tipo EQ (g≈−1.70); afectiva solo ligeramente menor (g≈−0.17) y no significativa en estudios de alta calidad. IRI: menos concern pero más distress personal. El instrumento determina el hallazgo; no tratar el autismo como ‘trastorno de empatía’ global. Un ECA cruzado muestra que el entrenamiento de ToM con el robot humanoide iCub mejora NEPSY-II ToM más que terapia estándar y más que el mismo protocolo con un clínico humano."
 preguntas_abiertas:
@@ -78,6 +82,10 @@ Un meta-análisis de 38 estudios de mismatch negativity (MMN) auditiva —índic
 
 Un ensayo controlado aleatorizado cruzado (N=32 niños autistas, 7,53±1,32 años) comparó el entrenamiento de teoría de la mente asistido por el robot humanoide **iCub** (Robot-Assisted Training, RAT) con la terapia estándar en curso (ST), usando la subescala de Percepción Social del NEPSY-II como desenlace. El grupo RAT mostró mejoras significativamente mayores que ST (interacción F(1,62)=43,6, p<.001). Para aislar la contribución específica del robot, un grupo de control humano activo (N=14) replicó el mismo protocolo de rol-playing con un clínico entrenado en lugar del robot, y **no mostró mejora significativa** (d=-1,99 favoreciendo a RAT, p<.001) — evidencia de que la presencia física y consistencia del robot, no solo el protocolo de entrenamiento, impulsó la mejora ([@ghiglino2025]; [[2025-Ghiglino-humanoid-robot-ToM-RCT]]). Las mejoras se mantuvieron en el seguimiento sin regresión observable. Ver aplicaciones tecnológicas más amplias en [[Cap-38-Tecnologia-asistiva]] y su relación con habilidades sociales en [[Cap-35-Habilidades-sociales]].
 
+### La lectura mental también falla en dirección contraria
+
+Una tarea de precisión empática con narradores autistas y no autistas mostró que 81 adultos de población general fueron **significativamente menos precisos** al inferir las emociones de los narradores **autistas**, especialmente alegría y tristeza, pese a experimentar una **intensidad corporal mayor** ante ellos, sobre todo para ira y miedo ([@cheang2024]; [[2024-Cheang-empathic-accuracy-double-empathy]]). La atribución de estados mentales entre personas autistas y no autistas falla en **ambas direcciones**, lo que exige reformular la teoría de la mente como problema relacional y no como déficit unilateral (ver [[Cap-16-Interaccion-social]], [[Cap-51-Autodefensa-neurodiversidad]]).
+
 ### Perspectivas clave
 
 - **Evidencia clínica:** perfil cognitivo ↓ / afectivo ≈; no “cero empatía”; evidencia electrofisiológica (MMN) de errores de predicción alterados de forma dependiente de la edad; evidencia experimental (ECA) de que el entrenamiento de ToM asistido por robot humanoide supera a terapia estándar y a un control humano activo equivalente.
@@ -98,8 +106,26 @@ WHERE contains(capitulos_relacionados, this.file.link)
 SORT fecha_captura DESC
 ```
 
+
+### Perth Empathy Scale y heterogeneidad empática
+
+Con la Perth Empathy Scale en N=239 personas autistas se confirma que la empatía no es un déficit unitario sino un conjunto heterogéneo de manifestaciones: el mito de la «falta de empatía» no encaja con la estructura empírica de la PES. ([@brett2024]; [[2024-Brett-Perth-Empathy-Scale]]).
+
+### GPT-4o y evaluación gamificada de teoría de la mente
+
+GPT-4o iguala aproximadamente a expertos humanos al calificar tareas de teoría de la mente en un entorno gamificado: prometedor para evaluación asistida escalable, pendiente de validación ética y ecológica. ([@poglitsch2025]; [[2025-Poglitsch-GPT4o-ToM-gamified]]).
+
+### Cuerpo y rostro en percepción emocional (autismo/SAD)
+
+En N=107 (autismo, ansiedad social y NT), la percepción emocional alterada involucra rostro y cuerpo: el perfil multimodal ayuda a distinguir y solapar contribuciones del autismo y de la ansiedad social. ([@koelkebeck2025]; [[2025-Koelkebeck-body-facial-emotion]]).
+
 ## Referencias citadas
 
+- [@brett2024] — [[2024-Brett-Perth-Empathy-Scale]]
+- [@poglitsch2025] — [[2025-Poglitsch-GPT4o-ToM-gamified]]
+- [@koelkebeck2025] — [[2025-Koelkebeck-body-facial-emotion]]
+
+- [@cheang2024] — [[2024-Cheang-empathic-accuracy-double-empathy]]
 - [@bai2025] — [[2025-Bai-biological-motion-systematic-review]]
 - [@cusson2025] — [[2025-Cusson-empathy-measures-meta-analysis]]
 - [@sapeytriomphe2025] — [[2025-Sapey-Triomphe-MMN-meta-analysis]]

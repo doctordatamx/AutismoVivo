@@ -7,7 +7,7 @@ dg-publish: true
 dg-home: false
 dg-permalink: /capitulos/etiologia
 ultima_actualizacion: "2026-07-29"
-version: "1.9"
+version: "2.1"
 fuentes_integradas:
   - "[[2012-Chaste-Leboyer-autism-risk-factors]]"
   - "[[2025-Wang-understanding-autism]]"
@@ -25,6 +25,16 @@ fuentes_integradas:
   - "[[2025-Chang-autism-dementia-family-sweden]]"
   - "[[2026-Chahrour-hidden-genetic-architecture]]"
   - "[[2024-Aishworiya-newborn-genetic-testing-ethics]]"
+  - "[[2025-Starr-Fraser-neuronal-evolution-L23-IT]]"
+  - "[[2025-Cao-Lei-methylation-prenatal-stress-bap]]"
+  - "[[2026-Dubuc-rare-variants-cell-type-foundation-models]]"
+  - "[[2024-Di-Mento-sex-differences-broad-autism-phenotype]]"
+  - "[[2025-Kanina-neonatal-jaundice-autism-sweden]]"
+  - "[[2025-Cajachagua-Torres-cannabis-tobacco-prenatal-autism]]"
+  - "[[2025-Chen-parental-education-autism-risk]]"
+  - "[[2025-de-Wit-community-perspectives-autism-genetics]]"
+  - "[[2026-Chiodi-sociogenomics-autism-genes]]"
+  - "[[2024-Benavidez-rare-variant-youth-services]]"
 estado: revision
 resumen_ejecutivo: "El TEA es altamente heredable. Convergen variantes raras y poligénicas; muchas actúan en la sinapsis y en el ENS. Ambiente prenatal (hormonas, MIA, asma materna OR≈1,3) converge en inmune–sinapsis–gut. Pruebas genéticas y terapias en síndromes/subtipos están en traslación."
 preguntas_abiertas:
@@ -212,6 +222,38 @@ Los estudios humanos de GxE aún son escasos y de baja potencia; cohortes prospe
 
 Más allá del modelo gen–ambiente clásico, dos propuestas teóricas recientes buscan reencuadrar el origen del autismo. Mottron et al. proponen las **bifurcaciones de desarrollo asimétricas (ADB)**: el autismo prototípico surgiría como una de dos "ramas" estables de un sistema polarizado en un período crítico breve del desarrollo —análogo a la gemelaridad, la presentación de nalgas o la lateralidad zurda— sin requerir un modelo de enfermedad ([@mottron2025]; [[2025-Mottron-asymmetric-developmental-bifurcations]]). En paralelo, Hunt et al. desarrollan **DCIDE**, un marco de cinco criterios para evaluar rigurosamente hipótesis evolutivas; al aplicarlo al autismo, favorecen explicaciones de **nicho ecológico y sistematización** sobre la hipótesis de "subproducto de la inteligencia general", y estiman que solo **~5–20%** de los casos corresponderían a formas no-adaptativas (mutaciones de novo, disrupción del desarrollo) ([@hunt2025]; [[2025-Hunt-DCIDE-evolutionary-autism]]). Ambos marcos son conceptuales —no evidencia empírica primaria— pero ofrecen alternativas al modelo puramente deficitario sin negar el costo adaptativo que el autismo puede implicar para algunos individuos.
 
+### Evolución neuronal y prevalencia humana del autismo
+
+Un análisis comparativo de transcriptómica de núcleo único en neocórtex de seis especies (>10⁶ neuronas, tres conjuntos independientes) propone un principio general: los subtipos neuronales **más abundantes** están más conservados evolutivamente. La excepción es el tipo más abundante del neocórtex —las neuronas excitatorias **intratelencefálicas de capa 2/3 (L2/3 IT)**—, que evolucionó excepcionalmente rápido en el linaje **humano**, con regulación **a la baja** de genes asociados a autismo (genes SFARI ~**4×** enriquecidos entre los que reducen expresión en humano frente a chimpancé), compatible con **selección positiva poligénica** ([@starr2025]; [[2025-Starr-Fraser-neuronal-evolution-L23-IT]]). La hipótesis derivada —plausible, no demostrada— es que la alta prevalencia humana del autismo sea un coste colateral de una adaptación cortical ventajosa, en línea con los marcos evolutivos de Mottron y Hunt (ver [[Cap-06-Neurobiologia]], [[Cap-58-Fronteras-investigacion]]).
+
+### Estrés materno prenatal y metilación: evidencia de mediación (Project Ice Storm)
+
+El Project Ice Storm siguió durante dos décadas a los hijos de mujeres embarazadas durante la tormenta de hielo de Quebec de 1998. La **metilación del ADN** medida a los 13 años medió la asociación entre estrés materno prenatal (dificultad objetiva y valoración cognitiva negativa) y las dimensiones **Personalidad distante** y **Déficits pragmáticos del lenguaje** del BAPQ a los 15, 16 y 19 años, en particular a través de genes de la vía **PI3K/AKT/mTOR** ([@caolei2025]; [[2025-Cao-Lei-methylation-prenatal-stress-bap]]). Las muestras son muy pequeñas (n=27, 22 y 13), por lo que es un hallazgo **generador de hipótesis**; la vía implicada conecta directamente con el marco de sinaptopatía descrito arriba y en [[Cap-06-Neurobiologia]].
+
+### De la variante rara al tipo celular
+
+Identificar genes de riesgo no basta: hay que saber **en qué células** y **cuándo** actúan. Una perspectiva en *Cell Genomics* señala que la **expresión amplia** de muchos genes asociados a autismo confunde las estimaciones de enriquecimiento por tipo celular, y propone cuantificar explícitamente el compromiso entre **especificidad** y **sensibilidad** celular de cada gen, combinando perturbaciones experimentales, **modelos fundacionales** de inteligencia artificial y validación en tejido post mortem ([@dubuc2026]; [[2026-Dubuc-rare-variants-cell-type-foundation-models]]). Los autores subrayan además el escaso solapamiento entre asociaciones genéticas y alteraciones transcriptómicas observadas en cerebros autistas, lo que reabre la pregunta de qué es causa y qué consecuencia (ver [[Cap-58-Fronteras-investigacion]]).
+
+### Agregación familiar del fenotipo autista amplio
+
+En el Australian Autism Biobank (1008 progenitores, 613 probandos, 221 hermanos no autistas), **todos** los rasgos BAP de los padres se asociaron a la expresión de rasgos autistas en los probandos, y **todos** los rasgos maternos a los rasgos de los hermanos no autistas; el distanciamiento y la rigidez paternos lo hicieron de forma **inversa** ([@dimento2024]; [[2024-Di-Mento-sex-differences-broad-autism-phenotype]]). Es evidencia fenotípica concreta de la agregación familiar que las estimaciones de heredabilidad describen en abstracto (ver [[Cap-01-Que-es-el-autismo]], [[Cap-11-Diagnostico-mujeres]]).
+
+### Ictericia neonatal: una asociación que se desvanece al ajustar
+
+Las revisiones clásicas incluían la **hiperbilirrubinemia** entre los factores perinatales asociados al autismo ([@chaste2012]). Una cohorte sueca de registros con **1,67 millones** de personas muestra que la asociación cruda (HR **1,48**) desaparece por completo al ajustar por edad gestacional, peso al nacer y demás covariables (HR **1,02**; IC95% 0,93-1,12), y que en bebés prematuros no hay asociación alguna ([@kanina2025]; [[2025-Kanina-neonatal-jaundice-autism-sweden]]). Este resultado **actualiza y corrige** la mención de hiperbilirrubinemia recogida en las revisiones anteriores citadas en este capítulo.
+
+### Cannabis y tabaco antes y durante el embarazo
+
+En la cohorte Generation R, el consumo **prenatal de cannabis** no se asoció con síntomas autistas en la descendencia; sí lo hicieron el consumo materno **preconcepcional** de cannabis y el consumo materno de **tabaco durante todo el embarazo**, sin asociación para el consumo **paterno** de tabaco ([@cajachaguatorres2025]; [[2025-Cajachagua-Torres-cannabis-tobacco-prenatal-autism]]). El uso de la exposición paterna como control negativo refuerza —sin demostrar— una interpretación de efecto intrauterino para el tabaco materno (ver [[Cap-04-Epidemiologia]]).
+
+### Educación parental: contexto de detección antes que causa
+
+Un caso-control en Guangzhou halló que la educación materna de posgrado se asociaba a **menor** riesgo de autismo en la descendencia (OR≈**0,35**), invirtiendo el patrón clásico de los países de renta alta ([@chen2025edu]; [[2025-Chen-parental-education-autism-risk]]). Más que un factor etiológico, el nivel educativo parental funciona aquí como indicador de **acceso al diagnóstico**, por lo que no debería incorporarse a la lista de «factores de riesgo» sin esa salvedad (ver [[Cap-04-Epidemiologia]]).
+
+### Qué quiere saber la comunidad autista sobre la genética
+
+Comunicar la genética del autismo exige saber qué quiere saber la comunidad. Una encuesta en el Registro Autista Neerlandés a **1757 adultos autistas**, 445 progenitores y 126 representantes legales encontró que más del **95%** considera al menos «un poco importante» saber que el autismo es altamente heredable y que el **67%** quiere aprender más, sobre todo para entender las causas y mejorar el proceso diagnóstico ([@dewit2025]; [[2025-de-Wit-community-perspectives-autism-genetics]]). El resultado matiza la imagen de rechazo comunitario a la investigación genética e identifica una **necesidad educativa** desatendida (ver [[Cap-57-Investigacion-etica]], [[Cap-51-Autodefensa-neurodiversidad]]).
+
 ### Perspectivas clave
 
 - **Evidencia clínica:** genética de alta confianza para variantes raras; ambiente con factores específicos (valproato); vacunas descartadas como causa.
@@ -224,8 +266,25 @@ Más allá del modelo gen–ambiente clásico, dos propuestas teóricas reciente
 - ¿Cuáles son las ventanas GxE más robustas en humanos?
 - ¿Cómo comunicar riesgo genético sin estigma?
 
+
+### Sociogenómica: 240 genes desde la red de sociabilidad
+
+Un enfoque de sociogenómica comparada y redes moleculares prioriza 240 genes asociados a autismo a partir de la red de sociabilidad, ampliando el mapa etiológico más allá de listas clínicas clásicas. ([@chiodi2026]; [[2026-Chiodi-sociogenomics-autism-genes]]).
+
+### Uso de servicios en jóvenes con variantes raras
+
+En N=125 jóvenes con variantes raras, el habla alcanza ~87% de uso mientras el tratamiento conductual es el menos accedido: identificar la genética no garantiza cartera equitativa de intervenciones. ([@benavidez2024]; [[2024-Benavidez-rare-variant-youth-services]]).
+
 ## Referencias citadas en este capítulo
 
+- [@starr2025] — [[2025-Starr-Fraser-neuronal-evolution-L23-IT]]
+- [@caolei2025] — [[2025-Cao-Lei-methylation-prenatal-stress-bap]]
+- [@dubuc2026] — [[2026-Dubuc-rare-variants-cell-type-foundation-models]]
+- [@dimento2024] — [[2024-Di-Mento-sex-differences-broad-autism-phenotype]]
+- [@kanina2025] — [[2025-Kanina-neonatal-jaundice-autism-sweden]]
+- [@cajachaguatorres2025] — [[2025-Cajachagua-Torres-cannabis-tobacco-prenatal-autism]]
+- [@chen2025edu] — [[2025-Chen-parental-education-autism-risk]]
+- [@dewit2025] — [[2025-de-Wit-community-perspectives-autism-genetics]]
 - [@chahrour2026] — [[2026-Chahrour-hidden-genetic-architecture]]
 - [@chang2025] — [[2025-Chang-autism-dementia-family-sweden]]
 - [@aishworiya2024] — [[2024-Aishworiya-newborn-genetic-testing-ethics]]

@@ -7,7 +7,7 @@ dg-publish: true
 dg-home: false
 dg-permalink: /capitulos/farmacoterapia
 ultima_actualizacion: "2026-07-29"
-version: "1.7"
+version: "1.8"
 fuentes_integradas:
   - "[[2025-Wang-understanding-autism]]"
   - "[[2025-Kim-An-precision-diagnosis-genomics]]"
@@ -21,6 +21,7 @@ fuentes_integradas:
   - "[[2025-Patwardhan-social-salience-network-oxytocin]]"
   - "[[2026-Ma-Shank3-oligodendrocyte-erk]]"
   - "[[2025-Alatrash-irritability-network-autism]]"
+  - "[[2026-Huang-gaba-arbaclofen-network-pac]]"
 estado: revision
 resumen_ejecutivo: "Sin fármacos aprobados para síntomas nucleares. Oxitocina: precisión (edad/OXTR/dosis). Sinapsis/mTOR mixtos. Probióticos/FMT: GI > core; LGR-1 solo preclínico. CAM: GFCF sin respaldo. Patrones cerebrales TEA ≈ ketamina (E/I) — no tratamiento. Un análisis de red sugiere que la irritabilidad se conecta con la reactividad fisiológica de forma indirecta, vía autorregulación y rasgos de TDAH, lo que podría orientar objetivos de intervención más allá de la sola supresión farmacológica del síntoma."
 preguntas_abiertas:
@@ -101,6 +102,10 @@ En el modelo murino Shank3Δ11(−/−), la inhibición farmacológica de la ví
 
 La irritabilidad es uno de los blancos farmacológicos más frecuentes (antipsicóticos atípicos) en autismo, pero un análisis de red reciente (N=132, niños autistas y neurotípicos, 7-16 años) sugiere que su arquitectura es más compleja de lo que implica el modelo "síntoma único → fármaco único". La irritabilidad se asoció **directamente** con conductas externalizantes, desregulación emocional y rasgos autistas, mientras que la reactividad y variabilidad de la frecuencia cardíaca (marcadores fisiológicos de arousal) se conectaron con la irritabilidad de forma **indirecta**, mediada por autorregulación y rasgos de TDAH, no de forma directa ([@alatrash2025]; [[2025-Alatrash-irritability-network-autism]]). Esto sugiere que intervenciones dirigidas a mejorar la autorregulación o tratar el TDAH comórbido podrían tener efectos en cascada sobre la irritabilidad, complementando (no necesariamente sustituyendo) el abordaje farmacológico directo; ver el marco de red más amplio en [[Cap-07-Comorbilidades]] y [[Cap-19-Funciones-ejecutivas]].
 
+### Sensibilidad a la dosis y reacciones paradójicas: evidencia neural
+
+Un ensayo cruzado doble ciego administró placebo o **arbaclofeno** (agonista **GABA-B**, 15 o 30 mg) a 15 adultos autistas y 24 no autistas a lo largo de 93 visitas, midiendo **acoplamiento fase-amplitud (PAC)** en EEG en reposo por redes funcionales. Los participantes autistas mostraron mayor PAC theta-beta, sobre todo en la **red límbica**; la **dosis alta** acercó las redes **visual** y **somatomotora** a valores no autistas, con efecto mínimo sobre redes cognitivas superiores; y en la **red límbica** la **dosis baja normalizó** el PAC mientras la **dosis alta volvió a alterarlo** ([@huang2026]; [[2026-Huang-gaba-arbaclofen-network-pac]]). Es un correlato objetivo de dos fenómenos que familias y clínicos describen desde hace décadas —**respuestas paradójicas** y **alta sensibilidad a la dosis**— y un argumento a favor de iniciar bajo y titular despacio (ver [[Cap-06-Neurobiologia]], [[Cap-18-Procesamiento-sensorial]]).
+
 ### Perspectivas clave
 
 - **Evidencia clínica:** comorbilidades sí; “cura del autismo” no; oxitocina/genoterapia en subgrupos/síndromes; la irritabilidad tiene una arquitectura de red con vías directas e indirectas, relevante para decidir dónde intervenir.
@@ -115,6 +120,7 @@ La irritabilidad es uno de los blancos farmacológicos más frecuentes (antipsic
 
 ## Referencias citadas
 
+- [@huang2026] — [[2026-Huang-gaba-arbaclofen-network-pac]]
 - [@ma2026shank3] — [[2026-Ma-Shank3-oligodendrocyte-erk]]
 - [@zheng2025] — [[2025-Zheng-nigrostriatal-VPA-dopamine]]
 - [@patwardhan2025] — [[2025-Patwardhan-social-salience-network-oxytocin]]

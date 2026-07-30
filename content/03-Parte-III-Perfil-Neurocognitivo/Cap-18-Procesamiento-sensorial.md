@@ -7,13 +7,23 @@ dg-publish: false
 dg-home: false
 dg-permalink: /capitulos/procesamiento-sensorial
 ultima_actualizacion: "2026-07-29"
-version: "1.3"
+version: "1.5"
 fuentes_integradas:
   - "[[2025-Seelemeyer-decomposing-brain-domains-LEAP]]"
   - "[[2025-Bai-biological-motion-systematic-review]]"
   - "[[2026-Tavassoli-sensory-reactivity-review]]"
   - "[[2025-Sapey-Triomphe-MMN-meta-analysis]]"
   - "[[2026-Adams-interoception-dimensions-autism]]"
+  - "[[2026-Kolisnyk-sensory-phenotypes-connectome-ML]]"
+  - "[[2026-Semelidou-tactile-perception-cognition-fmr1]]"
+  - "[[2025-Vassall-oddball-meta-analysis-autism]]"
+  - "[[2026-Huang-gaba-arbaclofen-network-pac]]"
+  - "[[2025-Davenport-autism-friendly-hospitals-scoping]]"
+  - "[[2025-Dwyer-auditory-hyperreactivity-ADHD-autism]]"
+  - "[[2026-Chien-aperiodic-EEG-autism]]"
+  - "[[2026-Yosef-predictive-processing-SOR]]"
+  - "[[2026-Gultig-BlinkLab-smartphone-sensorimotor]]"
+  - "[[2025-Koelkebeck-body-facial-emotion]]"
 estado: borrador
 resumen_ejecutivo: "El procesamiento sensorial atípico (ASP) tiene correlatos corticales dimensionales propios (LEAP), distintos de los de comunicación social o RRB. La percepción de movimiento biológico muestra dificultades concentradas en identificación/interpretación más que en detección básica. En interocepción, el diagnóstico de autismo se asocia específicamente con evaluación afectiva más negativa de las señales corporales, no con menor accuracy o atención."
 preguntas_abiertas:
@@ -57,6 +67,26 @@ Un meta-análisis de 38 estudios de EEG sobre *mismatch negativity* (MMN, un ín
 
 La interocepción —el procesamiento de señales internas del cuerpo— es un dominio sensorial distinto de la percepción exteroceptiva, con literatura previa inconsistente. Un estudio que separa explícitamente tres dimensiones interoceptivas autoinformadas (accuracy, atención, evaluación) en 519 participantes (232 autistas) halla que el diagnóstico de autismo se asocia específicamente con **evaluación interoceptiva más negativa** (interpretación afectiva más aversiva de las señales corporales), **sin** diferencias significativas en accuracy o atención entre grupos diagnósticos. En la población general, mayores rasgos autistas sí se asociaron con más atención interoceptiva, menor accuracy autoinformada y más evaluación negativa ([@adams2026]; [[2026-Adams-interoception-dimensions-autism]]). Este patrón sugiere que las inconsistencias de estudios previos sobre "interocepción atípica" en autismo podrían deberse en parte a la conflación de estas tres dimensiones distintas; el hallazgo más robusto y clínicamente relevante parece ser afectivo/evaluativo, con implicaciones para ansiedad y salud mental (ver [[Cap-47-Salud-mental]], [[Cap-07-Comorbilidades]]).
 
+### Cinco fenotipos sensoriales con firmas de red distinguibles
+
+Partiendo de una taxonomía de **cinco fenotipos sensoriales** del *Short Sensory Profile* —adaptativo (SA), diferencias generalizadas (GSD), sensibilidad a gusto y olfato (TSS), hiporrespuesta y búsqueda (URSS) y dificultades de movimiento con baja energía (MDLE)—, un estudio con 146 niños y adolescentes autistas aplicó teoría de grafos al conectoma funcional en reposo y entrenó modelos de *machine learning*, que discriminaron por encima del azar en **7 de 10** pares de fenotipos ([@kolisnyk2026]; [[2026-Kolisnyk-sensory-phenotypes-connectome-ML]]). Es un paso hacia la subtipificación sensorial con base biológica, aunque los rendimientos son moderados y falta validación externa (ver [[Cap-06-Neurobiologia]], [[Cap-14-Evaluacion-funcional]]).
+
+### La cognición modela la percepción táctil (y no solo al revés)
+
+En el modelo murino ***Fmr1*-KO**, una tarea traslacional de decisión perceptual táctil reveló alteraciones **dependientes de la saliencia**: mayor sesgo de consistencia de elección en ensayos de baja saliencia, **mejor** discriminación de estímulos poco salientes pero **menor** facilitación para estímulos que cruzan límites de categoría, y menor integración de la **historia sensorial**, todo ello disociable de los déficits atencionales bajo alta carga cognitiva ([@semelidou2026]; [[2026-Semelidou-tactile-perception-cognition-fmr1]]). El mensaje matiza la dicotomía hiper/hiporreactividad: la dirección del efecto depende del **contexto y de la decisión**, no de un detector sensorial uniformemente alterado (ver [[Cap-19-Funciones-ejecutivas]]).
+
+### Un meta-análisis nulo sobre paradigmas oddball
+
+Frente al interés creciente en la **predicción sensorial**, un meta-análisis multinivel con estimación robusta de varianza de estudios **oddball** auditivos y visuales **no** halló diferencias significativas de grupo entre personas autistas y no autistas en percepción, reconocimiento ni firmas neurales de detección de desviantes ([@vassall2025]; [[2025-Vassall-oddball-meta-analysis-autism]]). El resultado **contrasta** con el meta-análisis de MMN reseñado arriba, que sí encuentra efectos moderados por edad y por tipo de diseño ([@sapeytriomphe2025]): la discrepancia probablemente refleja criterios de inclusión y moderadores distintos, y aconseja no tratar el MMN como biomarcador consolidado de autismo.
+
+### Redes sensoriales y respuesta GABAérgica
+
+Un ensayo cruzado doble ciego con **arbaclofeno** (agonista GABA-B) en 15 adultos autistas y 24 no autistas mostró que la dosis alta acercaba el acoplamiento fase-amplitud de las redes **visual** y **somatomotora** a valores no autistas, mientras que la red **límbica** se normalizaba con dosis **baja** y volvía a alterarse con dosis alta ([@huang2026]; [[2026-Huang-gaba-arbaclofen-network-pac]]). Las redes que sostienen el procesamiento sensorial responden, por tanto, de forma distinta a las de funciones cognitivas superiores (ver [[Cap-36-Farmacoterapia]], [[Cap-06-Neurobiologia]]).
+
+### El entorno sensorial de los servicios de salud
+
+Una revisión de alcance sobre qué significa un hospital **«amigable con el autismo»** concluye que el término está indefinido, y lo operacionaliza a partir de 16 estudios sobre la experiencia de pacientes autistas: **19 facilitadores** y **23 barreras** agrupados en **personas**, **lugar** y **tiempo**, con la **flexibilidad** como eje transversal de las tres ([@davenport2025]; [[2025-Davenport-autism-friendly-hospitals-scoping]]). La categoría *lugar* recoge exactamente los factores sensoriales tratados en este capítulo —ruido, iluminación, salas de espera, espacios tranquilos— traducidos a ajustes verificables (ver [[Cap-52-Derechos-legales]]).
+
 ### Perspectivas clave
 
 - **Evidencia clínica:** ASP tiene correlatos corticales propios (LEAP); la percepción de acciones/movimiento biológico falla más en interpretación que en detección; hiperreactividad ligada a síntomas internalizantes; MMN muestra un patrón invertido niños/adultos, coherente con codificación predictiva dependiente de la edad; en interocepción, la evaluación afectiva negativa —no la accuracy— distingue mejor a personas autistas de no autistas.
@@ -77,8 +107,40 @@ WHERE contains(capitulos_relacionados, this.file.link)
 SORT fecha_captura DESC
 ```
 
+
+### Hiperreactividad auditiva transdiagnóstica (autismo/TDAH)
+
+En 492 adultos, la hiperreactividad auditiva está marcadamente elevada tanto en autismo como en TDAH frente a comparación (δ≈0,46–0,84), con diferencias pequeñas entre diagnósticos; un modelo de rutas sugiere un ciclo atención–ansiedad en el que hipervigilancia, hiperfoque e inatención se vinculan a la hiperreactividad y esta a la ansiedad. ([@dwyer2025]; [[2025-Dwyer-auditory-hyperreactivity-ADHD-autism]]; ver [[Cap-07-Comorbilidades]], [[Cap-47-Salud-mental]]).
+
+### EEG aperiódico más plano y equilibrio E/I
+
+El EEG aperiódico muestra una pendiente espectral más plana en autismo —compatible con un equilibrio E/I alterado— y el AQ se asocia a un exponente más bajo, desplazando el foco del análisis oscilatorio al componente 1/f como marcador neural. ([@chien2026]; [[2026-Chien-aperiodic-EEG-autism]]).
+
+### Pistas predictivas, fMRI y sobre-responsividad sensorial
+
+En N=55 personas con TEA, la hiperreactividad sensorial es mayor ante estímulos impredecibles y la supresión por expectativa cae a medida que aumenta la SOR: el procesamiento predictivo atípico se enlaza directamente con el fenotipo de sobre-responsividad. ([@yosef2026]; [[2026-Yosef-predictive-processing-SOR]]).
+
+### BlinkLab: PPI reducido vía smartphone
+
+Con BlinkLab (smartphone), N=431 completaron evaluación sensoriomotora y se observa PPI reducido en autismo: fenotipado remoto viable para diferencias sensoriomotoras y posible apoyo al cribado. ([@gultig2026]; [[2026-Gultig-BlinkLab-smartphone-sensorimotor]]).
+
+### Cuerpo y rostro en percepción emocional (autismo/SAD)
+
+En N=107 (autismo, ansiedad social y NT), la percepción emocional alterada involucra rostro y cuerpo: el perfil multimodal ayuda a distinguir y solapar contribuciones del autismo y de la ansiedad social. ([@koelkebeck2025]; [[2025-Koelkebeck-body-facial-emotion]]).
+
 ## Referencias citadas
 
+- [@dwyer2025] — [[2025-Dwyer-auditory-hyperreactivity-ADHD-autism]]
+- [@chien2026] — [[2026-Chien-aperiodic-EEG-autism]]
+- [@yosef2026] — [[2026-Yosef-predictive-processing-SOR]]
+- [@gultig2026] — [[2026-Gultig-BlinkLab-smartphone-sensorimotor]]
+- [@koelkebeck2025] — [[2025-Koelkebeck-body-facial-emotion]]
+
+- [@kolisnyk2026] — [[2026-Kolisnyk-sensory-phenotypes-connectome-ML]]
+- [@semelidou2026] — [[2026-Semelidou-tactile-perception-cognition-fmr1]]
+- [@vassall2025] — [[2025-Vassall-oddball-meta-analysis-autism]]
+- [@huang2026] — [[2026-Huang-gaba-arbaclofen-network-pac]]
+- [@davenport2025] — [[2025-Davenport-autism-friendly-hospitals-scoping]]
 - [@seelemeyer2025] — [[2025-Seelemeyer-decomposing-brain-domains-LEAP]]
 - [@bai2025] — [[2025-Bai-biological-motion-systematic-review]]
 - [@tavassoli2026] — [[2026-Tavassoli-sensory-reactivity-review]]

@@ -7,10 +7,12 @@ dg-publish: false
 dg-home: false
 dg-permalink: /capitulos/adultez-madura
 ultima_actualizacion: "2026-07-29"
-version: "1.1"
+version: "1.2"
 fuentes_integradas:
   - "[[2025-Chang-autism-dementia-family-sweden]]"
   - "[[2026-Dickinson-aging-autism-systematic-review]]"
+  - "[[2025-Blok-late-diagnosis-older-adults]]"
+  - "[[2026-Cremer-age-diagnosis-life-satisfaction]]"
 estado: borrador
 resumen_ejecutivo: "Una revisión sistemática de 56 estudios no halla evidencia de deterioro cognitivo generalizado ni acelerado en adultos autistas que envejecen, aunque sí quejas cognitivas subjetivas elevadas y vulnerabilidades focalizadas (sustancia blanca, salud cardiovascular). Un estudio familiar sueco muestra mayor riesgo de demencia en padres (no necesariamente en las personas autistas mismas), sugiriendo co-agregación genética familiar."
 preguntas_abiertas:
@@ -58,7 +60,19 @@ WHERE contains(capitulos_relacionados, this.file.link)
 SORT fecha_captura DESC
 ```
 
+
+### Diagnóstico tardío en adultos mayores (60–77): llamada a la acción
+
+Narrativas de adultos de 60–77 años con diagnóstico tardío muestran que la etiqueta no basta: hace falta diálogo clínico-gerontológico y apoyos específicos, una brecha aún poco cubierta en adultez madura. ([@blok2025]; [[2025-Blok-late-diagnosis-older-adults]]; ver [[Cap-12-Diagnostico-adultos]], [[Cap-51-Autodefensa-neurodiversidad]]).
+
+### Edad de diagnóstico y satisfacción vital adulta
+
+En N=769 adultos, el diagnóstico en la infancia temprana se asocia a mayor satisfacción vital adulta: el timing del reconocimiento importa para trayectorias de bienestar, no solo para acceso escolar inmediato. ([@cremer2026]; [[2026-Cremer-age-diagnosis-life-satisfaction]]).
+
 ## Referencias citadas
+
+- [@blok2025] — [[2025-Blok-late-diagnosis-older-adults]]
+- [@cremer2026] — [[2026-Cremer-age-diagnosis-life-satisfaction]]
 
 - [@dickinson2026] — [[2026-Dickinson-aging-autism-systematic-review]]
 - [@chang2025] — [[2025-Chang-autism-dementia-family-sweden]]

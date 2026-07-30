@@ -7,7 +7,7 @@ dg-publish: true
 dg-home: false
 dg-permalink: /capitulos/que-es-el-autismo
 ultima_actualizacion: "2026-07-29"
-version: "1.6"
+version: "1.8"
 fuentes_integradas:
   - "[[2026-07-28-neurodiversidad-autismo-piloto]]"
   - "[[2012-Chaste-Leboyer-autism-risk-factors]]"
@@ -18,6 +18,11 @@ fuentes_integradas:
   - "[[2026-Luyster-curiosity-creativity-autism]]"
   - "[[2026-Han-behavioral-network-comorbidity]]"
   - "[[2025-Russo-developmental-approach-IQ-neuroimaging]]"
+  - "[[2026-Szakal-Crespi-extreme-male-brain-females]]"
+  - "[[2024-Di-Mento-sex-differences-broad-autism-phenotype]]"
+  - "[[2024-Brett-Perth-Empathy-Scale]]"
+  - "[[2026-Romanos-Sirakis-spectrum-reflection]]"
+  - "[[2025-Furnier-ADDM-prevalence-adaptive]]"
 estado: publicado
 resumen_ejecutivo: "El autismo (TEA) es un perfil neurodesarrollado del espectro, con heterogeneidad clínica amplia. Clínicamente se define por comunicación social e intereses/conductas restringidas; etiologicamente es complejo (genes + ambiente). No equivale a un ‘trastorno de empatía’ global (meta-análisis 2025). Puede verse como categoría y como dimensión; la neurodiversidad añade una lente de derechos. Un modelo de red reciente reconceptualiza el autismo como un sistema de conductas de aproximación-retirada más que como un conjunto fijo de síntomas; y un comentario metodológico recuerda que autismo y CI son constructos distintos que no deben confundirse en investigación."
 preguntas_abiertas:
@@ -69,6 +74,14 @@ Un artículo teórico de Luyster et al. cuestiona los supuestos de que la curios
 
 Una alternativa reciente al modelo de "lista de síntomas" es conceptualizar el autismo como un **sistema dinámico de conductas de aproximación-retirada**. Un modelo de red gaussiana en la cohorte ABC-CT (N=280, 6-11 años, evaluados con el PDDBI) muestra que los nodos de regulación afectiva se relacionan más fuertemente con síntomas internalizantes (ansiedad, TDAH), mientras que los nodos de regulación del arousal y sensoriales se relacionan de forma más específica con síntomas externalizantes ([@han2026]; [[2026-Han-behavioral-network-comorbidity]]). Este enfoque de red complementa la mirada dimensional/categórica ya discutida arriba (bifurcación de desarrollo, marco DCIDE): en lugar de preguntar "¿cuánto autismo tiene esta persona?", pregunta cómo se conectan entre sí sus distintas conductas y comorbilidades. Ver aplicación clínica detallada en [[Cap-07-Comorbilidades]] y [[Cap-47-Salud-mental]].
 
+### Empatización y sistematización: qué dice la evidencia meta-analítica
+
+Uno de los modelos teóricos más difundidos es la hipótesis del **cerebro masculino extremo**, que describe el autismo como combinación de alta sistematización y baja empatización. Un meta-análisis de 34 estudios con los cuestionarios EQ, SQ y AQ halla que las diferencias entre personas autistas y neurotípicas son **proporcionalmente mayores en mujeres** que en hombres, que el **EQ discrimina más que el SQ**, y que las diferencias entre sexos casi se desvanecen dentro del grupo autista ([@szakal2026]; [[2026-Szakal-Crespi-extreme-male-brain-females]]). Conviene leerlo con cautela: son instrumentos **autoinformados** cuya validez está cuestionada, y el marco de doble empatía ofrece una lectura alternativa de las mismas puntuaciones (ver [[Cap-11-Diagnostico-mujeres]], [[Cap-16-Interaccion-social]]).
+
+### El fenotipo autista amplio en la familia
+
+Los rasgos autistas no se distribuyen de forma binaria: los familiares de primer grado no autistas presentan con frecuencia rasgos subumbral, el llamado **fenotipo autista amplio (BAP)**. En el Australian Autism Biobank (1008 progenitores, 613 probandos, 221 hermanos), los **padres** mostraron más distanciamiento, más dificultades pragmáticas del lenguaje y más problemas de compromiso social que las madres, mientras que entre los hermanos no autistas fueron las **hermanas** quienes mostraron más dificultades de cognición social ([@dimento2024]; [[2024-Di-Mento-sex-differences-broad-autism-phenotype]]). Este gradiente familiar respalda la lectura del autismo como extremo de una distribución continua de rasgos (ver [[Cap-05-Etiologia]], [[Cap-11-Diagnostico-mujeres]]).
+
 ### Perspectivas clave
 
 - **Evidencia clínica:** Prevalencia en torno a ~1% en varias estimaciones modernas (ver [[Cap-04-Epidemiologia]]); diagnóstico conductual, sin biomarcador único ([@chaste2012]); empatía multidimensional, no déficit global ([@cusson2025]); modelos de red reconceptualizan el autismo como sistema de conductas interconectadas más que como categoría fija ([@han2026]).
@@ -81,8 +94,27 @@ Una alternativa reciente al modelo de "lista de síntomas" es conceptualizar el 
 - ¿Qué subtipos o perfiles siguen siendo útiles clínicamente bajo el paradigma del espectro?
 - ¿El modelo de red de aproximación-retirada complementa o reemplaza los marcos categóricos DSM-5/CIE-11?
 
+
+### Perth Empathy Scale y heterogeneidad empática
+
+Con la Perth Empathy Scale en N=239 personas autistas se confirma que la empatía no es un déficit unitario sino un conjunto heterogéneo de manifestaciones: el mito de la «falta de empatía» no encaja con la estructura empírica de la PES. ([@brett2024]; [[2024-Brett-Perth-Empathy-Scale]]).
+
+### Ver el espectro completo: reflexión clínica-madre
+
+Una reflexión de clínica-madre insiste en sostener ambas verdades —mirada clínica y experiencia familiar— para ver el espectro completo sin reducir el autismo a un único relato. ([@romanossirakis2026]; [[2026-Romanos-Sirakis-spectrum-reflection]]).
+
+### Prevalencia ADDM por nivel adaptativo (leve ↑)
+
+En ADDM, la prevalencia con funcionamiento adaptativo leve pasa de 5,1 a 17,6/1000 mientras moderado–profundo permanece estable: el aumento epidemiológico se concentra en el estrato leve. ([@furnier2025]; [[2025-Furnier-ADDM-prevalence-adaptive]]).
+
 ## Referencias citadas
 
+- [@brett2024] — [[2024-Brett-Perth-Empathy-Scale]]
+- [@romanossirakis2026] — [[2026-Romanos-Sirakis-spectrum-reflection]]
+- [@furnier2025] — [[2025-Furnier-ADDM-prevalence-adaptive]]
+
+- [@szakal2026] — [[2026-Szakal-Crespi-extreme-male-brain-females]]
+- [@dimento2024] — [[2024-Di-Mento-sex-differences-broad-autism-phenotype]]
 - [@luyster2026] — [[2026-Luyster-curiosity-creativity-autism]]
 - [@mottron2025] — [[2025-Mottron-asymmetric-developmental-bifurcations]]
 - [@hunt2025] — [[2025-Hunt-DCIDE-evolutionary-autism]]

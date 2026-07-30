@@ -7,7 +7,7 @@ dg-publish: true
 dg-home: false
 dg-permalink: /capitulos/proceso-diagnostico
 ultima_actualizacion: "2026-07-29"
-version: "1.3"
+version: "1.5"
 fuentes_integradas:
   - "[[2021-Thapar-Rutter-genetic-advances]]"
   - "[[2025-Kim-An-precision-diagnosis-genomics]]"
@@ -15,6 +15,13 @@ fuentes_integradas:
   - "[[2025-Arribas-Ayllon-wales-medicalisation]]"
   - "[[2024-Aishworiya-newborn-genetic-testing-ethics]]"
   - "[[2025-Couture-healthcare-trajectories-sex-idd]]"
+  - "[[2025-Perry-resident-autism-evaluations-training]]"
+  - "[[2021-Zuckerman-REAL-START-latino-screening]]"
+  - "[[2026-Liang-functional-tic-like-behaviours-autism]]"
+  - "[[2025-Kallitsounaki-autism-gender-clinic-youth]]"
+  - "[[2025-Ranjan-NDIS-autism-prevalence]]"
+  - "[[2026-Cremer-age-diagnosis-life-satisfaction]]"
+  - "[[2026-Liu-Taiwanese-adolescents-diagnosis-identity]]"
 estado: revision
 resumen_ejecutivo: "El diagnóstico de TEA es clínico (historia + observación estandarizada). Instrumentos rigurosos (ADI/ADOS) son valiosos, pero no debe retrasarse la intervención por fronteras diagnósticas perfectas. Microarray/WES/WGS se indican según comorbilidad; PS (~2% liability) aún sin utilidad clínica rutinaria. Interpretación: umbral rara+poligénica, snRNA emergentes."
 preguntas_abiertas:
@@ -49,6 +56,18 @@ El diagnóstico de TEA es **clínico** (historia + observación estandarizada). 
 - Emergente: variantes en snRNA (*RNU4-2*, *RNU2-2*) asociadas a NDD con rasgos autistas ([@kim2025])
 - Detalle: [[Cap-05-Etiologia]] § Pruebas genéticas
 
+### Evaluación de autismo en atención primaria
+
+Ante listas de espera prolongadas, evaluar en atención primaria es una de las soluciones propuestas. Un programa de formación en clínica de continuidad, con 30 evaluaciones dirigidas por residentes de pediatría bajo supervisión, mejoró significativamente su confianza en cribado, uso de instrumentos, evaluación, diagnóstico, recomendaciones de tratamiento, difusión de recursos, comprensión de la **neurodiversidad** y uso de un **enfoque basado en fortalezas** ([@perry2025]; [[2025-Perry-resident-autism-evaluations-training]]). Es relevante que la formación incorporase el marco neuroafirmativo y no solo el técnico (ver [[Cap-09-Herramientas-cribado]], [[Cap-51-Autodefensa-neurodiversidad]]).
+
+### Del cribado a la derivación: dónde se atasca el circuito
+
+En seis clínicas de atención primaria que atienden a población latina, una intervención multicomponente elevó la adherencia a las guías de cribado del **46% al 91%**, pero la **proporción** de niños derivados a Intervención Temprana **no cambió**; sí aumentó el número total de derivaciones y se amplió el rango de edades derivadas, con tiempos algo más cortos hasta la evaluación ([@zuckerman2021]; [[2021-Zuckerman-REAL-START-latino-screening]]). Mejorar la detección sin ampliar la capacidad de evaluación y de servicios simplemente traslada la espera un paso más allá (ver [[Cap-09-Herramientas-cribado]]).
+
+### Presentaciones funcionales y autismo no identificado
+
+El **69,8%** de 63 menores atendidos por conductas funcionales tipo tic tenía diagnóstico de autismo, y la DAWBA solo lo detectaba con sensibilidad **0,09-0,26** ([@liang2026]; [[2026-Liang-functional-tic-like-behaviours-autism]]). Ante síntomas funcionales de inicio adolescente conviene valorar explícitamente el autismo —especialmente en chicas—, en lugar de asumir que un cribado estructurado negativo lo excluye (ver [[Cap-11-Diagnostico-mujeres]], [[Cap-13-Diagnostico-diferencial]]).
+
 ### Perspectivas clave
 
 - **Evidencia clínica:** diagnóstico conductual sigue siendo estándar; genómica es **complemento** etiológico.
@@ -71,8 +90,33 @@ Un estudio de caso cualitativo en Gales muestra que las vías de servicio de neu
 
 Una cohorte administrativa de Quebec (n=5289) muestra que las trayectorias de atención sanitaria tras el diagnóstico difieren marcadamente por sexo, edad al diagnóstico y presencia de discapacidad intelectual/del desarrollo (DID): las mujeres son diagnosticadas sistemáticamente más tarde (edad media 22,2 vs. 13,9 años) y presentan casi el doble de días de hospitalización cuando son diagnosticadas en la infancia; las tasas de hospitalización más altas se observan en personas diagnosticadas en la adultez, particularmente mujeres y personas con DID, lo que plantea preocupaciones sobre continuidad de la atención ([@couture2025]; [[2025-Couture-healthcare-trajectories-sex-idd]]; ver [[Cap-11-Diagnostico-mujeres]], [[Cap-12-Diagnostico-adultos]]).
 
+
+### Autismo en jóvenes de clínica de género (~11%)
+
+Alrededor del 11% de jóvenes referidos a clínica de género presentan autismo, y su fenotipo conductual es comparable al de jóvenes autistas cisgénero: el mensaje clínico es cribado y evaluación estándar, no un perfil «especial» por el contexto de género. ([@kallitsounaki2025]; [[2025-Kallitsounaki-autism-gender-clinic-youth]]).
+
+### NDIS y el +32% de prevalencia diagnóstica
+
+El NDIS australiano se asocia a ~32% más prevalencia diagnóstica de autismo y a ~47% de los nuevos diagnósticos desde 2013: la política de apoyos individualizados desplaza umbrales de identificación y cifras epidemiológicas. ([@ranjan2025]; [[2025-Ranjan-NDIS-autism-prevalence]]).
+
+### Edad de diagnóstico y satisfacción vital adulta
+
+En N=769 adultos, el diagnóstico en la infancia temprana se asocia a mayor satisfacción vital adulta: el timing del reconocimiento importa para trayectorias de bienestar, no solo para acceso escolar inmediato. ([@cremer2026]; [[2026-Cremer-age-diagnosis-life-satisfaction]]).
+
+### Diagnóstico como guía identitaria (adolescentes taiwaneses)
+
+Ocho adolescentes taiwaneses describen el diagnóstico de autismo como una «guía» de identidad: la revelación puede funcionar como marco de autocomprensión, no solo como etiqueta clínica. ([@liu2026]; [[2026-Liu-Taiwanese-adolescents-diagnosis-identity]]).
+
 ## Referencias citadas
 
+- [@kallitsounaki2025] — [[2025-Kallitsounaki-autism-gender-clinic-youth]]
+- [@ranjan2025] — [[2025-Ranjan-NDIS-autism-prevalence]]
+- [@cremer2026] — [[2026-Cremer-age-diagnosis-life-satisfaction]]
+- [@liu2026] — [[2026-Liu-Taiwanese-adolescents-diagnosis-identity]]
+
+- [@perry2025] — [[2025-Perry-resident-autism-evaluations-training]]
+- [@zuckerman2021] — [[2021-Zuckerman-REAL-START-latino-screening]]
+- [@liang2026] — [[2026-Liang-functional-tic-like-behaviours-autism]]
 - [@kim2025] — [[2025-Kim-An-precision-diagnosis-genomics]]
 - [@thapar2021] — [[2021-Thapar-Rutter-genetic-advances]]
 - [@aishworiya2024] — [[2024-Aishworiya-newborn-genetic-testing-ethics]]

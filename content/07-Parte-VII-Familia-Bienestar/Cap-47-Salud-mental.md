@@ -7,7 +7,7 @@ dg-publish: false
 dg-home: false
 dg-permalink: /capitulos/salud-mental
 ultima_actualizacion: "2026-07-29"
-version: "1.3"
+version: "1.5"
 fuentes_integradas:
   - "[[2025-Ali-Bougoure-autistic-burnout-review]]"
   - "[[2026-Cole-Happe-autism-FND-association]]"
@@ -15,6 +15,13 @@ fuentes_integradas:
   - "[[2026-Han-behavioral-network-comorbidity]]"
   - "[[2025-Chen-anxiety-scales-treatment-outcomes]]"
   - "[[2025-Alatrash-irritability-network-autism]]"
+  - "[[2025-Miles-autism-psychosis-meta-analysis]]"
+  - "[[2025-Guan-ableist-microaggressions-camouflage]]"
+  - "[[2026-Ozek-autistic-traits-thought-action-fusion-ocd]]"
+  - "[[2025-Dwyer-auditory-hyperreactivity-ADHD-autism]]"
+  - "[[2025-Albantakis-alexithymia-personality-disorder]]"
+  - "[[2026-Liu-Taiwanese-adolescents-diagnosis-identity]]"
+  - "[[2025-Westgate-perinatal-autistic-birthing]]"
 estado: revision
 resumen_ejecutivo: "Salud mental en TEA: burnout ligado a ansiedad/depresión (Ali 2025); trauma y estigma elevados. Asociación creciente con FND vía interocepción, alexitimia y adversidad. La evaluación interoceptiva negativa (no la accuracy) conecta con ansiedad; ansiedad y TDAH son los nodos más fuertes en modelos de red de comorbilidad; medir bien la ansiedad (interferencia funcional) mejora la detección de resultados de tratamiento."
 preguntas_abiertas:
@@ -74,6 +81,18 @@ Separando explícitamente accuracy, atención y evaluación interoceptiva (N=519
 3. Formulación: entorno + camouflaging + alexitimia + comorbilidades (+ FND si aplica)  
 4. Apoyos: pacing, ajustes, peer support + servicios (no solo fármacos)
 
+### Psicosis en personas autistas: cifras y cautelas de medición
+
+Un meta-análisis de **63 artículos** (N≈**6,9 millones**) estima una **odds ratio ≈7,03** de diagnóstico de trastorno psicótico en personas autistas; a nivel de rasgos, la asociación más fuerte es con los rasgos psicóticos **negativos** (r≈**0,506**), y mucho más débil con los positivos ([@miles2025]; [[2025-Miles-autism-psychosis-meta-analysis]]). Dado que el retraimiento social o la comunicación atípica pueden puntuar como síntomas negativos, la recomendación clínica es usar instrumentos que exijan **ejemplos concretos** y valorar la **historia del desarrollo** antes de diagnosticar (ver [[Cap-07-Comorbilidades]], [[Cap-13-Diagnostico-diferencial]]).
+
+### Estrés de minoría: microagresiones, soledad y camuflaje
+
+En 330 adultos autistas japoneses, las **microagresiones capacitistas** predijeron los tres fenotipos de camuflaje social, y su efecto sobre la **asimilación** estuvo mediado en cadena por una menor **aceptación externa** del autismo y una mayor **soledad**, mientras que la **autoaceptación** no medió significativamente ([@guan2025]; [[2025-Guan-ableist-microaggressions-camouflage]]). El modelo sitúa el origen del malestar en el **entorno** —cómo se trata a la persona autista— y no en su identidad, con implicaciones directas para el diseño de intervenciones en salud mental (ver [[Cap-21-Enmascaramiento]], [[Cap-50-Autocuidado-burnout]]).
+
+### Rasgos autistas y sesgos cognitivos en el TOC
+
+En 83 pacientes con TOC, el **AQ total** predijo de forma independiente la **fusión pensamiento-acción** en su dimensión de Probabilidad/Yo (β=0,250), junto con la gravedad obsesiva (β=0,386) y los rasgos esquizotípicos cognitivo-perceptuales (β=0,289) ([@ozek2026]; [[2026-Ozek-autistic-traits-thought-action-fusion-ocd]]). Cuando un paciente con TOC presenta rasgos autistas elevados puede ser útil abordar explícitamente este sesgo en la formulación del caso (ver [[Cap-07-Comorbilidades]]).
+
 ### Perspectivas clave
 
 - **Evidencia clínica:** burnout ligado a ansiedad/depresión; FND–TEA en crecimiento; ansiedad y TDAH son los nodos más centrales en modelos de red de comorbilidad; la interferencia funcional (no solo síntomas) mejora la detección de resultados de tratamiento de ansiedad; la evaluación interoceptiva negativa, más que la accuracy, conecta con ansiedad.
@@ -96,8 +115,33 @@ WHERE contains(capitulos_relacionados, this.file.link)
 SORT fecha_captura DESC
 ```
 
+
+### Hiperreactividad auditiva transdiagnóstica (autismo/TDAH)
+
+En 492 adultos, la hiperreactividad auditiva está marcadamente elevada tanto en autismo como en TDAH frente a comparación (δ≈0,46–0,84), con diferencias pequeñas entre diagnósticos; un modelo de rutas sugiere un ciclo atención–ansiedad en el que hipervigilancia, hiperfoque e inatención se vinculan a la hiperreactividad y esta a la ansiedad. ([@dwyer2025]; [[2025-Dwyer-auditory-hyperreactivity-ADHD-autism]]).
+
+### Alexitimia y rasgos autistas frente a dimensiones de personalidad
+
+Con N=89 personas autistas, los rasgos autistas predicen sobre todo dimensiones de personalidad tipo OCPD, mientras que la alexitimia predice dimensiones tipo borderline: el solapamiento clínico no es uniforme y exige disentangling alexitimia vs. rasgos autistas en la evaluación adulta. ([@albantakis2025]; [[2025-Albantakis-alexithymia-personality-disorder]]).
+
+### Diagnóstico como guía identitaria (adolescentes taiwaneses)
+
+Ocho adolescentes taiwaneses describen el diagnóstico de autismo como una «guía» de identidad: la revelación puede funcionar como marco de autocomprensión, no solo como etiqueta clínica. ([@liu2026]; [[2026-Liu-Taiwanese-adolescents-diagnosis-identity]]).
+
+### Personal perinatal y personas gestantes autistas
+
+El personal de salud mental perinatal reporta necesidad de formación en autismo y destaca preguntar «qué significa el autismo para ellas» como eje de cuidados adaptados a mujeres y personas gestantes autistas. ([@westgate2025]; [[2025-Westgate-perinatal-autistic-birthing]]).
+
 ## Referencias citadas
 
+- [@dwyer2025] — [[2025-Dwyer-auditory-hyperreactivity-ADHD-autism]]
+- [@albantakis2025] — [[2025-Albantakis-alexithymia-personality-disorder]]
+- [@liu2026] — [[2026-Liu-Taiwanese-adolescents-diagnosis-identity]]
+- [@westgate2025] — [[2025-Westgate-perinatal-autistic-birthing]]
+
+- [@miles2025] — [[2025-Miles-autism-psychosis-meta-analysis]]
+- [@guan2025] — [[2025-Guan-ableist-microaggressions-camouflage]]
+- [@ozek2026] — [[2026-Ozek-autistic-traits-thought-action-fusion-ocd]]
 - [@cole2026] — [[2026-Cole-Happe-autism-FND-association]]
 - [@ali2025] — [[2025-Ali-Bougoure-autistic-burnout-review]]
 - [@han2026] — [[2026-Han-behavioral-network-comorbidity]]

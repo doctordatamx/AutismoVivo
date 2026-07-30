@@ -7,7 +7,7 @@ dg-publish: true
 dg-home: false
 dg-permalink: /capitulos/neurobiologia
 ultima_actualizacion: "2026-07-29"
-version: "1.9"
+version: "2.1"
 fuentes_integradas:
   - "[[2012-Chaste-Leboyer-autism-risk-factors]]"
   - "[[2025-Wang-understanding-autism]]"
@@ -28,6 +28,18 @@ fuentes_integradas:
   - "[[2026-Ma-Shank3-oligodendrocyte-erk]]"
   - "[[2025-Segura-connectome-symptom-mapping-asd-adhd]]"
   - "[[2025-Russo-developmental-approach-IQ-neuroimaging]]"
+  - "[[2025-Starr-Fraser-neuronal-evolution-L23-IT]]"
+  - "[[2026-Dubuc-rare-variants-cell-type-foundation-models]]"
+  - "[[2026-Huang-gaba-arbaclofen-network-pac]]"
+  - "[[2026-Kolisnyk-sensory-phenotypes-connectome-ML]]"
+  - "[[2026-Semelidou-tactile-perception-cognition-fmr1]]"
+  - "[[2025-Vassall-oddball-meta-analysis-autism]]"
+  - "[[2026-Chien-aperiodic-EEG-autism]]"
+  - "[[2026-Yosef-predictive-processing-SOR]]"
+  - "[[2025-Pasion-P300-autism-schizotypal]]"
+  - "[[2026-Chiodi-sociogenomics-autism-genes]]"
+  - "[[2026-Ranjabaran-SSL-multi-brain-EEG]]"
+  - "[[2025-McGugin-laminar-FFA-thickness]]"
 estado: revision
 resumen_ejecutivo: "Sinaptopatía, GER, inmune/hormonas/MGBA; LCOR↓ en DMN co-localiza con glutamato/GABA y se asemeja a ketamina (E/I). Subgrupos transcriptómicos-imagen (LEAP). Microbiota: correlación humana; prevención LGR-1 solo en ratones. Un comentario metodológico advierte que gran parte de la investigación en neuroimagen no controla por capacidad cognitiva (CI), generando hallazgos potencialmente espurios."
 preguntas_abiertas:
@@ -151,14 +163,76 @@ Un meta-análisis de 38 estudios de EEG sobre mismatch negativity (MMN) halla un
 
 Russo et al. argumentan que autismo y CI son constructos **distintos y disociables**, y que gran parte de la investigación en neuroimagen sobre autismo no controla ni empareja por capacidad cognitiva, lo que puede generar hallazgos espurios o inferencias causales inválidas: diferencias atribuidas al "autismo" podrían reflejar en realidad diferencias de CI entre grupos. Como ejemplo concreto, citan que solo el **64%** de los estudios incluidos en un meta-análisis reciente de EEG en reposo (Neo et al.) emparejaron los grupos por CI ([@russo2025]; [[2025-Russo-developmental-approach-IQ-neuroimaging]]). Este señalamiento metodológico es relevante para interpretar con cautela buena parte de los hallazgos de este capítulo (p. ej. LCOR, MMN, conectividad funcional) cuando no se reporta explícitamente el control por CI; ver también [[Cap-14-Evaluacion-funcional]] sobre la relación entre CI y otros instrumentos de evaluación.
 
+### Tipos celulares y evolución: las neuronas L2/3 IT
+
+El tipo neuronal más abundante del neocórtex —las neuronas excitatorias **intratelencefálicas de capa 2/3 (L2/3 IT)**— muestra en humanos una evolución de expresión génica excepcionalmente rápida respecto a otros simios, acompañada de una regulación a la baja de genes asociados a autismo (genes SFARI ~**4×** enriquecidos entre los que bajan su expresión) ([@starr2025]; [[2025-Starr-Fraser-neuronal-evolution-L23-IT]]). Dado que en el resto del cerebro los tipos más abundantes son también los más conservados, esta excepción sugiere que una clase neuronal muy numerosa quedó, en humanos, **más sensible a perturbación** genética (ver [[Cap-05-Etiologia]], [[Cap-58-Fronteras-investigacion]]).
+
+### Convergencia biológica: el tipo celular como unidad de análisis
+
+El paso de «gen de riesgo» a «mecanismo» requiere resolución celular. Una perspectiva reciente advierte que la **expresión amplia** de muchos genes de autismo confunde el enriquecimiento por tipo celular y propone cuantificar el compromiso entre **especificidad** y **sensibilidad** celular, integrando perturbaciones experimentales, **modelos fundacionales** de IA sobre el cerebro en desarrollo y validación post mortem ([@dubuc2026]; [[2026-Dubuc-rare-variants-cell-type-foundation-models]]). El escaso solapamiento entre asociaciones genéticas y alteraciones transcriptómicas post mortem sugiere que parte de lo observado en el tejido adulto puede ser consecuencia o compensación, no causa.
+
+### Respuesta GABAérgica dinámica: el desafío con arbaclofeno
+
+La hipótesis de desequilibrio excitación-inhibición se había apoyado sobre todo en comparaciones **estáticas**. Un ensayo cruzado doble ciego administró placebo o **arbaclofeno** (agonista GABA-B, 15 o 30 mg) a 15 adultos autistas y 24 no autistas (93 visitas), midiendo **acoplamiento fase-amplitud (PAC)** en EEG por redes funcionales: los participantes autistas mostraron mayor PAC theta-beta, sobre todo en la **red límbica**; la dosis alta acercó las redes **visual** y **somatomotora** a valores no autistas, con efecto mínimo en redes cognitivas superiores; y en la red límbica la dosis **baja** normalizó el PAC mientras la **alta** volvió a alterarlo ([@huang2026]; [[2026-Huang-gaba-arbaclofen-network-pac]]). Es una demostración objetiva de **respuesta específica de red** y de **paradoja dosis-respuesta** (ver [[Cap-36-Farmacoterapia]]).
+
+### Fenotipos sensoriales con firma de conectoma
+
+En 146 niños y adolescentes autistas clasificados en **cinco fenotipos sensoriales** del *Short Sensory Profile*, modelos de *machine learning* sobre métricas de teoría de grafos del conectoma funcional en reposo discriminaron por encima del azar en **7 de 10** pares de fenotipos ([@kolisnyk2026]; [[2026-Kolisnyk-sensory-phenotypes-connectome-ML]]). El resultado sugiere que la heterogeneidad sensorial no es solo ruido de medición, sino que refleja organizaciones de red parcialmente distintas (ver [[Cap-18-Procesamiento-sensorial]], [[Cap-14-Evaluacion-funcional]]).
+
+### Decisión perceptual táctil en el modelo Fmr1
+
+En el modelo murino ***Fmr1*-KO** (X frágil), una tarea traslacional de decisión perceptual táctil reveló alteraciones **dependientes de la saliencia**: mayor sesgo de consistencia de elección en ensayos de baja saliencia, mejor discriminación de estímulos poco salientes pero menor facilitación en los límites de categoría, y **menor integración de la historia sensorial**, todo ello disociable de los déficits atencionales bajo alta carga ([@semelidou2026]; [[2026-Semelidou-tactile-perception-cognition-fmr1]]). La percepción alterada emerge de cómo se **pondera** la evidencia durante la decisión, no de un detector sensorial defectuoso (ver [[Cap-18-Procesamiento-sensorial]], [[Cap-19-Funciones-ejecutivas]]).
+
+### Límites de los biomarcadores oddball
+
+Un meta-análisis multinivel con estimación robusta de varianza de estudios **oddball** auditivos y visuales **no** encontró diferencias significativas de grupo entre personas autistas y no autistas en percepción, reconocimiento ni firmas neurales de detección de desviantes ([@vassall2025]; [[2025-Vassall-oddball-meta-analysis-autism]]). Contrasta con el meta-análisis de MMN que sí halla efectos moderados por edad y tipo de diseño ([@sapeytriomphe2025]): la discrepancia probablemente refleja criterios de inclusión y moderadores distintos, y aconseja no tratar el MMN como biomarcador consolidado (ver [[Cap-18-Procesamiento-sensorial]]).
+
 ### Perspectivas clave
 
 - **Evidencia clínica:** imagen (fMRI, DTI, MRS, PET) y EEG como candidatos a biomarcadores digitales — ver [[Cap-09-Herramientas-cribado]]; conectividad y variantes genéticas raras convergen en modelos dimensionales de severidad compartidos entre TEA y TDAH.
 - **Experiencia vivida:** biomarcadores no definen identidad.
 - **Controversias:** causalidad de neuroinflamación y mtDNA; traducibilidad de hallazgos preclínicos (oligodendrocitos, Erk) a formas idiopáticas de TEA; cuánta de la literatura de neuroimagen en autismo es confundible por CI no controlado.
 
+
+### EEG aperiódico más plano y equilibrio E/I
+
+El EEG aperiódico muestra una pendiente espectral más plana en autismo —compatible con un equilibrio E/I alterado— y el AQ se asocia a un exponente más bajo, desplazando el foco del análisis oscilatorio al componente 1/f como marcador neural. ([@chien2026]; [[2026-Chien-aperiodic-EEG-autism]]).
+
+### Pistas predictivas, fMRI y sobre-responsividad sensorial
+
+En N=55 personas con TEA, la hiperreactividad sensorial es mayor ante estímulos impredecibles y la supresión por expectativa cae a medida que aumenta la SOR: el procesamiento predictivo atípico se enlaza directamente con el fenotipo de sobre-responsividad. ([@yosef2026]; [[2026-Yosef-predictive-processing-SOR]]).
+
+### P300: rasgos autistas vs esquizotípicos en predicción neural
+
+En N=122, el P300 muestra que rasgos autistas y esquizotípicos modulan de forma distinta el procesamiento predictivo neural: solapamiento fenotípico no implica el mismo mecanismo de predicción. ([@pasion2025]; [[2025-Pasion-P300-autism-schizotypal]]).
+
+### Sociogenómica: 240 genes desde la red de sociabilidad
+
+Un enfoque de sociogenómica comparada y redes moleculares prioriza 240 genes asociados a autismo a partir de la red de sociabilidad, ampliando el mapa etiológico más allá de listas clínicas clásicas. ([@chiodi2026]; [[2026-Chiodi-sociogenomics-autism-genes]]).
+
+### SSL multi-brain EEG (~78% en díadas ASC)
+
+Un enfoque SSL de decodificación multi-cerebro con EEG alcanza ~78% de precisión en díadas ASC: una frontera metodológica para hiperscanning y marcadores interpersonales en autismo. ([@ranjabaran2026]; [[2026-Ranjabaran-SSL-multi-brain-EEG]]).
+
+### Grosor laminar del FFA: caras vs coches
+
+En FFA laminar, la experiencia/selectividad facial se asocia a corteza más delgada y la de coches a mayor grosor: plasticidad dominio-específica a escala laminar en autismo. ([@mcgugin2025]; [[2025-McGugin-laminar-FFA-thickness]]).
+
 ## Referencias citadas
 
+- [@chien2026] — [[2026-Chien-aperiodic-EEG-autism]]
+- [@yosef2026] — [[2026-Yosef-predictive-processing-SOR]]
+- [@pasion2025] — [[2025-Pasion-P300-autism-schizotypal]]
+- [@chiodi2026] — [[2026-Chiodi-sociogenomics-autism-genes]]
+- [@ranjabaran2026] — [[2026-Ranjabaran-SSL-multi-brain-EEG]]
+- [@mcgugin2025] — [[2025-McGugin-laminar-FFA-thickness]]
+
+- [@starr2025] — [[2025-Starr-Fraser-neuronal-evolution-L23-IT]]
+- [@dubuc2026] — [[2026-Dubuc-rare-variants-cell-type-foundation-models]]
+- [@huang2026] — [[2026-Huang-gaba-arbaclofen-network-pac]]
+- [@kolisnyk2026] — [[2026-Kolisnyk-sensory-phenotypes-connectome-ML]]
+- [@semelidou2026] — [[2026-Semelidou-tactile-perception-cognition-fmr1]]
+- [@vassall2025] — [[2025-Vassall-oddball-meta-analysis-autism]]
 - [@segura2025] — [[2025-Segura-connectome-symptom-mapping-asd-adhd]]
 - [@chahrour2026] — [[2026-Chahrour-hidden-genetic-architecture]]
 - [@ma2026shank3] — [[2026-Ma-Shank3-oligodendrocyte-erk]]

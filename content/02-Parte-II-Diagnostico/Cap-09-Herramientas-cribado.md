@@ -7,11 +7,17 @@ dg-publish: true
 dg-home: false
 dg-permalink: /capitulos/herramientas-cribado
 ultima_actualizacion: "2026-07-29"
-version: "1.2"
+version: "1.4"
 fuentes_integradas:
   - "[[2025-Wang-understanding-autism]]"
   - "[[2025-Yoon-eye-tracking-treatment-monitoring-meta]]"
   - "[[2025-Marques-Brazil-adult-autism-screening]]"
+  - "[[2021-Zuckerman-REAL-START-latino-screening]]"
+  - "[[2026-Liang-functional-tic-like-behaviours-autism]]"
+  - "[[2025-Perry-resident-autism-evaluations-training]]"
+  - "[[2025-Kallitsounaki-autism-gender-clinic-youth]]"
+  - "[[2026-Gultig-BlinkLab-smartphone-sensorimotor]]"
+  - "[[2026-Livingston-SQ-A-2-screener]]"
 estado: revision
 resumen_ejecutivo: "El diagnóstico sigue basado en evaluación conductual estandarizada (p. ej. ADOS-2) más historia del desarrollo. Los biomarcadores digitales (eye-tracking, EEG, fMRI) y biológicos (citocinas, metabolómica, microbiota) son prometedores pero, por la heterogeneidad del TEA, no hay un marcador único validado para uso clínico universal. Nuevos instrumentos de autocribado adulto validados en Brasil (SfA-A/SfA-F, N combinado >11.000) muestran buena psicometría y una versión específica para mujeres sensible al camuflaje."
 preguntas_abiertas:
@@ -66,6 +72,18 @@ Citocinas (p. ej. G-CSF, IL-1, TNF-α), expresión génica (SOD2, RORA), miRNAs,
 
 Fuera de los biomarcadores biológicos, el cribado conductual autoinformado en adultos también avanza. En Brasil se desarrollaron y validaron psicométricamente dos escalas nuevas: **SfA-A** (Screening for Autism – Adults, general, N=3302) y **SfA-F** (versión específica para mujeres, N=7738). Ambas muestran buen ajuste de modelo (ESEM/CFA), alta consistencia interna (α>0,8) y validez de criterio razonable frente al AQ-10 (r=0,73 y r=0,68 respectivamente). La versión femenina (SfA-F) incorpora factores específicos de **camuflaje social**, ausentes en instrumentos de cribado genéricos ([@marques2025]; [[2025-Marques-Brazil-adult-autism-screening]]). Esto es relevante porque los instrumentos de cribado tradicionales (diseñados y validados mayormente en niños varones) tienden a subdetectar mujeres y personas que enmascaran rasgos; ver [[Cap-11-Diagnostico-mujeres]] y [[Cap-12-Diagnostico-adultos]].
 
+### Implementación real: mejorar el cribado en atención primaria
+
+Tener un buen instrumento no garantiza que se use. La intervención de mejora de calidad **REAL-START**, aplicada en seis clínicas de Oregón que atienden a población latina (2224 visitas de niño sano analizadas), elevó el cribado de autismo del **70% al 94%**, el cribado general del desarrollo del **62% al 95%** y la adherencia a las guías del **46% al 91%** mediante formación en cribado, **facturación**, derivación y barreras culturales y lingüísticas ([@zuckerman2021]; [[2021-Zuckerman-REAL-START-latino-screening]]). Notablemente, la **proporción** de niños derivados a Intervención Temprana no cambió, aunque el total de derivaciones aumentó: el cuello de botella se desplaza aguas abajo (ver [[Cap-10-Proceso-diagnostico]], [[Cap-04-Epidemiologia]]).
+
+### Cuando el cuestionario estructurado no basta
+
+En una serie de 63 menores con **conductas funcionales tipo tic**, donde el **69,8%** resultó tener autismo, la **DAWBA** —un instrumento estructurado ampliamente utilizado— mostró una sensibilidad de apenas **0,09-0,26** para identificar autismo ([@liang2026]; [[2026-Liang-functional-tic-like-behaviours-autism]]). El caso ilustra un principio general del cribado: en presentaciones clínicas atípicas o complejas, un cuestionario estructurado negativo **no descarta** autismo y no sustituye a la evaluación clínica (ver [[Cap-07-Comorbilidades]], [[Cap-10-Proceso-diagnostico]]).
+
+### Formar a quien criba: residentes de pediatría
+
+Un itinerario formativo en clínica de continuidad permitió a residentes de pediatría **dirigir** 30 evaluaciones de autismo en atención primaria acompañados por un pediatra entrenado, con educación reforzada que incluía **estrategias neuroafirmativas** y entrenamiento en un instrumento de evaluación; la confianza de los residentes mejoró significativamente en cribado, uso de instrumentos, diagnóstico, recomendaciones y comprensión de la neurodiversidad ([@perry2025]; [[2025-Perry-resident-autism-evaluations-training]]). El estudio mide confianza autoinformada, no exactitud diagnóstica, pero señala una vía realista para ampliar capacidad (ver [[Cap-10-Proceso-diagnostico]]).
+
 ### Perspectivas clave
 
 - **Evidencia clínica:** ADOS-2 sigue siendo referencia; digitales/biológicos = investigación; los nuevos instrumentos de autocribado adulto (SfA-A/SfA-F) amplían las opciones validadas fuera de los países de habla inglesa.
@@ -78,8 +96,28 @@ Fuera de los biomarcadores biológicos, el cribado conductual autoinformado en a
 - ¿Cómo llevar eye-tracking a primaria?
 - ¿Los instrumentos SfA-A/SfA-F se replican bien fuera de la población brasileña?
 
+
+### Autismo en jóvenes de clínica de género (~11%)
+
+Alrededor del 11% de jóvenes referidos a clínica de género presentan autismo, y su fenotipo conductual es comparable al de jóvenes autistas cisgénero: el mensaje clínico es cribado y evaluación estándar, no un perfil «especial» por el contexto de género. ([@kallitsounaki2025]; [[2025-Kallitsounaki-autism-gender-clinic-youth]]).
+
+### BlinkLab: PPI reducido vía smartphone
+
+Con BlinkLab (smartphone), N=431 completaron evaluación sensoriomotora y se observa PPI reducido en autismo: fenotipado remoto viable para diferencias sensoriomotoras y posible apoyo al cribado. ([@gultig2026]; [[2026-Gultig-BlinkLab-smartphone-sensorimotor]]).
+
+### SQ-A-2: cribado co-producido con adultos autistas
+
+El SQ-A-2 (N=302), co-producido con adultos autistas, mejora la discriminación gracias a una redacción adaptada: la co-producción no es solo ética, también afina el cribado adulto. ([@livingston2026]; [[2026-Livingston-SQ-A-2-screener]]).
+
 ## Referencias citadas
 
+- [@kallitsounaki2025] — [[2025-Kallitsounaki-autism-gender-clinic-youth]]
+- [@gultig2026] — [[2026-Gultig-BlinkLab-smartphone-sensorimotor]]
+- [@livingston2026] — [[2026-Livingston-SQ-A-2-screener]]
+
+- [@zuckerman2021] — [[2021-Zuckerman-REAL-START-latino-screening]]
+- [@liang2026] — [[2026-Liang-functional-tic-like-behaviours-autism]]
+- [@perry2025] — [[2025-Perry-resident-autism-evaluations-training]]
 - [@yoon2025] — [[2025-Yoon-eye-tracking-treatment-monitoring-meta]]
 - [@wang2025] — [[2025-Wang-understanding-autism]]
 - [@marques2025] — [[2025-Marques-Brazil-adult-autism-screening]]
