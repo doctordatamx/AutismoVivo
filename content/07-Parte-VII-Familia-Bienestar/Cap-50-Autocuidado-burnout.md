@@ -8,6 +8,7 @@ dg-home: false
 dg-permalink: /capitulos/autocuidado-burnout
 ultima_actualizacion: "2026-07-29"
 version: "1.3"
+conocimiento: 4
 fuentes_integradas:
   - "[[2025-Ali-Bougoure-autistic-burnout-review]]"
   - "[[2026-Brennan-circadian-family-synchronisation-scoping]]"
@@ -25,6 +26,10 @@ bibliography: "03-Datos/references.bib"
 ---
 
 # Capítulo 50 — Autocuidado, límites y prevención del burnout
+
+<!-- sync:version-badge -->
+> **v1.3** · conocimiento **4** · actualizado **2026-07-29**
+<!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
 

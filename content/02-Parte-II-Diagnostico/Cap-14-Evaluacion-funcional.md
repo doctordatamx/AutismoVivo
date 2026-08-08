@@ -8,6 +8,7 @@ dg-home: false
 dg-permalink: /capitulos/evaluacion-funcional
 ultima_actualizacion: "2026-07-29"
 version: "1.3"
+conocimiento: 6
 fuentes_integradas:
   - "[[2026-Han-behavioral-network-comorbidity]]"
   - "[[2025-Chen-anxiety-scales-treatment-outcomes]]"
@@ -26,6 +27,10 @@ bibliography: "03-Datos/references.bib"
 ---
 
 # Capítulo 14 — Evaluación funcional: comunicación, adaptativa, sensorial
+
+<!-- sync:version-badge -->
+> **v1.3** · conocimiento **6** · actualizado **2026-07-29**
+<!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
 

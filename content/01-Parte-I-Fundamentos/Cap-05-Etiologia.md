@@ -6,8 +6,6 @@ titulo: "Etiología: genética, epigenética, factores ambientales"
 dg-publish: true
 dg-home: false
 dg-permalink: /capitulos/etiologia
-ultima_actualizacion: "2026-07-29"
-version: "2.1"
 fuentes_integradas:
   - "[[2012-Chaste-Leboyer-autism-risk-factors]]"
   - "[[2025-Wang-understanding-autism]]"
@@ -35,7 +33,13 @@ fuentes_integradas:
   - "[[2025-de-Wit-community-perspectives-autism-genetics]]"
   - "[[2026-Chiodi-sociogenomics-autism-genes]]"
   - "[[2024-Benavidez-rare-variant-youth-services]]"
+  - "[[2025-Yin-parental-PPD-offspring-ASD]]"
+  - "[[2026-Dickerson-maternal-occupation-ASD-Denmark]]"
+  - "[[2025-Morin-maternal-BMI-offspring-ASD]]"
 estado: revision
+ultima_actualizacion: "2026-08-07"
+version: "2.5"
+conocimiento: 29
 resumen_ejecutivo: "El TEA es altamente heredable. Convergen variantes raras y poligénicas; muchas actúan en la sinapsis y en el ENS. Ambiente prenatal (hormonas, MIA, asma materna OR≈1,3) converge en inmune–sinapsis–gut. Pruebas genéticas y terapias en síndromes/subtipos están en traslación."
 preguntas_abiertas:
   - "¿Cómo reconciliar heredabilidad alta con aumento de prevalencia y factores ambientales?"
@@ -48,6 +52,10 @@ bibliography: "03-Datos/references.bib"
 ---
 
 # Capítulo 05 — Etiología: genética, epigenética, factores ambientales
+
+<!-- sync:version-badge -->
+> **v2.5** · conocimiento **29** · actualizado **2026-08-07**
+<!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
 
@@ -254,6 +262,21 @@ Un caso-control en Guangzhou halló que la educación materna de posgrado se aso
 
 Comunicar la genética del autismo exige saber qué quiere saber la comunidad. Una encuesta en el Registro Autista Neerlandés a **1757 adultos autistas**, 445 progenitores y 126 representantes legales encontró que más del **95%** considera al menos «un poco importante» saber que el autismo es altamente heredable y que el **67%** quiere aprender más, sobre todo para entender las causas y mejorar el proceso diagnóstico ([@dewit2025]; [[2025-de-Wit-community-perspectives-autism-genetics]]). El resultado matiza la imagen de rechazo comunitario a la investigación genética e identifica una **necesidad educativa** desatendida (ver [[Cap-57-Investigacion-etica]], [[Cap-51-Autodefensa-neurodiversidad]]).
 
+
+### Depresión posparto parental (materna y paterna)
+
+Una cohorte asocia la depresión posparto (PPD) parental con mayor riesgo de TEA en la descendencia; la asociación se atenúa —pero no desaparece— al ajustar por historia depresiva, antidepresivos y otros factores psiquiátricos. La magnitud es comparable si la PPD es materna o **paterna**, y mayor si ambos padres la presentan, patrón compatible con influencias genéticas compartidas más que con un efecto solo perinatal materno ([@yin2025ppd]; [[2025-Yin-parental-PPD-offspring-ASD]]; ver [[Cap-04-Epidemiologia]], [[Cap-07-Comorbilidades]]).
+
+
+### Ocupación materna (registros daneses)
+
+En casos-controles daneses, ciertas ocupaciones maternas alrededor de la concepción se asociaron a mayores odds de TEA en hijos —transporte terrestre (aOR≈1,24), administración pública (≈1,20) y militar/defensa (≈1,59)— sin implicar causalidad ocupacional simple ([@dickerson2026occ]; [[2026-Dickerson-maternal-occupation-ASD-Denmark]]; ver [[Cap-04-Epidemiologia]]).
+
+
+### BMI materno en gestación temprana
+
+Cohortes armonizadas Suecia/Dinamarca examinan el BMI materno al inicio del embarazo y el riesgo de TEA en la descendencia a lo largo del rango completo de BMI; la literatura previa era mixta ([@morin2025bmi]; [[2025-Morin-maternal-BMI-offspring-ASD]]; ver [[Cap-04-Epidemiologia]]). Factor poblacional a interpretar con confusión residual, no como estigma individual.
+
 ### Perspectivas clave
 
 - **Evidencia clínica:** genética de alta confianza para variantes raras; ambiente con factores específicos (valproato); vacunas descartadas como causa.
@@ -276,6 +299,12 @@ Un enfoque de sociogenómica comparada y redes moleculares prioriza 240 genes as
 En N=125 jóvenes con variantes raras, el habla alcanza ~87% de uso mientras el tratamiento conductual es el menos accedido: identificar la genética no garantiza cartera equitativa de intervenciones. ([@benavidez2024]; [[2024-Benavidez-rare-variant-youth-services]]).
 
 ## Referencias citadas en este capítulo
+
+- [@morin2025bmi] — [[2025-Morin-maternal-BMI-offspring-ASD]]
+
+- [@dickerson2026occ] — [[2026-Dickerson-maternal-occupation-ASD-Denmark]]
+
+- [@yin2025ppd] — [[2025-Yin-parental-PPD-offspring-ASD]]
 
 - [@starr2025] — [[2025-Starr-Fraser-neuronal-evolution-L23-IT]]
 - [@caolei2025] — [[2025-Cao-Lei-methylation-prenatal-stress-bap]]

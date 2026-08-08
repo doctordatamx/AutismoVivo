@@ -6,8 +6,6 @@ titulo: "Diagnóstico en adultos y diagnóstico tardío"
 dg-publish: false
 dg-home: false
 dg-permalink: /capitulos/diagnostico-adultos
-ultima_actualizacion: "2026-07-29"
-version: "1.4"
 fuentes_integradas:
   - "[[2025-Couture-healthcare-trajectories-sex-idd]]"
   - "[[2025-Marques-Brazil-adult-autism-screening]]"
@@ -16,7 +14,13 @@ fuentes_integradas:
   - "[[2025-Blok-late-diagnosis-older-adults]]"
   - "[[2026-Livingston-SQ-A-2-screener]]"
   - "[[2026-Cremer-age-diagnosis-life-satisfaction]]"
+  - "[[2025-Garza-underrecognition-adult-psychiatric]]"
+  - "[[2025-Procyshyn-autistic-adults-barriers-NHS-suicidality]]"
+  - "[[2025-Terner-sex-differences-adult-autism-screening]]"
 estado: borrador
+ultima_actualizacion: "2026-08-07"
+version: "1.7"
+conocimiento: 10
 resumen_ejecutivo: "Una cohorte administrativa de Quebec (n=5289) muestra que 26,3% de los diagnósticos de autismo ocurren en la adultez, y que las personas diagnosticadas en la adultez —particularmente mujeres y personas con discapacidad intelectual/del desarrollo— presentan las tasas de hospitalización más altas, sugiriendo brechas de continuidad en la atención. Nuevos instrumentos de autocribado adulto (SfA-A/SfA-F, Brasil) amplían las opciones de detección temprana en esta población subdiagnosticada."
 preguntas_abiertas:
   - "¿Qué modelos de atención reducirían la hospitalización evitable en personas diagnosticadas en la adultez?"
@@ -27,6 +31,10 @@ bibliography: "03-Datos/references.bib"
 ---
 
 # Capítulo 12 — Diagnóstico en adultos y diagnóstico tardío
+
+<!-- sync:version-badge -->
+> **v1.7** · conocimiento **10** · actualizado **2026-08-07**
+<!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
 
@@ -47,6 +55,21 @@ Una de las barreras al diagnóstico oportuno en adultos es la escasez de instrum
 ### El diagnóstico tardío de AuDHD y la construcción de la identidad
 
 Recibir en la adultez un diagnóstico de autismo **y** de TDAH sitúa a la persona en una categoría que los manuales no nombran. Un estudio fenomenológico con seis mujeres describe cómo esa **residualidad** produce ambivalencia («dos partes separadas de mi cerebro», «dos caras de la misma moneda», «el autismo es parte de mí, el TDAH es un añadido») y cómo las participantes la resolvían buscando una comprensión objetiva de sus condiciones y diferenciando identidad neurodivergente de neurotípica ([@craddock2025]; [[2025-Craddock-audhd-women-residual-categories]]). El estudio subraya la necesidad de evaluación **integrada** y de apoyos posdiagnósticos que faciliten una identidad cohesionada (ver [[Cap-11-Diagnostico-mujeres]], [[Cap-21-Enmascaramiento]]).
+
+
+### Infra-reconocimiento en la práctica psiquiátrica adulta
+
+Una revisión narrativa argumenta que el autismo adulto permanece infra-reconocido en psiquiatría por modelos centrados en la infancia, camuflaje, overlapping comórbido y escasa historia del desarrollo en la evaluación ([@garza2025underrec]; [[2025-Garza-underrecognition-adult-psychiatric]]; ver [[Cap-13-Diagnostico-diferencial]], [[Cap-47-Salud-mental]]). Reconocer autismo **no sustituye** otros diagnósticos: aporta un marco dimensional que mejora formulación, reduce overshadowing y orienta el ajuste ambiental.
+
+
+### Crisis y desconfianza en servicios públicos
+
+Muchos adultos autistas no buscan ayuda sanitaria pública en crisis suicida porque dudan de que el sistema pueda ayudar o intentan gestionar solos ([@procyshyn2025help]; [[2025-Procyshyn-autistic-adults-barriers-NHS-suicidality]]; ver [[Cap-47-Salud-mental]]). El diagnóstico adulto debe acoplarse a rutas de crisis neuroafirmativas.
+
+
+### Autoinforme adulto + historia infantil
+
+Para reducir subdetección (sobre todo en mujeres), conviene combinar cribado actual (p. ej. AQ) con informe retrospectivo parental (RQ) ([@terner2025screen]; [[2025-Terner-sex-differences-adult-autism-screening]]; ver [[Cap-11-Diagnostico-mujeres]], [[Cap-09-Herramientas-cribado]]).
 
 ### Perspectivas clave
 
@@ -86,6 +109,12 @@ El SQ-A-2 (N=302), co-producido con adultos autistas, mejora la discriminación 
 En N=769 adultos, el diagnóstico en la infancia temprana se asocia a mayor satisfacción vital adulta: el timing del reconocimiento importa para trayectorias de bienestar, no solo para acceso escolar inmediato. ([@cremer2026]; [[2026-Cremer-age-diagnosis-life-satisfaction]]).
 
 ## Referencias citadas
+
+- [@terner2025screen] — [[2025-Terner-sex-differences-adult-autism-screening]]
+
+- [@procyshyn2025help] — [[2025-Procyshyn-autistic-adults-barriers-NHS-suicidality]]
+
+- [@garza2025underrec] — [[2025-Garza-underrecognition-adult-psychiatric]]
 
 - [@albantakis2025] — [[2025-Albantakis-alexithymia-personality-disorder]]
 - [@blok2025] — [[2025-Blok-late-diagnosis-older-adults]]

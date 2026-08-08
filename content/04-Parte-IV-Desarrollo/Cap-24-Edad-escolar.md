@@ -8,6 +8,7 @@ dg-home: false
 dg-permalink: /capitulos/edad-escolar
 ultima_actualizacion: "2026-07-29"
 version: "1.3"
+conocimiento: 3
 fuentes_integradas:
   - "[[2025-Soto-Icaza-classroom-social-networks]]"
   - "[[2025-Ren-adhd-presentation-recharge]]"
@@ -23,6 +24,10 @@ bibliography: "03-Datos/references.bib"
 ---
 
 # Capítulo 24 — Edad escolar (6–12 años)
+
+<!-- sync:version-badge -->
+> **v1.3** · conocimiento **3** · actualizado **2026-07-29**
+<!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
 

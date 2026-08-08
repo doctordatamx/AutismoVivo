@@ -8,6 +8,7 @@ dg-home: false
 dg-permalink: /capitulos/intervencion-temprana
 ultima_actualizacion: "2026-07-29"
 version: "1.4"
+conocimiento: 8
 fuentes_integradas:
   - "[[2025-Ziegler-DAN-PACT-protocol]]"
   - "[[2025-Aitken-adaptive-behavior-trajectories-ML]]"
@@ -28,6 +29,10 @@ bibliography: "03-Datos/references.bib"
 ---
 
 # Capítulo 30 — Intervención temprana (ESDM, JASPER, modelos naturales)
+
+<!-- sync:version-badge -->
+> **v1.4** · conocimiento **8** · actualizado **2026-07-29**
+<!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
 

@@ -6,8 +6,9 @@ titulo: "Comorbilidades: TDAH, ansiedad, epilepsia, GI, sueño"
 dg-publish: true
 dg-home: false
 dg-permalink: /capitulos/comorbilidades
-ultima_actualizacion: "2026-07-29"
-version: "1.9"
+ultima_actualizacion: "2026-08-07"
+version: "1.11"
+conocimiento: 29
 fuentes_integradas:
   - "[[2012-Chaste-Leboyer-autism-risk-factors]]"
   - "[[2021-Thapar-Rutter-genetic-advances]]"
@@ -36,6 +37,8 @@ fuentes_integradas:
   - "[[2025-Kallitsounaki-autism-gender-clinic-youth]]"
   - "[[2026-Sotosgracia-camouflaging-ASD-BPD-women]]"
   - "[[2025-Pasion-P300-autism-schizotypal]]"
+  - "[[2026-Pellegrini-OCD-ASD-comorbidity-fingerprints]]"
+  - "[[2025-Watanabe-ADHD-ASD-traits-PMDD-Japan]]"
 estado: revision
 resumen_ejecutivo: "TEA coexiste con TDAH (OR≈22), DI, epilepsia, GI, FND y alteraciones de sueño/actividad. Marcos de red (aproximación-retirada, irritabilidad) muestran cómo comorbilidad ansiosa/externalizante emerge de nodos compartidos; la evaluación interoceptiva negativa (no la accuracy) conecta con ansiedad y FND."
 preguntas_abiertas:
@@ -50,6 +53,10 @@ bibliography: "03-Datos/references.bib"
 ---
 
 # Capítulo 07 — Comorbilidades: TDAH, ansiedad, epilepsia, GI, sueño
+
+<!-- sync:version-badge -->
+> **v1.11** · conocimiento **29** · actualizado **2026-08-07**
+<!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
 
@@ -173,6 +180,16 @@ Entre 63 menores atendidos por **conductas funcionales tipo tic** en un servicio
 
 El diagnóstico combinado de autismo y TDAH es clínicamente frecuente pero carece de representación formal en los sistemas diagnósticos. Un análisis fenomenológico interpretativo con seis mujeres diagnosticadas en la adultez describe la ambivalencia de habitar esa **categoría residual**: contradicción entre perfiles («dos partes separadas de mi cerebro»), complementariedad ocasional («dos caras de la misma moneda») y tensión entre narrativa de neurodiversidad y narrativa médica ([@craddock2025]; [[2025-Craddock-audhd-women-residual-categories]]). La conclusión práctica es la necesidad de **procesos diagnósticos integrados** en lugar de evaluaciones separadas y secuenciales (ver [[Cap-11-Diagnostico-mujeres]], [[Cap-12-Diagnostico-adultos]], [[Cap-21-Enmascaramiento]]).
 
+
+### TOC con TEA: fingerprint clínico
+
+En pacientes con TOC, el subgrupo con TEA comórbido muestra onset más temprano, mayor vulnerabilidad a trauma, perfiles sintomáticos distintos (p. ej. obsesiones somáticas) y comorbilidades específicas ([@pellegrini2026ocd]; [[2026-Pellegrini-OCD-ASD-comorbidity-fingerprints]]; ver [[Cap-13-Diagnostico-diferencial]], [[Cap-47-Salud-mental]]).
+
+
+### TDPM y rasgos TDAH (más que TEA)
+
+En mujeres empleadas, PMDD se asoció a rasgos TDAH pero no de forma significativa a rasgos TEA ([@watanabe2025pmdd]; [[2025-Watanabe-ADHD-ASD-traits-PMDD-Japan]]; ver [[Cap-11-Diagnostico-mujeres]]).
+
 ### Perspectivas clave
 
 - **Evidencia clínica:** co-agregación TEA–TDAH muy robusta (incluso a nivel neurobiológico dimensional y de red conductual); GI frecuente y multifactorial; FND en radar clínico; envejecimiento sin evidencia de deterioro cognitivo generalizado pero con vulnerabilidades focalizadas; la interferencia funcional (no solo síntomas) es clave para medir bien la ansiedad comórbida.
@@ -205,6 +222,10 @@ En N=225, las mujeres con TEA y con TLP muestran niveles de camuflaje CAT-Q prá
 En N=122, el P300 muestra que rasgos autistas y esquizotípicos modulan de forma distinta el procesamiento predictivo neural: solapamiento fenotípico no implica el mismo mecanismo de predicción. ([@pasion2025]; [[2025-Pasion-P300-autism-schizotypal]]).
 
 ## Referencias citadas
+
+- [@watanabe2025pmdd] — [[2025-Watanabe-ADHD-ASD-traits-PMDD-Japan]]
+
+- [@pellegrini2026ocd] — [[2026-Pellegrini-OCD-ASD-comorbidity-fingerprints]]
 
 - [@dwyer2025] — [[2025-Dwyer-auditory-hyperreactivity-ADHD-autism]]
 - [@albantakis2025] — [[2025-Albantakis-alexithymia-personality-disorder]]

@@ -8,6 +8,7 @@ dg-home: false
 dg-permalink: /capitulos/adultez-joven
 ultima_actualizacion: ""
 version: "1.0"
+conocimiento: 0
 fuentes_integradas: []
 estado: borrador
 resumen_ejecutivo: ""
@@ -17,6 +18,10 @@ tags:
 ---
 
 # Capítulo 26 — Adultez joven: estudios, trabajo, relaciones
+
+<!-- sync:version-badge -->
+> **v1.0** · conocimiento **0** · actualizado **2026-08-07**
+<!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
 

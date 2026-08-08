@@ -8,6 +8,7 @@ dg-home: false
 dg-permalink: /capitulos/crianza
 ultima_actualizacion: "2026-07-29"
 version: "1.2"
+conocimiento: 9
 fuentes_integradas:
   - "[[2026-Clark-Whitney-caregiver-adjustment-review]]"
   - "[[2025-Marquez-black-caregivers-family-messaging]]"
@@ -30,6 +31,10 @@ bibliography: "03-Datos/references.bib"
 ---
 
 # Capítulo 45 — Crianza de niños autistas: estrategias basadas en evidencia
+
+<!-- sync:version-badge -->
+> **v1.2** · conocimiento **9** · actualizado **2026-07-29**
+<!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
 

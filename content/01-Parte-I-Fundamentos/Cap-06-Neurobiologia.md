@@ -8,6 +8,7 @@ dg-home: false
 dg-permalink: /capitulos/neurobiologia
 ultima_actualizacion: "2026-07-29"
 version: "2.1"
+conocimiento: 31
 fuentes_integradas:
   - "[[2012-Chaste-Leboyer-autism-risk-factors]]"
   - "[[2025-Wang-understanding-autism]]"
@@ -52,6 +53,10 @@ bibliography: "03-Datos/references.bib"
 ---
 
 # Capítulo 06 — Neurobiología: cerebro, conectividad, biomarcadores
+
+<!-- sync:version-badge -->
+> **v2.1** · conocimiento **31** · actualizado **2026-07-29**
+<!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
 

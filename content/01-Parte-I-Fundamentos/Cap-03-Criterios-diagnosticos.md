@@ -8,6 +8,7 @@ dg-home: false
 dg-permalink: /capitulos/criterios-diagnosticos
 ultima_actualizacion: "2026-07-29"
 version: "1.1"
+conocimiento: 1
 fuentes_integradas:
   - "[[2025-Arribas-Ayllon-wales-medicalisation]]"
 estado: borrador
@@ -19,6 +20,10 @@ tags:
 ---
 
 # Capítulo 03 — Criterios diagnósticos: DSM-5-TR, CIE-11, evolución de criterios
+
+<!-- sync:version-badge -->
+> **v1.1** · conocimiento **1** · actualizado **2026-07-29**
+<!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
 

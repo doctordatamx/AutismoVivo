@@ -6,8 +6,9 @@ titulo: "Herramientas de cribado (M-CHAT, ADOS, ADI-R, y otras)"
 dg-publish: true
 dg-home: false
 dg-permalink: /capitulos/herramientas-cribado
-ultima_actualizacion: "2026-07-29"
-version: "1.4"
+ultima_actualizacion: "2026-08-07"
+version: "1.6"
+conocimiento: 11
 fuentes_integradas:
   - "[[2025-Wang-understanding-autism]]"
   - "[[2025-Yoon-eye-tracking-treatment-monitoring-meta]]"
@@ -18,6 +19,8 @@ fuentes_integradas:
   - "[[2025-Kallitsounaki-autism-gender-clinic-youth]]"
   - "[[2026-Gultig-BlinkLab-smartphone-sensorimotor]]"
   - "[[2026-Livingston-SQ-A-2-screener]]"
+  - "[[2025-Terner-sex-differences-adult-autism-screening]]"
+  - "[[2025-Sutherland-telehealth-autism-diagnostic-agreement]]"
 estado: revision
 resumen_ejecutivo: "El diagnóstico sigue basado en evaluación conductual estandarizada (p. ej. ADOS-2) más historia del desarrollo. Los biomarcadores digitales (eye-tracking, EEG, fMRI) y biológicos (citocinas, metabolómica, microbiota) son prometedores pero, por la heterogeneidad del TEA, no hay un marcador único validado para uso clínico universal. Nuevos instrumentos de autocribado adulto validados en Brasil (SfA-A/SfA-F, N combinado >11.000) muestran buena psicometría y una versión específica para mujeres sensible al camuflaje."
 preguntas_abiertas:
@@ -29,6 +32,10 @@ bibliography: "03-Datos/references.bib"
 ---
 
 # Capítulo 09 — Herramientas de cribado (M-CHAT, ADOS, ADI-R, y otras)
+
+<!-- sync:version-badge -->
+> **v1.6** · conocimiento **11** · actualizado **2026-08-07**
+<!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
 
@@ -84,6 +91,16 @@ En una serie de 63 menores con **conductas funcionales tipo tic**, donde el **69
 
 Un itinerario formativo en clínica de continuidad permitió a residentes de pediatría **dirigir** 30 evaluaciones de autismo en atención primaria acompañados por un pediatra entrenado, con educación reforzada que incluía **estrategias neuroafirmativas** y entrenamiento en un instrumento de evaluación; la confianza de los residentes mejoró significativamente en cribado, uso de instrumentos, diagnóstico, recomendaciones y comprensión de la neurodiversidad ([@perry2025]; [[2025-Perry-resident-autism-evaluations-training]]). El estudio mide confianza autoinformada, no exactitud diagnóstica, pero señala una vía realista para ampliar capacidad (ver [[Cap-10-Proceso-diagnostico]]).
 
+
+### AQ vs RQ y diferencias de sexo
+
+El AQ captura rasgos actuales; el RQ aporta infancia vía cuidadores. Usarlos juntos mitiga sesgos de camuflaje en el cribado adulto ([@terner2025screen]; [[2025-Terner-sex-differences-adult-autism-screening]]; ver [[Cap-11-Diagnostico-mujeres]]).
+
+
+### Evaluación a distancia
+
+Tele-evaluaciones diagnósticas en niños pequeños pueden alcanzar acuerdo sustancial con la presencial en entornos clínicos reales ([@sutherland2025tele]; [[2025-Sutherland-telehealth-autism-diagnostic-agreement]]; ver [[Cap-10-Proceso-diagnostico]]).
+
 ### Perspectivas clave
 
 - **Evidencia clínica:** ADOS-2 sigue siendo referencia; digitales/biológicos = investigación; los nuevos instrumentos de autocribado adulto (SfA-A/SfA-F) amplían las opciones validadas fuera de los países de habla inglesa.
@@ -110,6 +127,10 @@ Con BlinkLab (smartphone), N=431 completaron evaluación sensoriomotora y se obs
 El SQ-A-2 (N=302), co-producido con adultos autistas, mejora la discriminación gracias a una redacción adaptada: la co-producción no es solo ética, también afina el cribado adulto. ([@livingston2026]; [[2026-Livingston-SQ-A-2-screener]]).
 
 ## Referencias citadas
+
+- [@sutherland2025tele] — [[2025-Sutherland-telehealth-autism-diagnostic-agreement]]
+
+- [@terner2025screen] — [[2025-Terner-sex-differences-adult-autism-screening]]
 
 - [@kallitsounaki2025] — [[2025-Kallitsounaki-autism-gender-clinic-youth]]
 - [@gultig2026] — [[2026-Gultig-BlinkLab-smartphone-sensorimotor]]

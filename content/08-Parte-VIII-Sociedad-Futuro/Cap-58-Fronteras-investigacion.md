@@ -8,6 +8,7 @@ dg-home: false
 dg-permalink: /capitulos/fronteras-investigacion
 ultima_actualizacion: "2026-07-29"
 version: "1.8"
+conocimiento: 18
 fuentes_integradas:
   - "[[2025-Kim-An-precision-diagnosis-genomics]]"
   - "[[2026-Zabetakis-Grabrucker-synaptic-protein-mutations]]"
@@ -42,6 +43,10 @@ bibliography: "03-Datos/references.bib"
 ---
 
 # Capítulo 58 — Fronteras de investigación y preguntas abiertas
+
+<!-- sync:version-badge -->
+> **v1.8** · conocimiento **18** · actualizado **2026-07-29**
+<!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
 

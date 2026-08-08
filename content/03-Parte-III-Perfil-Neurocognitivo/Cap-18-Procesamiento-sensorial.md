@@ -6,8 +6,9 @@ titulo: "Procesamiento sensorial (hipo/hiper/búsqueda sensorial)"
 dg-publish: false
 dg-home: false
 dg-permalink: /capitulos/procesamiento-sensorial
-ultima_actualizacion: "2026-07-29"
-version: "1.5"
+ultima_actualizacion: "2026-08-06"
+version: "1.6"
+conocimiento: 17
 fuentes_integradas:
   - "[[2025-Seelemeyer-decomposing-brain-domains-LEAP]]"
   - "[[2025-Bai-biological-motion-systematic-review]]"
@@ -24,6 +25,8 @@ fuentes_integradas:
   - "[[2026-Yosef-predictive-processing-SOR]]"
   - "[[2026-Gultig-BlinkLab-smartphone-sensorimotor]]"
   - "[[2025-Koelkebeck-body-facial-emotion]]"
+  - "[[2026-Bailey-agitation-sensory-cerumen-nonverbal]]"
+  - "[[2026-Corridore-sensory-dental-ESBA-autism]]"
 estado: borrador
 resumen_ejecutivo: "El procesamiento sensorial atípico (ASP) tiene correlatos corticales dimensionales propios (LEAP), distintos de los de comunicación social o RRB. La percepción de movimiento biológico muestra dificultades concentradas en identificación/interpretación más que en detección básica. En interocepción, el diagnóstico de autismo se asocia específicamente con evaluación afectiva más negativa de las señales corporales, no con menor accuracy o atención."
 preguntas_abiertas:
@@ -36,6 +39,10 @@ bibliography: "03-Datos/references.bib"
 ---
 
 # Capítulo 18 — Procesamiento sensorial (hipo/hiper/búsqueda sensorial)
+
+<!-- sync:version-badge -->
+> **v1.6** · conocimiento **17** · actualizado **2026-08-06**
+<!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
 
@@ -87,6 +94,14 @@ Un ensayo cruzado doble ciego con **arbaclofeno** (agonista GABA-B) en 15 adulto
 
 Una revisión de alcance sobre qué significa un hospital **«amigable con el autismo»** concluye que el término está indefinido, y lo operacionaliza a partir de 16 estudios sobre la experiencia de pacientes autistas: **19 facilitadores** y **23 barreras** agrupados en **personas**, **lugar** y **tiempo**, con la **flexibilidad** como eje transversal de las tres ([@davenport2025]; [[2025-Davenport-autism-friendly-hospitals-scoping]]). La categoría *lugar* recoge exactamente los factores sensoriales tratados en este capítulo —ruido, iluminación, salas de espera, espacios tranquilos— traducidos a ajustes verificables (ver [[Cap-52-Derechos-legales]]).
 
+
+### Odontología: enfoque educativo sensorial (ESBA)
+
+Un programa educativo sensorial en odontología pediátrica (Italia) facilita la cooperación de niños con TEA y puede reducir el recurso a anestesia general cuando el consultorio satura sensorialmente y la comunicación falla ([@corridore2026dental]; [[2026-Corridore-sensory-dental-ESBA-autism]]; ver [[Cap-33-Terapia-ocupacional]], [[Cap-14-Evaluacion-funcional]]). Preparar el entorno y ensayar antes de forzar contención.
+
+### Agitación aguda y checklist sensorial (oídos primero)
+
+Un case report de un adulto no verbal de 36 años muestra agitación grave que persistió pese a antipsicóticos, dexmedetomidina y restricciones físicas, y remitió tras irrigar un **tapón de cerumen**: en personas mínimamente verbales, un desencadenante sensorial/médico tratable puede parecer «descompensación psiquiátrica» ([@bailey2026]; [[2026-Bailey-agitation-sensory-cerumen-nonverbal]]; ver [[Cap-14-Evaluacion-funcional]], [[Cap-36-Farmacoterapia]]). El mensaje operativo es una evaluación **sensory-first** temprana (sala de bajo estímulo, cuidador presente, exploración ótica) antes de escalar contención.
 ### Perspectivas clave
 
 - **Evidencia clínica:** ASP tiene correlatos corticales propios (LEAP); la percepción de acciones/movimiento biológico falla más en interpretación que en detección; hiperreactividad ligada a síntomas internalizantes; MMN muestra un patrón invertido niños/adultos, coherente con codificación predictiva dependiente de la edad; en interocepción, la evaluación afectiva negativa —no la accuracy— distingue mejor a personas autistas de no autistas.
@@ -129,6 +144,8 @@ Con BlinkLab (smartphone), N=431 completaron evaluación sensoriomotora y se obs
 En N=107 (autismo, ansiedad social y NT), la percepción emocional alterada involucra rostro y cuerpo: el perfil multimodal ayuda a distinguir y solapar contribuciones del autismo y de la ansiedad social. ([@koelkebeck2025]; [[2025-Koelkebeck-body-facial-emotion]]).
 
 ## Referencias citadas
+
+- [@corridore2026dental] — [[2026-Corridore-sensory-dental-ESBA-autism]]
 
 - [@dwyer2025] — [[2025-Dwyer-auditory-hyperreactivity-ADHD-autism]]
 - [@chien2026] — [[2026-Chien-aperiodic-EEG-autism]]

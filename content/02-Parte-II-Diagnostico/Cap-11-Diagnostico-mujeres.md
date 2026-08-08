@@ -6,8 +6,6 @@ titulo: "Diagnóstico en mujeres, no binarios y personas enmascaradas"
 dg-publish: true
 dg-home: false
 dg-permalink: /capitulos/diagnostico-mujeres
-ultima_actualizacion: "2026-07-29"
-version: "1.8"
 fuentes_integradas:
   - "[[2025-Wang-understanding-autism]]"
   - "[[2021-Thapar-Rutter-genetic-advances]]"
@@ -20,7 +18,14 @@ fuentes_integradas:
   - "[[2025-Craddock-audhd-women-residual-categories]]"
   - "[[2026-Sotosgracia-camouflaging-ASD-BPD-women]]"
   - "[[2025-Westgate-perinatal-autistic-birthing]]"
+  - "[[2025-Dolfi-diagnostic-challenges-women-ASD]]"
+  - "[[2025-Watanabe-ADHD-ASD-traits-PMDD-Japan]]"
+  - "[[2025-Terner-sex-differences-adult-autism-screening]]"
+  - "[[2025-Charlton-menopause-autism-depression-anxiety]]"
 estado: revision
+ultima_actualizacion: "2026-08-07"
+version: "1.12"
+conocimiento: 15
 resumen_ejecutivo: "El ratio hombres:mujeres (~3,8–4:1) probablemente sobreestima la diferencia real. Las mujeres suelen diagnosticarse más tarde. Datos genéticos apoyan efecto protector femenino. En empatía unidimensional (EQ), el gap autista–típico es mayor en mujeres que en varones (meta-análisis 2025). Un nuevo instrumento de cribado adulto validado en Brasil (SfA-F, N=7738) incorpora factores específicos de camuflaje social ausentes en escalas genéricas."
 preguntas_abiertas:
   - "¿Cómo adaptar ADOS/cribados a presentaciones feminizadas y enmascaradas?"
@@ -32,6 +37,10 @@ bibliography: "03-Datos/references.bib"
 ---
 
 # Capítulo 11 — Diagnóstico en mujeres, no binarios y personas enmascaradas
+
+<!-- sync:version-badge -->
+> **v1.12** · conocimiento **15** · actualizado **2026-08-07**
+<!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
 
@@ -84,6 +93,26 @@ En el Australian Autism Biobank, los **padres** mostraron más distanciamiento, 
 
 Un análisis fenomenológico interpretativo con **seis mujeres** diagnosticadas de autismo y TDAH en la adultez describe el **AuDHD** como una «categoría residual» no representada en los sistemas diagnósticos, que genera identidades fragmentadas y ambivalencia: contradicción entre perfiles, complementariedad ocasional y tensión entre narrativas de neurodiversidad y de medicalización ([@craddock2025]; [[2025-Craddock-audhd-women-residual-categories]]). Las participantes reclamaban **procesos diagnósticos integrados** en lugar de evaluaciones sucesivas y desconectadas (ver [[Cap-12-Diagnostico-adultos]], [[Cap-21-Enmascaramiento]]).
 
+
+### Retos diagnósticos en mujeres sin DI ni deterioro de lenguaje
+
+Una revisión narrativa (2010–2025) sintetiza que las mujeres adultas autistas sin discapacidad intelectual ni deterioro de lenguaje siguen infra-reconocidas por presentaciones sutiles, mayor camuflaje y *diagnostic overshadowing* hacia otros trastornos psiquiátricos; los cribados estándar pierden sensibilidad ante fenotipos femeninos ([@dolfi2025women]; [[2025-Dolfi-diagnostic-challenges-women-ASD]]; ver [[Cap-21-Enmascaramiento]], [[Cap-09-Herramientas-cribado]]). Recomendación: integrar evaluación de camuflaje, historia del desarrollo matizada y formación clínica en fenotipo femenino —alineado con instrumentos como SfA-F ([@marques2025]).
+
+
+### Rasgos TDAH/TEA y trastorno disfórico premenstrual
+
+En empleadas japonesas a tiempo completo, los rasgos de **TDAH** se asociaron a TDPM/PMDD, mientras que los rasgos de **TEA** no mostraron asociación significativa ([@watanabe2025pmdd]; [[2025-Watanabe-ADHD-ASD-traits-PMDD-Japan]]; ver [[Cap-07-Comorbilidades]], [[Cap-47-Salud-mental]]). En presentaciones AuDHD femeninas, el ciclo menstrual merece evaluación específica.
+
+
+### Cribado adulto: autoinforme actual vs historia infantil
+
+Comparar AQ (autoinforme actual) con RQ (informe parental retrospectivo) ayuda a capturar diferencias de sexo y camuflaje: el cribado solo «aquí y ahora» puede infraestimar trayectorias femeninas ([@terner2025screen]; [[2025-Terner-sex-differences-adult-autism-screening]]; ver [[Cap-09-Herramientas-cribado]], [[Cap-12-Diagnostico-adultos]]).
+
+
+### Menopausia: depresión previa y ser autista
+
+La historia de síntomas depresivos aumenta el riesgo de experiencias menopáusicas negativas; el diagnóstico de autismo confiere riesgo adicional ([@charlton2025meno]; [[2025-Charlton-menopause-autism-depression-anxiety]]; ver [[Cap-27-Adultez-madura]], [[Cap-47-Salud-mental]]).
+
 ### Perspectivas clave
 
 - **Evidencia clínica:** subdiagnóstico femenino bien documentado en revisiones recientes; consecuencias medibles en salud (mayor hospitalización) asociadas al retraso diagnóstico; nuevos instrumentos como SfA-F ofrecen una vía de cribado más sensible al camuflaje.
@@ -106,6 +135,14 @@ En N=225, las mujeres con TEA y con TLP muestran niveles de camuflaje CAT-Q prá
 El personal de salud mental perinatal reporta necesidad de formación en autismo y destaca preguntar «qué significa el autismo para ellas» como eje de cuidados adaptados a mujeres y personas gestantes autistas. ([@westgate2025]; [[2025-Westgate-perinatal-autistic-birthing]]).
 
 ## Referencias citadas
+
+- [@charlton2025meno] — [[2025-Charlton-menopause-autism-depression-anxiety]]
+
+- [@terner2025screen] — [[2025-Terner-sex-differences-adult-autism-screening]]
+
+- [@watanabe2025pmdd] — [[2025-Watanabe-ADHD-ASD-traits-PMDD-Japan]]
+
+- [@dolfi2025women] — [[2025-Dolfi-diagnostic-challenges-women-ASD]]
 
 - [@sotosgracia2026] — [[2026-Sotosgracia-camouflaging-ASD-BPD-women]]
 - [@westgate2025] — [[2025-Westgate-perinatal-autistic-birthing]]

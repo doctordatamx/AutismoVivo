@@ -6,8 +6,9 @@ titulo: "Teoría de la mente, empatía y perspectiva autista"
 dg-publish: false
 dg-home: false
 dg-permalink: /capitulos/teoria-de-la-mente
-ultima_actualizacion: "2026-07-29"
-version: "1.5"
+ultima_actualizacion: "2026-08-06"
+version: "1.6"
+conocimiento: 9
 fuentes_integradas:
   - "[[2025-Cusson-empathy-measures-meta-analysis]]"
   - "[[2025-Bai-biological-motion-systematic-review]]"
@@ -17,6 +18,7 @@ fuentes_integradas:
   - "[[2024-Brett-Perth-Empathy-Scale]]"
   - "[[2025-Poglitsch-GPT4o-ToM-gamified]]"
   - "[[2025-Koelkebeck-body-facial-emotion]]"
+  - "[[2026-Marsicano-causality-judgment-autism-schizotypy]]"
 estado: revision
 resumen_ejecutivo: "La empatía es multidimensional (cognitiva vs afectiva). Meta-análisis 2025 (226 estudios): reducción grande en empatía cognitiva (g≈−0.85) y en medidas unidimensionales tipo EQ (g≈−1.70); afectiva solo ligeramente menor (g≈−0.17) y no significativa en estudios de alta calidad. IRI: menos concern pero más distress personal. El instrumento determina el hallazgo; no tratar el autismo como ‘trastorno de empatía’ global. Un ECA cruzado muestra que el entrenamiento de ToM con el robot humanoide iCub mejora NEPSY-II ToM más que terapia estándar y más que el mismo protocolo con un clínico humano."
 preguntas_abiertas:
@@ -29,6 +31,10 @@ bibliography: "03-Datos/references.bib"
 ---
 
 # Capítulo 20 — Teoría de la mente, empatía y perspectiva autista
+
+<!-- sync:version-badge -->
+> **v1.6** · conocimiento **9** · actualizado **2026-08-06**
+<!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
 
@@ -86,6 +92,11 @@ Un ensayo controlado aleatorizado cruzado (N=32 niños autistas, 7,53±1,32 año
 
 Una tarea de precisión empática con narradores autistas y no autistas mostró que 81 adultos de población general fueron **significativamente menos precisos** al inferir las emociones de los narradores **autistas**, especialmente alegría y tristeza, pese a experimentar una **intensidad corporal mayor** ante ellos, sobre todo para ira y miedo ([@cheang2024]; [[2024-Cheang-empathic-accuracy-double-empathy]]). La atribución de estados mentales entre personas autistas y no autistas falla en **ambas direcciones**, lo que exige reformular la teoría de la mente como problema relacional y no como déficit unilateral (ver [[Cap-16-Interaccion-social]], [[Cap-51-Autodefensa-neurodiversidad]]).
 
+
+### Inferencia causal y priors (continuum autismo–esquizotipia)
+
+En adultos neurotípicos a lo largo de rasgos autistas y esquizotípicos, los juicios de causalidad en colisiones dependen del timing físico y de la dependencia serial de decisiones previas: perfiles **SSD-like** pesan más los priors; **ASD-like**, menos ([@marsicano2026causal]; [[2026-Marsicano-causality-judgment-autism-schizotypy]]; ver [[Cap-13-Diagnostico-diferencial]], [[Cap-06-Neurobiologia]]). Útil para pensar estilos predictivos divergentes sin asumir déficit social monolítico.
+
 ### Perspectivas clave
 
 - **Evidencia clínica:** perfil cognitivo ↓ / afectivo ≈; no “cero empatía”; evidencia electrofisiológica (MMN) de errores de predicción alterados de forma dependiente de la edad; evidencia experimental (ECA) de que el entrenamiento de ToM asistido por robot humanoide supera a terapia estándar y a un control humano activo equivalente.
@@ -120,6 +131,8 @@ GPT-4o iguala aproximadamente a expertos humanos al calificar tareas de teoría 
 En N=107 (autismo, ansiedad social y NT), la percepción emocional alterada involucra rostro y cuerpo: el perfil multimodal ayuda a distinguir y solapar contribuciones del autismo y de la ansiedad social. ([@koelkebeck2025]; [[2025-Koelkebeck-body-facial-emotion]]).
 
 ## Referencias citadas
+
+- [@marsicano2026causal] — [[2026-Marsicano-causality-judgment-autism-schizotypy]]
 
 - [@brett2024] — [[2024-Brett-Perth-Empathy-Scale]]
 - [@poglitsch2025] — [[2025-Poglitsch-GPT4o-ToM-gamified]]

@@ -4,12 +4,15 @@ titulo: "Libro Vivo sobre Autismo"
 title: "Autismo Vivo"
 autor: "Dr. Fernando Avalos Reyes"
 fecha_publicacion: "2026-07-28"
-ultima_actualizacion: "2026-07-28"
+ultima_actualizacion: "2026-07-30"
 dg-publish: true
 dg-home: true
 dg-permalink: /
 estado: publicado
 donacion_url: "https://ko-fi.com/A5X5242156"
+aliases:
+  - 00-Portada
+  - Portada
 tags:
   - tea/portada
 ---
@@ -64,62 +67,28 @@ Si utilizas la información, la estructura o las síntesis de **Libro Vivo: Auti
 | **Última actualización** | 28 de julio de 2026 |
 | **Sitio web** | [doctordatamx.github.io/AutismoVivo](https://doctordatamx.github.io/AutismoVivo/) |
 | **Repositorio** | [github.com/doctordatamx/AutismoVivo](https://github.com/doctordatamx/AutismoVivo) |
-| **Artículos ingeridos** | **117** papers integrados · 2026-07-29 ([[gestion-ingesta]]) |
+| **Artículos ingeridos** | **147** papers integrados · 2026-08-07 ([[gestion-ingesta]]) |
 
 ### Artículos integrados
 
-
-
-
-
-
-
-
-<div class="web-only">
-
-📚 **117** artículos científicos ingeridos e integrados al libro (registro 2026-07-29). Ver [[gestion-ingesta]] · [[Apendice-D-Bibliografia|Bibliografía]].
-
-</div>
-
-```dataview
-TABLE WITHOUT ID length(rows) AS "Total"
-FROM "01-Fuentes/papers"
-WHERE tipo = "fuente" AND estado = "integrado"
-GROUP BY true
-```
+<!-- sync:ingest-counter -->
+📚 **147** artículos científicos ingeridos e integrados al libro (registro 2026-08-07). Ver [[gestion-ingesta]] · [[Apendice-D-Bibliografia|Bibliografía]].
+<!-- /sync:ingest-counter -->
 
 ### Capítulos actualizados recientemente
 
-
-
-
-
-
-
-
-
-<div class="web-only">
-
+<!-- sync:chapters-recent -->
 | Capítulo | Fecha | Ver. |
 | --- | --- | --- |
-| [[Cap-58-Fronteras-investigacion|Capítulo 58 — Fronteras de investigación y preguntas abiertas]] | 2026-07-29 | 1.8 |
-| [[Cap-57-Investigacion-etica|Capítulo 57 — Investigación participativa y ética en autismo]] | 2026-07-29 | 1.3 |
-| [[Cap-52-Derechos-legales|Capítulo 52 — Derechos legales, legislación y políticas públicas]] | 2026-07-29 | 1.3 |
-| [[Cap-51-Autodefensa-neurodiversidad|Capítulo 51 — Movimiento de autodefensa y neurodiversidad]] | 2026-07-29 | 1.6 |
-| [[Cap-50-Autocuidado-burnout|Capítulo 50 — Autocuidado, límites y prevención del burnout]] | 2026-07-29 | 1.3 |
-| [[Cap-47-Salud-mental|Capítulo 47 — Salud mental: ansiedad, depresión, trauma, suicidio]] | 2026-07-29 | 1.5 |
-| [[Cap-46-Dinamica-familiar|Capítulo 46 — Dinámica familiar, hermanos y cuidadores]] | 2026-07-29 | 1.3 |
-| [[Cap-45-Crianza|Capítulo 45 — Crianza de niños autistas: estrategias basadas en evidencia]] | 2026-07-29 | 1.2 |
-
-</div>
-
-```dataview
-TABLE ultima_actualizacion AS "Fecha", version AS "Ver."
-FROM "02-Libro"
-WHERE tipo = "capitulo" AND ultima_actualizacion != null AND ultima_actualizacion != ""
-SORT ultima_actualizacion DESC
-LIMIT 8
-```
+| [[Cap-54-Genero-diversidad|Capítulo 54 — Autismo, género y diversidad sexual]] | 2026-08-07 | 0.3 |
+| [[Cap-47-Salud-mental|Capítulo 47 — Salud mental: ansiedad, depresión, trauma, suicidio]] | 2026-08-07 | 1.13 |
+| [[Cap-27-Adultez-madura|Capítulo 27 — Adultez madura y envejecimiento]] | 2026-08-07 | 1.3 |
+| [[Cap-13-Diagnostico-diferencial|Capítulo 13 — Diagnóstico diferencial y condiciones relacionadas]] | 2026-08-07 | 1.1 |
+| [[Cap-12-Diagnostico-adultos|Capítulo 12 — Diagnóstico en adultos y diagnóstico tardío]] | 2026-08-07 | 1.7 |
+| [[Cap-11-Diagnostico-mujeres|Capítulo 11 — Diagnóstico en mujeres, no binarios y personas enmascaradas]] | 2026-08-07 | 1.12 |
+| [[Cap-10-Proceso-diagnostico|Capítulo 10 — Proceso diagnóstico integral]] | 2026-08-07 | 1.7 |
+| [[Cap-09-Herramientas-cribado|Capítulo 09 — Herramientas de cribado (M-CHAT, ADOS, ADI-R, y otras)]] | 2026-08-07 | 1.6 |
+<!-- /sync:chapters-recent -->
 
 ---
 

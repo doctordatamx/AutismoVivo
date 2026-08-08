@@ -18,7 +18,7 @@ tags:
 **Publicación:** 28 de julio de 2026  
 **Última actualización:** 28 de julio de 2026  
 
-← [[00-Portada|Portada]] · [[Donaciones|Apoyar el proyecto]]
+← [[index|Portada]] · [[Donaciones|Apoyar el proyecto]]
 
 Un compendio en constante actualización sobre el Trastorno del Espectro Autista (TEA), sintetizado desde artículos, papers y fuentes curadas. Escrito en español para familias, profesionales y personas autistas.
 
@@ -126,36 +126,218 @@ Un compendio en constante actualización sobre el Trastorno del Espectro Autista
 
 ## Dashboard del libro
 
-```dataview
-TABLE ultima_actualizacion AS "Actualizado", estado, dg-publish AS "Publicado"
-FROM "02-Libro"
-WHERE tipo = "capitulo"
-SORT numero ASC
-```
+
+| Capítulo | Actualizado | Estado | Publicado |
+| --- | --- | --- | --- |
+| [[Cap-01-Que-es-el-autismo|¿Qué es el autismo? Conceptos, espectro y neurodiversidad]] | 2026-07-29 | publicado | true |
+| [[Cap-02-Historia-del-autismo|Historia del autismo: de Kanner y Asperger al presente]] |  | borrador | false |
+| [[Cap-03-Criterios-diagnosticos|Criterios diagnósticos: DSM-5-TR, CIE-11, evolución de criterios]] | 2026-07-29 | borrador | false |
+| [[Cap-04-Epidemiologia|Epidemiología: prevalencia, tendencias, sesgos de medición]] | 2026-07-29 | revision | true |
+| [[Cap-05-Etiologia|Etiología: genética, epigenética, factores ambientales]] | 2026-07-29 | revision | true |
+| [[Cap-06-Neurobiologia|Neurobiología: cerebro, conectividad, biomarcadores]] | 2026-07-29 | revision | true |
+| [[Cap-07-Comorbilidades|Comorbilidades: TDAH, ansiedad, epilepsia, GI, sueño]] | 2026-07-29 | revision | true |
+| [[Cap-08-Senales-tempranas|Señales tempranas y banderas rojas por edad]] | 2026-07-29 | borrador | false |
+| [[Cap-09-Herramientas-cribado|Herramientas de cribado (M-CHAT, ADOS, ADI-R, y otras)]] | 2026-07-29 | revision | true |
+| [[Cap-10-Proceso-diagnostico|Proceso diagnóstico integral]] | 2026-07-29 | revision | true |
+| [[Cap-11-Diagnostico-mujeres|Diagnóstico en mujeres, no binarios y personas enmascaradas]] | 2026-07-29 | revision | true |
+| [[Cap-12-Diagnostico-adultos|Diagnóstico en adultos y diagnóstico tardío]] | 2026-07-29 | borrador | false |
+| [[Cap-13-Diagnostico-diferencial|Diagnóstico diferencial y condiciones relacionadas]] |  | borrador | false |
+| [[Cap-14-Evaluacion-funcional|Evaluación funcional: comunicación, adaptativa, sensorial]] | 2026-07-29 | borrador | false |
+| [[Cap-15-Comunicacion-social|Comunicación social y lenguaje]] | 2026-07-29 | publicado | true |
+| [[Cap-16-Interaccion-social|Interacción social, amistad y soledad]] | 2026-07-29 | revision | false |
+| [[Cap-17-Intereses-rutinas|Intereses restringidos, rutinas y necesidad de predictibilidad]] |  | borrador | false |
+| [[Cap-18-Procesamiento-sensorial|Procesamiento sensorial (hipo/hiper/búsqueda sensorial)]] | 2026-07-29 | borrador | false |
+| [[Cap-19-Funciones-ejecutivas|Funciones ejecutivas, atención y regulación]] | 2026-07-29 | borrador | false |
+| [[Cap-20-Teoria-de-la-mente|Teoría de la mente, empatía y perspectiva autista]] | 2026-07-29 | revision | false |
+| [[Cap-21-Enmascaramiento|Enmascaramiento (camouflaging), agotamiento y burnout autista]] | 2026-07-29 | revision | false |
+| [[Cap-22-Fortalezas-cognitivas|Fortalezas cognitivas, talentos y ventajas]] | 2026-07-29 | borrador | false |
+| [[Cap-23-Infancia-temprana|Infancia temprana (0–5 años)]] |  | borrador | false |
+| [[Cap-24-Edad-escolar|Edad escolar (6–12 años)]] | 2026-07-29 | borrador | false |
+| [[Cap-25-Adolescencia|Adolescencia: identidad, salud mental, transiciones]] |  | borrador | false |
+| [[Cap-26-Adultez-joven|Adultez joven: estudios, trabajo, relaciones]] |  | borrador | false |
+| [[Cap-27-Adultez-madura|Adultez madura y envejecimiento]] | 2026-07-29 | borrador | false |
+| [[Cap-28-Transiciones-criticas|Transiciones críticas (escuela→secundaria→universidad→empleo)]] |  | borrador | false |
+| [[Cap-29-Principios-intervencion|Principios de intervención basada en evidencia]] | 2026-07-29 | revision | true |
+| [[Cap-30-Intervencion-temprana|Intervención temprana (ESDM, JASPER, modelos naturales)]] | 2026-07-29 | borrador | false |
+| [[Cap-31-ABA-controversias|ABA y análisis conductual aplicado: evidencia y controversias]] | 2026-07-29 | borrador | false |
+| [[Cap-32-Terapia-lenguaje-CAA|Terapia del lenguaje y comunicación aumentativa (CAA)]] | 2026-07-29 | revision | true |
+| [[Cap-33-Terapia-ocupacional|Terapia ocupacional e integración sensorial]] |  | borrador | false |
+| [[Cap-34-Apoyos-educativos|Apoyos educativos y adaptaciones curriculares]] |  | borrador | false |
+| [[Cap-35-Habilidades-sociales|Habilidades sociales: enfoques actuales y críticas]] | 2026-07-29 | borrador | false |
+| [[Cap-36-Farmacoterapia|Farmacoterapia (síntomas asociados, no curar autismo)]] | 2026-07-29 | revision | true |
+| [[Cap-37-Complementarios-pseudociencia|Enfoques complementarios y pseudociencia (qué evitar)]] | 2026-07-28 | revision | true |
+| [[Cap-38-Tecnologia-asistiva|Tecnología asistiva, apps y herramientas digitales]] | 2026-07-29 | revision | true |
+| [[Cap-39-Educacion-inclusiva|Educación inclusiva vs. especializada: evidencia y derechos]] | 2026-07-28 | borrador | false |
+| [[Cap-40-Planes-individualizados|Planes individualizados (IEP/PEI) y adaptaciones razonables]] |  | borrador | false |
+| [[Cap-41-Educacion-superior|Educación superior y apoyos universitarios]] |  | borrador | false |
+| [[Cap-42-Empleo|Empleo, razonables ajustes y emprendimiento]] |  | borrador | false |
+| [[Cap-43-Vida-independiente|Vida independiente, finanzas y apoyos comunitarios]] |  | borrador | false |
+| [[Cap-44-Transporte-vivienda|Transporte, vivienda y accesibilidad urbana]] |  | borrador | false |
+| [[Cap-45-Crianza|Crianza de niños autistas: estrategias basadas en evidencia]] | 2026-07-29 | borrador | false |
+| [[Cap-46-Dinamica-familiar|Dinámica familiar, hermanos y cuidadores]] | 2026-07-29 | borrador | false |
+| [[Cap-47-Salud-mental|Salud mental: ansiedad, depresión, trauma, suicidio]] | 2026-07-29 | revision | false |
+| [[Cap-48-Relaciones-pareja|Relaciones de pareja, amistad e intimidad]] |  | borrador | false |
+| [[Cap-49-Autistas-criando|Autistas criando hijos (autistas y no autistas)]] |  | borrador | false |
+| [[Cap-50-Autocuidado-burnout|Autocuidado, límites y prevención del burnout]] | 2026-07-29 | revision | false |
+| [[Cap-51-Autodefensa-neurodiversidad|Movimiento de autodefensa y neurodiversidad]] | 2026-07-29 | publicado | true |
+| [[Cap-52-Derechos-legales|Derechos legales, legislación y políticas públicas]] | 2026-07-29 | borrador | false |
+| [[Cap-53-Representacion-medios|Representación en medios, estigma y narrativas]] |  | borrador | false |
+| [[Cap-54-Genero-diversidad|Autismo, género y diversidad sexual]] |  | borrador | false |
+| [[Cap-55-Contextos-culturales|Autismo en contextos culturales, raza y acceso equitativo]] |  | borrador | false |
+| [[Cap-56-Justicia-penal|Justicia penal, victimización y doble invisibilización]] |  | borrador | false |
+| [[Cap-57-Investigacion-etica|Investigación participativa y ética en autismo]] | 2026-07-29 | borrador | false |
+| [[Cap-58-Fronteras-investigacion|Fronteras de investigación y preguntas abiertas]] | 2026-07-29 | borrador | false |
 
 ## Fuentes pendientes de integrar
 
-```dataview
-TABLE capitulos_relacionados AS "Capítulos", nivel_evidencia AS "Evidencia", fecha_captura AS "Capturada"
-FROM "01-Fuentes"
-WHERE estado = "procesado"
-SORT fecha_captura DESC
-```
+
+_Sin resultados._
 
 ## Ya ingeridos (no reprocesar)
 
-```dataview
-TABLE citekey, doi, fecha_ingesta AS "Ingerida", estado
-FROM "01-Fuentes"
-WHERE estado = "integrado"
-SORT fecha_ingesta DESC
-```
+
+| Citekey | DOI | Ingerida | Estado |
+| --- | --- | --- | --- |
+| zuckerman2021 | 10.1177/1362361320957461 | 2026-07-29 | integrado |
+| aishworiya2024 | 10.1136/jme-2024-110166 | 2026-07-29 | integrado |
+| anixt2024 | 10.1016/j.pcl.2024.01.001 | 2026-07-29 | integrado |
+| benavidez2024 | 10.1007/s10803-024-06414-2 | 2026-07-29 | integrado |
+| brett2024 | 10.1007/s10803-024-06491-3 | 2026-07-29 | integrado |
+| cheang2024 | 10.1177/13623613241252320 | 2026-07-29 | integrado |
+| cleary2024 | 10.1007/s10803-024-06262-0 | 2026-07-29 | integrado |
+| dimento2024 | 10.1007/s10803-024-06466-4 | 2026-07-29 | integrado |
+| haar2024 | 10.1177/13623613241248713 | 2026-07-29 | integrado |
+| thayer2024 | 10.1007/s10803-024-06554-5 | 2026-07-29 | integrado |
+| aitken2025 | 10.1038/s41398-025-03592-0 | 2026-07-29 | integrado |
+| alatrash2025 | 10.1038/s41598-025-28408-5 | 2026-07-29 | integrado |
+| albantakis2025 | 10.1177/13623613251338650 | 2026-07-29 | integrado |
+| arribasayllon2025 | 10.1016/j.socscimed.2025.118333 | 2026-07-29 | integrado |
+| blok2025 | 10.1093/geront/gnaf181 | 2026-07-29 | integrado |
+| bottemabeutel2025 | 10.1111/jcpp.14177 | 2026-07-29 | integrado |
+| cajachaguatorres2025 | 10.1016/j.ntt.2025.107561 | 2026-07-29 | integrado |
+| caolei2025 | 10.3390/ijms26199468 | 2026-07-29 | integrado |
+| chang2025 | 10.1038/s41380-025-03045-6 | 2026-07-29 | integrado |
+| chen2025 | 10.1177/13623613251349929 | 2026-07-29 | integrado |
+| chen2025edu | 10.1016/j.psychres.2025.116649 | 2026-07-29 | integrado |
+| couture2025 | 10.1002/aur.70072 | 2026-07-29 | integrado |
+| craddock2025 | 10.1177/13634593251336163 | 2026-07-29 | integrado |
+| davenport2025 | 10.1007/s10803-025-06781-4 | 2026-07-29 | integrado |
+| dwyer2025 | 10.1177/10870547251361226 | 2026-07-29 | integrado |
+| furnier2025 | 10.1002/aur.70167 | 2026-07-29 | integrado |
+| gagnon2025 | 10.1111/jcpp.70032 | 2026-07-29 | integrado |
+| ghiglino2025 | 10.1038/s41598-025-12253-7 | 2026-07-29 | integrado |
+| guan2025 | 10.1177/13623613251389876 | 2026-07-29 | integrado |
+| hacohen2025 | 10.1038/s41593-025-02146-3 | 2026-07-29 | integrado |
+| kallitsounaki2025 | 10.1177/13623613251379920 | 2026-07-29 | integrado |
+| kanina2025 | 10.1111/apa.70191 | 2026-07-29 | integrado |
+| koelkebeck2025 | 10.1016/j.brat.2025.104819 | 2026-07-29 | integrado |
+| macduffie2025 | 10.1038/s41598-025-23197-3 | 2026-07-29 | integrado |
+| marques2025 | 10.1002/aur.70089 | 2026-07-29 | integrado |
+| marquez2025 | 10.1177/13623613251361604 | 2026-07-29 | integrado |
+| mcgugin2025 | 10.3758/s13415-025-01298-w | 2026-07-29 | integrado |
+| miles2025 | 10.1111/bjc.70020 | 2026-07-29 | integrado |
+| pasion2025 | 10.1016/j.bandc.2025.106329 | 2026-07-29 | integrado |
+| perry2025 | 10.1097/DBP.0000000000001442 | 2026-07-29 | integrado |
+| poglitsch2025 | 10.1038/s41598-025-18608-4 | 2026-07-29 | integrado |
+| ranjan2025 | 10.1016/j.jhealeco.2025.103100 | 2026-07-29 | integrado |
+| ren2025 | 10.1007/s00787-025-02805-7 | 2026-07-29 | integrado |
+| reuben2025 | 10.1007/s10803-025-06905-w | 2026-07-29 | integrado |
+| russo2025 | 10.1002/dev.70114 | 2026-07-29 | integrado |
+| sapeytriomphe2025 | 10.1002/aur.70131 | 2026-07-29 | integrado |
+| seese2025 | 10.1016/j.infbeh.2025.102071 | 2026-07-29 | integrado |
+| segura2025 | 10.1038/s41380-025-03205-8 | 2026-07-29 | integrado |
+| starr2025 | 10.1093/molbev/msaf189 | 2026-07-29 | integrado |
+| vassall2025 | 10.1007/s10803-025-06772-5 | 2026-07-29 | integrado |
+| westgate2025 | 10.1186/s12888-025-07497-6 | 2026-07-29 | integrado |
+| dewit2025 | 10.1177/13623613251384342 | 2026-07-29 | integrado |
+| adams2026 | 10.1177/13623613261434431 | 2026-07-29 | integrado |
+| benartzi2026 | 10.1038/s41398-026-04000-x | 2026-07-29 | integrado |
+| brennan2026 | 10.1186/s11689-026-09679-z | 2026-07-29 | integrado |
+| chahrour2026 | 10.1016/j.xgen.2026.101248 | 2026-07-29 | integrado |
+| chien2026 | 10.1111/pcn.70044 | 2026-07-29 | integrado |
+| chiodi2026 | 10.3390/genes17040368 | 2026-07-29 | integrado |
+| clarkwhitney2026 | 10.1177/13623613251407305 | 2026-07-29 | integrado |
+| cremer2026 | 10.1177/13623613261416672 | 2026-07-29 | integrado |
+| dickinson2026 | 10.1016/j.neubiorev.2026.106820 | 2026-07-29 | integrado |
+| dubuc2026 | 10.1016/j.xgen.2026.101192 | 2026-07-29 | integrado |
+| gultig2026 | 10.1002/aur.70166 | 2026-07-29 | integrado |
+| han2026 | 10.1007/s10802-026-01421-6 | 2026-07-29 | integrado |
+| huang2026 | 10.1038/s42003-026-09563-5 | 2026-07-29 | integrado |
+| kolisnyk2026 | 10.1016/j.bpsc.2025.12.013 | 2026-07-29 | integrado |
+| liang2026 | 10.1136/archdischild-2024-328445 | 2026-07-29 | integrado |
+| liu2026 | 10.1177/13623613261444800 | 2026-07-29 | integrado |
+| livingston2026 | 10.1186/s13229-026-00714-3 | 2026-07-29 | integrado |
+| luyster2026 | 10.1016/j.actpsy.2026.106571 | 2026-07-29 | integrado |
+| ma2026shank3 | 10.1038/s41380-025-03333-1 | 2026-07-29 | integrado |
+| nosova2026 | 10.1177/13623613261460931 | 2026-07-29 | integrado |
+| ozek2026 | 10.62641/aep.v54i1.2027 | 2026-07-29 | integrado |
+| ranjabaran2026 | 10.1007/s12021-025-09755-0 | 2026-07-29 | integrado |
+| romanossirakis2026 | 10.1370/afm.250455 | 2026-07-29 | integrado |
+| semelidou2026 | 10.7554/eLife.108333 | 2026-07-29 | integrado |
+| singh2026 | 10.1016/j.socscimed.2026.119218 | 2026-07-29 | integrado |
+| sotosgracia2026 | 10.1002/cpp.70210 | 2026-07-29 | integrado |
+| szakal2026 | 10.1002/aur.70198 | 2026-07-29 | integrado |
+| tavassoli2026 | 10.1007/s11920-026-01682-4 | 2026-07-29 | integrado |
+| witt2026 | 10.1007/s11682-026-01140-y | 2026-07-29 | integrado |
+| yosef2026 | 10.1002/aur.70283 | 2026-07-29 | integrado |
+| chaste2012 | 10.31887/DCNS.2012.14.3/pchaste | 2026-07-28 | integrado |
+| thapar2021 | 10.1007/s10803-020-04685-z | 2026-07-28 | integrado |
+| ali2025 | 10.1016/j.cpr.2025.102669 | 2026-07-28 | integrado |
+| bai2025 | 10.1016/j.neubiorev.2025.106343 | 2026-07-28 | integrado |
+| cusson2025 | 10.1016/j.cpr.2025.102623 | 2026-07-28 | integrado |
+| doherty2025 | 10.1007/s10803-024-06449-5 | 2026-07-28 | integrado |
+| grumbach2025 | 10.1038/s41467-025-63857-6 | 2026-07-28 | integrado |
+| hunt2025 | 10.1111/brv.70010 | 2026-07-28 | integrado |
+| kim2025 | 10.1016/j.mocell.2025.100248 | 2026-07-28 | integrado |
+| ma2025vr | 10.3389/fpubh.2025.1628741 | 2026-07-28 | integrado |
+| mitchell2025 | 10.1016/j.neuron.2025.10.006 | 2026-07-28 | integrado |
+| mottron2025 | 10.1038/s41380-025-03275-8 | 2026-07-28 | integrado |
+| patwardhan2025 | 10.1016/j.pneurobio.2025.102787 | 2026-07-28 | integrado |
+| robas2025 | 10.3390/ijms26199580 | 2026-07-28 | integrado |
+| rubenstein2025 | 10.1007/s10803-024-06484-2 | 2026-07-28 | integrado |
+| sandham2025 | 10.1080/17549507.2024.2388060 | 2026-07-28 | integrado |
+| seelemeyer2025 | 10.1016/j.bpsc.2024.12.003 | 2026-07-28 | integrado |
+| sotoicaza2025 | 10.1038/s41598-025-24190-6 | 2026-07-28 | integrado |
+| veilleux2025 | 10.1016/j.yhbeh.2025.105867 | 2026-07-28 | integrado |
+| wang2025 | 10.1016/j.brainresbull.2025.111411 | 2026-07-28 | integrado |
+| wills2025 | 10.1016/j.jaac.2025.06.024 | 2026-07-28 | integrado |
+| yang2025lgr1 | 10.1038/s41522-025-00808-5 | 2026-07-28 | integrado |
+| yoon2025 | 10.1002/aur.70141 | 2026-07-28 | integrado |
+| zhang2025mgba | 10.3390/pathogens14111145 | 2026-07-28 | integrado |
+| zheng2025 | 10.1523/JNEUROSCI.0382-25.2025 | 2026-07-28 | integrado |
+| zhou2025 | 10.1016/j.envres.2025.122734 | 2026-07-28 | integrado |
+| ziegler2025 | 10.1186/s13063-025-09017-z | 2026-07-28 | integrado |
+| vanderschaf2025 | 10.1002/aur.70071 | 2026-07-28 | integrado |
+| anderson2026 | 10.31083/FBL46455 | 2026-07-28 | integrado |
+| boulton2026 | 10.1016/j.neubiorev.2026.106746 | 2026-07-28 | integrado |
+| cole2026 | 10.1177/13623613251393504 | 2026-07-28 | integrado |
+| leyhausen2026 | 10.1016/j.bpsc.2025.07.001 | 2026-07-28 | integrado |
+| verkooijen2026 | 10.1177/13623613251374971 | 2026-07-28 | integrado |
+| weissenkampen2026 | 10.1177/13623613251413538 | 2026-07-28 | integrado |
+| zabetakis2026 | 10.1016/j.nbd.2026.107365 | 2026-07-28 | integrado |
+| — | — | — | integrado |
 
 ## Capítulos publicados
 
-```dataview
-LIST
-FROM "02-Libro"
-WHERE dg-publish = true
-SORT numero ASC
-```
+
+- [[Cap-01-Que-es-el-autismo|¿Qué es el autismo? Conceptos, espectro y neurodiversidad]]
+- [[Cap-04-Epidemiologia|Epidemiología: prevalencia, tendencias, sesgos de medición]]
+- [[Cap-05-Etiologia|Etiología: genética, epigenética, factores ambientales]]
+- [[Cap-06-Neurobiologia|Neurobiología: cerebro, conectividad, biomarcadores]]
+- [[Cap-07-Comorbilidades|Comorbilidades: TDAH, ansiedad, epilepsia, GI, sueño]]
+- [[Cap-09-Herramientas-cribado|Herramientas de cribado (M-CHAT, ADOS, ADI-R, y otras)]]
+- [[Cap-10-Proceso-diagnostico|Proceso diagnóstico integral]]
+- [[Cap-11-Diagnostico-mujeres|Diagnóstico en mujeres, no binarios y personas enmascaradas]]
+- [[Cap-15-Comunicacion-social|Comunicación social y lenguaje]]
+- [[Cap-29-Principios-intervencion|Principios de intervención basada en evidencia]]
+- [[Cap-32-Terapia-lenguaje-CAA|Terapia del lenguaje y comunicación aumentativa (CAA)]]
+- [[Cap-36-Farmacoterapia|Farmacoterapia (síntomas asociados, no curar autismo)]]
+- [[Cap-37-Complementarios-pseudociencia|Enfoques complementarios y pseudociencia (qué evitar)]]
+- [[Cap-38-Tecnologia-asistiva|Tecnología asistiva, apps y herramientas digitales]]
+- [[Cap-51-Autodefensa-neurodiversidad|Movimiento de autodefensa y neurodiversidad]]
+- [[01-Indice|Índice — Libro Vivo sobre Autismo]]
+- [[Donaciones|Donaciones y apoyo al Libro Vivo]]
+- [[Apendice-A-Glosario|Glosario de términos]]
+- [[Apendice-D-Bibliografia|Bibliografía maestra (auto-generada con Dataview)]]
+- [[Apendice-E-Changelog|Changelog del libro (historial de actualizaciones)]]
+- [[index|Libro Vivo sobre Autismo]]

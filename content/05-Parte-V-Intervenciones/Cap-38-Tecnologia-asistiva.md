@@ -8,6 +8,7 @@ dg-home: false
 dg-permalink: /capitulos/tecnologia-asistiva
 ultima_actualizacion: "2026-07-29"
 version: "1.3"
+conocimiento: 7
 fuentes_integradas:
   - "[[2025-Ma-Song-VR-motion-serious-game-RCT]]"
   - "[[2025-Yoon-eye-tracking-treatment-monitoring-meta]]"
@@ -24,6 +25,10 @@ bibliography: "03-Datos/references.bib"
 ---
 
 # Capítulo 38 — Tecnología asistiva, apps y herramientas digitales
+
+<!-- sync:version-badge -->
+> **v1.3** · conocimiento **7** · actualizado **2026-07-29**
+<!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
 

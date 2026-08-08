@@ -8,6 +8,7 @@ dg-home: false
 dg-permalink: /capitulos/investigacion-etica
 ultima_actualizacion: "2026-07-29"
 version: "1.3"
+conocimiento: 6
 fuentes_integradas:
   - "[[2024-Aishworiya-newborn-genetic-testing-ethics]]"
   - "[[2025-Reuben-inclusion-id-language-impairment-research]]"
@@ -25,6 +26,10 @@ bibliography: "03-Datos/references.bib"
 ---
 
 # Capítulo 57 — Investigación participativa y ética en autismo
+
+<!-- sync:version-badge -->
+> **v1.3** · conocimiento **6** · actualizado **2026-07-29**
+<!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
 

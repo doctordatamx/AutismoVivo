@@ -45,7 +45,7 @@ Gracias por considerar una donación. Este proyecto lo mantiene el **Dr. Fernand
 
 ### Recomendación práctica
 
-1. **Primera opción:** **Ko-fi** — página activa: [ko-fi.com/A5X5242156](https://ko-fi.com/A5X5242156) (`donacion_url` en [[00-Portada]]).  
+1. **Primera opción:** **Ko-fi** — página activa: [ko-fi.com/A5X5242156](https://ko-fi.com/A5X5242156) (`donacion_url` en [[index|portada]]).  
 2. **Si tu audiencia es mayoritariamente LatAm:** añade **Mercado Pago** como segundo botón (enlace de pago o QR).  
 3. **Complemento:** **PayPal.Me** para quien no use Ko-fi.
 
@@ -57,7 +57,7 @@ No hace falta usar tres a la vez: **Ko-fi + Mercado Pago** cubre casi todo.
 
 1. [x] Crear cuenta en Ko-fi
 2. [x] URL pública: `https://ko-fi.com/A5X5242156`
-3. [x] Enlaces actualizados en [[00-Portada]] y esta página
+3. [x] Enlaces actualizados en [[index|portada]] y esta página
 4. [ ] Publicar de nuevo el sitio (push → GitHub Pages)
 
 ### Nota técnica: widget JavaScript de Ko-fi
@@ -70,4 +70,4 @@ El código que Ko-fi da con `<script>...kofiwidget2.init...</script>` **no se pu
 
 Este libro es de **acceso libre**. Las donaciones son voluntarias y no condicionan el contenido ni la perspectiva editorial (ver [[criterios-editoriales]]).
 
-← Volver a la [[00-Portada|portada]] · [[01-Indice|índice]]
+← Volver a la [[index|portada]] · [[01-Indice|índice]]

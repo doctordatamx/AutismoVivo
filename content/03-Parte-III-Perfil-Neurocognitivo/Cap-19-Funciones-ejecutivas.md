@@ -8,6 +8,7 @@ dg-home: false
 dg-permalink: /capitulos/funciones-ejecutivas
 ultima_actualizacion: "2026-07-29"
 version: "1.3"
+conocimiento: 4
 fuentes_integradas:
   - "[[2025-Alatrash-irritability-network-autism]]"
   - "[[2026-Ben-Artzi-credit-assignment-irrelevant-features]]"
@@ -23,6 +24,10 @@ bibliography: "03-Datos/references.bib"
 ---
 
 # Capítulo 19 — Funciones ejecutivas, atención y regulación
+
+<!-- sync:version-badge -->
+> **v1.3** · conocimiento **4** · actualizado **2026-07-29**
+<!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
 

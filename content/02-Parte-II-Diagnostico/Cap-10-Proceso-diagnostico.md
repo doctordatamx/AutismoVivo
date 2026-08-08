@@ -1,13 +1,11 @@
 ---
 tipo: capitulo
-parte: "Parte-II"
+parte: Parte-II
 numero: 10
-titulo: "Proceso diagnóstico integral"
+titulo: Proceso diagnóstico integral
 dg-publish: true
 dg-home: false
 dg-permalink: /capitulos/proceso-diagnostico
-ultima_actualizacion: "2026-07-29"
-version: "1.5"
 fuentes_integradas:
   - "[[2021-Thapar-Rutter-genetic-advances]]"
   - "[[2025-Kim-An-precision-diagnosis-genomics]]"
@@ -22,17 +20,26 @@ fuentes_integradas:
   - "[[2025-Ranjan-NDIS-autism-prevalence]]"
   - "[[2026-Cremer-age-diagnosis-life-satisfaction]]"
   - "[[2026-Liu-Taiwanese-adolescents-diagnosis-identity]]"
+  - "[[2025-Srivarathan-diagnostic-safety-inequities-ASD]]"
+  - "[[2025-Sutherland-telehealth-autism-diagnostic-agreement]]"
 estado: revision
+ultima_actualizacion: "2026-08-07"
+version: "1.7"
+conocimiento: 15
 resumen_ejecutivo: "El diagnóstico de TEA es clínico (historia + observación estandarizada). Instrumentos rigurosos (ADI/ADOS) son valiosos, pero no debe retrasarse la intervención por fronteras diagnósticas perfectas. Microarray/WES/WGS se indican según comorbilidad; PS (~2% liability) aún sin utilidad clínica rutinaria. Interpretación: umbral rara+poligénica, snRNA emergentes."
 preguntas_abiertas:
-  - "¿Qué paquete mínimo diagnóstico equilibra rigor y acceso en atención primaria?"
-  - "¿Cuándo escalar a exoma/genoma completo con equidad ancestral?"
+  - ¿Qué paquete mínimo diagnóstico equilibra rigor y acceso en atención primaria?
+  - ¿Cuándo escalar a exoma/genoma completo con equidad ancestral?
 tags:
   - tea/capitulo
-bibliography: "03-Datos/references.bib"
+bibliography: 03-Datos/references.bib
 ---
 
 # Capítulo 10 — Proceso diagnóstico integral
+
+<!-- sync:version-badge -->
+> **v1.7** · conocimiento **15** · actualizado **2026-08-07**
+<!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
 
@@ -67,6 +74,11 @@ En seis clínicas de atención primaria que atienden a población latina, una in
 ### Presentaciones funcionales y autismo no identificado
 
 El **69,8%** de 63 menores atendidos por conductas funcionales tipo tic tenía diagnóstico de autismo, y la DAWBA solo lo detectaba con sensibilidad **0,09-0,26** ([@liang2026]; [[2026-Liang-functional-tic-like-behaviours-autism]]). Ante síntomas funcionales de inicio adolescente conviene valorar explícitamente el autismo —especialmente en chicas—, en lugar de asumir que un cribado estructurado negativo lo excluye (ver [[Cap-11-Diagnostico-mujeres]], [[Cap-13-Diagnostico-diferencial]]).
+
+
+### Telehealth vs presencial en niños pequeños
+
+En clínica diversa, evaluaciones telehealth en niños mínimamente verbales mostraron buen acuerdo con la presencial (r≈0,75) y factibilidad operativa ([@sutherland2025tele]; [[2025-Sutherland-telehealth-autism-diagnostic-agreement]]; ver [[Cap-09-Herramientas-cribado]], [[Cap-08-Senales-tempranas]]). Complemento de acceso, no sustituto ciego.
 
 ### Perspectivas clave
 
@@ -107,7 +119,13 @@ En N=769 adultos, el diagnóstico en la infancia temprana se asocia a mayor sati
 
 Ocho adolescentes taiwaneses describen el diagnóstico de autismo como una «guía» de identidad: la revelación puede funcionar como marco de autocomprensión, no solo como etiqueta clínica. ([@liu2026]; [[2026-Liu-Taiwanese-adolescents-diagnosis-identity]]).
 
+### Inequidades y seguridad diagnóstica (EE.UU.)
+
+Una revisión sistemática de 20 estudios (2015–2024) sitúa el **retraso diagnóstico** como el error más frecuente en inequidades de salud mental —con TEA en 17/20 trabajos— e identifica barreras que interactúan: alfabetización en salud de cuidadores, seguros, **sesgo del proveedor** en la anamnesis, pruebas culturalmente no equivalentes e intérpretes/jerga inadecuados ([@srivarathan2025]; [[2025-Srivarathan-diagnostic-safety-inequities-ASD]]; ver [[Cap-11-Diagnostico-mujeres]], [[Cap-04-Epidemiologia]]).
+
 ## Referencias citadas
+
+- [@sutherland2025tele] — [[2025-Sutherland-telehealth-autism-diagnostic-agreement]]
 
 - [@kallitsounaki2025] — [[2025-Kallitsounaki-autism-gender-clinic-youth]]
 - [@ranjan2025] — [[2025-Ranjan-NDIS-autism-prevalence]]
@@ -122,6 +140,7 @@ Ocho adolescentes taiwaneses describen el diagnóstico de autismo como una «gu�
 - [@aishworiya2024] — [[2024-Aishworiya-newborn-genetic-testing-ethics]]
 - [@arribasayllon2025] — [[2025-Arribas-Ayllon-wales-medicalisation]]
 - [@couture2025] — [[2025-Couture-healthcare-trajectories-sex-idd]]
+- [@srivarathan2025] — [[2025-Srivarathan-diagnostic-safety-inequities-ASD]]
 
 ```dataview
 LIST

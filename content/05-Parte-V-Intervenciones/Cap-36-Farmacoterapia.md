@@ -8,6 +8,7 @@ dg-home: false
 dg-permalink: /capitulos/farmacoterapia
 ultima_actualizacion: "2026-07-29"
 version: "1.8"
+conocimiento: 13
 fuentes_integradas:
   - "[[2025-Wang-understanding-autism]]"
   - "[[2025-Kim-An-precision-diagnosis-genomics]]"
@@ -34,6 +35,10 @@ bibliography: "03-Datos/references.bib"
 ---
 
 # Capítulo 36 — Farmacoterapia (síntomas asociados, no “curar autismo”)
+
+<!-- sync:version-badge -->
+> **v1.8** · conocimiento **13** · actualizado **2026-07-29**
+<!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
 

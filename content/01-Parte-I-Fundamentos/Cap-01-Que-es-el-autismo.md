@@ -8,6 +8,7 @@ dg-home: false
 dg-permalink: /capitulos/que-es-el-autismo
 ultima_actualizacion: "2026-07-29"
 version: "1.8"
+conocimiento: 14
 fuentes_integradas:
   - "[[2026-07-28-neurodiversidad-autismo-piloto]]"
   - "[[2012-Chaste-Leboyer-autism-risk-factors]]"
@@ -35,6 +36,10 @@ bibliography: "03-Datos/references.bib"
 ---
 
 # Capítulo 01 — ¿Qué es el autismo? Conceptos, espectro y neurodiversidad
+
+<!-- sync:version-badge -->
+> **v1.8** · conocimiento **14** · actualizado **2026-07-29**
+<!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
 

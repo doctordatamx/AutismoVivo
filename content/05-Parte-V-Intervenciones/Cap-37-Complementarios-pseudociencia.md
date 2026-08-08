@@ -8,6 +8,7 @@ dg-home: false
 dg-permalink: /capitulos/complementarios-pseudociencia
 ultima_actualizacion: "2026-07-28"
 version: "1.1"
+conocimiento: 2
 fuentes_integradas:
   - "[[2025-Doherty-CAM-autism-systematic-review]]"
   - "[[2025-Zhang-microbiota-gut-brain-axis-autism]]"
@@ -22,6 +23,10 @@ bibliography: "03-Datos/references.bib"
 ---
 
 # Capítulo 37 — Enfoques complementarios y pseudociencia (qué evitar)
+
+<!-- sync:version-badge -->
+> **v1.1** · conocimiento **2** · actualizado **2026-07-28**
+<!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
 

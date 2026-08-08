@@ -8,6 +8,7 @@ dg-home: false
 dg-permalink: /capitulos/derechos-legales
 ultima_actualizacion: "2026-07-29"
 version: "1.3"
+conocimiento: 5
 fuentes_integradas:
   - "[[2025-Arribas-Ayllon-wales-medicalisation]]"
   - "[[2025-Davenport-autism-friendly-hospitals-scoping]]"
@@ -24,6 +25,10 @@ bibliography: "03-Datos/references.bib"
 ---
 
 # Capítulo 52 — Derechos legales, legislación y políticas públicas
+
+<!-- sync:version-badge -->
+> **v1.3** · conocimiento **5** · actualizado **2026-07-29**
+<!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
 

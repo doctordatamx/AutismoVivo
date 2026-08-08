@@ -8,6 +8,7 @@ dg-home: false
 dg-permalink: /capitulos/interaccion-social
 ultima_actualizacion: "2026-07-29"
 version: "1.3"
+conocimiento: 8
 fuentes_integradas:
   - "[[2025-Cusson-empathy-measures-meta-analysis]]"
   - "[[2025-Soto-Icaza-classroom-social-networks]]"
@@ -28,6 +29,10 @@ bibliography: "03-Datos/references.bib"
 ---
 
 # Capítulo 16 — Interacción social, amistad y soledad
+
+<!-- sync:version-badge -->
+> **v1.3** · conocimiento **8** · actualizado **2026-07-29**
+<!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
 

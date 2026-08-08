@@ -8,6 +8,7 @@ dg-home: false
 dg-permalink: /capitulos/enmascaramiento
 ultima_actualizacion: "2026-07-29"
 version: "1.3"
+conocimiento: 5
 fuentes_integradas:
   - "[[2025-Ali-Bougoure-autistic-burnout-review]]"
   - "[[2025-Hunt-DCIDE-evolutionary-autism]]"
@@ -25,6 +26,10 @@ bibliography: "03-Datos/references.bib"
 ---
 
 # Capítulo 21 — Enmascaramiento (camouflaging), agotamiento y burnout autista
+
+<!-- sync:version-badge -->
+> **v1.3** · conocimiento **5** · actualizado **2026-07-29**
+<!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
 

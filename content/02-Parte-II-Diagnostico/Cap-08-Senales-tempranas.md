@@ -6,14 +6,16 @@ titulo: "Señales tempranas y banderas rojas por edad"
 dg-publish: false
 dg-home: false
 dg-permalink: /capitulos/senales-tempranas
-ultima_actualizacion: "2026-07-29"
-version: "1.3"
 fuentes_integradas:
   - "[[2025-Ren-adhd-presentation-recharge]]"
   - "[[2025-MacDuffie-therapeutic-odyssey-predictive-testing]]"
   - "[[2025-Seese-caregiver-interactions-later-born-toddlers]]"
   - "[[2024-Cleary-early-concerns-simplex-multiplex]]"
+  - "[[2026-Bazelmans-infant-ERP-early-later-diagnosis]]"
 estado: borrador
+ultima_actualizacion: "2026-08-06"
+version: "1.4"
+conocimiento: 5
 resumen_ejecutivo: "El diagnóstico temprano (2-5 años) de autismo es un predictor robusto de TDAH posterior, lo que sugiere que la vigilancia de señales de hiperactividad/inatención debería mantenerse activa más allá del diagnóstico inicial de autismo."
 preguntas_abiertas:
   - "¿A qué edad y con qué instrumentos conviene reevaluar activamente síntomas de TDAH en niños ya diagnosticados con autismo?"
@@ -23,6 +25,10 @@ bibliography: "03-Datos/references.bib"
 ---
 
 # Capítulo 08 — Señales tempranas y banderas rojas por edad
+
+<!-- sync:version-badge -->
+> **v1.4** · conocimiento **5** · actualizado **2026-08-06**
+<!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
 
@@ -66,11 +72,18 @@ SORT fecha_captura DESC
 ```
 
 
+
+### ERP a caras: onset diagnóstico temprano vs tardío
+
+En la cohorte de hermanos BASIS (n=102 bebés 6–10 meses), los potenciales evocados ante caras se asocian de forma diferencial con recibir el diagnóstico a los 3 años versus en media infancia: el diagnóstico más temprano se relaciona con desviación en **etapas más tempranas** del ERP, y el componente **P400** aparece alterado en ambos onsets ([@bazelmans2026erp]; [[2026-Bazelmans-infant-ERP-early-later-diagnosis]]; ver [[Cap-06-Neurobiologia]], [[Cap-23-Infancia-temprana]]). Mensaje clínico: un «no autismo» a los 3 años en bebés de alto riesgo no cierra la vigilancia; timing de reconocimiento y biología temprana pueden divergir.
+
 ### Preocupaciones tempranas ≠ efecto de vigilancia multiplex
 
 En N=525 familias, las preocupaciones parentales tempranas predicen el diagnóstico y no se explican por vigilancia multiplex: las señales tempranas reportadas por cuidadores mantienen valor clínico independiente del tipo familiar. ([@cleary2024]; [[2024-Cleary-early-concerns-simplex-multiplex]]).
 
 ## Referencias citadas
+
+- [@bazelmans2026erp] — [[2026-Bazelmans-infant-ERP-early-later-diagnosis]]
 
 - [@cleary2024] — [[2024-Cleary-early-concerns-simplex-multiplex]]
 

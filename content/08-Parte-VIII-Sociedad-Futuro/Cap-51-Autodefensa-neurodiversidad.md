@@ -8,6 +8,7 @@ dg-home: false
 dg-permalink: /capitulos/autodefensa-neurodiversidad
 ultima_actualizacion: "2026-07-29"
 version: "1.6"
+conocimiento: 14
 fuentes_integradas:
   - "[[2026-07-28-neurodiversidad-autismo-piloto]]"
   - "[[2025-Cusson-empathy-measures-meta-analysis]]"
@@ -34,6 +35,10 @@ bibliography: "03-Datos/references.bib"
 ---
 
 # Capítulo 51 — Movimiento de autodefensa y neurodiversidad
+
+<!-- sync:version-badge -->
+> **v1.6** · conocimiento **14** · actualizado **2026-07-29**
+<!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
 
@@ -78,6 +83,8 @@ Comentarios aparentemente inocuos —«no pareces autista», «qué inspirador»
 ### Autodeterminación como criterio de la intervención
 
 Una revisión sistemática de 19 estudios encontró que los adultos autistas respaldan objetivos de **bienestar**, **accesibilidad** y reducción de conductas dañinas en la intervención temprana, pero **no** los objetivos dirigidos a reducir los **rasgos autistas**, y describen un tema transversal de **daño** asociado a las intervenciones que ellos mismos recibieron ([@nosova2026]; [[2026-Nosova-autistic-adults-views-early-intervention]]). Su propuesta —intervención autismo-afirmativa, apropiada al desarrollo y orientada a la autodeterminación— traduce el marco de neurodiversidad a criterios operativos (ver [[Cap-29-Principios-intervencion]], [[Cap-31-ABA-controversias]]).
+
+El debate no es monolítico: comentarios desde familias de alto apoyo (p. ej. la crítica de Lutz a la «mente intacta») cuestionan si el discurso de identidad eclipsará necesidades de apoyos intensivos ([@lutz2025aba]; [[2025-Lutz-ABA-intact-mind-neurodiversity]]). El Libro Vivo mantiene el marco neurodivergente y presenta esa postura como **contrapunto** a mapear, no como tesis central.
 
 ### La doble empatía, medida experimentalmente
 

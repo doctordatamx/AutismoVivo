@@ -8,6 +8,7 @@ dg-home: false
 dg-permalink: /capitulos/aba-controversias
 ultima_actualizacion: "2026-07-29"
 version: "1.2"
+conocimiento: 3
 fuentes_integradas:
   - "[[2025-Bottema-Beutel-problem-behavior-measurement]]"
   - "[[2026-Nosova-autistic-adults-views-early-intervention]]"
@@ -22,6 +23,10 @@ bibliography: "03-Datos/references.bib"
 ---
 
 # Capítulo 31 — ABA y análisis conductual aplicado: evidencia y controversias
+
+<!-- sync:version-badge -->
+> **v1.2** · conocimiento **3** · actualizado **2026-07-29**
+<!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
 
@@ -49,6 +54,10 @@ Una revisión sistemática de métodos mixtos de 19 estudios sobre las visiones 
 
 La revisión pediátrica de referencia sitúa la intervención conductual intensiva temprana entre las prácticas con mejor respaldo empírico, documentando ganancias en **CI** y en ubicación escolar, dentro del marco NSP2/NCAEP que distingue modelos integrales de prácticas focalizadas ([@anixt2024]; [[2024-Anixt-evidence-based-interventions-autism]]). Presentar esta síntesis junto a las críticas de medición ([@bottemabeutel2025]) y a las visiones de adultos autistas ([@nosova2026]) es la forma honesta de exponer el estado del debate.
 
+### Una contrapunto: la «mente intacta» y el rechazo a ABA
+
+Desde la orilla opuesta del debate, Lutz atribuye parte del rechazo contemporáneo a ABA —y a otras políticas de apoyos intensivos— a la **asunción de la mente intacta**: la idea de que detrás de toda presentación de autismo profundo hay inteligencia típica oculta ([@lutz2025aba]; [[2025-Lutz-ABA-intact-mind-neurodiversity]]). Es un **comentario de advocacy**, no un ensayo empírico; conviene leerlo como una voz de familias de alto apoyo dentro del mapa de controversias, sin adoptarlo como tesis del libro, y contrastarlo con las críticas neuroafirmativas a objetivos de «normalización» ([@nosova2026]; ver [[Cap-51-Autodefensa-neurodiversidad]]).
+
 ### Perspectivas clave
 
 - **Evidencia clínica:** falta generalizada de definiciones conceptuales claras antes de intervenir para reducir conductas, incluso en un corpus grande y reciente de estudios de intervención temprana.
@@ -73,6 +82,7 @@ SORT fecha_captura DESC
 - [@nosova2026] — [[2026-Nosova-autistic-adults-views-early-intervention]]
 - [@anixt2024] — [[2024-Anixt-evidence-based-interventions-autism]]
 - [@bottemabeutel2025] — [[2025-Bottema-Beutel-problem-behavior-measurement]]
+- [@lutz2025aba] — [[2025-Lutz-ABA-intact-mind-neurodiversity]]
 
 ## Enlaces relacionados
 

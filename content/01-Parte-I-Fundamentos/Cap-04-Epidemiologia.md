@@ -6,8 +6,6 @@ titulo: "Epidemiología: prevalencia, tendencias, sesgos de medición"
 dg-publish: true
 dg-home: false
 dg-permalink: /capitulos/epidemiologia
-ultima_actualizacion: "2026-07-29"
-version: "1.6"
 fuentes_integradas:
   - "[[2012-Chaste-Leboyer-autism-risk-factors]]"
   - "[[2025-Wang-understanding-autism]]"
@@ -21,7 +19,14 @@ fuentes_integradas:
   - "[[2025-Cajachagua-Torres-cannabis-tobacco-prenatal-autism]]"
   - "[[2025-Ranjan-NDIS-autism-prevalence]]"
   - "[[2025-Furnier-ADDM-prevalence-adaptive]]"
+  - "[[2026-Croce-diagnostic-inflation-ASD]]"
+  - "[[2025-Kamp-Becker-media-preschool-autism-risk]]"
+  - "[[2026-Dickerson-maternal-occupation-ASD-Denmark]]"
+  - "[[2025-Morin-maternal-BMI-offspring-ASD]]"
 estado: revision
+ultima_actualizacion: "2026-08-07"
+version: "2.5"
+conocimiento: 16
 autor_libro: "Dr. Fernando Avalos Reyes"
 resumen_ejecutivo: "La prevalencia reportada del TEA sigue subiendo. Estimaciones globales ~1/100 niños; ADDM EE.UU. 2020 ~1/36. Ratio H:M ~3,8–4:1 (variable por país/CI; subdiagnóstico femenino). Factores ambientales prenatales (p. ej. asma materna OR≈1,3) aportan riesgo poblacional modesto junto a genética."
 preguntas_abiertas:
@@ -33,6 +38,10 @@ bibliography: "03-Datos/references.bib"
 ---
 
 # Capítulo 04 — Epidemiología: prevalencia, tendencias, sesgos de medición
+
+<!-- sync:version-badge -->
+> **v2.5** · conocimiento **16** · actualizado **2026-08-07**
+<!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
 
@@ -116,6 +125,26 @@ La epidemiología de factores tempranos está poblada de asociaciones crudas que
 
 En la cohorte poblacional Generation R (Róterdam), el consumo **prenatal de cannabis** no se asoció con síntomas autistas en la descendencia; sí lo hicieron el consumo materno **preconcepcional** de cannabis y, sobre todo, el consumo materno de **tabaco mantenido durante todo el embarazo**, mientras que el consumo **paterno** de tabaco no mostró asociación ([@cajachaguatorres2025]; [[2025-Cajachagua-Torres-cannabis-tobacco-prenatal-autism]]). El contraste materno/paterno funciona como **control negativo**: si el efecto fuese puramente confusión social o genética compartida, cabría esperar señal también en la línea paterna (ver [[Cap-05-Etiologia]]).
 
+
+
+
+### Exposiciones ocupacionales maternas
+
+Registros daneses vinculan algunas ocupaciones maternas pre/peri-concepción con odds modestamente elevadas de TEA en hijos (p. ej. militar/defensa aOR≈1,59) ([@dickerson2026occ]; [[2026-Dickerson-maternal-occupation-ASD-Denmark]]; ver [[Cap-05-Etiologia]]).
+
+
+### BMI materno poblacional
+
+Estudios de cohorte nórdicos aportan estimaciones del vínculo BMI materno temprano–TEA en hijos sobre el rango completo de BMI ([@morin2025bmi]; [[2025-Morin-maternal-BMI-offspring-ASD]]; ver [[Cap-05-Etiologia]]).
+
+### Medios en preescolares: asociación mediada, no causalidad simple
+
+El mayor consumo mediático en preescolares se asocia a demoras de lenguaje/cognición y a síntomas compatibles con TEA, pero los efectos aparecen **junto a** SES bajo, historia familiar y estrés parental que median el riesgo; reducir pantallas + aumentar interacción padre–hijo mejora trayectorias ([@kamp2025media]; [[2025-Kamp-Becker-media-preschool-autism-risk]]; ver [[Cap-23-Infancia-temprana]], [[Cap-45-Crianza]]). No interpretar como «las pantallas causan autismo».
+
+### ¿Inflación diagnóstica o mejor detección?
+
+Una reappraisal epistemológica argumenta que el salto de prevalencia (~1/150 → 1/36) refleja, en parte, un ensanchamiento de la categoría DSM-5 en la práctica, y pide restaurar especificidad (diferencial, tipologías) **sin** oponerse a la neurodiversidad: la etiqueta debería seguir identificando poblaciones para las que existen vías de cuidado apropiadas ([@croce2026infl]; [[2026-Croce-diagnostic-inflation-ASD]]; ver [[Cap-10-Proceso-diagnostico]], [[Cap-13-Diagnostico-diferencial]]). El Libro Vivo lo registra como **contrapunto metodológico** al lado de explicaciones por detección, criterios y acceso —no como tesis única.
+
 ### Perspectivas clave
 
 - **Evidencia clínica:** series ADDM son la referencia más citada en países de altos ingresos; la epidemiología del envejecimiento autista es un área emergente sin evidencia de deterioro cognitivo generalizado.
@@ -137,6 +166,14 @@ El NDIS australiano se asocia a ~32% más prevalencia diagnóstica de autismo y 
 En ADDM, la prevalencia con funcionamiento adaptativo leve pasa de 5,1 a 17,6/1000 mientras moderado–profundo permanece estable: el aumento epidemiológico se concentra en el estrato leve. ([@furnier2025]; [[2025-Furnier-ADDM-prevalence-adaptive]]).
 
 ## Referencias citadas
+
+- [@morin2025bmi] — [[2025-Morin-maternal-BMI-offspring-ASD]]
+
+- [@dickerson2026occ] — [[2026-Dickerson-maternal-occupation-ASD-Denmark]]
+
+- [@kamp2025media] — [[2025-Kamp-Becker-media-preschool-autism-risk]]
+
+- [@croce2026infl] — [[2026-Croce-diagnostic-inflation-ASD]]
 
 - [@ranjan2025] — [[2025-Ranjan-NDIS-autism-prevalence]]
 - [@furnier2025] — [[2025-Furnier-ADDM-prevalence-adaptive]]

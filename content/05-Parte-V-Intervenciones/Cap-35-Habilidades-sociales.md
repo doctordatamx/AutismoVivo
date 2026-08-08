@@ -8,6 +8,7 @@ dg-home: false
 dg-permalink: /capitulos/habilidades-sociales
 ultima_actualizacion: "2026-07-29"
 version: "1.2"
+conocimiento: 3
 fuentes_integradas:
   - "[[2025-Soto-Icaza-classroom-social-networks]]"
   - "[[2025-Ziegler-DAN-PACT-protocol]]"
@@ -22,6 +23,10 @@ bibliography: "03-Datos/references.bib"
 ---
 
 # Capítulo 35 — Habilidades sociales: enfoques actuales y críticas
+
+<!-- sync:version-badge -->
+> **v1.2** · conocimiento **3** · actualizado **2026-07-29**
+<!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
 

@@ -6,8 +6,6 @@ titulo: "Salud mental: ansiedad, depresión, trauma, suicidio"
 dg-publish: false
 dg-home: false
 dg-permalink: /capitulos/salud-mental
-ultima_actualizacion: "2026-07-29"
-version: "1.5"
 fuentes_integradas:
   - "[[2025-Ali-Bougoure-autistic-burnout-review]]"
   - "[[2026-Cole-Happe-autism-FND-association]]"
@@ -22,7 +20,16 @@ fuentes_integradas:
   - "[[2025-Albantakis-alexithymia-personality-disorder]]"
   - "[[2026-Liu-Taiwanese-adolescents-diagnosis-identity]]"
   - "[[2025-Westgate-perinatal-autistic-birthing]]"
+  - "[[2024-Lopez-Arvizu-self-harm-autism-ID-youth]]"
+  - "[[2025-DellOsso-bullying-mood-suicidality-ASD-BAP]]"
+  - "[[2025-Procyshyn-autistic-adults-barriers-NHS-suicidality]]"
+  - "[[2024-Cervantes-ED-suicidality-autism-care]]"
+  - "[[2026-Procyshyn-suicidal-thoughts-autistic-youth-app]]"
+  - "[[2025-Pereira-TGD-autistic-adolescents-depression]]"
 estado: revision
+ultima_actualizacion: "2026-08-07"
+version: "1.13"
+conocimiento: 19
 resumen_ejecutivo: "Salud mental en TEA: burnout ligado a ansiedad/depresión (Ali 2025); trauma y estigma elevados. Asociación creciente con FND vía interocepción, alexitimia y adversidad. La evaluación interoceptiva negativa (no la accuracy) conecta con ansiedad; ansiedad y TDAH son los nodos más fuertes en modelos de red de comorbilidad; medir bien la ansiedad (interferencia funcional) mejora la detección de resultados de tratamiento."
 preguntas_abiertas:
   - "¿Qué protocolos de crisis incorporan burnout vs. depresión mayor?"
@@ -35,6 +42,10 @@ bibliography: "03-Datos/references.bib"
 ---
 
 # Capítulo 47 — Salud mental: ansiedad, depresión, trauma, suicidio
+
+<!-- sync:version-badge -->
+> **v1.13** · conocimiento **19** · actualizado **2026-08-07**
+<!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
 
@@ -132,12 +143,59 @@ Ocho adolescentes taiwaneses describen el diagnóstico de autismo como una «gu�
 
 El personal de salud mental perinatal reporta necesidad de formación en autismo y destaca preguntar «qué significa el autismo para ellas» como eje de cuidados adaptados a mujeres y personas gestantes autistas. ([@westgate2025]; [[2025-Westgate-perinatal-autistic-birthing]]).
 
+
+
+### Bullying, ánimo y suicidality (TEA/BAP)
+
+Personas con rasgos/diagnóstico en el espectro reportan más bullying; la combinación victimización + BAP concentra mayor carga afectiva y suicidality. Rasgos autistas y bullying predicen ideación de forma independiente e interactiva ([@dellosso2025bully]; [[2025-DellOsso-bullying-mood-suicidality-ASD-BAP]]; ver [[Cap-25-Adolescencia]], [[Cap-16-Interaccion-social]]).
+
+
+
+### Urgencias por suicidality: qué piden juventud, familias y clínicos
+
+En ED, jóvenes autistas, cuidadores y clínicos coinciden en cuatro ejes: adaptar a rasgos TEA, engagement del joven, involucrar familia y corregir fallas del sistema ([@cervantes2024ed]; [[2024-Cervantes-ED-suicidality-autism-care]]; ver [[Cap-25-Adolescencia]]). Hay que formar a urgencias mientras maduran herramientas autism-specific.
+
+
+### Pensamientos suicidas en jóvenes usuarios de apps
+
+Entre jóvenes autistas usuarios de una app de salud mental, el **63%** reportó pensamientos suicidas; un modelo multivariante explicó ~50% de la varianza ([@procyshyn2026app]; [[2026-Procyshyn-suicidal-thoughts-autistic-youth-app]]; ver [[Cap-25-Adolescencia]], [[Cap-38-Tecnologia-asistiva]]). Buscar apoyo digital no implica bajo riesgo.
+
+
+### Adolescentes TGD autistas: depresión elevada
+
+En >9000 adolescentes autistas, la identidad TGD se asoció a odds ~5× de depresión tras ajuste ([@pereira2025tgd]; [[2025-Pereira-TGD-autistic-adolescents-depression]]; ver [[Cap-54-Genero-diversidad]], [[Cap-25-Adolescencia]]).
+
+### Barreras para pedir ayuda ante crisis suicida (adultos, NHS)
+
+En una encuesta UK co-diseñada (n=754 que no acudieron al NHS en su último episodio de ideas/conductas suicidas), las razones más frecuentes incluyen intentar gestionar solos y **no creer que el sistema pudiera ayudar** ([@procyshyn2025help]; [[2025-Procyshyn-autistic-adults-barriers-NHS-suicidality]]; ver [[Cap-12-Diagnostico-adultos]], [[Cap-27-Adultez-madura]]). La prevención requiere servicios percibidos como útiles y accesibles, no solo más líneas de crisis.
+
+### Autolesión deliberada en jóvenes con TEA y/o DI
+
+En Medicaid Ohio (N=41 230, 5–24 años), ~2,6–2,7% tuvo ≥1 evento de autolesión deliberada. Los correlatos —edad, sexo femenino, trauma, comorbilidad mental, sustancias— se parecen a los de jóvenes neurotípicos; el riesgo no «desaparece» por DI ([@lopez2024dsh]; [[2024-Lopez-Arvizu-self-harm-autism-ID-youth]]; ver [[Cap-25-Adolescencia]], [[Cap-07-Comorbilidades]]). Implicación: cribado y educación clínica sobre suicidio/DSH también en TEA/DI.
+
+### Irritabilidad en adultos: más allá del «estallido»
+
+Lin et al. argumentan que la irritabilidad en adultos autistas está mal medida y poco estudiada: a menudo refleja **hiperactivación psicofisiológica** (estrés, trauma, sobrecarga sensorial) más que un trastorno del humor primario, y que el paradigma de risperidona/aripiprazol deriva de ensayos **pediátricos** ([@lin2026irrit]; [[2026-Lin-irritability-autistic-adults]]; ver [[Cap-36-Farmacoterapia]], [[Cap-27-Adultez-madura]]). Distinguen irritabilidad tónica vs. fásica y piden ensayos en adultos, autoinforme cuando sea posible y herramientas fisiológicas.
+
 ## Referencias citadas
+
+- [@pereira2025tgd] — [[2025-Pereira-TGD-autistic-adolescents-depression]]
+
+- [@procyshyn2026app] — [[2026-Procyshyn-suicidal-thoughts-autistic-youth-app]]
+
+- [@cervantes2024ed] — [[2024-Cervantes-ED-suicidality-autism-care]]
+
+- [@procyshyn2025help] — [[2025-Procyshyn-autistic-adults-barriers-NHS-suicidality]]
+
+- [@dellosso2025bully] — [[2025-DellOsso-bullying-mood-suicidality-ASD-BAP]]
+
+- [@lopez2024dsh] — [[2024-Lopez-Arvizu-self-harm-autism-ID-youth]]
 
 - [@dwyer2025] — [[2025-Dwyer-auditory-hyperreactivity-ADHD-autism]]
 - [@albantakis2025] — [[2025-Albantakis-alexithymia-personality-disorder]]
 - [@liu2026] — [[2026-Liu-Taiwanese-adolescents-diagnosis-identity]]
 - [@westgate2025] — [[2025-Westgate-perinatal-autistic-birthing]]
+- [@lin2026irrit] — [[2026-Lin-irritability-autistic-adults]]
 
 - [@miles2025] — [[2025-Miles-autism-psychosis-meta-analysis]]
 - [@guan2025] — [[2025-Guan-ableist-microaggressions-camouflage]]

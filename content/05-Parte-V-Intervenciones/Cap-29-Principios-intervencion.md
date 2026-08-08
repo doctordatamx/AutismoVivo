@@ -8,6 +8,7 @@ dg-home: false
 dg-permalink: /capitulos/principios-intervencion
 ultima_actualizacion: "2026-07-29"
 version: "1.5"
+conocimiento: 6
 fuentes_integradas:
   - "[[2025-Wang-understanding-autism]]"
   - "[[2025-Bottema-Beutel-problem-behavior-measurement]]"
@@ -27,6 +28,10 @@ bibliography: "03-Datos/references.bib"
 ---
 
 # Capítulo 29 — Principios de intervención basada en evidencia
+
+<!-- sync:version-badge -->
+> **v1.5** · conocimiento **6** · actualizado **2026-07-29**
+<!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
 

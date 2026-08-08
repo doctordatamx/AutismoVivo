@@ -8,6 +8,7 @@ dg-home: false
 dg-permalink: /capitulos/educacion-inclusiva
 ultima_actualizacion: "2026-07-28"
 version: "1.1"
+conocimiento: 1
 fuentes_integradas:
   - "[[2025-Soto-Icaza-classroom-social-networks]]"
 estado: borrador
@@ -20,6 +21,10 @@ bibliography: "03-Datos/references.bib"
 ---
 
 # Capítulo 39 — Educación inclusiva vs. especializada: evidencia y derechos
+
+<!-- sync:version-badge -->
+> **v1.1** · conocimiento **1** · actualizado **2026-07-28**
+<!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
 

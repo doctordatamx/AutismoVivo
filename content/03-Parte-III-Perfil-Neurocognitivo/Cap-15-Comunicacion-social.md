@@ -6,12 +6,14 @@ titulo: "Comunicación social y lenguaje"
 dg-publish: true
 dg-home: false
 dg-permalink: /capitulos/comunicacion-social
-ultima_actualizacion: "2026-07-29"
-version: "1.2"
 fuentes_integradas:
   - "[[2026-Witt-Carnett-neurobiology-language-review]]"
   - "[[2025-Gagnon-unexpected-bilingualism-minimally-verbal]]"
+  - "[[2024-OShea-metaphor-eye-tracking-adults]]"
 estado: publicado
+ultima_actualizacion: "2026-08-06"
+version: "1.3"
+conocimiento: 3
 resumen_ejecutivo: "Una revisión sistemática de 31 estudios de neuroimagen funcional muestra que el procesamiento neural del lenguaje en autismo es atípico en timing y magnitud, con hipoactivación temporal en bebés que no siempre persiste; los patrones tempranos no determinan de forma fija el desenlace comunicativo posterior."
 preguntas_abiertas:
   - "¿Cómo mejorar la representación de personas mínimamente/no verbales en estudios de neuroimagen del lenguaje?"
@@ -21,6 +23,10 @@ bibliography: "03-Datos/references.bib"
 ---
 
 # Capítulo 15 — Comunicación social y lenguaje
+
+<!-- sync:version-badge -->
+> **v1.3** · conocimiento **3** · actualizado **2026-08-06**
+<!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
 
@@ -37,6 +43,11 @@ Witt y Carnett revisan sistemáticamente 31 estudios (1648 participantes) sobre 
 ### Bilingüismo inesperado: aprender lengua fuera de la interacción
 
 Un estudio con cuidadores de 119 niños autistas, 102 niños clínicos no autistas y 75 con desarrollo típico (2-6 años) documenta el **bilingüismo inesperado**: el uso de una lengua que **no se habla en el entorno social** del niño. Lo mostró el **38,7%** de los niños autistas (OR **4,38** frente a desarrollo típico), con OR **8,28** para el uso de la lengua no dominante tras controlar la exposición social, y sin relación con el nivel de lenguaje expresivo; el **53%** del grupo autista era mínimamente verbal ([@gagnon2025]; [[2025-Gagnon-unexpected-bilingualism-minimally-verbal]]). El hallazgo cuestiona el supuesto de que el lenguaje se adquiere fundamentalmente por interacción social (ver [[Cap-32-Terapia-lenguaje-CAA]], [[Cap-22-Fortalezas-cognitivas]]).
+
+
+### Metáfora en adultos: exactitud ≠ eficiencia
+
+Un estudio de eye-tracking (*visual world*) en adultos con TEA muestra **precisión** en metáforas novedosas comparable a controles, pero ~**800 ms** más de latencia y mayor fijación en el distractor literal: sesgo de literalidad / menor eficiencia, no incapacidad figurativa categórica ([@oshea2024metaphor]; [[2024-OShea-metaphor-eye-tracking-adults]]; ver [[Cap-20-Teoria-de-la-mente]], [[Cap-22-Fortalezas-cognitivas]]). Implicación: tests cronometrados o juicios apresurados pueden patologizar un estilo de procesamiento más lento pero correcto.
 
 ### Perspectivas clave
 
@@ -58,6 +69,8 @@ SORT fecha_captura DESC
 ```
 
 ## Referencias citadas
+
+- [@oshea2024metaphor] — [[2024-OShea-metaphor-eye-tracking-adults]]
 
 - [@gagnon2025] — [[2025-Gagnon-unexpected-bilingualism-minimally-verbal]]
 - [@witt2026] — [[2026-Witt-Carnett-neurobiology-language-review]]
