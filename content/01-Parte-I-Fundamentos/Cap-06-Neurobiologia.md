@@ -6,9 +6,9 @@ titulo: "Neurobiología: cerebro, conectividad, biomarcadores"
 dg-publish: true
 dg-home: false
 dg-permalink: /capitulos/neurobiologia
-ultima_actualizacion: "2026-08-08"
-version: "2.7"
-conocimiento: 37
+ultima_actualizacion: "2026-08-09"
+version: "2.11"
+conocimiento: 41
 fuentes_integradas:
   - "[[2012-Chaste-Leboyer-autism-risk-factors]]"
   - "[[2025-Wang-understanding-autism]]"
@@ -47,6 +47,10 @@ fuentes_integradas:
   - "[[2025-Smith-PMS-sensory-processing-EEG]]"
   - "[[2026-Allwsh-soluble-alpha-klotho-ASD-biomarker]]"
   - "[[2026-Samanta-SYNGAP1-pathophysiology-therapeutics]]"
+  - "[[2026-Bussies-oxytocin-Pten-GxE-mice]]"
+  - "[[2026-Marmontel-spliceosomal-transcriptome-ASD-BD]]"
+  - "[[2026-Herman-TSC-tuber-cerebellar-network-ADOS]]"
+  - "[[2026-Knudsen-glymphatic-ALPS-autism-ABIDE]]"
 estado: revision
 resumen_ejecutivo: "Sinaptopatía, GER, inmune/hormonas/MGBA; LCOR↓ en DMN co-localiza con glutamato/GABA y se asemeja a ketamina (E/I). Subgrupos transcriptómicos-imagen (LEAP). Microbiota: correlación humana; prevención LGR-1 solo en ratones. Un comentario metodológico advierte que gran parte de la investigación en neuroimagen no controla por capacidad cognitiva (CI), generando hallazgos potencialmente espurios."
 preguntas_abiertas:
@@ -61,7 +65,7 @@ bibliography: "03-Datos/references.bib"
 # Capítulo 06 — Neurobiología: cerebro, conectividad, biomarcadores
 
 <!-- sync:version-badge -->
-> **v2.7** · conocimiento **37** · actualizado **2026-08-08**
+> **v2.11** · conocimiento **41** · actualizado **2026-08-09**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
@@ -145,6 +149,8 @@ Seelemeyer et al. ([@seelemeyer2025]; [[2025-Seelemeyer-decomposing-brain-domain
 ### Red de saliencia social y oxitocina
 
 Patwardhan et al. proponen la **hipótesis de la red de saliencia social (SSN)**: los síntomas sociales nucleares del TEA reflejarían una disrupción en la priorización atencional/motivacional de estímulos sociales (no solo en su procesamiento), modulada por la **señalización de oxitocina** ([@patwardhan2025]; [[2025-Patwardhan-social-salience-network-oxytocin]]). Este marco contextualiza mecanísticamente por qué la oxitocina de precisión podría beneficiar solo a subgrupos específicos ([@boulton2026]; ver [[Cap-36-Farmacoterapia]]).
+
+Un modelo murino de GxE muestra que la oxitocina perinatal no «escribe» el mismo epifenotipo en todos los cerebros: haploinsuficiencia de *Pten* invierte el sentido de la remodelación de metilación de *Oxtr* respecto a WT y cambia el perfil de ansiedad/memoria social ([@bussies2026oxy]; [[2026-Bussies-oxytocin-Pten-GxE-mice]]; ver [[Cap-05-Etiologia]]). Encaja con la idea de **oxitocina de precisión**: el contexto genético importa.
 
 ### Dopamina nigroestriatal (modelo VPA)
 
@@ -259,8 +265,24 @@ Descenso de alfa-klotho soluble reportado en una cohorte pediátrica iraquí ([@
 
 Pérdida de SynGAP acelera maduración sináptica y altera oscilaciones/plasticidad ([@samanta2026syngap]; [[2026-Samanta-SYNGAP1-pathophysiology-therapeutics]]).
 
+### Firma espliceosomal en PFC (TEA vs bipolar)
+
+Un análisis transcriptómico de corteza prefrontal post mortem contrastó TEA y trastorno bipolar: en TEA predominaron DEG no codificantes ligados a **espliceosoma**/snRNA–snoRNA; en TB, genes codificantes ligados a respuesta a iones metálicos, regulación vascular e inflamación, **sin solapamiento** de DEG ni de términos GO Biological Process ([@marmontel2026splice]; [[2026-Marmontel-spliceosomal-transcriptome-ASD-BD]]; ver [[Cap-05-Etiologia]], [[Cap-13-Diagnostico-diferencial]]). Refuerza la idea de que el TEA no es un «espectro molecular» continuo con el TB en PFC, al menos en esta firma.
+
+### Tubérculos TSC y red cerebelosa del afecto social
+
+En esclerosis tuberosa (N=115, TACERN), el mapeo de redes de lesión asocia mayor gravedad de **afecto social** (ADOS) con tubérculos conectados funcionalmente a núcleos cerebelosos profundos —especialmente Crus V derecho—, sin asociación con RRB ni con el ADOS total, e independiente de carga lesional, epilepsia y lenguaje ([@herman2026tsc]; [[2026-Herman-TSC-tuber-cerebellar-network-ADOS]]; ver [[Cap-15-Comunicacion-social]]). Distintos dominios del TEA pueden mapear a circuitos distintos.
+
+
+### Sistema glinfático (índice ALPS) y trayectoria adulta
+
+En cohortes ABIDE (128 ASD / 122 NT), el índice DTI-ALPS —proxy de función glinfática perivascular— es más bajo en autismo, con diferencia clara sobre todo en **adultos**; en adultos autistas correlaciona negativamente con síntomas depresivos, no con CI ni rasgos autistas ([@knudsen2026glymph]; [[2026-Knudsen-glymphatic-ALPS-autism-ABIDE]]; ver [[Cap-47-Salud-mental]], [[Cap-27-Adultez-madura]]).
+
+
 ## Referencias citadas
 
+- [@marmontel2026splice] — [[2026-Marmontel-spliceosomal-transcriptome-ASD-BD]]
+- [@bussies2026oxy] — [[2026-Bussies-oxytocin-Pten-GxE-mice]]
 - [@samanta2026syngap] — [[2026-Samanta-SYNGAP1-pathophysiology-therapeutics]]
 
 - [@allwsh2026klotho] — [[2026-Allwsh-soluble-alpha-klotho-ASD-biomarker]]

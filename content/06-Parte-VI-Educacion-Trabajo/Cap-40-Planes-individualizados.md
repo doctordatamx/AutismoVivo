@@ -20,7 +20,7 @@ tags:
 # Capítulo 40 — Planes individualizados (IEP/PEI) y adaptaciones razonables
 
 <!-- sync:version-badge -->
-> **v1.0** · conocimiento **0** · actualizado **2026-08-08**
+> **v1.0** · conocimiento **0** · actualizado **2026-08-09**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo

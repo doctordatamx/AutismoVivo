@@ -6,9 +6,9 @@ titulo: "Evaluación funcional: comunicación, adaptativa, sensorial"
 dg-publish: false
 dg-home: false
 dg-permalink: /capitulos/evaluacion-funcional
-ultima_actualizacion: "2026-08-08"
-version: "1.8"
-conocimiento: 11
+ultima_actualizacion: "2026-08-09"
+version: "1.9"
+conocimiento: 12
 fuentes_integradas:
   - "[[2026-Han-behavioral-network-comorbidity]]"
   - "[[2025-Chen-anxiety-scales-treatment-outcomes]]"
@@ -21,6 +21,7 @@ fuentes_integradas:
   - "[[2025-Jiang-GDD-ID-genetic-risk-nomogram]]"
   - "[[2025-Granadillo-MYT1L-Brain-Gene-Registry]]"
   - "[[2025-Martin-CASK-neurodevelopmental-spectrum]]"
+  - "[[2026-Beccaria-language-profiles-verbal-speaking-generativity]]"
 estado: borrador
 resumen_ejecutivo: "La evaluación funcional en TEA va más allá del diagnóstico categórico: modelos de red (PDDBI) sitúan ansiedad y TDAH como nodos centrales de comorbilidad; la elección de instrumento (interferencia vs. síntoma) determina si se detecta bien el cambio clínico; las Vineland-3 combinadas con machine learning predicen trayectorias de conducta adaptativa (77% exactitud) sin que más horas de terapia mejoren la predicción; y controlar por CI es un prerrequisito metodológico, no solo clínico."
 preguntas_abiertas:
@@ -34,7 +35,7 @@ bibliography: "03-Datos/references.bib"
 # Capítulo 14 — Evaluación funcional: comunicación, adaptativa, sensorial
 
 <!-- sync:version-badge -->
-> **v1.8** · conocimiento **11** · actualizado **2026-08-08**
+> **v1.9** · conocimiento **12** · actualizado **2026-08-09**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
@@ -107,6 +108,11 @@ MYT1L muestra utilidad de protocolos neuroconductuales rápidos + EHR ([@granadi
 ### Evaluación dimensional en TND raros (CASK/BINGO)
 
 Patrones de dificultad similares a otros síndromes raros: medir sueño, visión cerebral y conducta, no solo CI ([@martin2025cask]; [[2025-Martin-CASK-neurodevelopmental-spectrum]]).
+
+### Perfiles lingüísticos multidimensionales
+
+En preescolares autistas, Verbal / Speaking / Generativity son dimensiones parcialmente disociables; el CI no verbal explica más varianza que los rasgos autistas ([@beccaria2026lang]; [[2026-Beccaria-language-profiles-verbal-speaking-generativity]]; ver [[Cap-15-Comunicacion-social]]).
+
 
 ## Referencias citadas
 

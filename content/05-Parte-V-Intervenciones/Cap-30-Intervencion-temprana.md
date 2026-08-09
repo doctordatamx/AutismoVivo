@@ -6,9 +6,9 @@ titulo: "Intervención temprana (ESDM, JASPER, modelos naturales)"
 dg-publish: false
 dg-home: false
 dg-permalink: /capitulos/intervencion-temprana
-ultima_actualizacion: "2026-08-08"
-version: "1.8"
-conocimiento: 12
+ultima_actualizacion: "2026-08-09"
+version: "1.10"
+conocimiento: 13
 fuentes_integradas:
   - "[[2025-Ziegler-DAN-PACT-protocol]]"
   - "[[2025-Aitken-adaptive-behavior-trajectories-ML]]"
@@ -22,6 +22,7 @@ fuentes_integradas:
   - "[[2025-Golden-cognitive-Bayley-ASD-persistence]]"
   - "[[2026-Saunders-emotion-dysregulation-therapy-participation]]"
   - "[[2025-Benson-ML-early-childhood-development-scoping]]"
+  - "[[2026-Kemp-AquOTic-water-competency-protocol]]"
 estado: borrador
 resumen_ejecutivo: "PACT (Paediatric Autism Communication Therapy), intervención mediada por padres con evidencia previa en Reino Unido, se replica en Dinamarca (DAN-PACT, n=280); protocolo publicado, resultados de eficacia aún pendientes. Un estudio de cohorte con ML en niños pequeños (20-90 meses) no encontró que las horas acumuladas de terapia del desarrollo mejoraran la predicción de la trayectoria adaptativa, sugiriendo que las características de ingreso pesan más que la dosis."
 preguntas_abiertas:
@@ -35,7 +36,7 @@ bibliography: "03-Datos/references.bib"
 # Capítulo 30 — Intervención temprana (ESDM, JASPER, modelos naturales)
 
 <!-- sync:version-badge -->
-> **v1.8** · conocimiento **12** · actualizado **2026-08-08**
+> **v1.10** · conocimiento **13** · actualizado **2026-08-09**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
@@ -121,7 +122,13 @@ En n=853 (2–5 años), hablar/TO/conductual son las terapias más frecuentes; m
 
 Bayley y datos imagen/video/sensor lideran aplicaciones ML en infancia temprana ([@benson2025ml]; [[2025-Benson-ML-early-childhood-development-scoping]]).
 
+### Competencia acuática temprana (protocolo AquOTic)
+
+Más allá del aula y la sala de terapia, la seguridad en el agua es un objetivo de prevención primaria: AquOTic es un ECA híbrido de TO para competencia acuática en niños autistas de 5–9 años (protocolo; resultados pendientes) ([@kemp2026aquotic]; [[2026-Kemp-AquOTic-water-competency-protocol]]; ver [[Cap-33-Terapia-ocupacional]]).
+
 ## Referencias citadas
+
+- [@kemp2026aquotic] — [[2026-Kemp-AquOTic-water-competency-protocol]]
 
 - [@benson2025ml] — [[2025-Benson-ML-early-childhood-development-scoping]]
 

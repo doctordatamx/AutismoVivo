@@ -6,9 +6,9 @@ titulo: "Principios de intervención basada en evidencia"
 dg-publish: true
 dg-home: false
 dg-permalink: /capitulos/principios-intervencion
-ultima_actualizacion: "2026-08-08"
-version: "1.6"
-conocimiento: 7
+ultima_actualizacion: "2026-08-09"
+version: "1.8"
+conocimiento: 8
 fuentes_integradas:
   - "[[2025-Wang-understanding-autism]]"
   - "[[2025-Bottema-Beutel-problem-behavior-measurement]]"
@@ -17,8 +17,9 @@ fuentes_integradas:
   - "[[2026-Nosova-autistic-adults-views-early-intervention]]"
   - "[[2024-Benavidez-rare-variant-youth-services]]"
   - "[[2026-Saunders-emotion-dysregulation-therapy-participation]]"
+  - "[[2026-Ramnauth-robots-autism-therapy]]"
 estado: revision
-resumen_ejecutivo: "No hay fármacos aprobados para síntomas nucleares del TEA. Las intervenciones no farmacológicas (habilidades, comunicación, terapias psicosociales, digitales, ejercicio, etc.) buscan autonomía, comunicación y calidad de vida. La estimulación cerebral no invasiva (tDCS/rTMS) y fármacos experimentales siguen en evaluación; priorizar individualización y etiología. Un estudio de cohorte con machine learning halla que las horas acumuladas de ABA/terapias del desarrollo no mejoran la predicción de la trayectoria de conducta adaptativa, cuestionando la dosis como único parámetro relevante."
+resumen_ejecutivo: "No hay fármacos aprobados para síntomas nucleares del TEA. Las intervenciones no farmacológicas (habilidades, comunicación, terapias psicosociales, digitales, ejercicio, etc.) buscan autonomía, comunicación y calidad de vida. La estimulación cerebral no invasiva (tDCS/rTMS) y fármacos experimentales siguen en evaluación; priorizar individualización y etiología. Un estudio de cohorte con machine learning halla que las horas acumuladas de ABA/terapias del desarrollo no mejoran la predicción de la trayectoria de conducta adaptativa, cuestionando la dosis como único parámetro relevante. En robótica terapéutica, una revisión de 304 estudios advierte engagement frecuente pero evidencia aún limitada de beneficios generalizados."
 preguntas_abiertas:
   - "¿Qué paquetes de intervención son costo-efectivos fuera de EE.UU./Europa?"
   - "¿Cuándo combinar oxitocina u otras moléculas con terapia conductual?"
@@ -31,7 +32,7 @@ bibliography: "03-Datos/references.bib"
 # Capítulo 29 — Principios de intervención basada en evidencia
 
 <!-- sync:version-badge -->
-> **v1.6** · conocimiento **7** · actualizado **2026-08-08**
+> **v1.8** · conocimiento **8** · actualizado **2026-08-09**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
@@ -92,9 +93,14 @@ En N=125 jóvenes con variantes raras, el habla alcanza ~87% de uso mientras el 
 
 Datos preliminares vinculan participación terapéutica y ED en sentido complejo (no causal): justifica diseñar EI que mida y aborde regulación emocional ([@saunders2026ed]; [[2026-Saunders-emotion-dysregulation-therapy-participation]]; ver [[Cap-30-Intervencion-temprana]]).
 
+### Robótica terapéutica: engagement ≠ generalización
+
+Una revisión narrativa de **304 estudios** (2001–2024) describe un campo que pasó de sesiones cortas de laboratorio a despliegues más prolongados, con robots que a menudo elicitan engagement y conductas sociales novedosas, pero con evidencia aún limitada de beneficios **duraderos y generalizados**, sesgo hacia infancia y fragmentación interdisciplinar ([@ramnauth2026robots]; [[2026-Ramnauth-robots-autism-therapy]]; ver [[Cap-38-Tecnologia-asistiva]], [[Cap-35-Habilidades-sociales]]). Encaja con el principio de este capítulo: no confundir novedad tecnológica con estándar de cuidado.
+
 ## Referencias citadas
 
 - [@saunders2026ed] — [[2026-Saunders-emotion-dysregulation-therapy-participation]]
+- [@ramnauth2026robots] — [[2026-Ramnauth-robots-autism-therapy]]
 
 - [@benavidez2024] — [[2024-Benavidez-rare-variant-youth-services]]
 

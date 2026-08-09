@@ -13,10 +13,11 @@ fuentes_integradas:
   - "[[2026-AlGhadeer-sleep-disturbances-ASD-Saudi]]"
   - "[[2025-Kariuki-NDD-burden-Kenya]]"
   - "[[2026-Said-nutritional-rickets-ASD]]"
+  - "[[2026-Sithole-caregivers-mental-health-access-South-Africa]]"
 estado: borrador
-ultima_actualizacion: "2026-08-08"
-version: "0.6"
-conocimiento: 6
+ultima_actualizacion: "2026-08-09"
+version: "0.7"
+conocimiento: 7
 resumen_ejecutivo: ""
 preguntas_abiertas: []
 tags:
@@ -26,7 +27,7 @@ tags:
 # Capítulo 55 — Autismo en contextos culturales, raza y acceso equitativo
 
 <!-- sync:version-badge -->
-> **v0.6** · conocimiento **6** · actualizado **2026-08-08**
+> **v0.7** · conocimiento **7** · actualizado **2026-08-09**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
@@ -71,6 +72,11 @@ En zona rural keniana, casi 1 de cada 11 escolares tiene un TND confirmado; el T
 ### Inequidad y nutrición en TEA
 
 Todos los casos de raquitismo severo de Said et al. vivían en el quintil más bajo del Opportunity Index: selectividad × pobreza = daño óseo/metabólico ([@said2026rickets]; [[2026-Said-nutritional-rickets-ASD]]).
+
+### Sudáfrica: barreras de cuidadores al buscar salud mental
+
+En contexto de recursos limitados, las familias describen un circuito diagnóstico y de apoyo fragmentado; el acceso no es solo «disponibilidad de plazas», sino información, apoyo emocional y derivaciones útiles ([@sithole2026care]; [[2026-Sithole-caregivers-mental-health-access-South-Africa]]; ver [[Cap-45-Crianza]]).
+
 
 ## Referencias citadas
 

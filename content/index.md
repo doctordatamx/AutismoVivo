@@ -70,12 +70,12 @@ Si utilizas la información, la estructura o las síntesis de **Libro Vivo: Auti
 | **Última actualización** | 28 de julio de 2026 |
 | **Sitio web** | [doctordatamx.github.io/AutismoVivo](https://doctordatamx.github.io/AutismoVivo/) |
 | **Repositorio** | [github.com/doctordatamx/AutismoVivo](https://github.com/doctordatamx/AutismoVivo) |
-| **Artículos ingeridos** | **192** papers integrados · 2026-08-08 ([[gestion-ingesta]]) |
+| **Artículos ingeridos** | **202** papers integrados · 2026-08-09 ([[gestion-ingesta]]) |
 
 ### Artículos integrados
 
 <!-- sync:ingest-counter -->
-📚 **192** artículos científicos ingeridos e integrados al libro (registro 2026-08-08). Ver [[gestion-ingesta]] · [[Apendice-D-Bibliografia|Bibliografía]].
+📚 **202** artículos científicos ingeridos e integrados al libro (registro 2026-08-09). Ver [[gestion-ingesta]] · [[Apendice-D-Bibliografia|Bibliografía]].
 <!-- /sync:ingest-counter -->
 
 ### Capítulos actualizados recientemente
@@ -83,14 +83,14 @@ Si utilizas la información, la estructura o las síntesis de **Libro Vivo: Auti
 <!-- sync:chapters-recent -->
 | Capítulo | Fecha | Ver. |
 | --- | --- | --- |
-| [[Cap-58-Fronteras-investigacion|Capítulo 58 — Fronteras de investigación y preguntas abiertas]] | 2026-08-08 | 1.12 |
-| [[Cap-55-Contextos-culturales|Capítulo 55 — Autismo en contextos culturales, raza y acceso equitativo]] | 2026-08-08 | 0.6 |
-| [[Cap-54-Genero-diversidad|Capítulo 54 — Autismo, género y diversidad sexual]] | 2026-08-08 | 0.4 |
-| [[Cap-51-Autodefensa-neurodiversidad|Capítulo 51 — Movimiento de autodefensa y neurodiversidad]] | 2026-08-08 | 1.7 |
-| [[Cap-47-Salud-mental|Capítulo 47 — Salud mental: ansiedad, depresión, trauma, suicidio]] | 2026-08-08 | 1.16 |
-| [[Cap-37-Complementarios-pseudociencia|Capítulo 37 — Enfoques complementarios y pseudociencia (qué evitar)]] | 2026-08-08 | 1.3 |
-| [[Cap-31-ABA-controversias|Capítulo 31 — ABA y análisis conductual aplicado: evidencia y controversias]] | 2026-08-08 | 1.3 |
-| [[Cap-30-Intervencion-temprana|Capítulo 30 — Intervención temprana (ESDM, JASPER, modelos naturales)]] | 2026-08-08 | 1.8 |
+| [[Cap-55-Contextos-culturales|Capítulo 55 — Autismo en contextos culturales, raza y acceso equitativo]] | 2026-08-09 | 0.7 |
+| [[Cap-47-Salud-mental|Capítulo 47 — Salud mental: ansiedad, depresión, trauma, suicidio]] | 2026-08-09 | 1.19 |
+| [[Cap-45-Crianza|Capítulo 45 — Crianza de niños autistas: estrategias basadas en evidencia]] | 2026-08-09 | 1.4 |
+| [[Cap-38-Tecnologia-asistiva|Capítulo 38 — Tecnología asistiva, apps y herramientas digitales]] | 2026-08-09 | 1.5 |
+| [[Cap-35-Habilidades-sociales|Capítulo 35 — Habilidades sociales: enfoques actuales y críticas]] | 2026-08-09 | 1.4 |
+| [[Cap-33-Terapia-ocupacional|Capítulo 33 — Terapia ocupacional e integración sensorial]] | 2026-08-09 | 1.3 |
+| [[Cap-32-Terapia-lenguaje-CAA|Capítulo 32 — Terapia del lenguaje y comunicación aumentativa (CAA)]] | 2026-08-09 | 1.7 |
+| [[Cap-30-Intervencion-temprana|Capítulo 30 — Intervención temprana (ESDM, JASPER, modelos naturales)]] | 2026-08-09 | 1.10 |
 <!-- /sync:chapters-recent -->
 
 ---
@@ -123,4 +123,5 @@ El *Libro Vivo sobre Autismo* es de acceso abierto. Si te es útil, puedes apoya
 - [[Apendice-A-Glosario|Glosario]]
 - [[Apendice-D-Bibliografia|Bibliografía]]
 - [[Apendice-E-Changelog|Historial de actualizaciones]]
+- [[Apendice-F-Autores|Corpus de autores]]
 - [[Donaciones|Cómo apoyar]]

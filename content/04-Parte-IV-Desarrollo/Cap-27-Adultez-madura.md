@@ -6,15 +6,16 @@ titulo: "Adultez madura y envejecimiento"
 dg-publish: false
 dg-home: false
 dg-permalink: /capitulos/adultez-madura
-ultima_actualizacion: "2026-08-07"
-version: "1.3"
-conocimiento: 5
+ultima_actualizacion: "2026-08-09"
+version: "1.4"
+conocimiento: 6
 fuentes_integradas:
   - "[[2025-Chang-autism-dementia-family-sweden]]"
   - "[[2026-Dickinson-aging-autism-systematic-review]]"
   - "[[2025-Blok-late-diagnosis-older-adults]]"
   - "[[2026-Cremer-age-diagnosis-life-satisfaction]]"
   - "[[2025-Charlton-menopause-autism-depression-anxiety]]"
+  - "[[2026-Knudsen-glymphatic-ALPS-autism-ABIDE]]"
 estado: borrador
 resumen_ejecutivo: "Una revisión sistemática de 56 estudios no halla evidencia de deterioro cognitivo generalizado ni acelerado en adultos autistas que envejecen, aunque sí quejas cognitivas subjetivas elevadas y vulnerabilidades focalizadas (sustancia blanca, salud cardiovascular). Un estudio familiar sueco muestra mayor riesgo de demencia en padres (no necesariamente en las personas autistas mismas), sugiriendo co-agregación genética familiar."
 preguntas_abiertas:
@@ -26,7 +27,7 @@ tags:
 # Capítulo 27 — Adultez madura y envejecimiento
 
 <!-- sync:version-badge -->
-> **v1.3** · conocimiento **5** · actualizado **2026-08-07**
+> **v1.4** · conocimiento **6** · actualizado **2026-08-09**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
@@ -79,6 +80,11 @@ Narrativas de adultos de 60–77 años con diagnóstico tardío muestran que la 
 ### Edad de diagnóstico y satisfacción vital adulta
 
 En N=769 adultos, el diagnóstico en la infancia temprana se asocia a mayor satisfacción vital adulta: el timing del reconocimiento importa para trayectorias de bienestar, no solo para acceso escolar inmediato. ([@cremer2026]; [[2026-Cremer-age-diagnosis-life-satisfaction]]).
+
+### Glinfática: señal más clara en la adultez
+
+La diferencia ASD–NT en índice ALPS aparece sobre todo desde los 18 años, compatible con una trayectoria de alteración de clearance perivascular que se hace visible en adultez ([@knudsen2026glymph]; [[2026-Knudsen-glymphatic-ALPS-autism-ABIDE]]; ver [[Cap-06-Neurobiologia]]).
+
 
 ## Referencias citadas
 

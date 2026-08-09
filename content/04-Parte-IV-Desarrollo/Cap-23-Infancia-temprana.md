@@ -6,19 +6,21 @@ titulo: "Infancia temprana (0–5 años)"
 dg-publish: false
 dg-home: false
 dg-permalink: /capitulos/infancia-temprana
-ultima_actualizacion: "2026-08-08"
-version: "1.5"
-conocimiento: 5
+ultima_actualizacion: "2026-08-09"
+version: "1.7"
+conocimiento: 6
 fuentes_integradas:
   - "[[2026-Wenzell-insomnia-young-children-ASD]]"
   - "[[2025-Golden-cognitive-Bayley-ASD-persistence]]"
   - "[[2026-AlGhadeer-sleep-disturbances-ASD-Saudi]]"
   - "[[2025-Hendry-ADHD-family-history-problem-solving]]"
   - "[[2026-Glass-neonatal-seizures-outcomes-5-6y]]"
+  - "[[2026-Kemp-AquOTic-water-competency-protocol]]"
 
 estado: borrador
-resumen_ejecutivo: ""
-preguntas_abiertas: []
+resumen_ejecutivo: "La infancia temprana concentra sueño disruptivo, trayectorias cognitivas heterogéneas y riesgos de seguridad poco visibles (p. ej. ahogamiento). Un protocolo de ECA (AquOTic) busca mejorar competencia acuática mediante TO en niños de 5–9 años; resultados pendientes."
+preguntas_abiertas:
+  - "¿Cómo incorporar seguridad acuática en la agenda rutinaria de pediatría y TO sin medicalizar el juego?"
 tags:
   - tea/capitulo
 ---
@@ -26,7 +28,7 @@ tags:
 # Capítulo 23 — Infancia temprana (0–5 años)
 
 <!-- sync:version-badge -->
-> **v1.5** · conocimiento **5** · actualizado **2026-08-08**
+> **v1.7** · conocimiento **6** · actualizado **2026-08-09**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
@@ -72,7 +74,13 @@ Toddlers con historia familiar de TDAH muestran mejor resolución de problemas e
 
 A los 5–6 años, una minoría sustancial muestra TEA/TDAH además de epilepsia/PC ([@glass2026neonatal]; [[2026-Glass-neonatal-seizures-outcomes-5-6y]]; ver [[Cap-07-Comorbilidades]]).
 
+### Seguridad acuática: un riesgo infravalorado
+
+El ahogamiento es causa líder de muerte no intencional en niños en el espectro. El protocolo AquOTic (ECA híbrido, 5–9 años) evalúa una intervención de TO para competencia acuática en comunidad; aún sin resultados de eficacia publicados ([@kemp2026aquotic]; [[2026-Kemp-AquOTic-water-competency-protocol]]; ver [[Cap-33-Terapia-ocupacional]]).
+
 ## Referencias citadas
+
+- [@kemp2026aquotic] — [[2026-Kemp-AquOTic-water-competency-protocol]]
 
 - [@glass2026neonatal] — [[2026-Glass-neonatal-seizures-outcomes-5-6y]]
 

@@ -11,7 +11,7 @@ tags:
 
 Resúmenes de artículos ingeridos. Los wikilinks `[[YYYY-Autor-slug]]` desde los capítulos apuntan aquí en el sitio publicado.
 
-**Total:** 192 fichas · regenerar con `python3 scripts/prepare_publish.py`
+**Total:** 202 fichas · regenerar con `python3 scripts/prepare_publish.py`
 
 | Fuente | Autor | Año | Estado |
 | --- | --- | --- | --- |
@@ -29,6 +29,7 @@ Resúmenes de artículos ingeridos. Los wikilinks `[[YYYY-Autor-slug]]` desde lo
 | [[2026-Tavassoli-sensory-reactivity-review|tavassoli2026]] | Teresa Tavassoli; Elysa J. Marco; Nick P | 2026 | integrado |
 | [[2026-Szakal-Crespi-extreme-male-brain-females|szakal2026]] | Cory Szakal; Bernard Crespi | 2026 | integrado |
 | [[2026-Sotosgracia-camouflaging-ASD-BPD-women|sotosgracia2026]] | Raquel Sotos Gracia; Patricia López Resa | 2026 | integrado |
+| [[2026-Sithole-caregivers-mental-health-access-South-Africa|sithole2026care]] | Bathokozile M Sithole; Keabetswe Mogase; | 2026 | integrado |
 | [[2026-Singh-intersectional-stigma-Black-caregivers|singh2026]] | Jennifer S. Singh; Jennifer Nicholas | 2026 | integrado |
 | [[2026-Semelidou-tactile-perception-cognition-fmr1|semelidou2026]] | Ourania Semelidou; Mathilde Tortochot-Me | 2026 | integrado |
 | [[2026-Schachar-ADHD-genetics-practitioner|schachar2026adhdgen]] | Russell Schachar; Jennifer Crosbie; Paul | 2026 | integrado |
@@ -36,8 +37,10 @@ Resúmenes de artículos ingeridos. Los wikilinks `[[YYYY-Autor-slug]]` desde lo
 | [[2026-Samanta-SYNGAP1-pathophysiology-therapeutics|samanta2026syngap]] | Debopam Samanta | 2026 | integrado |
 | [[2026-Samanta-SLC6A1-NDD-scoping|samanta2026slc6a1]] | Debopam Samanta | 2026 | integrado |
 | [[2026-Said-nutritional-rickets-ASD|said2026rickets]] | Mohamed Said; Alexandra Falkenberg; Leil | 2026 | integrado |
+| [[2026-Sabbah-sensory-feeding-pica-sleep-Palestine|sabbah2026feed]] | Suheir Sabbah; Sana M Namoura; Hamzeh Ya | 2026 | integrado |
 | [[2026-Romanos-Sirakis-spectrum-reflection|romanossirakis2026]] | Eleny Romanos-Sirakis | 2026 | integrado |
 | [[2026-Ranjabaran-SSL-multi-brain-EEG|ranjabaran2026]] | Ghazaleh Ranjabaran; Quentin Moreau; Adr | 2026 | integrado |
+| [[2026-Ramnauth-robots-autism-therapy|ramnauth2026robots]] | Rebecca Ramnauth; Frederick Shic; Brian  | 2026 | integrado |
 | [[2026-Rajasingham-forceps-vacuum-SSCD-outcomes|rajasingham2026forceps]] | Maya Rajasingham; Sarka Lisonkova; Neda  | 2026 | integrado |
 | [[2026-Procyshyn-suicidal-thoughts-autistic-youth-app|procyshyn2026app]] | T. L. Procyshyn; E. M. Weir; M. Pelton;  | 2026 | integrado |
 | [[2026-Pellegrini-OCD-ASD-comorbidity-fingerprints|pellegrini2026ocd]] | Luca Pellegrini; Gabriele Di Salvo; Gian | 2026 | integrado |
@@ -45,6 +48,7 @@ Resúmenes de artículos ingeridos. Los wikilinks `[[YYYY-Autor-slug]]` desde lo
 | [[2026-Ozek-autistic-traits-thought-action-fusion-ocd|ozek2026]] | Vasfiye Ozek; Doga Sevincok; Levent Sevi | 2026 | integrado |
 | [[2026-Nosova-autistic-adults-views-early-intervention|nosova2026]] | Elizaveta Nosova; Alexandra Sturrock; Ne | 2026 | integrado |
 | [[2026-Marsicano-causality-judgment-autism-schizotypy|marsicano2026causal]] | Gianluca Marsicano; Michele Deodato; Dav | 2026 | integrado |
+| [[2026-Marmontel-spliceosomal-transcriptome-ASD-BD|marmontel2026splice]] | Pedro Marmontel; Francisco Diego Rabelo- | 2026 | integrado |
 | [[2026-Mao-past-diseases-persistent-learning-disability|mao2026pld]] | Song Mao; Liangxia Wu | 2026 | integrado |
 | [[2026-Ma-Shank3-oligodendrocyte-erk|ma2026shank3]] | Yuhua Ma; Helen Friedericke Bauer; Juerg | 2026 | integrado |
 | [[2026-Luyster-curiosity-creativity-autism|luyster2026]] | Rhiannon Luyster; Kyle Greene-Pendelton; | 2026 | integrado |
@@ -53,6 +57,8 @@ Resúmenes de artículos ingeridos. Los wikilinks `[[YYYY-Autor-slug]]` desde lo
 | [[2026-Lin-irritability-autistic-adults|lin2026irrit]] | Hsiang-Yuan Lin; Arthur N. Westover; Amy | 2026 | integrado |
 | [[2026-Liang-functional-tic-like-behaviours-autism|liang2026]] | Holan Liang; Chelsea Wu; Morvwen Duncan; | 2026 | integrado |
 | [[2026-Kolisnyk-sensory-phenotypes-connectome-ML|kolisnyk2026]] | Matthew Kolisnyk; Kathleen Lyons; Eun Ju | 2026 | integrado |
+| [[2026-Knudsen-glymphatic-ALPS-autism-ABIDE|knudsen2026glymph]] | Laust Vind Knudsen; Manouchehr Seyedi Va | 2026 | integrado |
+| [[2026-Kemp-AquOTic-water-competency-protocol|kemp2026aquotic]] | Erika Kemp; Lisa Juckett; Isabella O San | 2026 | integrado |
 | [[2026-Jans-chromatinopathies-immunology-scoping|jans2026chromatin]] | Dieke Jans; Burcu Al; Arianne Bouman; et | 2026 | integrado |
 | [[2026-Huang-gaba-arbaclofen-network-pac|huang2026]] | Qiyun Huang; Di Chen; Andreia C. Pereira | 2026 | integrado |
 | [[2026-Han-behavioral-network-comorbidity|han2026]] | Gloria T. Han; Shashwat Kala; Adam Naple | 2026 | integrado |
@@ -72,9 +78,12 @@ Resúmenes de artículos ingeridos. Los wikilinks `[[YYYY-Autor-slug]]` desde lo
 | [[2026-Chang-MCHAT-neurodevelopmental-scales|chang2026mchat]] | Haixia Chang; Yali Liu; Jinfang Lv; Qin  | 2026 | integrado |
 | [[2026-Chahrour-hidden-genetic-architecture|chahrour2026]] | Maria H. Chahrour | 2026 | integrado |
 | [[2026-Castellon-bilingualism-myth-multilingual|castellon2026]] | Fernanda A. Castellón; Laura R. Gómez; T | 2026 | integrado |
+| [[2026-Bussies-oxytocin-Pten-GxE-mice|bussies2026oxy]] | Parker L Bussies; Zhibing Tan; John Shel | 2026 | integrado |
 | [[2026-Brennan-circadian-family-synchronisation-scoping|brennan2026]] | Aoife Brennan; Cathy Wyse; Mailton Vasco | 2026 | integrado |
 | [[2026-Ben-Artzi-credit-assignment-irrelevant-features|benartzi2026]] | Ido Ben-Artzi; Liron Rozenkrantz; Nitzan | 2026 | integrado |
+| [[2026-Beccaria-language-profiles-verbal-speaking-generativity|beccaria2026lang]] | Federica Beccaria; Liesl Leenen; Marie K | 2026 | integrado |
 | [[2026-Bazelmans-infant-ERP-early-later-diagnosis|bazelmans2026erp]] | Tessel Bazelmans; Tony Charman; Mark H.  | 2026 | integrado |
+| [[2026-Bayer-special-interests-autism|bayer2026si]] | Mareike Bayer; Isabel Dziobek | 2026 | integrado |
 | [[2026-Bailey-agitation-sensory-cerumen-nonverbal|bailey2026]] | Logan Bailey; Justin David Tse; Amitesh  | 2026 | integrado |
 | [[2026-Anderson-STAT3-NFkB-melatonergic-ASD|anderson2026]] | George Anderson | 2026 | integrado |
 | [[2026-Allwsh-soluble-alpha-klotho-ASD-biomarker|allwsh2026klotho]] | Thikra A. Allwsh; Dezheen S. Kucher | 2026 | integrado |
@@ -92,6 +101,7 @@ Resúmenes de artículos ingeridos. Los wikilinks `[[YYYY-Autor-slug]]` desde lo
 | [[2025-van-der-Schaaf-maternal-asthma-autism-meta|vanderschaf2025]] | Renee van der Schaaf; Vanessa E. Murphy; | 2025-06 | integrado |
 | [[2025-Wills-psychosocial-impacts-autism-genetic-testing|wills2025]] | Ben Curran Wills; Margaret M. Matthews;  | 2025-06 | integrado |
 | [[2025-Kim-An-precision-diagnosis-genomics|kim2025]] | Soo-Whee Kim; Joon-Yong An | 2025-06 | integrado |
+| [[2026-Herman-TSC-tuber-cerebellar-network-ADOS|herman2026tsc]] | Wendy Xiao Herman; Gillian N Miller; Mus | 2025 | integrado |
 | [[2025-de-Wit-community-perspectives-autism-genetics|dewit2025]] | Melanie M de Wit; Janneke R Zinkstok; Ri | 2025 | integrado |
 | [[2025-Ziegler-DAN-PACT-protocol|ziegler2025]] | Malene Ziegler; et al. | 2025 | integrado |
 | [[2025-Zhu-China-diagnosis-delay|zhu2025delay]] | Feng-Lei Zhu; Yue Ji; Lu Wang; Min Xu; X | 2025 | integrado |

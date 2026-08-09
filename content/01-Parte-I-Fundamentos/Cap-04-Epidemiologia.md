@@ -30,10 +30,11 @@ fuentes_integradas:
   - "[[2025-Ma-15q11-q13-microduplication-prenatal]]"
   - "[[2026-Rajasingham-forceps-vacuum-SSCD-outcomes]]"
   - "[[2026-Mao-past-diseases-persistent-learning-disability]]"
+  - "[[2026-Bussies-oxytocin-Pten-GxE-mice]]"
 estado: revision
-ultima_actualizacion: "2026-08-08"
-version: "2.12"
-conocimiento: 23
+ultima_actualizacion: "2026-08-09"
+version: "2.14"
+conocimiento: 24
 autor_libro: "Dr. Fernando Avalos Reyes"
 resumen_ejecutivo: "La prevalencia reportada del TEA sigue subiendo. Estimaciones globales ~1/100 niños; ADDM EE.UU. 2020 ~1/36. Ratio H:M ~3,8–4:1 (variable por país/CI; subdiagnóstico femenino). Factores ambientales prenatales (p. ej. asma materna OR≈1,3) aportan riesgo poblacional modesto junto a genética."
 preguntas_abiertas:
@@ -47,7 +48,7 @@ bibliography: "03-Datos/references.bib"
 # Capítulo 04 — Epidemiología: prevalencia, tendencias, sesgos de medición
 
 <!-- sync:version-badge -->
-> **v2.12** · conocimiento **23** · actualizado **2026-08-08**
+> **v2.14** · conocimiento **24** · actualizado **2026-08-09**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
@@ -127,6 +128,8 @@ En países de renta alta se describió durante décadas una asociación entre **
 ### Factores perinatales: cómo la confusión infla las asociaciones
 
 La epidemiología de factores tempranos está poblada de asociaciones crudas que se desvanecen al ajustar. Una cohorte sueca de **1 669 830** personas nacidas entre 1992 y 2010 encontró inicialmente que la ictericia neonatal se asociaba a autismo (HR **1,48**; IC95% 1,37-1,60), pero tras ajustar por edad gestacional, peso al nacer y el resto de covariables perinatales la asociación **se anuló** (HR **1,02**; IC95% 0,93-1,12) ([@kanina2025]; [[2025-Kanina-neonatal-jaundice-autism-sweden]]). El confusor dominante fue la **prematuridad**: no todos los confusores relevantes son genéticos o familiares (ver [[Cap-05-Etiologia]]).
+
+La oxitocina sintética (inducción/aumentación) es de uso obstétrico muy frecuente; datos murinos de GxE (*Pten* × oxitocina perinatal) advierten efectos epigenéticos y conductuales **dependientes del genotipo**, no un riesgo poblacional uniforme demostrable en humanos a partir de ese modelo ([@bussies2026oxy]; [[2026-Bussies-oxytocin-Pten-GxE-mice]]; ver [[Cap-05-Etiologia]], [[Cap-06-Neurobiologia]]).
 
 ### Cannabis y tabaco en el embarazo: un nulo y un positivo
 

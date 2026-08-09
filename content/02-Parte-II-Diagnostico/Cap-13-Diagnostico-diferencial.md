@@ -6,18 +6,20 @@ titulo: "Diagnóstico diferencial y condiciones relacionadas"
 dg-publish: false
 dg-home: false
 dg-permalink: /capitulos/diagnostico-diferencial
-ultima_actualizacion: "2026-08-08"
-version: "1.5"
-conocimiento: 5
+ultima_actualizacion: "2026-08-09"
+version: "1.7"
+conocimiento: 6
 fuentes_integradas:
   - "[[2026-Pellegrini-OCD-ASD-comorbidity-fingerprints]]"
   - "[[2026-Figueiredo-ASD-personality-disorders]]"
   - "[[2025-Jiang-GDD-ID-genetic-risk-nomogram]]"
   - "[[2024-Karadag-CTX-prevalence-ASD]]"
   - "[[2026-Jans-chromatinopathies-immunology-scoping]]"
+  - "[[2026-Marmontel-spliceosomal-transcriptome-ASD-BD]]"
 estado: borrador
-resumen_ejecutivo: ""
-preguntas_abiertas: []
+resumen_ejecutivo: "El diferencial del TEA incluye TOC, trastornos de personalidad, DI/GDD, metabolopatías tratables (p. ej. CTX) y síndromes con inmunología. A nivel molecular post mortem, las firmas de PFC en TEA y trastorno bipolar divergen (espliceosoma vs inflamación/vascular), sin confundirse con el diferencial clínico cotidiano."
+preguntas_abiertas:
+  - "¿Qué paneles clínicos priorizar cuando TEA y TB se solapan en la misma persona?"
 tags:
   - tea/capitulo
 ---
@@ -25,7 +27,7 @@ tags:
 # Capítulo 13 — Diagnóstico diferencial y condiciones relacionadas
 
 <!-- sync:version-badge -->
-> **v1.5** · conocimiento **5** · actualizado **2026-08-08**
+> **v1.7** · conocimiento **6** · actualizado **2026-08-09**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
@@ -71,7 +73,13 @@ En 101 pacientes con TEA, 4 tenían variantes *CYP27A1*; CTX es raro pero tratab
 
 Las cromatínopatías combinan neurodesarrollo e inmunopatología clínica ([@jans2026chromatin]; [[2026-Jans-chromatinopathies-immunology-scoping]]).
 
+### TEA frente a trastorno bipolar: divergencia transcriptómica (PFC)
+
+En tejido prefrontal post mortem, las firmas de expresión génica de TEA y trastorno bipolar **no compartieron** DEG ni procesos biológicos enriquecidos: TEA se asoció a disrupción espliceosomal/ARN no codificante y TB a respuesta a iones, vasculatura e inflamación ([@marmontel2026splice]; [[2026-Marmontel-spliceosomal-transcriptome-ASD-BD]]; ver [[Cap-06-Neurobiologia]]). No sustituye el diferencial clínico —la comorbilidad y el solapamiento fenotípico existen—, pero advierte contra asumir continuidad molecular simple entre ambas etiquetas.
+
 ## Referencias citadas
+
+- [@marmontel2026splice] — [[2026-Marmontel-spliceosomal-transcriptome-ASD-BD]]
 
 - [@jans2026chromatin] — [[2026-Jans-chromatinopathies-immunology-scoping]]
 

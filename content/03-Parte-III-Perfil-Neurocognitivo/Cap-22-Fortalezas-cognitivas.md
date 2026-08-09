@@ -6,9 +6,9 @@ titulo: "Fortalezas cognitivas, talentos y ventajas"
 dg-publish: false
 dg-home: false
 dg-permalink: /capitulos/fortalezas-cognitivas
-ultima_actualizacion: "2026-08-08"
-version: "1.5"
-conocimiento: 6
+ultima_actualizacion: "2026-08-09"
+version: "1.7"
+conocimiento: 7
 fuentes_integradas:
   - "[[2026-Luyster-curiosity-creativity-autism]]"
   - "[[2026-Ben-Artzi-credit-assignment-irrelevant-features]]"
@@ -16,8 +16,9 @@ fuentes_integradas:
   - "[[2025-McGugin-laminar-FFA-thickness]]"
   - "[[2025-Hendry-ADHD-family-history-problem-solving]]"
   - "[[2025-Liu-multimodal-metaphors-neural]]"
+  - "[[2026-Bayer-special-interests-autism]]"
 estado: borrador
-resumen_ejecutivo: "Un artículo teórico cuestiona los supuestos de que curiosidad y creatividad están disminuidas o son simplemente 'diferentes' en autismo, proponiendo reencuadrar conductas restringidas/repetitivas (exploración sensorial, uso no convencional de objetos, intereses intensos) como posibles expresiones no reconocidas de estas capacidades."
+resumen_ejecutivo: "Un artículo teórico cuestiona los supuestos de que curiosidad y creatividad están disminuidas o son simplemente 'diferentes' en autismo, proponiendo reencuadrar conductas restringidas/repetitivas (exploración sensorial, uso no convencional de objetos, intereses intensos) como posibles expresiones no reconocidas de estas capacidades. Datos de adultos confirman que los intereses especiales aportan regulación emocional y aprendizaje, aunque con mayor estigma."
 preguntas_abiertas:
   - "¿Qué instrumentos de medición de curiosidad/creatividad son válidos y no sesgados para personas autistas, incluyendo perfiles con discapacidad intelectual?"
 tags:
@@ -28,7 +29,7 @@ bibliography: "03-Datos/references.bib"
 # Capítulo 22 — Fortalezas cognitivas, talentos y ventajas
 
 <!-- sync:version-badge -->
-> **v1.5** · conocimiento **6** · actualizado **2026-08-08**
+> **v1.7** · conocimiento **7** · actualizado **2026-08-09**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
@@ -43,7 +44,7 @@ Las fortalezas cognitivas en autismo suelen documentarse en dominios como memori
 
 ### Curiosidad y creatividad: reencuadrando las conductas restringidas/repetitivas
 
-Luyster, Greene-Pendelton y Arunachalam revisan la evidencia sobre desarrollo típico de curiosidad y creatividad y su medición, argumentando que los instrumentos estándar pueden subestimar o malinterpretar estas capacidades en personas autistas. Proponen reencuadrar comportamientos como la exploración sensorial, el uso no convencional de objetos y los intereses intensos —habitualmente patologizados como conductas restringidas y repetitivas— como posibles expresiones de "curiosidad sensorial" o "curiosidad investigativa" y de creatividad, en lugar de patologizarlos por defecto. Citan evidencia de que adolescentes autistas muestran fortaleza relativa en pensamiento **convergente** sobre divergente (inverso al énfasis habitual de las pruebas de creatividad) y que niños autistas pueden superar a sus pares neurotípicos en creatividad matemática, subrayando fortalezas específicas de dominio ([@luyster2026]; [[2026-Luyster-curiosity-creativity-autism]]).
+Luyster, Greene-Pendelton y Arunachalam revisan la evidencia sobre desarrollo típico de curiosidad y creatividad y su medición, argumentando que los instrumentos estándar pueden subestimar o malinterpretar estas capacidades en personas autistas. Proponen reencuadrar comportamientos como la exploración sensorial, el uso no convencional de objetos y los intereses intensos —habitualmente patologizados como conductas restringidas y repetitivas— como posibles expresiones de "curiosidad sensorial" o "curiosidad investigativa" y de creatividad, en lugar de patologizarlos por defecto. Citan evidencia de que adolescentes autistas muestran fortaleza relativa en pensamiento **convergente** sobre divergente (inverso al énfasis habitual de las pruebas de creatividad) y que niños autistas pueden superar a sus pares neurotípicos en creatividad matemática, subrayando fortalezas específicas de dominio ([@luyster2026]; [[2026-Luyster-curiosity-creativity-autism]]). En la misma línea, adultos autistas reportan que sus intereses especiales son fuente de aprendizaje, conocimiento y regulación emocional —más que en adultos no autistas—, aunque también de estigma ([@bayer2026si]; [[2026-Bayer-special-interests-autism]]; ver [[Cap-17-Intereses-rutinas]]).
 
 ### Resistencia a sesgos de decisión
 
@@ -98,6 +99,7 @@ En TEA, la reconstrucción semántica multimodal es una vía de apoyo comunicati
 - [@benartzi2026] — [[2026-Ben-Artzi-credit-assignment-irrelevant-features]]
 - [@gagnon2025] — [[2025-Gagnon-unexpected-bilingualism-minimally-verbal]]
 - [@luyster2026] — [[2026-Luyster-curiosity-creativity-autism]]
+- [@bayer2026si] — [[2026-Bayer-special-interests-autism]]
 
 ## Enlaces relacionados
 

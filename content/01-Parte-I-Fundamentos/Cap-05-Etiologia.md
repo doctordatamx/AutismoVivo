@@ -53,10 +53,12 @@ fuentes_integradas:
   - "[[2026-Jans-chromatinopathies-immunology-scoping]]"
   - "[[2026-Rajasingham-forceps-vacuum-SSCD-outcomes]]"
   - "[[2026-Schachar-ADHD-genetics-practitioner]]"
+  - "[[2026-Bussies-oxytocin-Pten-GxE-mice]]"
+  - "[[2026-Marmontel-spliceosomal-transcriptome-ASD-BD]]"
 estado: revision
-ultima_actualizacion: "2026-08-08"
-version: "2.22"
-conocimiento: 46
+ultima_actualizacion: "2026-08-09"
+version: "2.25"
+conocimiento: 48
 resumen_ejecutivo: "El TEA es altamente heredable. Convergen variantes raras y poligénicas; muchas actúan en la sinapsis y en el ENS. Ambiente prenatal (hormonas, MIA, asma materna OR≈1,3) converge en inmune–sinapsis–gut. Pruebas genéticas y terapias en síndromes/subtipos están en traslación."
 preguntas_abiertas:
   - "¿Cómo reconciliar heredabilidad alta con aumento de prevalencia y factores ambientales?"
@@ -71,7 +73,7 @@ bibliography: "03-Datos/references.bib"
 # Capítulo 05 — Etiología: genética, epigenética, factores ambientales
 
 <!-- sync:version-badge -->
-> **v2.22** · conocimiento **46** · actualizado **2026-08-08**
+> **v2.25** · conocimiento **48** · actualizado **2026-08-09**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
@@ -243,6 +245,8 @@ Individuos con TEA pueden tolerar peor la misma experiencia perinatal que sus he
 
 Los estudios humanos de GxE aún son escasos y de baja potencia; cohortes prospectivas (National Children’s Study, Autism Birth Cohort) se impulsaron para cubrir esta laguna ([@chaste2012]).
 
+En modelo murino, la exposición perinatal a **oxitocina sintética** (análogo de inducción/aumentación del trabajo de parto) interactúa con haploinsuficiencia de *Pten*: remodela de forma **opuesta** la metilación de *Oxtr* en corteza frontal e hipocampo según el genotipo, eleva expresión hipotalámica de oxitocina y produce efectos conductuales modestos y contexto-dependientes (más ansiedad y mejor memoria social en mutantes *Pten*; menor preferencia por novedad social en WT) ([@bussies2026oxy]; [[2026-Bussies-oxytocin-Pten-GxE-mice]]; ver [[Cap-06-Neurobiologia]]). El mensaje no es «Pitocin causa autismo», sino que la susceptibilidad genética puede **recalibrar** la respuesta epigenética a una señal hormonal temprana — y que no cabe esperar efectos uniformemente beneficiosos ni dañinos.
+
 ### Marcos conceptuales alternativos: evolución y neurodiversidad
 
 Más allá del modelo gen–ambiente clásico, dos propuestas teóricas recientes buscan reencuadrar el origen del autismo. Mottron et al. proponen las **bifurcaciones de desarrollo asimétricas (ADB)**: el autismo prototípico surgiría como una de dos "ramas" estables de un sistema polarizado en un período crítico breve del desarrollo —análogo a la gemelaridad, la presentación de nalgas o la lateralidad zurda— sin requerir un modelo de enfermedad ([@mottron2025]; [[2025-Mottron-asymmetric-developmental-bifurcations]]). En paralelo, Hunt et al. desarrollan **DCIDE**, un marco de cinco criterios para evaluar rigurosamente hipótesis evolutivas; al aplicarlo al autismo, favorecen explicaciones de **nicho ecológico y sistematización** sobre la hipótesis de "subproducto de la inteligencia general", y estiman que solo **~5–20%** de los casos corresponderían a formas no-adaptativas (mutaciones de novo, disrupción del desarrollo) ([@hunt2025]; [[2025-Hunt-DCIDE-evolutionary-autism]]). Ambos marcos son conceptuales —no evidencia empírica primaria— pero ofrecen alternativas al modelo puramente deficitario sin negar el costo adaptativo que el autismo puede implicar para algunos individuos.
@@ -400,8 +404,14 @@ El modo de parto asistido no se asocia a TEA tras ajuste; sí a otros TND ([@raj
 
 Guía práctica: heredabilidad alta, arquitectura poligénica + CNVs raras; no determinismo monogénico habitual ([@schachar2026adhdgen]; [[2026-Schachar-ADHD-genetics-practitioner]]).
 
+### Transcriptoma PFC: firma espliceosomal en TEA (vs bipolar)
+
+En corteza prefrontal post mortem, un análisis comparativo halló **45 genes diferencialmente expresados** en TEA —sobre todo ARNs no codificantes (snRNA/snoRNA) regulados a la baja, con enriquecimiento en procesamiento de ARN y ensamblaje del **espliceosoma**— frente a un perfil distinto en trastorno bipolar (iones metálicos, regulación vascular, inflamación) y **sin DEG compartidos** entre ambas condiciones ([@marmontel2026splice]; [[2026-Marmontel-spliceosomal-transcriptome-ASD-BD]]; ver [[Cap-06-Neurobiologia]], [[Cap-13-Diagnostico-diferencial]]). Es un marco molecular de divergencia, no un biomarcador clínico.
+
 ## Referencias citadas en este capítulo
 
+- [@marmontel2026splice] — [[2026-Marmontel-spliceosomal-transcriptome-ASD-BD]]
+- [@bussies2026oxy] — [[2026-Bussies-oxytocin-Pten-GxE-mice]]
 - [@schachar2026adhdgen] — [[2026-Schachar-ADHD-genetics-practitioner]]
 
 - [@rajasingham2026forceps] — [[2026-Rajasingham-forceps-vacuum-SSCD-outcomes]]

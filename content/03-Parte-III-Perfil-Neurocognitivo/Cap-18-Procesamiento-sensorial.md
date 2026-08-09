@@ -6,9 +6,9 @@ titulo: "Procesamiento sensorial (hipo/hiper/búsqueda sensorial)"
 dg-publish: false
 dg-home: false
 dg-permalink: /capitulos/procesamiento-sensorial
-ultima_actualizacion: "2026-08-08"
-version: "1.9"
-conocimiento: 20
+ultima_actualizacion: "2026-08-09"
+version: "1.10"
+conocimiento: 21
 fuentes_integradas:
   - "[[2025-Seelemeyer-decomposing-brain-domains-LEAP]]"
   - "[[2025-Bai-biological-motion-systematic-review]]"
@@ -30,6 +30,7 @@ fuentes_integradas:
   - "[[2025-Sarnataro-food-selectivity-adaptive-behavior-ASD]]"
   - "[[2026-Said-nutritional-rickets-ASD]]"
   - "[[2025-Smith-PMS-sensory-processing-EEG]]"
+  - "[[2026-Sabbah-sensory-feeding-pica-sleep-Palestine]]"
 estado: borrador
 resumen_ejecutivo: "El procesamiento sensorial atípico (ASP) tiene correlatos corticales dimensionales propios (LEAP), distintos de los de comunicación social o RRB. La percepción de movimiento biológico muestra dificultades concentradas en identificación/interpretación más que en detección básica. En interocepción, el diagnóstico de autismo se asocia específicamente con evaluación afectiva más negativa de las señales corporales, no con menor accuracy o atención."
 preguntas_abiertas:
@@ -44,7 +45,7 @@ bibliography: "03-Datos/references.bib"
 # Capítulo 18 — Procesamiento sensorial (hipo/hiper/búsqueda sensorial)
 
 <!-- sync:version-badge -->
-> **v1.9** · conocimiento **20** · actualizado **2026-08-08**
+> **v1.10** · conocimiento **21** · actualizado **2026-08-09**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
@@ -160,6 +161,11 @@ Serie de 11 niños/adolescentes autistas con 25-OH-D <10 ng/mL (todos en el quin
 ### EEG sensorial en Phelan-McDermid
 
 P50/N1/P2 alterados y peor phase-locking; mayor deleción → más alteración auditiva ([@smith2025pms]; [[2025-Smith-PMS-sensory-processing-EEG]]).
+
+### Alimentación sensorial y pica-related (contexto palestino)
+
+Cuidadores en Cisjordania reportan niveles moderados de dificultades de alimentación sensorial y conductas tipo pica, correlacionadas con peor sueño; no equivale a diagnóstico clínico de pica, pero sí a prioridad de cribado ([@sabbah2026feed]; [[2026-Sabbah-sensory-feeding-pica-sleep-Palestine]]; ver [[Cap-17-Intereses-rutinas]], [[Cap-07-Comorbilidades]]).
+
 
 ## Referencias citadas
 

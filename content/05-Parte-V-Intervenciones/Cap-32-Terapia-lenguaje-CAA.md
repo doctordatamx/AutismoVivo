@@ -15,10 +15,11 @@ fuentes_integradas:
   - "[[2026-Castellon-bilingualism-myth-multilingual]]"
   - "[[2025-Leung-neurodiversity-bilingual-EDI]]"
   - "[[2025-Silva-remote-family-guidance-communication]]"
+  - "[[2026-Beccaria-language-profiles-verbal-speaking-generativity]]"
 estado: revision
-ultima_actualizacion: "2026-08-06"
-version: "1.6"
-conocimiento: 8
+ultima_actualizacion: "2026-08-09"
+version: "1.7"
+conocimiento: 9
 resumen_ejecutivo: "Intervenciones de comunicación son prioritarias en TEA pediátrico. Sandham et al. 2025 (scoping): la traslación investigación→práctica logopédica enfrenta barreras de replicabilidad y detalle de protocolos. CAA debe ajustarse al perfil comunicativo."
 tags:
   - tea/capitulo
@@ -28,7 +29,7 @@ bibliography: 03-Datos/references.bib
 # Capítulo 32 — Terapia del lenguaje y comunicación aumentativa (CAA)
 
 <!-- sync:version-badge -->
-> **v1.6** · conocimiento **8** · actualizado **2026-08-06**
+> **v1.7** · conocimiento **9** · actualizado **2026-08-09**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
@@ -78,6 +79,11 @@ Un estudio brasileño pre-post muestra que la **orientación logopédica familia
 - **Evidencia clínica:** más que “¿funciona?” → “¿puedo implementarlo aquí?”; los patrones neurales tempranos de procesamiento del lenguaje no fijan de forma determinista el desenlace lingüístico.
 - **Experiencia vivida:** comunicación respetuosa de identidad (neurodiversidad)
 - **Controversias:** intensidad vs. bienestar; ver [[Cap-31-ABA-controversias]]
+
+### Más allá de verbal/no verbal: tres dimensiones
+
+Evaluar por separado estructura Verbal, cantidad Speaking y Generativity evita perfiles erróneos (p. ej. mucho habla no productiva) y orienta CAA/intervención ([@beccaria2026lang]; [[2026-Beccaria-language-profiles-verbal-speaking-generativity]]; ver [[Cap-15-Comunicacion-social]]).
+
 
 ## Referencias citadas
 

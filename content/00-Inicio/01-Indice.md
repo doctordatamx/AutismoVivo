@@ -121,6 +121,7 @@ Un compendio en constante actualización sobre el Trastorno del Espectro Autista
 - [[Apendice-C-Recursos|Apéndice C — Recursos por país (organizaciones, líneas de ayuda)]]
 - [[Apendice-D-Bibliografia|Apéndice D — Bibliografía maestra (auto-generada con Dataview)]]
 - [[Apendice-E-Changelog|Apéndice E — Changelog del libro (historial de actualizaciones)]]
+- [[Apendice-F-Autores|Apéndice F — Corpus de autores]]
 
 ---
 
@@ -341,4 +342,5 @@ _Sin resultados._
 - [[Apendice-A-Glosario|Glosario de términos]]
 - [[Apendice-D-Bibliografia|Bibliografía maestra (auto-generada con Dataview)]]
 - [[Apendice-E-Changelog|Changelog del libro (historial de actualizaciones)]]
+- [[Apendice-F-Autores|Corpus de autores]]
 - [[index|Libro Vivo sobre Autismo]]

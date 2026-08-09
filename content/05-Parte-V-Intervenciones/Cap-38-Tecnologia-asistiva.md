@@ -6,9 +6,9 @@ titulo: "Tecnología asistiva, apps y herramientas digitales"
 dg-publish: true
 dg-home: false
 dg-permalink: /capitulos/tecnologia-asistiva
-ultima_actualizacion: "2026-07-29"
-version: "1.3"
-conocimiento: 7
+ultima_actualizacion: "2026-08-09"
+version: "1.5"
+conocimiento: 8
 fuentes_integradas:
   - "[[2025-Ma-Song-VR-motion-serious-game-RCT]]"
   - "[[2025-Yoon-eye-tracking-treatment-monitoring-meta]]"
@@ -17,8 +17,9 @@ fuentes_integradas:
   - "[[2025-Poglitsch-GPT4o-ToM-gamified]]"
   - "[[2026-Gultig-BlinkLab-smartphone-sensorimotor]]"
   - "[[2026-Ranjabaran-SSL-multi-brain-EEG]]"
+  - "[[2026-Ramnauth-robots-autism-therapy]]"
 estado: revision
-resumen_ejecutivo: "Tecnología asistiva y VR emergentes. RCT Ma & Song 2025: juego serio VR-motion interactivo en niños TEA — señal prometedora; un ensayo no define estándar. Un ECA cruzado con el robot humanoide iCub muestra mejoras específicas en teoría de la mente frente a terapia estándar y frente a un control humano activo equivalente. Evaluar accesibilidad, coste y preferencias."
+resumen_ejecutivo: "Tecnología asistiva y VR emergentes. RCT Ma & Song 2025: juego serio VR-motion; ECA iCub para teoría de la mente; herramientas digitales (eye tracking, BlinkLab, GPT-4o). Una revisión narrativa de 304 estudios (2001–2024) sitúa la robótica terapéutica como campo prometedor pero fragmentado: engagement frecuente, evidencia de generalización aún limitada y sesgo hacia infancia. Evaluar accesibilidad, coste y preferencias."
 tags:
   - tea/capitulo
 bibliography: "03-Datos/references.bib"
@@ -27,7 +28,7 @@ bibliography: "03-Datos/references.bib"
 # Capítulo 38 — Tecnología asistiva, apps y herramientas digitales
 
 <!-- sync:version-badge -->
-> **v1.3** · conocimiento **7** · actualizado **2026-07-29**
+> **v1.5** · conocimiento **8** · actualizado **2026-08-09**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
@@ -58,6 +59,10 @@ Un meta-análisis multinivel (25 estudios, n=828) encuentra que el eye tracking 
 ### Robot humanoide para entrenar teoría de la mente (ECA)
 
 Un ensayo controlado aleatorizado cruzado (N=32 niños autistas) evaluó el entrenamiento de teoría de la mente asistido por el robot humanoide **iCub** frente a terapia estándar, con NEPSY-II ToM como desenlace. El grupo con robot mejoró significativamente más que el de terapia estándar (F(1,62)=43,6, p<.001); crucialmente, un grupo de control humano activo (N=14) que replicó el mismo protocolo con un clínico en lugar del robot **no mostró mejora**, apuntando a que la consistencia y previsibilidad del robot —no solo el protocolo— explica el efecto ([@ghiglino2025]; [[2025-Ghiglino-humanoid-robot-ToM-RCT]]). El robot se usó como complemento supervisado por clínicos, nunca de forma autónoma; ver detalle cognitivo en [[Cap-20-Teoria-de-la-mente]].
+
+### Mapa del campo: robots para apoyo al autismo (2001–2024)
+
+Una revisión narrativa de **304 estudios** traza el arco desde sesiones cortas y muy estructuradas en laboratorio hasta despliegues más largos, con mayor autonomía, en entornos reales. Los robots suelen elicitar engagement y conductas sociales novedosas, pero la evidencia de **beneficios duraderos y generalizados** sigue limitada; el corpus se concentra en infancia y permanece fragmentado entre comunidades de robótica y clínicas ([@ramnauth2026robots]; [[2026-Ramnauth-robots-autism-therapy]]; ver [[Cap-35-Habilidades-sociales]], [[Cap-29-Principios-intervencion]]). El mensaje práctico: un ECA prometedor (como iCub) no equivale a adopción masiva sin marco traslacional compartido —qué funciona, para quién y bajo qué condiciones.
 
 ### Perspectivas clave
 
@@ -92,6 +97,7 @@ Un enfoque SSL de decodificación multi-cerebro con EEG alcanza ~78% de precisi�
 - [@yoon2025] — [[2025-Yoon-eye-tracking-treatment-monitoring-meta]]
 - [@ma2025vr] — [[2025-Ma-Song-VR-motion-serious-game-RCT]]
 - [@ghiglino2025] — [[2025-Ghiglino-humanoid-robot-ToM-RCT]]
+- [@ramnauth2026robots] — [[2026-Ramnauth-robots-autism-therapy]]
 
 ## Enlaces relacionados
 

@@ -12,10 +12,12 @@ fuentes_integradas:
   - "[[2024-OShea-metaphor-eye-tracking-adults]]"
   - "[[2025-Ali-speech-delay-determinants]]"
   - "[[2025-Liu-multimodal-metaphors-neural]]"
+  - "[[2026-Herman-TSC-tuber-cerebellar-network-ADOS]]"
+  - "[[2026-Beccaria-language-profiles-verbal-speaking-generativity]]"
 estado: publicado
-ultima_actualizacion: "2026-08-08"
-version: "1.5"
-conocimiento: 5
+ultima_actualizacion: "2026-08-09"
+version: "1.6"
+conocimiento: 7
 resumen_ejecutivo: "Una revisión sistemática de 31 estudios de neuroimagen funcional muestra que el procesamiento neural del lenguaje en autismo es atípico en timing y magnitud, con hipoactivación temporal en bebés que no siempre persiste; los patrones tempranos no determinan de forma fija el desenlace comunicativo posterior."
 preguntas_abiertas:
   - "¿Cómo mejorar la representación de personas mínimamente/no verbales en estudios de neuroimagen del lenguaje?"
@@ -27,7 +29,7 @@ bibliography: "03-Datos/references.bib"
 # Capítulo 15 — Comunicación social y lenguaje
 
 <!-- sync:version-badge -->
-> **v1.5** · conocimiento **5** · actualizado **2026-08-08**
+> **v1.6** · conocimiento **7** · actualizado **2026-08-09**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
@@ -79,6 +81,16 @@ Casos-controles: varones OR≈3; TEA/TDAH/hipoacusia fuertemente asociados al sp
 ### Metáforas multimodales y compensación en TEA
 
 Revisión: comprensión metafórica puede apoyarse en canales visual-táctiles y plasticidad ([@liu2025metaphor]; [[2025-Liu-multimodal-metaphors-neural]]; ver [[Cap-22-Fortalezas-cognitivas]]).
+
+### Afecto social y conectividad tuber–cerebelo (TSC)
+
+En TSC, la gravedad del afecto social (no de las RRB) se asocia a redes de tubérculos ancladas en cerebelo profundo (Crus V), un ancla neuroanatómica específica para el dominio social afectivo ([@herman2026tsc]; [[2026-Herman-TSC-tuber-cerebellar-network-ADOS]]; ver [[Cap-06-Neurobiologia]]).
+
+
+### Tres dimensiones del lenguaje: Verbal, Speaking, Generativity
+
+En 167 niños autistas (2–6 a, Bélgica), las dimensiones Verbal (estructura), Speaking (cantidad de habla) y Generativity (novedad) se solapan solo en parte: poco habla no implica necesariamente poca estructura, y mucha habla puede ser poco generativa ([@beccaria2026lang]; [[2026-Beccaria-language-profiles-verbal-speaking-generativity]]; ver [[Cap-32-Terapia-lenguaje-CAA]], [[Cap-14-Evaluacion-funcional]]).
+
 
 ## Referencias citadas
 

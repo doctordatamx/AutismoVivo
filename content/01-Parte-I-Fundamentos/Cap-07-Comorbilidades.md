@@ -6,9 +6,9 @@ titulo: "Comorbilidades: TDAH, ansiedad, epilepsia, GI, sueño"
 dg-publish: true
 dg-home: false
 dg-permalink: /capitulos/comorbilidades
-ultima_actualizacion: "2026-08-08"
-version: "1.32"
-conocimiento: 50
+ultima_actualizacion: "2026-08-09"
+version: "1.33"
+conocimiento: 52
 fuentes_integradas:
   - "[[2012-Chaste-Leboyer-autism-risk-factors]]"
   - "[[2021-Thapar-Rutter-genetic-advances]]"
@@ -60,6 +60,8 @@ fuentes_integradas:
   - "[[2026-Rajasingham-forceps-vacuum-SSCD-outcomes]]"
   - "[[2026-Mao-past-diseases-persistent-learning-disability]]"
   - "[[2026-Schachar-ADHD-genetics-practitioner]]"
+  - "[[2026-Sabbah-sensory-feeding-pica-sleep-Palestine]]"
+  - "[[2026-Herman-TSC-tuber-cerebellar-network-ADOS]]"
 estado: revision
 resumen_ejecutivo: "TEA coexiste con TDAH (OR≈22), DI, epilepsia, GI, FND y alteraciones de sueño/actividad. Marcos de red (aproximación-retirada, irritabilidad) muestran cómo comorbilidad ansiosa/externalizante emerge de nodos compartidos; la evaluación interoceptiva negativa (no la accuracy) conecta con ansiedad y FND."
 preguntas_abiertas:
@@ -76,7 +78,7 @@ bibliography: "03-Datos/references.bib"
 # Capítulo 07 — Comorbilidades: TDAH, ansiedad, epilepsia, GI, sueño
 
 <!-- sync:version-badge -->
-> **v1.32** · conocimiento **50** · actualizado **2026-08-08**
+> **v1.33** · conocimiento **52** · actualizado **2026-08-09**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
@@ -346,6 +348,16 @@ La comorbilidad neurodesarrollada acumula riesgo escolar a largo plazo ([@mao202
 ### Genética del TDAH para la consulta (y solape con TEA)
 
 Actualización clínica: GWAS/CNV/PRS y psicoeducación; vías compartidas con TEA ([@schachar2026adhdgen]; [[2026-Schachar-ADHD-genetics-practitioner]]).
+
+### Alimentación sensorial/pica-related y sueño (Palestina)
+
+En Cisjordania (N=105 cuidadores), problemas de alimentación sensorial/pica-related y alteraciones de sueño fueron moderados y se correlacionaron (r=0,463); la ansiedad de sueño fue el dominio más alto. Hallazgo preliminar (instrumentos propios), útil para cribado conjunto en servicios ASD ([@sabbah2026feed]; [[2026-Sabbah-sensory-feeding-pica-sleep-Palestine]]; ver [[Cap-18-Procesamiento-sensorial]]).
+
+
+### TSC como modelo de comorbilidad neuroanatómica del TEA
+
+La alta coocurrencia TEA–TSC (~40% en la literatura citada) permite vincular dominios ADOS a redes de tubérculos; el afecto social, no las RRB, se asoció a circuitos cerebelosos ([@herman2026tsc]; [[2026-Herman-TSC-tuber-cerebellar-network-ADOS]]; ver [[Cap-06-Neurobiologia]]).
+
 
 ## Referencias citadas
 
