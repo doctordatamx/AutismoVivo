@@ -130,7 +130,7 @@ Un compendio en constante actualización sobre el Trastorno del Espectro Autista
 | Capítulo | Actualizado | Estado | Publicado |
 | --- | --- | --- | --- |
 | [[Cap-01-Que-es-el-autismo|¿Qué es el autismo? Conceptos, espectro y neurodiversidad]] | 2026-07-29 | publicado | true |
-| [[Cap-02-Historia-del-autismo|Historia del autismo: de Kanner y Asperger al presente]] |  | borrador | false |
+| [[Cap-02-Historia-del-autismo|Historia del autismo: de Kanner y Asperger al presente]] | 2026-08-08 | publicado | true |
 | [[Cap-03-Criterios-diagnosticos|Criterios diagnósticos: DSM-5-TR, CIE-11, evolución de criterios]] | 2026-07-29 | borrador | false |
 | [[Cap-04-Epidemiologia|Epidemiología: prevalencia, tendencias, sesgos de medición]] | 2026-07-29 | revision | true |
 | [[Cap-05-Etiologia|Etiología: genética, epigenética, factores ambientales]] | 2026-07-29 | revision | true |
@@ -321,6 +321,7 @@ _Sin resultados._
 
 
 - [[Cap-01-Que-es-el-autismo|¿Qué es el autismo? Conceptos, espectro y neurodiversidad]]
+- [[Cap-02-Historia-del-autismo|Historia del autismo: de Kanner y Asperger al presente]]
 - [[Cap-04-Epidemiologia|Epidemiología: prevalencia, tendencias, sesgos de medición]]
 - [[Cap-05-Etiologia|Etiología: genética, epigenética, factores ambientales]]
 - [[Cap-06-Neurobiologia|Neurobiología: cerebro, conectividad, biomarcadores]]

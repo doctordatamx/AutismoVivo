@@ -3,7 +3,7 @@ tipo: capitulo
 parte: "Parte-I"
 numero: 2
 titulo: "Historia del autismo: de Kanner y Asperger al presente"
-dg-publish: false
+dg-publish: true
 dg-home: false
 dg-permalink: /capitulos/historia-del-autismo
 ultima_actualizacion: "2026-08-08"
@@ -19,7 +19,7 @@ fuentes_integradas:
   - "[[2025-Dolfi-diagnostic-challenges-women-ASD]]"
   - "[[2025-Guan-ableist-microaggressions-camouflage]]"
   - "[[2024-Haar-community-perspectives-autism-research]]"
-estado: borrador
+estado: publicado
 directrices_escritura: "[[directrices-escritura-Cap-02-historia]]"
 resumen_ejecutivo: "La historia del autismo atraviesa un siglo de redefiniciones: del «autismo» bleuleriano y las descripciones pioneras de Sukhareva, a Kanner/Asperger y la culpa parental psicoanalítica; de la tríada de Wing y los PDD del DSM-IV al espectro unificado del DSM-5/CIE-11; y, en el siglo XXI, a la neurodiversidad, la autodefensa y el reconocimiento tardío del fenotipo femenino y el camuflaje. Cada giro cambió no solo etiquetas, sino quién cuenta, quién diagnostica y qué se considera apoyo legítimo."
 preguntas_abiertas:

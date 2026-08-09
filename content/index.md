@@ -101,7 +101,7 @@ Este libro sintetiza artículos, papers y fuentes curadas sobre autismo. No es u
 
 > Las fuentes se capturan, se resumen con apoyo de IA y se integran a los capítulos bajo criterios editoriales explícitos. Ver [[criterios-editoriales]] y [[01-Indice|tabla de contenidos]].
 
-**Empieza por:** [[01-Indice|Índice completo del libro]] · [[Cap-01-Que-es-el-autismo|Capítulo 01 — ¿Qué es el autismo?]] · [[Cap-05-Etiologia|Capítulo 05 — Etiología]]
+**Empieza por:** [[01-Indice|Índice completo del libro]] · [[Cap-01-Que-es-el-autismo|Capítulo 01 — ¿Qué es el autismo?]] · [[Cap-02-Historia-del-autismo|Capítulo 02 — Historia del autismo]] · [[Cap-05-Etiologia|Capítulo 05 — Etiología]]
 
 ---
 
