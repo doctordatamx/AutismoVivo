@@ -26,10 +26,13 @@ fuentes_integradas:
   - "[[2024-Cervantes-ED-suicidality-autism-care]]"
   - "[[2026-Procyshyn-suicidal-thoughts-autistic-youth-app]]"
   - "[[2025-Pereira-TGD-autistic-adolescents-depression]]"
+  - "[[2026-Saunders-emotion-dysregulation-therapy-participation]]"
+  - "[[2025-Arney-substance-fixation-anorexia-ASD]]"
+  - "[[2026-Uretzky-fertility-preservation-TGD-autism]]"
 estado: revision
-ultima_actualizacion: "2026-08-07"
-version: "1.13"
-conocimiento: 19
+ultima_actualizacion: "2026-08-08"
+version: "1.16"
+conocimiento: 22
 resumen_ejecutivo: "Salud mental en TEA: burnout ligado a ansiedad/depresión (Ali 2025); trauma y estigma elevados. Asociación creciente con FND vía interocepción, alexitimia y adversidad. La evaluación interoceptiva negativa (no la accuracy) conecta con ansiedad; ansiedad y TDAH son los nodos más fuertes en modelos de red de comorbilidad; medir bien la ansiedad (interferencia funcional) mejora la detección de resultados de tratamiento."
 preguntas_abiertas:
   - "¿Qué protocolos de crisis incorporan burnout vs. depresión mayor?"
@@ -44,7 +47,7 @@ bibliography: "03-Datos/references.bib"
 # Capítulo 47 — Salud mental: ansiedad, depresión, trauma, suicidio
 
 <!-- sync:version-badge -->
-> **v1.13** · conocimiento **19** · actualizado **2026-08-07**
+> **v1.16** · conocimiento **22** · actualizado **2026-08-08**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
@@ -177,7 +180,28 @@ En Medicaid Ohio (N=41 230, 5–24 años), ~2,6–2,7% tuvo ≥1 evento de aut
 
 Lin et al. argumentan que la irritabilidad en adultos autistas está mal medida y poco estudiada: a menudo refleja **hiperactivación psicofisiológica** (estrés, trauma, sobrecarga sensorial) más que un trastorno del humor primario, y que el paradigma de risperidona/aripiprazol deriva de ensayos **pediátricos** ([@lin2026irrit]; [[2026-Lin-irritability-autistic-adults]]; ver [[Cap-36-Farmacoterapia]], [[Cap-27-Adultez-madura]]). Distinguen irritabilidad tónica vs. fásica y piden ensayos en adultos, autoinforme cuando sea posible y herramientas fisiológicas.
 
+
+### ED en infancia autista y servicios
+
+La desregulación emocional se entrelaza con el patrón de terapias recibidas en preescolar; investigar dirección causal y tratamientos centrados en ED ([@saunders2026ed]; [[2026-Saunders-emotion-dysregulation-therapy-participation]]).
+
+
+### Fijación a sustancias como vía a anorexia en TEA adulto
+
+Caso de varón de 26 años: secuencia alcohol → ganancia ponderal → restricción severa + cannabis continuo hasta criterios de anorexia nerviosa ([@arney2025an]; [[2025-Arney-substance-fixation-anorexia-ASD]]; ver [[Cap-17-Intereses-rutinas]]). Las RRBI/rigidez pueden mediar comorbilidad TEA–TCA–SUD.
+
+
+### Salud mental como freno a decisiones de fertilidad en TGD
+
+La ausencia de intento de suicidio predijo uso de técnicas de preservación (OR≈8,9); estabilizar SM es parte del counselling reproductivo ([@uretzky2026fert]; [[2026-Uretzky-fertility-preservation-TGD-autism]]; ver [[Cap-54-Genero-diversidad]]).
+
 ## Referencias citadas
+
+- [@uretzky2026fert] — [[2026-Uretzky-fertility-preservation-TGD-autism]]
+
+- [@arney2025an] — [[2025-Arney-substance-fixation-anorexia-ASD]]
+
+- [@saunders2026ed] — [[2026-Saunders-emotion-dysregulation-therapy-participation]]
 
 - [@pereira2025tgd] — [[2025-Pereira-TGD-autistic-adolescents-depression]]
 

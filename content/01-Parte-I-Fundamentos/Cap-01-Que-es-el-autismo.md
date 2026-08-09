@@ -6,9 +6,9 @@ titulo: "¿Qué es el autismo? Conceptos, espectro y neurodiversidad"
 dg-publish: true
 dg-home: false
 dg-permalink: /capitulos/que-es-el-autismo
-ultima_actualizacion: "2026-07-29"
-version: "1.8"
-conocimiento: 14
+ultima_actualizacion: "2026-08-08"
+version: "1.11"
+conocimiento: 17
 fuentes_integradas:
   - "[[2026-07-28-neurodiversidad-autismo-piloto]]"
   - "[[2012-Chaste-Leboyer-autism-risk-factors]]"
@@ -24,6 +24,9 @@ fuentes_integradas:
   - "[[2024-Brett-Perth-Empathy-Scale]]"
   - "[[2026-Romanos-Sirakis-spectrum-reflection]]"
   - "[[2025-Furnier-ADDM-prevalence-adaptive]]"
+  - "[[2025-Manzo-long-winding-road-autism]]"
+  - "[[2025-Nicolosi-neurodiversity-behavior-analyst]]"
+  - "[[2026-Schachar-ADHD-genetics-practitioner]]"
 estado: publicado
 resumen_ejecutivo: "El autismo (TEA) es un perfil neurodesarrollado del espectro, con heterogeneidad clínica amplia. Clínicamente se define por comunicación social e intereses/conductas restringidas; etiologicamente es complejo (genes + ambiente). No equivale a un ‘trastorno de empatía’ global (meta-análisis 2025). Puede verse como categoría y como dimensión; la neurodiversidad añade una lente de derechos. Un modelo de red reciente reconceptualiza el autismo como un sistema de conductas de aproximación-retirada más que como un conjunto fijo de síntomas; y un comentario metodológico recuerda que autismo y CI son constructos distintos que no deben confundirse en investigación."
 preguntas_abiertas:
@@ -38,7 +41,7 @@ bibliography: "03-Datos/references.bib"
 # Capítulo 01 — ¿Qué es el autismo? Conceptos, espectro y neurodiversidad
 
 <!-- sync:version-badge -->
-> **v1.8** · conocimiento **14** · actualizado **2026-07-29**
+> **v1.11** · conocimiento **17** · actualizado **2026-08-08**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
@@ -112,7 +115,28 @@ Una reflexión de clínica-madre insiste en sostener ambas verdades —mirada cl
 
 En ADDM, la prevalencia con funcionamiento adaptativo leve pasa de 5,1 a 17,6/1000 mientras moderado–profundo permanece estable: el aumento epidemiológico se concentra en el estrato leve. ([@furnier2025]; [[2025-Furnier-ADDM-prevalence-adaptive]]).
 
+
+### Más que un problema biomédico
+
+Manzo et al. sintetizan el TEA como desafío interdisciplinar que cruza neurociencia, educación y derechos humanos ([@manzo2025road]; [[2025-Manzo-long-winding-road-autism]]; ver [[Cap-02-Historia-del-autismo]]).
+
+
+### Marcos en tensión: identidad vs intervención
+
+La perspectiva ABA del NDM ilustra el debate continuo sobre qué cuenta como apoyo legítimo ([@nicolosi2025ndba]; [[2025-Nicolosi-neurodiversity-behavior-analyst]]).
+
+
+### Hablar de genes en TDAH/TEA sin fatalismo
+
+Schachar et al. ofrecen marco para explicar genética a familias sin sobreprometer ([@schachar2026adhdgen]; [[2026-Schachar-ADHD-genetics-practitioner]]).
+
 ## Referencias citadas
+
+- [@schachar2026adhdgen] — [[2026-Schachar-ADHD-genetics-practitioner]]
+
+- [@nicolosi2025ndba] — [[2025-Nicolosi-neurodiversity-behavior-analyst]]
+
+- [@manzo2025road] — [[2025-Manzo-long-winding-road-autism]]
 
 - [@brett2024] — [[2024-Brett-Perth-Empathy-Scale]]
 - [@romanossirakis2026] — [[2026-Romanos-Sirakis-spectrum-reflection]]

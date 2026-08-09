@@ -6,9 +6,9 @@ titulo: "Herramientas de cribado (M-CHAT, ADOS, ADI-R, y otras)"
 dg-publish: true
 dg-home: false
 dg-permalink: /capitulos/herramientas-cribado
-ultima_actualizacion: "2026-08-07"
-version: "1.6"
-conocimiento: 11
+ultima_actualizacion: "2026-08-08"
+version: "1.10"
+conocimiento: 15
 fuentes_integradas:
   - "[[2025-Wang-understanding-autism]]"
   - "[[2025-Yoon-eye-tracking-treatment-monitoring-meta]]"
@@ -21,6 +21,10 @@ fuentes_integradas:
   - "[[2026-Livingston-SQ-A-2-screener]]"
   - "[[2025-Terner-sex-differences-adult-autism-screening]]"
   - "[[2025-Sutherland-telehealth-autism-diagnostic-agreement]]"
+  - "[[2026-Zhou-ASSQ-network-profiles]]"
+  - "[[2026-Chang-MCHAT-neurodevelopmental-scales]]"
+  - "[[2025-Montazeri-retinal-structures-ASD]]"
+  - "[[2026-Allwsh-soluble-alpha-klotho-ASD-biomarker]]"
 estado: revision
 resumen_ejecutivo: "El diagnóstico sigue basado en evaluación conductual estandarizada (p. ej. ADOS-2) más historia del desarrollo. Los biomarcadores digitales (eye-tracking, EEG, fMRI) y biológicos (citocinas, metabolómica, microbiota) son prometedores pero, por la heterogeneidad del TEA, no hay un marcador único validado para uso clínico universal. Nuevos instrumentos de autocribado adulto validados en Brasil (SfA-A/SfA-F, N combinado >11.000) muestran buena psicometría y una versión específica para mujeres sensible al camuflaje."
 preguntas_abiertas:
@@ -34,7 +38,7 @@ bibliography: "03-Datos/references.bib"
 # Capítulo 09 — Herramientas de cribado (M-CHAT, ADOS, ADI-R, y otras)
 
 <!-- sync:version-badge -->
-> **v1.6** · conocimiento **11** · actualizado **2026-08-07**
+> **v1.10** · conocimiento **15** · actualizado **2026-08-08**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
@@ -101,6 +105,11 @@ El AQ captura rasgos actuales; el RQ aporta infancia vía cuidadores. Usarlos ju
 
 Tele-evaluaciones diagnósticas en niños pequeños pueden alcanzar acuerdo sustancial con la presencial en entornos clínicos reales ([@sutherland2025tele]; [[2025-Sutherland-telehealth-autism-diagnostic-agreement]]; ver [[Cap-10-Proceso-diagnostico]]).
 
+
+### ASSQ como red de ítems (no solo score total)
+
+Un análisis de red de ítems ASSQ parentales identifica nodos centrales (p. ej. no ajustarse, postura inusual, fallo con pares) y puentes (expresión facial, empatía) sin diferencias estructurales claras por sexo/edad en esa muestra ([@zhou2026assq]; [[2026-Zhou-ASSQ-network-profiles]]; ver [[Cap-03-Criterios-diagnosticos]], [[Cap-16-Interaccion-social]]). El total oculta la heterogeneidad asociativa entre síntomas.
+
 ### Perspectivas clave
 
 - **Evidencia clínica:** ADOS-2 sigue siendo referencia; digitales/biológicos = investigación; los nuevos instrumentos de autocribado adulto (SfA-A/SfA-F) amplían las opciones validadas fuera de los países de habla inglesa.
@@ -126,7 +135,30 @@ Con BlinkLab (smartphone), N=431 completaron evaluación sensoriomotora y se obs
 
 El SQ-A-2 (N=302), co-producido con adultos autistas, mejora la discriminación gracias a una redacción adaptada: la co-producción no es solo ética, también afina el cribado adulto. ([@livingston2026]; [[2026-Livingston-SQ-A-2-screener]]).
 
+
+### Antes del M-CHAT+: escalas a los 12–15 meses
+
+Casos-controles (n=100): lactantes M-CHAT+ a 24 meses ya mostraban a 12–15 m peores motor (PDMS-2), adaptabilidad/lenguaje (GDDS), más historia familiar, prematuridad y problemas de sueño ([@chang2026mchat]; [[2026-Chang-MCHAT-neurodevelopmental-scales]]; ver [[Cap-08-Senales-tempranas]]). El cribado específico gana si se combina con vigilancia del desarrollo multimodal.
+
+
+### OCT retiniano: señal biológica, no cribado listo
+
+El engrosamiento de retina interna en TEA adulto se asocia a volúmenes cerebrales, no a CI: interesante para fenotipado biológico, prematuro como herramienta de cribado ([@montazeri2025retina]; [[2025-Montazeri-retinal-structures-ASD]]; ver [[Cap-06-Neurobiologia]]).
+
+
+### Alfa-klotho soluble: biomarcador candidato (preliminar)
+
+En Kurdistán, S-KLα sérico ↓ en TEA (AUC 0,91) ([@allwsh2026klotho]; [[2026-Allwsh-soluble-alpha-klotho-ASD-biomarker]]). **Sin validación externa**: no usar como cribado clínico.
+
 ## Referencias citadas
+
+- [@allwsh2026klotho] — [[2026-Allwsh-soluble-alpha-klotho-ASD-biomarker]]
+
+- [@montazeri2025retina] — [[2025-Montazeri-retinal-structures-ASD]]
+
+- [@chang2026mchat] — [[2026-Chang-MCHAT-neurodevelopmental-scales]]
+
+- [@zhou2026assq] — [[2026-Zhou-ASSQ-network-profiles]]
 
 - [@sutherland2025tele] — [[2025-Sutherland-telehealth-autism-diagnostic-agreement]]
 

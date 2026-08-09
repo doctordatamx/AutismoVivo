@@ -6,9 +6,9 @@ titulo: "Comorbilidades: TDAH, ansiedad, epilepsia, GI, sueño"
 dg-publish: true
 dg-home: false
 dg-permalink: /capitulos/comorbilidades
-ultima_actualizacion: "2026-08-07"
-version: "1.11"
-conocimiento: 29
+ultima_actualizacion: "2026-08-08"
+version: "1.32"
+conocimiento: 50
 fuentes_integradas:
   - "[[2012-Chaste-Leboyer-autism-risk-factors]]"
   - "[[2021-Thapar-Rutter-genetic-advances]]"
@@ -39,6 +39,27 @@ fuentes_integradas:
   - "[[2025-Pasion-P300-autism-schizotypal]]"
   - "[[2026-Pellegrini-OCD-ASD-comorbidity-fingerprints]]"
   - "[[2025-Watanabe-ADHD-ASD-traits-PMDD-Japan]]"
+  - "[[2025-Youngkin-preterm-ASD-epilepsy-focal-EEG]]"
+  - "[[2026-Figueiredo-ASD-personality-disorders]]"
+  - "[[2026-Wenzell-insomnia-young-children-ASD]]"
+  - "[[2025-Wechsler-parent-child-trait-similarity]]"
+  - "[[2026-AlGhadeer-sleep-disturbances-ASD-Saudi]]"
+  - "[[2026-ElHalal-sleep-assessment-NDD]]"
+  - "[[2025-Hendry-ADHD-family-history-problem-solving]]"
+  - "[[2025-Kariuki-NDD-burden-Kenya]]"
+  - "[[2025-Arney-substance-fixation-anorexia-ASD]]"
+  - "[[2026-Said-nutritional-rickets-ASD]]"
+  - "[[2024-Karadag-CTX-prevalence-ASD]]"
+  - "[[2025-Harrison-familial-SYNGAP1-boundaries]]"
+  - "[[2025-Granadillo-MYT1L-Brain-Gene-Registry]]"
+  - "[[2026-Samanta-SLC6A1-NDD-scoping]]"
+  - "[[2026-Samanta-SYNGAP1-pathophysiology-therapeutics]]"
+  - "[[2025-Martin-CASK-neurodevelopmental-spectrum]]"
+  - "[[2026-Glass-neonatal-seizures-outcomes-5-6y]]"
+  - "[[2026-Jans-chromatinopathies-immunology-scoping]]"
+  - "[[2026-Rajasingham-forceps-vacuum-SSCD-outcomes]]"
+  - "[[2026-Mao-past-diseases-persistent-learning-disability]]"
+  - "[[2026-Schachar-ADHD-genetics-practitioner]]"
 estado: revision
 resumen_ejecutivo: "TEA coexiste con TDAH (OR≈22), DI, epilepsia, GI, FND y alteraciones de sueño/actividad. Marcos de red (aproximación-retirada, irritabilidad) muestran cómo comorbilidad ansiosa/externalizante emerge de nodos compartidos; la evaluación interoceptiva negativa (no la accuracy) conecta con ansiedad y FND."
 preguntas_abiertas:
@@ -55,7 +76,7 @@ bibliography: "03-Datos/references.bib"
 # Capítulo 07 — Comorbilidades: TDAH, ansiedad, epilepsia, GI, sueño
 
 <!-- sync:version-badge -->
-> **v1.11** · conocimiento **29** · actualizado **2026-08-07**
+> **v1.32** · conocimiento **50** · actualizado **2026-08-08**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
@@ -190,6 +211,11 @@ En pacientes con TOC, el subgrupo con TEA comórbido muestra onset más temprano
 
 En mujeres empleadas, PMDD se asoció a rasgos TDAH pero no de forma significativa a rasgos TEA ([@watanabe2025pmdd]; [[2025-Watanabe-ADHD-ASD-traits-PMDD-Japan]]; ver [[Cap-11-Diagnostico-mujeres]]).
 
+
+### Prematuridad extrema en TEA+epilepsia
+
+En ASD+EPI, nacer <32 semanas se asocia a más actividad interictal **focal** frente a nacidos más tarde; el pretérmino moderado se parece al término ([@youngkin2025preterm]; [[2025-Youngkin-preterm-ASD-epilepsy-focal-EEG]]; ver [[Cap-05-Etiologia]], [[Cap-06-Neurobiologia]]). La historia gestacional matiza el fenotipo EEG.
+
 ### Perspectivas clave
 
 - **Evidencia clínica:** co-agregación TEA–TDAH muy robusta (incluso a nivel neurobiológico dimensional y de red conductual); GI frecuente y multifactorial; FND en radar clínico; envejecimiento sin evidencia de deterioro cognitivo generalizado pero con vulnerabilidades focalizadas; la interferencia funcional (no solo síntomas) es clave para medir bien la ansiedad comórbida.
@@ -221,7 +247,149 @@ En N=225, las mujeres con TEA y con TLP muestran niveles de camuflaje CAT-Q prá
 
 En N=122, el P300 muestra que rasgos autistas y esquizotípicos modulan de forma distinta el procesamiento predictivo neural: solapamiento fenotípico no implica el mismo mecanismo de predicción. ([@pasion2025]; [[2025-Pasion-P300-autism-schizotypal]]).
 
+
+### Trastornos de personalidad: solapamiento y diferencial
+
+Además de alexitimia/OCPD-borderline ([@albantakis2025]), una revisión narrativa actualiza el diferencial TEA–TPs (esquizotípico, borderline) enfatizando etiologías distintas pese a fenotipos similares ([@figueiredo2026pd]; [[2026-Figueiredo-ASD-personality-disorders]]; ver [[Cap-13-Diagnostico-diferencial]]).
+
+
+### Insomnio en niños pequeños con TEA (PAIRS)
+
+En clínica ambulatoria (n=103; 2–10 años), **33%** supera PAIRS ≥22. Tras ajuste, el insomnio se asocia a conductas disruptivas en comidas, peor calidad de vida familiar, subescalas ABC y uso de suplementos; predictores destacados: hiperactividad/no cumplimiento, suplementos y mealtime ([@wenzell2026insomnia]; [[2026-Wenzell-insomnia-young-children-ASD]]). Complementa la evidencia de sueño adulto por actimetría: en infancia el insomnio viene empaquetado con conducta y carga familiar.
+
+
+### Similaridad familiar TEA/TDAH como factor protector
+
+En 222 díadas de cohorte de alto riesgo, la similaridad de rasgos (no solo su intensidad) predice mejor funcionamiento social temprano ([@wechsler2025sim]; [[2025-Wechsler-parent-child-trait-similarity]]; ver [[Cap-46-Dinamica-familiar]]).
+
+
+### Sueño en TEA: carga alta en clínica saudí (CSHQ)
+
+En Al-Ahsa (n=116; media 6,4 años), la CSHQ media fue **76,3** (umbral ≥41): resistencia a acostarse, latencia, ansiedad de sueño, despertares, parasomnias y somnolencia diurna. Asociados: diagnóstico más tardío, mayor severidad, ansiedad parental por el sueño, arreglo de sueño y fármacos inductores previos ([@alghadeer2026sleep]; [[2026-AlGhadeer-sleep-disturbances-ASD-Saudi]]; ver [[Cap-55-Contextos-culturales]]).
+
+
+### Evaluación del sueño en TND: marco clínico
+
+Revisión pediátrica: en TEA el **insomnio** (latencia ↑, despertares) es el trastorno de sueño más reportado; también hay fenotipos distintivos en síndromes (Smith-Magenis, Prader-Willi, Down, MPS II). La evaluación escalonada (historia, diarios, cuestionarios, pruebas dirigidas) es la base del manejo ([@elhalal2026sleep]; [[2026-ElHalal-sleep-assessment-NDD]]; ver [[Cap-14-Evaluacion-funcional]]).
+
+
+### TDAH familiar y aptitud de problem-solving
+
+El fenotipo heritable de TDAH se asocia a fortalezas de resolución generativa ya a los 2–3 años, un matiz útil frente al foco exclusivo en deterioro ([@hendry2025adhdps]; [[2025-Hendry-ADHD-family-history-problem-solving]]).
+
+
+### Co-ocurrencia de TND en Kenia escolar
+
+El 22,6% de niños con TND confirmado presentaba co-ocurrencia; TDAH y deterioro cognitivo lideran la carga junto al TEA ([@kariuki2025kenya]; [[2025-Kariuki-NDD-burden-Kenya]]).
+
+
+### TEA, SUD y anorexia: comorbilidad mediada por RRBI
+
+El solapamiento TEA–TCA–SUD puede articularse vía rigidez e intereses restringidos, no solo vía ansiedad social ([@arney2025an]; [[2025-Arney-substance-fixation-anorexia-ASD]]).
+
+
+### Raquitismo y déficits de vitamina D/Ca en TEA
+
+En dietas extremadamente restringidas, sobre todo en contextos de pobreza, el TEA puede presentar como emergencia metabólica/ortopédica ([@said2026rickets]; [[2026-Said-nutritional-rickets-ASD]]).
+
+
+### CTX: comorbilidad metabólica tratable
+
+Manifestaciones psiquiátricas/conductuales pueden acompañar CTX; el diagnóstico precoz evita deterioro neurológico ([@karadag2024ctx]; [[2024-Karadag-CTX-prevalence-ASD]]).
+
+
+### SYNGAP1: epilepsia, DI y TEA variable
+
+En truncantes germline, epilepsia generalizada y DI son frecuentes; el TEA no es universal ([@harrison2025syngap]; [[2025-Harrison-familial-SYNGAP1-boundaries]]).
+
+
+### Consecuencias clínicas de MYT1L
+
+Vigilancia de peso, conducta y cognición en portadores MYT1L ([@granadillo2025myt1l]; [[2025-Granadillo-MYT1L-Brain-Gene-Registry]]).
+
+
+### Epilepsia y TEA en SLC6A1
+
+Ausencias/miotónico-atónicas dominan; valproato suele ser el ASM más efectivo ([@samanta2026slc6a1]; [[2026-Samanta-SLC6A1-NDD-scoping]]).
+
+
+### Epilepsia farmacorresistente en SRD
+
+Ausencias atípicas/miotónicas con triggers reflejos; regresión a menudo ligada a empeoramiento EEG ([@samanta2026syngap]; [[2026-Samanta-SYNGAP1-pathophysiology-therapeutics]]).
+
+
+### Epilepsia y severidad cognitiva en CASK
+
+La epilepsia se asocia a mayor severidad de DI; tono alterado e hipoacusia son consistentes ([@martin2025cask]; [[2025-Martin-CASK-neurodevelopmental-spectrum]]).
+
+
+### Tras crisis neonatales: TEA, TDAH y epilepsia a los 5–6 años
+
+Clases latentes: típico 63%; disregulación/TDAH 13%; multi-dominio 24%. ~19% TEA/SRS↑; 29% TDAH/atención↑ ([@glass2026neonatal]; [[2026-Glass-neonatal-seizures-outcomes-5-6y]]).
+
+
+### Comorbilidad inmunológica en síndromes tipo Kabuki/ICF
+
+Vigilar infecciones de repetición y déficits de inmunoglobulinas en cromatínopatías con fenotipo TEA-like ([@jans2026chromatin]; [[2026-Jans-chromatinopathies-immunology-scoping]]).
+
+
+### ADHD e ID tras parto instrumental
+
+aHR ADHD ≈1,13 (secuencial) e ID ≈1,53 (vacuum) vs SSCD; TEA nulo ([@rajasingham2026forceps]; [[2026-Rajasingham-forceps-vacuum-SSCD-outcomes]]).
+
+
+### Del TEA/TDAH a la discapacidad de aprendizaje persistente
+
+La comorbilidad neurodesarrollada acumula riesgo escolar a largo plazo ([@mao2026pld]; [[2026-Mao-past-diseases-persistent-learning-disability]]).
+
+
+### Genética del TDAH para la consulta (y solape con TEA)
+
+Actualización clínica: GWAS/CNV/PRS y psicoeducación; vías compartidas con TEA ([@schachar2026adhdgen]; [[2026-Schachar-ADHD-genetics-practitioner]]).
+
 ## Referencias citadas
+
+- [@schachar2026adhdgen] — [[2026-Schachar-ADHD-genetics-practitioner]]
+
+- [@mao2026pld] — [[2026-Mao-past-diseases-persistent-learning-disability]]
+
+- [@rajasingham2026forceps] — [[2026-Rajasingham-forceps-vacuum-SSCD-outcomes]]
+
+- [@jans2026chromatin] — [[2026-Jans-chromatinopathies-immunology-scoping]]
+
+- [@glass2026neonatal] — [[2026-Glass-neonatal-seizures-outcomes-5-6y]]
+
+- [@martin2025cask] — [[2025-Martin-CASK-neurodevelopmental-spectrum]]
+
+- [@samanta2026syngap] — [[2026-Samanta-SYNGAP1-pathophysiology-therapeutics]]
+
+- [@samanta2026slc6a1] — [[2026-Samanta-SLC6A1-NDD-scoping]]
+
+- [@granadillo2025myt1l] — [[2025-Granadillo-MYT1L-Brain-Gene-Registry]]
+
+- [@harrison2025syngap] — [[2025-Harrison-familial-SYNGAP1-boundaries]]
+
+- [@karadag2024ctx] — [[2024-Karadag-CTX-prevalence-ASD]]
+
+- [@said2026rickets] — [[2026-Said-nutritional-rickets-ASD]]
+
+- [@arney2025an] — [[2025-Arney-substance-fixation-anorexia-ASD]]
+
+- [@kariuki2025kenya] — [[2025-Kariuki-NDD-burden-Kenya]]
+
+- [@hendry2025adhdps] — [[2025-Hendry-ADHD-family-history-problem-solving]]
+
+- [@elhalal2026sleep] — [[2026-ElHalal-sleep-assessment-NDD]]
+
+- [@alghadeer2026sleep] — [[2026-AlGhadeer-sleep-disturbances-ASD-Saudi]]
+
+- [@wechsler2025sim] — [[2025-Wechsler-parent-child-trait-similarity]]
+
+- [@wenzell2026insomnia] — [[2026-Wenzell-insomnia-young-children-ASD]]
+
+- [@figueiredo2026pd] — [[2026-Figueiredo-ASD-personality-disorders]]
+
+- [@youngkin2025preterm] — [[2025-Youngkin-preterm-ASD-epilepsy-focal-EEG]]
 
 - [@watanabe2025pmdd] — [[2025-Watanabe-ADHD-ASD-traits-PMDD-Japan]]
 

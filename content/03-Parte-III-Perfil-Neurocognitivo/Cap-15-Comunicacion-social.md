@@ -10,10 +10,12 @@ fuentes_integradas:
   - "[[2026-Witt-Carnett-neurobiology-language-review]]"
   - "[[2025-Gagnon-unexpected-bilingualism-minimally-verbal]]"
   - "[[2024-OShea-metaphor-eye-tracking-adults]]"
+  - "[[2025-Ali-speech-delay-determinants]]"
+  - "[[2025-Liu-multimodal-metaphors-neural]]"
 estado: publicado
-ultima_actualizacion: "2026-08-06"
-version: "1.3"
-conocimiento: 3
+ultima_actualizacion: "2026-08-08"
+version: "1.5"
+conocimiento: 5
 resumen_ejecutivo: "Una revisión sistemática de 31 estudios de neuroimagen funcional muestra que el procesamiento neural del lenguaje en autismo es atípico en timing y magnitud, con hipoactivación temporal en bebés que no siempre persiste; los patrones tempranos no determinan de forma fija el desenlace comunicativo posterior."
 preguntas_abiertas:
   - "¿Cómo mejorar la representación de personas mínimamente/no verbales en estudios de neuroimagen del lenguaje?"
@@ -25,7 +27,7 @@ bibliography: "03-Datos/references.bib"
 # Capítulo 15 — Comunicación social y lenguaje
 
 <!-- sync:version-badge -->
-> **v1.3** · conocimiento **3** · actualizado **2026-08-06**
+> **v1.5** · conocimiento **5** · actualizado **2026-08-08**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
@@ -68,7 +70,21 @@ WHERE contains(capitulos_relacionados, this.file.link)
 SORT fecha_captura DESC
 ```
 
+
+### Retraso del habla: TEA, TDAH y audición como predictores
+
+Casos-controles: varones OR≈3; TEA/TDAH/hipoacusia fuertemente asociados al speech delay ([@ali2025speech]; [[2025-Ali-speech-delay-determinants]]).
+
+
+### Metáforas multimodales y compensación en TEA
+
+Revisión: comprensión metafórica puede apoyarse en canales visual-táctiles y plasticidad ([@liu2025metaphor]; [[2025-Liu-multimodal-metaphors-neural]]; ver [[Cap-22-Fortalezas-cognitivas]]).
+
 ## Referencias citadas
+
+- [@liu2025metaphor] — [[2025-Liu-multimodal-metaphors-neural]]
+
+- [@ali2025speech] — [[2025-Ali-speech-delay-determinants]]
 
 - [@oshea2024metaphor] — [[2024-OShea-metaphor-eye-tracking-adults]]
 

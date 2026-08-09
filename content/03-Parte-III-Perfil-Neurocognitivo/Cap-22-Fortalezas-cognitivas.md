@@ -6,14 +6,16 @@ titulo: "Fortalezas cognitivas, talentos y ventajas"
 dg-publish: false
 dg-home: false
 dg-permalink: /capitulos/fortalezas-cognitivas
-ultima_actualizacion: "2026-07-29"
-version: "1.3"
-conocimiento: 4
+ultima_actualizacion: "2026-08-08"
+version: "1.5"
+conocimiento: 6
 fuentes_integradas:
   - "[[2026-Luyster-curiosity-creativity-autism]]"
   - "[[2026-Ben-Artzi-credit-assignment-irrelevant-features]]"
   - "[[2025-Gagnon-unexpected-bilingualism-minimally-verbal]]"
   - "[[2025-McGugin-laminar-FFA-thickness]]"
+  - "[[2025-Hendry-ADHD-family-history-problem-solving]]"
+  - "[[2025-Liu-multimodal-metaphors-neural]]"
 estado: borrador
 resumen_ejecutivo: "Un artículo teórico cuestiona los supuestos de que curiosidad y creatividad están disminuidas o son simplemente 'diferentes' en autismo, proponiendo reencuadrar conductas restringidas/repetitivas (exploración sensorial, uso no convencional de objetos, intereses intensos) como posibles expresiones no reconocidas de estas capacidades."
 preguntas_abiertas:
@@ -26,7 +28,7 @@ bibliography: "03-Datos/references.bib"
 # Capítulo 22 — Fortalezas cognitivas, talentos y ventajas
 
 <!-- sync:version-badge -->
-> **v1.3** · conocimiento **4** · actualizado **2026-07-29**
+> **v1.5** · conocimiento **6** · actualizado **2026-08-08**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
@@ -75,7 +77,21 @@ SORT fecha_captura DESC
 
 En FFA laminar, la experiencia/selectividad facial se asocia a corteza más delgada y la de coches a mayor grosor: plasticidad dominio-específica a escala laminar en autismo. ([@mcgugin2025]; [[2025-McGugin-laminar-FFA-thickness]]).
 
+
+### Historia familiar de TDAH y resolución de problemas a los 2–3 años
+
+En cohorts UK/Suecia, la historia familiar de TDAH (y los rasgos TDAH, no los de TEA) se asocia a mayor éxito en problem-solving generativo temprano ([@hendry2025adhdps]; [[2025-Hendry-ADHD-family-history-problem-solving]]; ver [[Cap-07-Comorbilidades]], [[Cap-23-Infancia-temprana]]). La historia familiar ayuda a anticipar **fortalezas**, no solo riesgos.
+
+
+### Fortalezas compensatorias: metáfora vía no verbal
+
+En TEA, la reconstrucción semántica multimodal es una vía de apoyo comunicativo ([@liu2025metaphor]; [[2025-Liu-multimodal-metaphors-neural]]).
+
 ## Referencias citadas
+
+- [@liu2025metaphor] — [[2025-Liu-multimodal-metaphors-neural]]
+
+- [@hendry2025adhdps] — [[2025-Hendry-ADHD-family-history-problem-solving]]
 
 - [@mcgugin2025] — [[2025-McGugin-laminar-FFA-thickness]]
 

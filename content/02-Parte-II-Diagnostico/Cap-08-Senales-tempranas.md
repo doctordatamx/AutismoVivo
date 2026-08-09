@@ -12,10 +12,18 @@ fuentes_integradas:
   - "[[2025-Seese-caregiver-interactions-later-born-toddlers]]"
   - "[[2024-Cleary-early-concerns-simplex-multiplex]]"
   - "[[2026-Bazelmans-infant-ERP-early-later-diagnosis]]"
+  - "[[2025-Sousa-early-milestones-ASD-retrospective]]"
+  - "[[2025-Zhu-China-diagnosis-delay]]"
+  - "[[2026-Chang-MCHAT-neurodevelopmental-scales]]"
+  - "[[2025-Chawarska-neonatal-social-pathway-faces]]"
+  - "[[2025-Benson-ML-early-childhood-development-scoping]]"
+  - "[[2025-Ali-speech-delay-determinants]]"
+  - "[[2025-Ma-15q11-q13-microduplication-prenatal]]"
+  - "[[2026-Glass-neonatal-seizures-outcomes-5-6y]]"
 estado: borrador
-ultima_actualizacion: "2026-08-06"
-version: "1.4"
-conocimiento: 5
+ultima_actualizacion: "2026-08-08"
+version: "1.12"
+conocimiento: 13
 resumen_ejecutivo: "El diagnóstico temprano (2-5 años) de autismo es un predictor robusto de TDAH posterior, lo que sugiere que la vigilancia de señales de hiperactividad/inatención debería mantenerse activa más allá del diagnóstico inicial de autismo."
 preguntas_abiertas:
   - "¿A qué edad y con qué instrumentos conviene reevaluar activamente síntomas de TDAH en niños ya diagnosticados con autismo?"
@@ -27,7 +35,7 @@ bibliography: "03-Datos/references.bib"
 # Capítulo 08 — Señales tempranas y banderas rojas por edad
 
 <!-- sync:version-badge -->
-> **v1.4** · conocimiento **5** · actualizado **2026-08-06**
+> **v1.12** · conocimiento **13** · actualizado **2026-08-08**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
@@ -51,6 +59,11 @@ Se están desarrollando herramientas **predictivas basadas en neuroimagen** capa
 ### Hermanos menores: la experiencia familiar previa importa
 
 Comparando interacciones cuidador-niño en bebés con signos de autismo con hermano mayor autista (**EL-Sib**), con hermano mayor no autista (**LL-Sib**) y primogénitos, el estatus de hermano predijo la calidad de las **estrategias de juego** del cuidador: los cuidadores LL-Sib tenían una odds ratio de **0,16** de emplear estrategias de juego de alto nivel frente a los EL-Sib, sin diferencias en otras estrategias ni en la respuesta a la comunicación ([@seese2025]; [[2025-Seese-caregiver-interactions-later-born-toddlers]]). Las familias que llegan **sin experiencia previa** de autismo pueden necesitar acompañamiento más explícito desde el primer contacto (ver [[Cap-30-Intervencion-temprana]], [[Cap-45-Crianza]]).
+
+
+### Hitos psicomotores en la historia clínica
+
+En 127 niños con TEA (diagnóstico ~34 meses), demoras frecuentes en palabras/frases, marcha y control esfínter; el retraso esfínter se asoció a GDQ más bajo ([@sousa2025miles]; [[2025-Sousa-early-milestones-ASD-retrospective]]; ver [[Cap-23-Infancia-temprana]], [[Cap-09-Herramientas-cribado]]). Registrar edad de hitos sigue siendo clave para la historia natural.
 
 ### Perspectivas clave
 
@@ -81,7 +94,58 @@ En la cohorte de hermanos BASIS (n=102 bebés 6–10 meses), los potenciales evo
 
 En N=525 familias, las preocupaciones parentales tempranas predicen el diagnóstico y no se explican por vigilancia multiplex: las señales tempranas reportadas por cuidadores mantienen valor clínico independiente del tipo familiar. ([@cleary2024]; [[2024-Cleary-early-concerns-simplex-multiplex]]).
 
+
+### Retraso cuando el lenguaje parece preservado
+
+Datos chinos (n=480) muestran que la competencia lingüística aparente y la edad escolar se asocian a **más** demora diagnóstica —perfil que escapa al radar temprano ([@zhu2025delay]; [[2025-Zhu-China-diagnosis-delay]]; ver [[Cap-10-Proceso-diagnostico]]).
+
+
+### Premotores del cribado M-CHAT positivo
+
+Impairments motores y de lenguaje a 12–15 meses predicen M-CHAT+ a 24 meses en muestra emparejada ([@chang2026mchat]; [[2026-Chang-MCHAT-neurodevelopmental-scales]]; ver [[Cap-09-Herramientas-cribado]]).
+
+
+### Conectividad social al nacer → caras a 4 meses → preocupaciones a 18 meses
+
+La iFC de la vía de percepción social derecha en neonatos se asocia a mayor atención a caras a los 4 meses; esa atención predice menos preocupaciones sociales a 18 meses ([@chawarska2025socialfc]; [[2025-Chawarska-neonatal-social-pathway-faces]]; ver [[Cap-06-Neurobiologia]], [[Cap-16-Interaccion-social]]). Candidata a marcador neural temprano de vulnerabilidad social.
+
+
+### Machine learning en desarrollo temprano: mapa y sesgo geográfico
+
+Scoping de 27 estudios: ML/DL dominan en países de altos ingresos; **ninguno** de África subsahariana ([@benson2025ml]; [[2025-Benson-ML-early-childhood-development-scoping]]; ver [[Cap-58-Fronteras-investigacion]]).
+
+
+### Speech delay como bandera de cribado
+
+Ante retraso del habla, cribar TEA, TDAH y audición de forma sistemática ([@ali2025speech]; [[2025-Ali-speech-delay-determinants]]; ver [[Cap-15-Comunicacion-social]]).
+
+
+### dup15q y señales tempranas
+
+Retraso del habla, hipotonía y rasgos TEA pueden ser la presentación postnatal de microduplicaciones 15q detectadas por CMA ([@ma202515q]; [[2025-Ma-15q11-q13-microduplication-prenatal]]).
+
+
+### Vigilancia prolongada tras convulsiones neonatales
+
+Examen neurológico neonatal anormal (OR≈3,9) y desarrollo alterado a 24 m predicen deterioro multi-dominio a edad escolar ([@glass2026neonatal]; [[2026-Glass-neonatal-seizures-outcomes-5-6y]]).
+
 ## Referencias citadas
+
+- [@glass2026neonatal] — [[2026-Glass-neonatal-seizures-outcomes-5-6y]]
+
+- [@ma202515q] — [[2025-Ma-15q11-q13-microduplication-prenatal]]
+
+- [@ali2025speech] — [[2025-Ali-speech-delay-determinants]]
+
+- [@benson2025ml] — [[2025-Benson-ML-early-childhood-development-scoping]]
+
+- [@chawarska2025socialfc] — [[2025-Chawarska-neonatal-social-pathway-faces]]
+
+- [@chang2026mchat] — [[2026-Chang-MCHAT-neurodevelopmental-scales]]
+
+- [@zhu2025delay] — [[2025-Zhu-China-diagnosis-delay]]
+
+- [@sousa2025miles] — [[2025-Sousa-early-milestones-ASD-retrospective]]
 
 - [@bazelmans2026erp] — [[2026-Bazelmans-infant-ERP-early-later-diagnosis]]
 

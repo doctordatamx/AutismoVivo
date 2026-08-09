@@ -6,9 +6,9 @@ titulo: "Fronteras de investigación y preguntas abiertas"
 dg-publish: false
 dg-home: false
 dg-permalink: /capitulos/fronteras-investigacion
-ultima_actualizacion: "2026-07-29"
-version: "1.8"
-conocimiento: 18
+ultima_actualizacion: "2026-08-08"
+version: "1.12"
+conocimiento: 22
 fuentes_integradas:
   - "[[2025-Kim-An-precision-diagnosis-genomics]]"
   - "[[2026-Zabetakis-Grabrucker-synaptic-protein-mutations]]"
@@ -28,6 +28,10 @@ fuentes_integradas:
   - "[[2025-Hacohen-Simons-Sleep-Project]]"
   - "[[2026-Chiodi-sociogenomics-autism-genes]]"
   - "[[2026-Ranjabaran-SSL-multi-brain-EEG]]"
+  - "[[2025-Soorya-developmental-synaptopathies-trial-endpoints]]"
+  - "[[2025-Benson-ML-early-childhood-development-scoping]]"
+  - "[[2025-Harrison-familial-SYNGAP1-boundaries]]"
+  - "[[2026-Samanta-SLC6A1-NDD-scoping]]"
 estado: borrador
 resumen_ejecutivo: "Genómica, sinaptopatía, gut–ENS, oxitocina estratificada, LCOR≈ketamina (E/I) y subgrupos transcriptómicos-imagen (LEAP) como fronteras de precisión. Un debate metodológico transversal: gran parte de la investigación en neuroimagen no controla por capacidad cognitiva (CI), amenazando la validez de hallazgos atribuidos al autismo."
 preguntas_abiertas:
@@ -45,7 +49,7 @@ bibliography: "03-Datos/references.bib"
 # Capítulo 58 — Fronteras de investigación y preguntas abiertas
 
 <!-- sync:version-badge -->
-> **v1.8** · conocimiento **18** · actualizado **2026-07-29**
+> **v1.12** · conocimiento **22** · actualizado **2026-08-08**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
@@ -144,7 +148,35 @@ Un enfoque de sociogenómica comparada y redes moleculares prioriza 240 genes as
 
 Un enfoque SSL de decodificación multi-cerebro con EEG alcanza ~78% de precisión en díadas ASC: una frontera metodológica para hiperscanning y marcadores interpersonales en autismo. ([@ranjabaran2026]; [[2026-Ranjabaran-SSL-multi-brain-EEG]]).
 
+
+### Clinical trial readiness en síndromes sinápticos
+
+Validar conceptos clínicos medibles en PMS/TSC/PHTS es paso previo a ensayos; lección extensible a TEA con DI severa ([@soorya2025synapto]; [[2025-Soorya-developmental-synaptopathies-trial-endpoints]]).
+
+
+### Brecha Norte–Sur en ML para ECD
+
+Los modelos de cribado/desarrollo temprano se entrenan casi solo en el Norte Global ([@benson2025ml]; [[2025-Benson-ML-early-childhood-development-scoping]]).
+
+
+### Expresividad variable en síndromes sinápticos
+
+SYNGAP1 familiar redefine fronteras clínicas para consejo y ensayos ([@harrison2025syngap]; [[2025-Harrison-familial-SYNGAP1-boundaries]]).
+
+
+### Terapia génica para SLC6A1-NDD
+
+Primer paciente dosificado (dic 2025) en NCT07173153: frontera terapéutica monogénica con solapamiento TEA ([@samanta2026slc6a1]; [[2026-Samanta-SLC6A1-NDD-scoping]]).
+
 ## Referencias citadas
+
+- [@samanta2026slc6a1] — [[2026-Samanta-SLC6A1-NDD-scoping]]
+
+- [@harrison2025syngap] — [[2025-Harrison-familial-SYNGAP1-boundaries]]
+
+- [@benson2025ml] — [[2025-Benson-ML-early-childhood-development-scoping]]
+
+- [@soorya2025synapto] — [[2025-Soorya-developmental-synaptopathies-trial-endpoints]]
 
 - [@hacohen2025] — [[2025-Hacohen-Simons-Sleep-Project]]
 - [@chiodi2026] — [[2026-Chiodi-sociogenomics-autism-genes]]

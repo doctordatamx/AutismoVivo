@@ -6,13 +6,15 @@ titulo: "Edad escolar (6–12 años)"
 dg-publish: false
 dg-home: false
 dg-permalink: /capitulos/edad-escolar
-ultima_actualizacion: "2026-07-29"
-version: "1.3"
-conocimiento: 3
+ultima_actualizacion: "2026-08-08"
+version: "1.5"
+conocimiento: 5
 fuentes_integradas:
   - "[[2025-Soto-Icaza-classroom-social-networks]]"
   - "[[2025-Ren-adhd-presentation-recharge]]"
   - "[[2025-Aitken-adaptive-behavior-trajectories-ML]]"
+  - "[[2025-Golden-cognitive-Bayley-ASD-persistence]]"
+  - "[[2026-Mao-past-diseases-persistent-learning-disability]]"
 estado: borrador
 resumen_ejecutivo: "En la etapa escolar (6-12 años), medidas objetivas de redes sociales de aula muestran que los niños autistas ocupan posiciones de menor centralidad y reciprocidad social que sus compañeros, un hallazgo relevante para el diseño de apoyos escolares. Un estudio de cohorte con machine learning en preescolares sugiere que las características al ingreso predicen mejor la trayectoria adaptativa posterior que las horas acumuladas de terapia."
 preguntas_abiertas:
@@ -26,7 +28,7 @@ bibliography: "03-Datos/references.bib"
 # Capítulo 24 — Edad escolar (6–12 años)
 
 <!-- sync:version-badge -->
-> **v1.3** · conocimiento **3** · actualizado **2026-07-29**
+> **v1.5** · conocimiento **5** · actualizado **2026-08-08**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
@@ -71,7 +73,21 @@ WHERE contains(capitulos_relacionados, this.file.link)
 SORT fecha_captura DESC
 ```
 
+
+### Persistencia diagnóstica y cambio cognitivo
+
+La trayectoria cognitiva hacia edad escolar depende más de si el TEA **persiste** que de la dosis acumulada de terapia específica en toddlerhood ([@golden2025cog]; [[2025-Golden-cognitive-Bayley-ASD-persistence]]; ver [[Cap-23-Infancia-temprana]]).
+
+
+### Edad escolar: trayectorias de aprendizaje y multimorbilidad
+
+Más enfermedades pasadas → más riesgo de PLD; la edad >8–12 atenúa algo el riesgo ([@mao2026pld]; [[2026-Mao-past-diseases-persistent-learning-disability]]).
+
 ## Referencias citadas
+
+- [@mao2026pld] — [[2026-Mao-past-diseases-persistent-learning-disability]]
+
+- [@golden2025cog] — [[2025-Golden-cognitive-Bayley-ASD-persistence]]
 
 - [@sotoicaza2025] — [[2025-Soto-Icaza-classroom-social-networks]]
 - [@ren2025] — [[2025-Ren-adhd-presentation-recharge]]

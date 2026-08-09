@@ -6,9 +6,9 @@ titulo: "Neurobiología: cerebro, conectividad, biomarcadores"
 dg-publish: true
 dg-home: false
 dg-permalink: /capitulos/neurobiologia
-ultima_actualizacion: "2026-07-29"
-version: "2.1"
-conocimiento: 31
+ultima_actualizacion: "2026-08-08"
+version: "2.7"
+conocimiento: 37
 fuentes_integradas:
   - "[[2012-Chaste-Leboyer-autism-risk-factors]]"
   - "[[2025-Wang-understanding-autism]]"
@@ -41,6 +41,12 @@ fuentes_integradas:
   - "[[2026-Chiodi-sociogenomics-autism-genes]]"
   - "[[2026-Ranjabaran-SSL-multi-brain-EEG]]"
   - "[[2025-McGugin-laminar-FFA-thickness]]"
+  - "[[2025-Montazeri-retinal-structures-ASD]]"
+  - "[[2025-Chawarska-neonatal-social-pathway-faces]]"
+  - "[[2025-Manzo-long-winding-road-autism]]"
+  - "[[2025-Smith-PMS-sensory-processing-EEG]]"
+  - "[[2026-Allwsh-soluble-alpha-klotho-ASD-biomarker]]"
+  - "[[2026-Samanta-SYNGAP1-pathophysiology-therapeutics]]"
 estado: revision
 resumen_ejecutivo: "Sinaptopatía, GER, inmune/hormonas/MGBA; LCOR↓ en DMN co-localiza con glutamato/GABA y se asemeja a ketamina (E/I). Subgrupos transcriptómicos-imagen (LEAP). Microbiota: correlación humana; prevención LGR-1 solo en ratones. Un comentario metodológico advierte que gran parte de la investigación en neuroimagen no controla por capacidad cognitiva (CI), generando hallazgos potencialmente espurios."
 preguntas_abiertas:
@@ -55,7 +61,7 @@ bibliography: "03-Datos/references.bib"
 # Capítulo 06 — Neurobiología: cerebro, conectividad, biomarcadores
 
 <!-- sync:version-badge -->
-> **v2.1** · conocimiento **31** · actualizado **2026-07-29**
+> **v2.7** · conocimiento **37** · actualizado **2026-08-08**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
@@ -223,7 +229,49 @@ Un enfoque SSL de decodificación multi-cerebro con EEG alcanza ~78% de precisi�
 
 En FFA laminar, la experiencia/selectividad facial se asocia a corteza más delgada y la de coches a mayor grosor: plasticidad dominio-específica a escala laminar en autismo. ([@mcgugin2025]; [[2025-McGugin-laminar-FFA-thickness]]).
 
+
+### Retina como ventana neurodesarrollada (OCT en adultos)
+
+En 80 ojos de adultos autistas vs 160 controles, la retina interna es más gruesa (Δ≈5,7 μm; también RNFL/IPL/INL), sin correlación con deterioro cognitivo pero sí con volúmenes cerebrales (calloso, hipocampo, temporal) ([@montazeri2025retina]; [[2025-Montazeri-retinal-structures-ASD]]). Candidato a biomarcador de investigación, no de cribado clínico aún.
+
+
+### Vía social derecha neonatal como biomarcador de riesgo
+
+En dHCP + cohorte Yale, la conectividad intrínseca de la vía social (STS) al nacer anticipa atención facial a los 4 meses ([@chawarska2025socialfc]; [[2025-Chawarska-neonatal-social-pathway-faces]]).
+
+
+### Del plegado cortical a los modelos animales: panorama
+
+La revisión de Manzo et al. recorre pliegues corticales, sensorialidad, cerebelo/tronco y sistemas de neuronas espejo como piezas del rompecabezas neurobiológico ([@manzo2025road]; [[2025-Manzo-long-winding-road-autism]]).
+
+
+### Procesamiento auditivo neural en sinaptopatía 22q13
+
+Firmas ERP/ITC en PMS difieren de tipicos y cambian con la edad ([@smith2025pms]; [[2025-Smith-PMS-sensory-processing-EEG]]).
+
+
+### Klotho y TEA: señal regional
+
+Descenso de alfa-klotho soluble reportado en una cohorte pediátrica iraquí ([@allwsh2026klotho]; [[2026-Allwsh-soluble-alpha-klotho-ASD-biomarker]]).
+
+
+### SynGAP y «hard-wiring» cortical prematuro
+
+Pérdida de SynGAP acelera maduración sináptica y altera oscilaciones/plasticidad ([@samanta2026syngap]; [[2026-Samanta-SYNGAP1-pathophysiology-therapeutics]]).
+
 ## Referencias citadas
+
+- [@samanta2026syngap] — [[2026-Samanta-SYNGAP1-pathophysiology-therapeutics]]
+
+- [@allwsh2026klotho] — [[2026-Allwsh-soluble-alpha-klotho-ASD-biomarker]]
+
+- [@smith2025pms] — [[2025-Smith-PMS-sensory-processing-EEG]]
+
+- [@manzo2025road] — [[2025-Manzo-long-winding-road-autism]]
+
+- [@chawarska2025socialfc] — [[2025-Chawarska-neonatal-social-pathway-faces]]
+
+- [@montazeri2025retina] — [[2025-Montazeri-retinal-structures-ASD]]
 
 - [@chien2026] — [[2026-Chien-aperiodic-EEG-autism]]
 - [@yosef2026] — [[2026-Yosef-predictive-processing-SOR]]

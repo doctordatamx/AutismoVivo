@@ -36,10 +36,27 @@ fuentes_integradas:
   - "[[2025-Yin-parental-PPD-offspring-ASD]]"
   - "[[2026-Dickerson-maternal-occupation-ASD-Denmark]]"
   - "[[2025-Morin-maternal-BMI-offspring-ASD]]"
+  - "[[2025-Furukawa-maternal-endometriosis-offspring-ASD]]"
+  - "[[2025-Mansournia-prenatal-risk-ASD-vs-VLHL]]"
+  - "[[2025-Frye-FRAA-transgenerational-heritability]]"
+  - "[[2025-Soorya-developmental-synaptopathies-trial-endpoints]]"
+  - "[[2025-Jiang-GDD-ID-genetic-risk-nomogram]]"
+  - "[[2024-Karadag-CTX-prevalence-ASD]]"
+  - "[[2025-Harrison-familial-SYNGAP1-boundaries]]"
+  - "[[2025-Granadillo-MYT1L-Brain-Gene-Registry]]"
+  - "[[2026-Ozturk-opioid-peptides-GFCF-diet]]"
+  - "[[2025-Smith-PMS-sensory-processing-EEG]]"
+  - "[[2026-Samanta-SLC6A1-NDD-scoping]]"
+  - "[[2026-Samanta-SYNGAP1-pathophysiology-therapeutics]]"
+  - "[[2025-Martin-CASK-neurodevelopmental-spectrum]]"
+  - "[[2025-Ma-15q11-q13-microduplication-prenatal]]"
+  - "[[2026-Jans-chromatinopathies-immunology-scoping]]"
+  - "[[2026-Rajasingham-forceps-vacuum-SSCD-outcomes]]"
+  - "[[2026-Schachar-ADHD-genetics-practitioner]]"
 estado: revision
-ultima_actualizacion: "2026-08-07"
-version: "2.5"
-conocimiento: 29
+ultima_actualizacion: "2026-08-08"
+version: "2.22"
+conocimiento: 46
 resumen_ejecutivo: "El TEA es altamente heredable. Convergen variantes raras y poligénicas; muchas actúan en la sinapsis y en el ENS. Ambiente prenatal (hormonas, MIA, asma materna OR≈1,3) converge en inmune–sinapsis–gut. Pruebas genéticas y terapias en síndromes/subtipos están en traslación."
 preguntas_abiertas:
   - "¿Cómo reconciliar heredabilidad alta con aumento de prevalencia y factores ambientales?"
@@ -54,7 +71,7 @@ bibliography: "03-Datos/references.bib"
 # Capítulo 05 — Etiología: genética, epigenética, factores ambientales
 
 <!-- sync:version-badge -->
-> **v2.5** · conocimiento **29** · actualizado **2026-08-07**
+> **v2.22** · conocimiento **46** · actualizado **2026-08-08**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
@@ -277,6 +294,11 @@ En casos-controles daneses, ciertas ocupaciones maternas alrededor de la concepc
 
 Cohortes armonizadas Suecia/Dinamarca examinan el BMI materno al inicio del embarazo y el riesgo de TEA en la descendencia a lo largo del rango completo de BMI; la literatura previa era mixta ([@morin2025bmi]; [[2025-Morin-maternal-BMI-offspring-ASD]]; ver [[Cap-04-Epidemiologia]]). Factor poblacional a interpretar con confusión residual, no como estigma individual.
 
+
+### Endometriosis materna: hallazgo nulo
+
+En ~30 000 díadas, la endometriosis materna anteparto **no** se asoció a TEA en hijos (aOR≈1,04) ([@furukawa2025endo]; [[2025-Furukawa-maternal-endometriosis-offspring-ASD]]; ver [[Cap-04-Epidemiologia]]). No justifica vigilancia intensiva de TEA solo por ese antecedente; priorizar factores con señal más clara.
+
 ### Perspectivas clave
 
 - **Evidencia clínica:** genética de alta confianza para variantes raras; ambiente con factores específicos (valproato); vacunas descartadas como causa.
@@ -298,7 +320,121 @@ Un enfoque de sociogenómica comparada y redes moleculares prioriza 240 genes as
 
 En N=125 jóvenes con variantes raras, el habla alcanza ~87% de uso mientras el tratamiento conductual es el menos accedido: identificar la genética no garantiza cartera equitativa de intervenciones. ([@benavidez2024]; [[2024-Benavidez-rare-variant-youth-services]]).
 
+
+### Riesgos prenatales más ligados a TEA que a pérdida sensorial
+
+Casos-controles iraní (n=536: TEA vs hipoacusia/pérdida visual congénita): hipertensión gestacional y mayor educación parental se asocian más a TEA que a VL/HL ([@mansournia2025prenatal]; [[2025-Mansournia-prenatal-risk-ASD-vs-VLHL]]). Preliminar y con limitaciones de muestreo (escuelas especiales; composición por sexo atípica) — útil como contraste de especificidad, no como mapa causal definitivo.
+
+
+### FRAA familiares: hipótesis inmunológica (asociativa)
+
+Reanálisis familiar: títulos de autoanticuerpos anti-receptor α de folato (FRAA) se correlacionan madre–hijo, son más altos en multiplex y en el probando vs hermanos; FRAA paternos se asocian a medidas conductuales/cognitivas ([@frye2025fraa]; [[2025-Frye-FRAA-transgenerational-heritability]]). **Hipótesis-generadora**, no prueba de causalidad ni indicación terapéutica automática (ver contrapunto en [[Cap-37-Complementarios-pseudociencia]]).
+
+
+### Sinaptopatías del desarrollo: perfiles y medición
+
+En PMS/TSC/PHTS (Consortium), la DI va de severa–profunda (PMS) a borderline/ausente (PHTS); esa severidad **invalida** muchas medidas cognitivas y de diagnóstico TEA estandarizadas ([@soorya2025synapto]; [[2025-Soorya-developmental-synaptopathies-trial-endpoints]]; ver [[Cap-14-Evaluacion-funcional]]).
+
+
+### Nomograma de riesgo genético en GDD/DI (sin TEA)
+
+Modelo clínico retrospectivo (AUC≈0,73–0,74) para priorizar test genético en retraso global/DI excluyendo TEA comórbido ([@jiang2025gdd]; [[2025-Jiang-GDD-ID-genetic-risk-nomogram]]; ver [[Cap-14-Evaluacion-funcional]]).
+
+
+### Metabolopatías accionables bajo el paraguas TEA
+
+CTX ilustra etiologías monogénicas metabólicas que pueden presentarse con TEA ([@karadag2024ctx]; [[2024-Karadag-CTX-prevalence-ASD]]; ver [[Cap-13-Diagnostico-diferencial]]).
+
+
+### SYNGAP1 familiar: límites de penetrancia
+
+Variantes familiares muestran fenotipos típicos y atenuados, con mosaico clínicamente no afectado ([@harrison2025syngap]; [[2025-Harrison-familial-SYNGAP1-boundaries]]).
+
+
+### MYT1L-NDD: TEA, DI y obesidad
+
+Fenotipado Brain Gene Registry (n=20; 14 P/LP) confirma el eje intelectual-autismo-obesidad ([@granadillo2025myt1l]; [[2025-Granadillo-MYT1L-Brain-Gene-Registry]]; preprint/registro).
+
+
+### Hipótesis opioide/GFCF: evidencia débil
+
+La vía gluten/caseína→exorfinas→TEA permanece especulativa frente a datos de eficacia ([@ozturk2026gfcf]; [[2026-Ozturk-opioid-peptides-GFCF-diet]]; ver [[Cap-37-Complementarios-pseudociencia]]).
+
+
+### Genotipo–sensorialidad en PMS
+
+Tamaño de deleción, edad y sexo modulan el procesamiento sensorial neural ([@smith2025pms]; [[2025-Smith-PMS-sensory-processing-EEG]]).
+
+
+### SLC6A1-NDD: GABA transportador y espectro TEA
+
+Scoping: epilepsia ~90%, DI 82–100%, rasgos autistas 22–65%; severidad proporcional a función residual GAT-1 ([@samanta2026slc6a1]; [[2026-Samanta-SLC6A1-NDD-scoping]]). Ensayo génico NCT07173153 ya en marcha.
+
+
+### SYNGAP1: sinaptopatía con tríada DI–epilepsia–TEA
+
+Haploinsuficiencia SYNGAP1 desregula Ras/Rap–ERK, maduración de espinas y tráfico AMPA ([@samanta2026syngap]; [[2026-Samanta-SYNGAP1-pathophysiology-therapeutics]]; ver también [[2025-Harrison-familial-SYNGAP1-boundaries]]).
+
+
+### CASK: espectro más amplio que MICPCH clásico
+
+Cohorte BINGO: menos DI profunda/MICPCH que series previas; sueño y CVI frecuentes; alta variabilidad ([@martin2025cask]; [[2025-Martin-CASK-neurodevelopmental-spectrum]]).
+
+
+### Microduplicación 15q11-q13 (dup15q): prenatal y postnatal
+
+Serie CMA (444 kb–9,6 Mb): fenotipo variable; un varón con DI, speech delay, rasgos TEA e hipotonía ([@ma202515q]; [[2025-Ma-15q11-q13-microduplication-prenatal]]).
+
+
+### Cromatínopatías: eje inmune además del neurodesarrollo
+
+Scoping (715 personas, 21 síndromes): infecciones, inmunodeficiencia/PTI e hipogammaglobulinemia frecuentes (ICF1, Kabuki1) ([@jans2026chromatin]; [[2026-Jans-chromatinopathies-immunology-scoping]]).
+
+
+### Riesgo perinatal: no atribuir TEA al forceps/vacuum
+
+El modo de parto asistido no se asocia a TEA tras ajuste; sí a otros TND ([@rajasingham2026forceps]; [[2026-Rajasingham-forceps-vacuum-SSCD-outcomes]]).
+
+
+### TDAH poligénico ≠ test diagnóstico rutinario
+
+Guía práctica: heredabilidad alta, arquitectura poligénica + CNVs raras; no determinismo monogénico habitual ([@schachar2026adhdgen]; [[2026-Schachar-ADHD-genetics-practitioner]]).
+
 ## Referencias citadas en este capítulo
+
+- [@schachar2026adhdgen] — [[2026-Schachar-ADHD-genetics-practitioner]]
+
+- [@rajasingham2026forceps] — [[2026-Rajasingham-forceps-vacuum-SSCD-outcomes]]
+
+- [@jans2026chromatin] — [[2026-Jans-chromatinopathies-immunology-scoping]]
+
+- [@ma202515q] — [[2025-Ma-15q11-q13-microduplication-prenatal]]
+
+- [@martin2025cask] — [[2025-Martin-CASK-neurodevelopmental-spectrum]]
+
+- [@samanta2026syngap] — [[2026-Samanta-SYNGAP1-pathophysiology-therapeutics]]
+
+- [@samanta2026slc6a1] — [[2026-Samanta-SLC6A1-NDD-scoping]]
+
+- [@smith2025pms] — [[2025-Smith-PMS-sensory-processing-EEG]]
+
+- [@ozturk2026gfcf] — [[2026-Ozturk-opioid-peptides-GFCF-diet]]
+
+- [@granadillo2025myt1l] — [[2025-Granadillo-MYT1L-Brain-Gene-Registry]]
+
+- [@harrison2025syngap] — [[2025-Harrison-familial-SYNGAP1-boundaries]]
+
+- [@karadag2024ctx] — [[2024-Karadag-CTX-prevalence-ASD]]
+
+- [@jiang2025gdd] — [[2025-Jiang-GDD-ID-genetic-risk-nomogram]]
+
+- [@soorya2025synapto] — [[2025-Soorya-developmental-synaptopathies-trial-endpoints]]
+
+- [@frye2025fraa] — [[2025-Frye-FRAA-transgenerational-heritability]]
+
+- [@mansournia2025prenatal] — [[2025-Mansournia-prenatal-risk-ASD-vs-VLHL]]
+
+- [@furukawa2025endo] — [[2025-Furukawa-maternal-endometriosis-offspring-ASD]]
 
 - [@morin2025bmi] — [[2025-Morin-maternal-BMI-offspring-ASD]]
 

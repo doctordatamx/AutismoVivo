@@ -6,14 +6,15 @@ titulo: "Dinámica familiar, hermanos y cuidadores"
 dg-publish: false
 dg-home: false
 dg-permalink: /capitulos/dinamica-familiar
-ultima_actualizacion: "2026-07-29"
-version: "1.3"
-conocimiento: 4
+ultima_actualizacion: "2026-08-07"
+version: "1.4"
+conocimiento: 5
 fuentes_integradas:
   - "[[2026-Brennan-circadian-family-synchronisation-scoping]]"
   - "[[2025-Marquez-black-caregivers-family-messaging]]"
   - "[[2026-Clark-Whitney-caregiver-adjustment-review]]"
   - "[[2024-Thayer-parents-autistic-adults-attitudes]]"
+  - "[[2025-Wechsler-parent-child-trait-similarity]]"
 estado: borrador
 resumen_ejecutivo: "Una revisión de alcance sobre sincronización circadiana familiar (42 estudios, solo 6 en familias autistas) muestra evidencia preliminar de sincronía de sueño y ritmos de actividad entre miembros de la familia, con hermanos de niños autistas presentando también problemas de sueño frecuentes — sugiriendo que el impacto en el sueño/ritmos familiares no se limita al niño autista individual."
 preguntas_abiertas:
@@ -27,7 +28,7 @@ bibliography: "03-Datos/references.bib"
 # Capítulo 46 — Dinámica familiar, hermanos y cuidadores
 
 <!-- sync:version-badge -->
-> **v1.3** · conocimiento **4** · actualizado **2026-07-29**
+> **v1.4** · conocimiento **5** · actualizado **2026-08-07**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
@@ -74,7 +75,14 @@ Una revisión sistemática de **78 artículos** sobre el ajuste de los cuidadore
 
 En 51 padres de adultos autistas, las actitudes profesionales percibidas son a menudo ambivalentes: el clima actitudinal de comunidad y servicios sigue moldeando bienestar familiar y acceso a apoyos. ([@thayer2024]; [[2024-Thayer-parents-autistic-adults-attitudes]]).
 
+
+### Similarity–fit: cuando padre/madre e hijo «encajan» en rasgos TEA/TDAH
+
+En cohorte familiar BASIS/STAARS (n=222), la **similaridad** madre–hijo en rasgos TEA predice mejor funcionamiento social y bienestar a los 3 años; la similaridad ADHD madre–hijo predice funcionamiento social; la similaridad padre–hijo TEA tiende en la misma dirección ([@wechsler2025sim]; [[2025-Wechsler-parent-child-trait-similarity]]; ver [[Cap-45-Crianza]]). Más allá del nivel absoluto de rasgos, el encaje familiar puede ser factor protector/promotor.
+
 ## Referencias citadas
+
+- [@wechsler2025sim] — [[2025-Wechsler-parent-child-trait-similarity]]
 
 - [@thayer2024] — [[2024-Thayer-parents-autistic-adults-attitudes]]
 

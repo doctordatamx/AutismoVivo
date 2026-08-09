@@ -6,9 +6,9 @@ titulo: "Crianza de niños autistas: estrategias basadas en evidencia"
 dg-publish: false
 dg-home: false
 dg-permalink: /capitulos/crianza
-ultima_actualizacion: "2026-07-29"
-version: "1.2"
-conocimiento: 9
+ultima_actualizacion: "2026-08-07"
+version: "1.3"
+conocimiento: 10
 fuentes_integradas:
   - "[[2026-Clark-Whitney-caregiver-adjustment-review]]"
   - "[[2025-Marquez-black-caregivers-family-messaging]]"
@@ -19,6 +19,7 @@ fuentes_integradas:
   - "[[2024-Thayer-parents-autistic-adults-attitudes]]"
   - "[[2026-Romanos-Sirakis-spectrum-reflection]]"
   - "[[2026-Singh-intersectional-stigma-Black-caregivers]]"
+  - "[[2025-Wechsler-parent-child-trait-similarity]]"
 estado: borrador
 resumen_ejecutivo: "El ajuste del cuidador al diagnóstico predice resultados tanto del cuidador como del niño, pero una revisión sistemática de 78 artículos halla 42 medidas distintas del constructo y solo 8 intervenciones dirigidas a mejorarlo (4 con resultados positivos). El contexto importa: los mensajes de la familia extensa oscilan entre negación y aceptación activa, la experiencia previa criando a un hijo autista mejora la calidad de las estrategias de juego con el siguiente hijo, y el nivel educativo materno se asocia al acceso al diagnóstico."
 preguntas_abiertas:
@@ -33,7 +34,7 @@ bibliography: "03-Datos/references.bib"
 # Capítulo 45 — Crianza de niños autistas: estrategias basadas en evidencia
 
 <!-- sync:version-badge -->
-> **v1.2** · conocimiento **9** · actualizado **2026-07-29**
+> **v1.3** · conocimiento **10** · actualizado **2026-08-07**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
@@ -104,7 +105,14 @@ Una reflexión de clínica-madre insiste en sostener ambas verdades —mirada cl
 
 En N=55 cuidadores negros, racismo y estigma del autismo se entrelazan («you can't whoop autism»): la autodefensa y los servicios deben abordar la intersección, no ejes separados. ([@singh2026]; [[2026-Singh-intersectional-stigma-Black-caregivers]]).
 
+
+### Encaje de rasgos parentales y crianza temprana
+
+La hipótesis similarity–fit sugiere que la proximidad de rasgos TEA/TDAH entre cuidadores e hijo se asocia a mejores desenlaces sociales tempranos ([@wechsler2025sim]; [[2025-Wechsler-parent-child-trait-similarity]]; ver [[Cap-46-Dinamica-familiar]]).
+
 ## Referencias citadas
+
+- [@wechsler2025sim] — [[2025-Wechsler-parent-child-trait-similarity]]
 
 - [@cleary2024] — [[2024-Cleary-early-concerns-simplex-multiplex]]
 - [@thayer2024] — [[2024-Thayer-parents-autistic-adults-attitudes]]

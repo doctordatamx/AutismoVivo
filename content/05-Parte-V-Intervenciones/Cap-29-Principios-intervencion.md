@@ -6,9 +6,9 @@ titulo: "Principios de intervención basada en evidencia"
 dg-publish: true
 dg-home: false
 dg-permalink: /capitulos/principios-intervencion
-ultima_actualizacion: "2026-07-29"
-version: "1.5"
-conocimiento: 6
+ultima_actualizacion: "2026-08-08"
+version: "1.6"
+conocimiento: 7
 fuentes_integradas:
   - "[[2025-Wang-understanding-autism]]"
   - "[[2025-Bottema-Beutel-problem-behavior-measurement]]"
@@ -16,6 +16,7 @@ fuentes_integradas:
   - "[[2024-Anixt-evidence-based-interventions-autism]]"
   - "[[2026-Nosova-autistic-adults-views-early-intervention]]"
   - "[[2024-Benavidez-rare-variant-youth-services]]"
+  - "[[2026-Saunders-emotion-dysregulation-therapy-participation]]"
 estado: revision
 resumen_ejecutivo: "No hay fármacos aprobados para síntomas nucleares del TEA. Las intervenciones no farmacológicas (habilidades, comunicación, terapias psicosociales, digitales, ejercicio, etc.) buscan autonomía, comunicación y calidad de vida. La estimulación cerebral no invasiva (tDCS/rTMS) y fármacos experimentales siguen en evaluación; priorizar individualización y etiología. Un estudio de cohorte con machine learning halla que las horas acumuladas de ABA/terapias del desarrollo no mejoran la predicción de la trayectoria de conducta adaptativa, cuestionando la dosis como único parámetro relevante."
 preguntas_abiertas:
@@ -30,7 +31,7 @@ bibliography: "03-Datos/references.bib"
 # Capítulo 29 — Principios de intervención basada en evidencia
 
 <!-- sync:version-badge -->
-> **v1.5** · conocimiento **6** · actualizado **2026-07-29**
+> **v1.6** · conocimiento **7** · actualizado **2026-08-08**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
@@ -86,7 +87,14 @@ Una revisión sistemática de métodos mixtos de **19 estudios** sintetiza las v
 
 En N=125 jóvenes con variantes raras, el habla alcanza ~87% de uso mientras el tratamiento conductual es el menos accedido: identificar la genética no garantiza cartera equitativa de intervenciones. ([@benavidez2024]; [[2024-Benavidez-rare-variant-youth-services]]).
 
+
+### ¿Debería la desregulación emocional ser objetivo primario?
+
+Datos preliminares vinculan participación terapéutica y ED en sentido complejo (no causal): justifica diseñar EI que mida y aborde regulación emocional ([@saunders2026ed]; [[2026-Saunders-emotion-dysregulation-therapy-participation]]; ver [[Cap-30-Intervencion-temprana]]).
+
 ## Referencias citadas
+
+- [@saunders2026ed] — [[2026-Saunders-emotion-dysregulation-therapy-participation]]
 
 - [@benavidez2024] — [[2024-Benavidez-rare-variant-youth-services]]
 

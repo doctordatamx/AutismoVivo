@@ -22,6 +22,9 @@ tags:
 ### Un repositorio dinámico entre la evidencia científica y la comprensión del espectro autista.
 
 
+![[PortadaAutismoVivo.svg|700]]
+
+
 *Para Liam.
 
 *Me enseñó a mirar el mundo desde una perspectiva completamente nueva y a entender que la mente humana no tiene una sola forma de ser brillante.
@@ -67,12 +70,12 @@ Si utilizas la información, la estructura o las síntesis de **Libro Vivo: Auti
 | **Última actualización** | 28 de julio de 2026 |
 | **Sitio web** | [doctordatamx.github.io/AutismoVivo](https://doctordatamx.github.io/AutismoVivo/) |
 | **Repositorio** | [github.com/doctordatamx/AutismoVivo](https://github.com/doctordatamx/AutismoVivo) |
-| **Artículos ingeridos** | **147** papers integrados · 2026-08-07 ([[gestion-ingesta]]) |
+| **Artículos ingeridos** | **192** papers integrados · 2026-08-08 ([[gestion-ingesta]]) |
 
 ### Artículos integrados
 
 <!-- sync:ingest-counter -->
-📚 **147** artículos científicos ingeridos e integrados al libro (registro 2026-08-07). Ver [[gestion-ingesta]] · [[Apendice-D-Bibliografia|Bibliografía]].
+📚 **192** artículos científicos ingeridos e integrados al libro (registro 2026-08-08). Ver [[gestion-ingesta]] · [[Apendice-D-Bibliografia|Bibliografía]].
 <!-- /sync:ingest-counter -->
 
 ### Capítulos actualizados recientemente
@@ -80,14 +83,14 @@ Si utilizas la información, la estructura o las síntesis de **Libro Vivo: Auti
 <!-- sync:chapters-recent -->
 | Capítulo | Fecha | Ver. |
 | --- | --- | --- |
-| [[Cap-54-Genero-diversidad|Capítulo 54 — Autismo, género y diversidad sexual]] | 2026-08-07 | 0.3 |
-| [[Cap-47-Salud-mental|Capítulo 47 — Salud mental: ansiedad, depresión, trauma, suicidio]] | 2026-08-07 | 1.13 |
-| [[Cap-27-Adultez-madura|Capítulo 27 — Adultez madura y envejecimiento]] | 2026-08-07 | 1.3 |
-| [[Cap-13-Diagnostico-diferencial|Capítulo 13 — Diagnóstico diferencial y condiciones relacionadas]] | 2026-08-07 | 1.1 |
-| [[Cap-12-Diagnostico-adultos|Capítulo 12 — Diagnóstico en adultos y diagnóstico tardío]] | 2026-08-07 | 1.7 |
-| [[Cap-11-Diagnostico-mujeres|Capítulo 11 — Diagnóstico en mujeres, no binarios y personas enmascaradas]] | 2026-08-07 | 1.12 |
-| [[Cap-10-Proceso-diagnostico|Capítulo 10 — Proceso diagnóstico integral]] | 2026-08-07 | 1.7 |
-| [[Cap-09-Herramientas-cribado|Capítulo 09 — Herramientas de cribado (M-CHAT, ADOS, ADI-R, y otras)]] | 2026-08-07 | 1.6 |
+| [[Cap-58-Fronteras-investigacion|Capítulo 58 — Fronteras de investigación y preguntas abiertas]] | 2026-08-08 | 1.12 |
+| [[Cap-55-Contextos-culturales|Capítulo 55 — Autismo en contextos culturales, raza y acceso equitativo]] | 2026-08-08 | 0.6 |
+| [[Cap-54-Genero-diversidad|Capítulo 54 — Autismo, género y diversidad sexual]] | 2026-08-08 | 0.4 |
+| [[Cap-51-Autodefensa-neurodiversidad|Capítulo 51 — Movimiento de autodefensa y neurodiversidad]] | 2026-08-08 | 1.7 |
+| [[Cap-47-Salud-mental|Capítulo 47 — Salud mental: ansiedad, depresión, trauma, suicidio]] | 2026-08-08 | 1.16 |
+| [[Cap-37-Complementarios-pseudociencia|Capítulo 37 — Enfoques complementarios y pseudociencia (qué evitar)]] | 2026-08-08 | 1.3 |
+| [[Cap-31-ABA-controversias|Capítulo 31 — ABA y análisis conductual aplicado: evidencia y controversias]] | 2026-08-08 | 1.3 |
+| [[Cap-30-Intervencion-temprana|Capítulo 30 — Intervención temprana (ESDM, JASPER, modelos naturales)]] | 2026-08-08 | 1.8 |
 <!-- /sync:chapters-recent -->
 
 ---

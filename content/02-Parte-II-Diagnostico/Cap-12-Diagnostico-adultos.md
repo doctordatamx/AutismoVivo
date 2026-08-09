@@ -17,10 +17,11 @@ fuentes_integradas:
   - "[[2025-Garza-underrecognition-adult-psychiatric]]"
   - "[[2025-Procyshyn-autistic-adults-barriers-NHS-suicidality]]"
   - "[[2025-Terner-sex-differences-adult-autism-screening]]"
+  - "[[2026-Figueiredo-ASD-personality-disorders]]"
 estado: borrador
 ultima_actualizacion: "2026-08-07"
-version: "1.7"
-conocimiento: 10
+version: "1.8"
+conocimiento: 11
 resumen_ejecutivo: "Una cohorte administrativa de Quebec (n=5289) muestra que 26,3% de los diagnósticos de autismo ocurren en la adultez, y que las personas diagnosticadas en la adultez —particularmente mujeres y personas con discapacidad intelectual/del desarrollo— presentan las tasas de hospitalización más altas, sugiriendo brechas de continuidad en la atención. Nuevos instrumentos de autocribado adulto (SfA-A/SfA-F, Brasil) amplían las opciones de detección temprana en esta población subdiagnosticada."
 preguntas_abiertas:
   - "¿Qué modelos de atención reducirían la hospitalización evitable en personas diagnosticadas en la adultez?"
@@ -33,7 +34,7 @@ bibliography: "03-Datos/references.bib"
 # Capítulo 12 — Diagnóstico en adultos y diagnóstico tardío
 
 <!-- sync:version-badge -->
-> **v1.7** · conocimiento **10** · actualizado **2026-08-07**
+> **v1.8** · conocimiento **11** · actualizado **2026-08-07**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
@@ -108,7 +109,14 @@ El SQ-A-2 (N=302), co-producido con adultos autistas, mejora la discriminación 
 
 En N=769 adultos, el diagnóstico en la infancia temprana se asocia a mayor satisfacción vital adulta: el timing del reconocimiento importa para trayectorias de bienestar, no solo para acceso escolar inmediato. ([@cremer2026]; [[2026-Cremer-age-diagnosis-life-satisfaction]]).
 
+
+### TEA y trastornos de personalidad: diferencial o comorbilidad
+
+En adultos, rasgos compartidos con TPs facilitan diagnósticos erróneos; hace falta perspectiva longitudinal neurodesarrollada, no solo corte transversal de personalidad ([@figueiredo2026pd]; [[2026-Figueiredo-ASD-personality-disorders]]; ver [[Cap-13-Diagnostico-diferencial]]).
+
 ## Referencias citadas
+
+- [@figueiredo2026pd] — [[2026-Figueiredo-ASD-personality-disorders]]
 
 - [@terner2025screen] — [[2025-Terner-sex-differences-adult-autism-screening]]
 

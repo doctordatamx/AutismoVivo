@@ -6,9 +6,9 @@ titulo: "Evaluación funcional: comunicación, adaptativa, sensorial"
 dg-publish: false
 dg-home: false
 dg-permalink: /capitulos/evaluacion-funcional
-ultima_actualizacion: "2026-07-29"
-version: "1.3"
-conocimiento: 6
+ultima_actualizacion: "2026-08-08"
+version: "1.8"
+conocimiento: 11
 fuentes_integradas:
   - "[[2026-Han-behavioral-network-comorbidity]]"
   - "[[2025-Chen-anxiety-scales-treatment-outcomes]]"
@@ -16,6 +16,11 @@ fuentes_integradas:
   - "[[2025-Russo-developmental-approach-IQ-neuroimaging]]"
   - "[[2026-Kolisnyk-sensory-phenotypes-connectome-ML]]"
   - "[[2025-Furnier-ADDM-prevalence-adaptive]]"
+  - "[[2026-ElHalal-sleep-assessment-NDD]]"
+  - "[[2025-Soorya-developmental-synaptopathies-trial-endpoints]]"
+  - "[[2025-Jiang-GDD-ID-genetic-risk-nomogram]]"
+  - "[[2025-Granadillo-MYT1L-Brain-Gene-Registry]]"
+  - "[[2025-Martin-CASK-neurodevelopmental-spectrum]]"
 estado: borrador
 resumen_ejecutivo: "La evaluación funcional en TEA va más allá del diagnóstico categórico: modelos de red (PDDBI) sitúan ansiedad y TDAH como nodos centrales de comorbilidad; la elección de instrumento (interferencia vs. síntoma) determina si se detecta bien el cambio clínico; las Vineland-3 combinadas con machine learning predicen trayectorias de conducta adaptativa (77% exactitud) sin que más horas de terapia mejoren la predicción; y controlar por CI es un prerrequisito metodológico, no solo clínico."
 preguntas_abiertas:
@@ -29,7 +34,7 @@ bibliography: "03-Datos/references.bib"
 # Capítulo 14 — Evaluación funcional: comunicación, adaptativa, sensorial
 
 <!-- sync:version-badge -->
-> **v1.3** · conocimiento **6** · actualizado **2026-07-29**
+> **v1.8** · conocimiento **11** · actualizado **2026-08-08**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
@@ -78,7 +83,42 @@ El perfilado sensorial no es solo descriptivo: en 146 niños y adolescentes auti
 
 En ADDM, la prevalencia con funcionamiento adaptativo leve pasa de 5,1 a 17,6/1000 mientras moderado–profundo permanece estable: el aumento epidemiológico se concentra en el estrato leve. ([@furnier2025]; [[2025-Furnier-ADDM-prevalence-adaptive]]).
 
+
+### Sueño en la evaluación funcional del neurodesarrollo
+
+Incluir cribado sistemático de sueño (historia + diarios/cuestionarios) en TEA/TDAH/DI: el insomnio es el problema dominante en autismo ([@elhalal2026sleep]; [[2026-ElHalal-sleep-assessment-NDD]]; ver [[Cap-07-Comorbilidades]]).
+
+
+### Cuando el piso de la prueba no alcanza
+
+En sinaptopatías con DI profunda, instrumentos «estándar» (incl. algunos de TEA) dejan de ser válidos: hay que elegir endpoints según el perfil sindrómico ([@soorya2025synapto]; [[2025-Soorya-developmental-synaptopathies-trial-endpoints]]).
+
+
+### Priorizar genética en GDD/DI
+
+Un nomograma con discriminación moderada ayuda a decidir a quién testar primero en GDD/DI ([@jiang2025gdd]; [[2025-Jiang-GDD-ID-genetic-risk-nomogram]]).
+
+
+### Fenotipado estandarizado en genes raros (BGR/RNAP)
+
+MYT1L muestra utilidad de protocolos neuroconductuales rápidos + EHR ([@granadillo2025myt1l]; [[2025-Granadillo-MYT1L-Brain-Gene-Registry]]).
+
+
+### Evaluación dimensional en TND raros (CASK/BINGO)
+
+Patrones de dificultad similares a otros síndromes raros: medir sueño, visión cerebral y conducta, no solo CI ([@martin2025cask]; [[2025-Martin-CASK-neurodevelopmental-spectrum]]).
+
 ## Referencias citadas
+
+- [@martin2025cask] — [[2025-Martin-CASK-neurodevelopmental-spectrum]]
+
+- [@granadillo2025myt1l] — [[2025-Granadillo-MYT1L-Brain-Gene-Registry]]
+
+- [@jiang2025gdd] — [[2025-Jiang-GDD-ID-genetic-risk-nomogram]]
+
+- [@soorya2025synapto] — [[2025-Soorya-developmental-synaptopathies-trial-endpoints]]
+
+- [@elhalal2026sleep] — [[2026-ElHalal-sleep-assessment-NDD]]
 
 - [@furnier2025] — [[2025-Furnier-ADDM-prevalence-adaptive]]
 

@@ -6,9 +6,9 @@ titulo: "Intervención temprana (ESDM, JASPER, modelos naturales)"
 dg-publish: false
 dg-home: false
 dg-permalink: /capitulos/intervencion-temprana
-ultima_actualizacion: "2026-07-29"
-version: "1.4"
-conocimiento: 8
+ultima_actualizacion: "2026-08-08"
+version: "1.8"
+conocimiento: 12
 fuentes_integradas:
   - "[[2025-Ziegler-DAN-PACT-protocol]]"
   - "[[2025-Aitken-adaptive-behavior-trajectories-ML]]"
@@ -18,6 +18,10 @@ fuentes_integradas:
   - "[[2025-MacDuffie-therapeutic-odyssey-predictive-testing]]"
   - "[[2024-Cleary-early-concerns-simplex-multiplex]]"
   - "[[2024-Benavidez-rare-variant-youth-services]]"
+  - "[[2026-Chang-MCHAT-neurodevelopmental-scales]]"
+  - "[[2025-Golden-cognitive-Bayley-ASD-persistence]]"
+  - "[[2026-Saunders-emotion-dysregulation-therapy-participation]]"
+  - "[[2025-Benson-ML-early-childhood-development-scoping]]"
 estado: borrador
 resumen_ejecutivo: "PACT (Paediatric Autism Communication Therapy), intervención mediada por padres con evidencia previa en Reino Unido, se replica en Dinamarca (DAN-PACT, n=280); protocolo publicado, resultados de eficacia aún pendientes. Un estudio de cohorte con ML en niños pequeños (20-90 meses) no encontró que las horas acumuladas de terapia del desarrollo mejoraran la predicción de la trayectoria adaptativa, sugiriendo que las características de ingreso pesan más que la dosis."
 preguntas_abiertas:
@@ -31,7 +35,7 @@ bibliography: "03-Datos/references.bib"
 # Capítulo 30 — Intervención temprana (ESDM, JASPER, modelos naturales)
 
 <!-- sync:version-badge -->
-> **v1.4** · conocimiento **8** · actualizado **2026-07-29**
+> **v1.8** · conocimiento **12** · actualizado **2026-08-08**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
@@ -97,7 +101,35 @@ En N=525 familias, las preocupaciones parentales tempranas predicen el diagnóst
 
 En N=125 jóvenes con variantes raras, el habla alcanza ~87% de uso mientras el tratamiento conductual es el menos accedido: identificar la genética no garantiza cartera equitativa de intervenciones. ([@benavidez2024]; [[2024-Benavidez-rare-variant-youth-services]]).
 
+
+### Ventana 12–15 meses: señales que anticipan M-CHAT+
+
+Identificar impairments motores/lenguaje antes de los 2 años puede adelantar derivación e intervención ([@chang2026mchat]; [[2026-Chang-MCHAT-neurodevelopmental-scales]]).
+
+
+### Más horas ≠ mejor trayectoria cognitiva
+
+En cohorte clínica, las horas de intervención específica no se asocian de forma simple a mejoras cognitivas; la persistencia del diagnóstico modera el cambio Bayley→CI ([@golden2025cog]; [[2025-Golden-cognitive-Bayley-ASD-persistence]]).
+
+
+### Desregulación emocional y uso de terapias en preescolar
+
+En n=853 (2–5 años), hablar/TO/conductual son las terapias más frecuentes; más tipos de terapia correlacionan con mayor ED, mientras participar en terapias específicas se asocia a menor ED (observacional) ([@saunders2026ed]; [[2026-Saunders-emotion-dysregulation-therapy-participation]]). La ED rara vez es target primario de EI pese a su prevalencia.
+
+
+### Datos multimodales y cognición en EI digital
+
+Bayley y datos imagen/video/sensor lideran aplicaciones ML en infancia temprana ([@benson2025ml]; [[2025-Benson-ML-early-childhood-development-scoping]]).
+
 ## Referencias citadas
+
+- [@benson2025ml] — [[2025-Benson-ML-early-childhood-development-scoping]]
+
+- [@saunders2026ed] — [[2026-Saunders-emotion-dysregulation-therapy-participation]]
+
+- [@golden2025cog] — [[2025-Golden-cognitive-Bayley-ASD-persistence]]
+
+- [@chang2026mchat] — [[2026-Chang-MCHAT-neurodevelopmental-scales]]
 
 - [@cleary2024] — [[2024-Cleary-early-concerns-simplex-multiplex]]
 - [@benavidez2024] — [[2024-Benavidez-rare-variant-youth-services]]

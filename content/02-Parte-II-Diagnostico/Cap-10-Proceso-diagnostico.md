@@ -22,10 +22,11 @@ fuentes_integradas:
   - "[[2026-Liu-Taiwanese-adolescents-diagnosis-identity]]"
   - "[[2025-Srivarathan-diagnostic-safety-inequities-ASD]]"
   - "[[2025-Sutherland-telehealth-autism-diagnostic-agreement]]"
+  - "[[2025-Zhu-China-diagnosis-delay]]"
 estado: revision
 ultima_actualizacion: "2026-08-07"
-version: "1.7"
-conocimiento: 15
+version: "1.8"
+conocimiento: 16
 resumen_ejecutivo: "El diagnóstico de TEA es clínico (historia + observación estandarizada). Instrumentos rigurosos (ADI/ADOS) son valiosos, pero no debe retrasarse la intervención por fronteras diagnósticas perfectas. Microarray/WES/WGS se indican según comorbilidad; PS (~2% liability) aún sin utilidad clínica rutinaria. Interpretación: umbral rara+poligénica, snRNA emergentes."
 preguntas_abiertas:
   - ¿Qué paquete mínimo diagnóstico equilibra rigor y acceso en atención primaria?
@@ -38,7 +39,7 @@ bibliography: 03-Datos/references.bib
 # Capítulo 10 — Proceso diagnóstico integral
 
 <!-- sync:version-badge -->
-> **v1.7** · conocimiento **15** · actualizado **2026-08-07**
+> **v1.8** · conocimiento **16** · actualizado **2026-08-07**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
@@ -123,7 +124,14 @@ Ocho adolescentes taiwaneses describen el diagnóstico de autismo como una «gu�
 
 Una revisión sistemática de 20 estudios (2015–2024) sitúa el **retraso diagnóstico** como el error más frecuente en inequidades de salud mental —con TEA en 17/20 trabajos— e identifica barreras que interactúan: alfabetización en salud de cuidadores, seguros, **sesgo del proveedor** en la anamnesis, pruebas culturalmente no equivalentes e intérpretes/jerga inadecuados ([@srivarathan2025]; [[2025-Srivarathan-diagnostic-safety-inequities-ASD]]; ver [[Cap-11-Diagnostico-mujeres]], [[Cap-04-Epidemiologia]]).
 
+
+### Retraso diagnóstico en China: perfiles «menos obvios»
+
+En 480 niños chinos, la mediana de retraso diagnóstico fue **9,58 meses**. Factores de demora: lenguaje aparente normal (RR≈1,75), primeras preocupaciones no nucleares, asistencia escolar y controles irregulares ([@zhu2025delay]; [[2025-Zhu-China-diagnosis-delay]]; ver [[Cap-08-Senales-tempranas]], [[Cap-55-Contextos-culturales]]). El mensaje clínico: no bajar la vigilancia cuando el lenguaje «parece bien».
+
 ## Referencias citadas
+
+- [@zhu2025delay] — [[2025-Zhu-China-diagnosis-delay]]
 
 - [@sutherland2025tele] — [[2025-Sutherland-telehealth-autism-diagnostic-agreement]]
 

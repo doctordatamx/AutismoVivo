@@ -9,10 +9,11 @@ dg-permalink: /capitulos/genero-diversidad
 fuentes_integradas:
   - "[[2025-Munday-TGD-autistic-belonging]]"
   - "[[2025-Pereira-TGD-autistic-adolescents-depression]]"
+  - "[[2026-Uretzky-fertility-preservation-TGD-autism]]"
 estado: borrador
-ultima_actualizacion: "2026-08-07"
-version: "0.3"
-conocimiento: 2
+ultima_actualizacion: "2026-08-08"
+version: "0.4"
+conocimiento: 3
 resumen_ejecutivo: ""
 preguntas_abiertas: []
 tags:
@@ -22,7 +23,7 @@ tags:
 # Capítulo 54 — Autismo, género y diversidad sexual
 
 <!-- sync:version-badge -->
-> **v0.3** · conocimiento **2** · actualizado **2026-08-07**
+> **v0.4** · conocimiento **3** · actualizado **2026-08-08**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
@@ -45,6 +46,11 @@ Entrevistas narrativas con 13 adultos trans y de género diverso autistas muestr
 
 Más allá de la (des)pertenencia adulta, en una cohorte grande de adolescentes autistas la identidad TGD predice depresión con OR≈4,9 ([@pereira2025tgd]; [[2025-Pereira-TGD-autistic-adolescents-depression]]; ver [[Cap-47-Salud-mental]], [[Cap-25-Adolescencia]]).
 
+
+### Preservación de fertilidad en adolescentes TGD: rol del TEA y la salud mental
+
+En cohorte clínica, adolescentes con TEA completaron más el consejo de fertilidad (p=0,04); la utilización fue 31,3% (AMAB≫AFAB). Autolesión/intento de suicidio se asociaron a **menos** preservación ([@uretzky2026fert]; [[2026-Uretzky-fertility-preservation-TGD-autism]]; ver [[Cap-47-Salud-mental]], [[Cap-25-Adolescencia]]).
+
 ### Perspectivas clave
 
 - **Evidencia clínica:**
@@ -52,6 +58,10 @@ Más allá de la (des)pertenencia adulta, en una cohorte grande de adolescentes 
 - **Controversias y debates:**
 
 ### Preguntas abiertas
+
+## Referencias citadas
+
+- [@uretzky2026fert] — [[2026-Uretzky-fertility-preservation-TGD-autism]]
 
 ## Fuentes integradas
 

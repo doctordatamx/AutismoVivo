@@ -6,9 +6,9 @@ titulo: "Interacción social, amistad y soledad"
 dg-publish: false
 dg-home: false
 dg-permalink: /capitulos/interaccion-social
-ultima_actualizacion: "2026-07-29"
-version: "1.3"
-conocimiento: 8
+ultima_actualizacion: "2026-08-08"
+version: "1.4"
+conocimiento: 9
 fuentes_integradas:
   - "[[2025-Cusson-empathy-measures-meta-analysis]]"
   - "[[2025-Soto-Icaza-classroom-social-networks]]"
@@ -18,6 +18,7 @@ fuentes_integradas:
   - "[[2024-Brett-Perth-Empathy-Scale]]"
   - "[[2025-Koelkebeck-body-facial-emotion]]"
   - "[[2025-McGugin-laminar-FFA-thickness]]"
+  - "[[2025-Chawarska-neonatal-social-pathway-faces]]"
 estado: revision
 resumen_ejecutivo: "Las dificultades sociales del TEA no equivalen a falta de empatía afectiva. Meta-análisis 2025: empatía cognitiva reducida; afectiva casi comparable; en tareas ecológicas las diferencias suelen ser mínimas. La apariencia de ‘falta de empatía’ puede ser distress, malentendido mutuo o sesgo de medida."
 preguntas_abiertas:
@@ -31,7 +32,7 @@ bibliography: "03-Datos/references.bib"
 # Capítulo 16 — Interacción social, amistad y soledad
 
 <!-- sync:version-badge -->
-> **v1.3** · conocimiento **8** · actualizado **2026-07-29**
+> **v1.4** · conocimiento **9** · actualizado **2026-08-08**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
@@ -99,7 +100,14 @@ En N=107 (autismo, ansiedad social y NT), la percepción emocional alterada invo
 
 En FFA laminar, la experiencia/selectividad facial se asocia a corteza más delgada y la de coches a mayor grosor: plasticidad dominio-específica a escala laminar en autismo. ([@mcgugin2025]; [[2025-McGugin-laminar-FFA-thickness]]).
 
+
+### Atención a caras a los 4 meses como puente neural-social
+
+Mayor atención a caras media entre iFC social neonatal y menos preocupaciones sociales a 18 meses ([@chawarska2025socialfc]; [[2025-Chawarska-neonatal-social-pathway-faces]]; ver [[Cap-08-Senales-tempranas]]).
+
 ## Referencias citadas
+
+- [@chawarska2025socialfc] — [[2025-Chawarska-neonatal-social-pathway-faces]]
 
 - [@brett2024] — [[2024-Brett-Perth-Empathy-Scale]]
 - [@koelkebeck2025] — [[2025-Koelkebeck-body-facial-emotion]]

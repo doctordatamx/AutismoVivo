@@ -23,10 +23,17 @@ fuentes_integradas:
   - "[[2025-Kamp-Becker-media-preschool-autism-risk]]"
   - "[[2026-Dickerson-maternal-occupation-ASD-Denmark]]"
   - "[[2025-Morin-maternal-BMI-offspring-ASD]]"
+  - "[[2025-Furukawa-maternal-endometriosis-offspring-ASD]]"
+  - "[[2025-Mansournia-prenatal-risk-ASD-vs-VLHL]]"
+  - "[[2025-Kariuki-NDD-burden-Kenya]]"
+  - "[[2025-Ali-speech-delay-determinants]]"
+  - "[[2025-Ma-15q11-q13-microduplication-prenatal]]"
+  - "[[2026-Rajasingham-forceps-vacuum-SSCD-outcomes]]"
+  - "[[2026-Mao-past-diseases-persistent-learning-disability]]"
 estado: revision
-ultima_actualizacion: "2026-08-07"
-version: "2.5"
-conocimiento: 16
+ultima_actualizacion: "2026-08-08"
+version: "2.12"
+conocimiento: 23
 autor_libro: "Dr. Fernando Avalos Reyes"
 resumen_ejecutivo: "La prevalencia reportada del TEA sigue subiendo. Estimaciones globales ~1/100 niños; ADDM EE.UU. 2020 ~1/36. Ratio H:M ~3,8–4:1 (variable por país/CI; subdiagnóstico femenino). Factores ambientales prenatales (p. ej. asma materna OR≈1,3) aportan riesgo poblacional modesto junto a genética."
 preguntas_abiertas:
@@ -40,7 +47,7 @@ bibliography: "03-Datos/references.bib"
 # Capítulo 04 — Epidemiología: prevalencia, tendencias, sesgos de medición
 
 <!-- sync:version-badge -->
-> **v2.5** · conocimiento **16** · actualizado **2026-08-07**
+> **v2.12** · conocimiento **23** · actualizado **2026-08-08**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
@@ -133,6 +140,11 @@ En la cohorte poblacional Generation R (Róterdam), el consumo **prenatal de can
 Registros daneses vinculan algunas ocupaciones maternas pre/peri-concepción con odds modestamente elevadas de TEA en hijos (p. ej. militar/defensa aOR≈1,59) ([@dickerson2026occ]; [[2026-Dickerson-maternal-occupation-ASD-Denmark]]; ver [[Cap-05-Etiologia]]).
 
 
+
+### Endometriosis y riesgo poblacional
+
+Un nulo robusto (aOR≈1) entre endometriosis materna y TEA en la descendencia evita sobreatribuir riesgo a ese diagnóstico aislado ([@furukawa2025endo]; [[2025-Furukawa-maternal-endometriosis-offspring-ASD]]; ver [[Cap-05-Etiologia]]).
+
 ### BMI materno poblacional
 
 Estudios de cohorte nórdicos aportan estimaciones del vínculo BMI materno temprano–TEA en hijos sobre el rango completo de BMI ([@morin2025bmi]; [[2025-Morin-maternal-BMI-offspring-ASD]]; ver [[Cap-05-Etiologia]]).
@@ -165,7 +177,51 @@ El NDIS australiano se asocia a ~32% más prevalencia diagnóstica de autismo y 
 
 En ADDM, la prevalencia con funcionamiento adaptativo leve pasa de 5,1 a 17,6/1000 mientras moderado–profundo permanece estable: el aumento epidemiológico se concentra en el estrato leve. ([@furnier2025]; [[2025-Furnier-ADDM-prevalence-adaptive]]).
 
+
+### Controles sensoriales para aislar riesgos «más TEA»
+
+Comparar TEA con pérdida visual/auditiva congénita (no solo con tipicos) ayuda a separar factores más específicos del autismo; hipertensión gestacional emerge en ese contraste ([@mansournia2025prenatal]; [[2025-Mansournia-prenatal-risk-ASD-vs-VLHL]]; ver [[Cap-05-Etiologia]]).
+
+
+### Kenia rural: prevalencia escolar de TND y TEA
+
+Cribado en 11 223 niños (6–9 años): prevalencia ajustada de TND **9,1%**; TEA **15,6/1000**; TDAH 50,8/1000; co-ocurrencia 22,6% ([@kariuki2025kenya]; [[2025-Kariuki-NDD-burden-Kenya]]; ver [[Cap-55-Contextos-culturales]]). Datos poblacionales africanos que corrigen el sesgo geográfico de la epidemiología TEA.
+
+
+### Determinantes del retraso del habla
+
+Sexo masculino y comorbilidades neurodesarrolladas dominan el riesgo en una cohorte casos-controles ([@ali2025speech]; [[2025-Ali-speech-delay-determinants]]).
+
+
+### Expresividad variable de CNVs 15q
+
+Hallazgos prenatales por US frecuentes; penetrancia incompleta especialmente en mujeres de la serie ([@ma202515q]; [[2025-Ma-15q11-q13-microduplication-prenatal]]).
+
+
+### Parto asistido: ADHD/ID sí, TEA no (vs SSCD)
+
+Cohorte >500 000: instrumento secuencial ↑ ADHD; vacuum ↑ ID; **sin asociación significativa con TEA** vs cesárea de 2ª etapa ([@rajasingham2026forceps]; [[2026-Rajasingham-forceps-vacuum-SSCD-outcomes]]).
+
+
+### Historia de TEA/TDAH/DI predice PLD
+
+En niños EE.UU., multimorbilidad pasada (TEA, DI ~13×, TDAH, asma) eleva discapacidad de aprendizaje persistente ([@mao2026pld]; [[2026-Mao-past-diseases-persistent-learning-disability]]).
+
 ## Referencias citadas
+
+- [@mao2026pld] — [[2026-Mao-past-diseases-persistent-learning-disability]]
+
+- [@rajasingham2026forceps] — [[2026-Rajasingham-forceps-vacuum-SSCD-outcomes]]
+
+- [@ma202515q] — [[2025-Ma-15q11-q13-microduplication-prenatal]]
+
+- [@ali2025speech] — [[2025-Ali-speech-delay-determinants]]
+
+- [@kariuki2025kenya] — [[2025-Kariuki-NDD-burden-Kenya]]
+
+- [@mansournia2025prenatal] — [[2025-Mansournia-prenatal-risk-ASD-vs-VLHL]]
+
+- [@furukawa2025endo] — [[2025-Furukawa-maternal-endometriosis-offspring-ASD]]
 
 - [@morin2025bmi] — [[2025-Morin-maternal-BMI-offspring-ASD]]
 

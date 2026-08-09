@@ -6,9 +6,9 @@ titulo: "Movimiento de autodefensa y neurodiversidad"
 dg-publish: true
 dg-home: false
 dg-permalink: /capitulos/autodefensa-neurodiversidad
-ultima_actualizacion: "2026-07-29"
-version: "1.6"
-conocimiento: 14
+ultima_actualizacion: "2026-08-08"
+version: "1.7"
+conocimiento: 15
 fuentes_integradas:
   - "[[2026-07-28-neurodiversidad-autismo-piloto]]"
   - "[[2025-Cusson-empathy-measures-meta-analysis]]"
@@ -24,6 +24,7 @@ fuentes_integradas:
   - "[[2026-Romanos-Sirakis-spectrum-reflection]]"
   - "[[2026-Liu-Taiwanese-adolescents-diagnosis-identity]]"
   - "[[2026-Singh-intersectional-stigma-Black-caregivers]]"
+  - "[[2025-Nicolosi-neurodiversity-behavior-analyst]]"
 estado: publicado
 resumen_ejecutivo: "Autodefensa y neurodiversidad: participación autista en políticas e investigación; rechazo a ‘normalizar’. Empatía no es déficit global; burnout ligado a estigma. Peer support prometedor (bienestar/autoestima) con evidencia aún metodológicamente débil."
 preguntas_abiertas:
@@ -37,7 +38,7 @@ bibliography: "03-Datos/references.bib"
 # Capítulo 51 — Movimiento de autodefensa y neurodiversidad
 
 <!-- sync:version-badge -->
-> **v1.6** · conocimiento **14** · actualizado **2026-07-29**
+> **v1.7** · conocimiento **15** · actualizado **2026-08-08**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
@@ -135,7 +136,14 @@ Ocho adolescentes taiwaneses describen el diagnóstico de autismo como una «gu�
 
 En N=55 cuidadores negros, racismo y estigma del autismo se entrelazan («you can't whoop autism»): la autodefensa y los servicios deben abordar la intersección, no ejes separados. ([@singh2026]; [[2026-Singh-intersectional-stigma-Black-caregivers]]).
 
+
+### Contrapunto: neurodiversidad vista desde el ABA
+
+Nicolosi y Dillenburger reconocen discriminación histórica pero proponen un «win–win» centrado también en altos apoyos vía ABA ([@nicolosi2025ndba]; [[2025-Nicolosi-neurodiversity-behavior-analyst]]; ver [[Cap-31-ABA-controversias]]). **No es la tesis del libro**: dialogar, no adoptar.
+
 ## Referencias citadas
+
+- [@nicolosi2025ndba] — [[2025-Nicolosi-neurodiversity-behavior-analyst]]
 
 - [@blok2025] — [[2025-Blok-late-diagnosis-older-adults]]
 - [@thayer2024] — [[2024-Thayer-parents-autistic-adults-attitudes]]

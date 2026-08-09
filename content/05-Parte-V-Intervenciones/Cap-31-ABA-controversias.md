@@ -6,13 +6,14 @@ titulo: "ABA y análisis conductual aplicado: evidencia y controversias"
 dg-publish: false
 dg-home: false
 dg-permalink: /capitulos/aba-controversias
-ultima_actualizacion: "2026-07-29"
-version: "1.2"
-conocimiento: 3
+ultima_actualizacion: "2026-08-08"
+version: "1.3"
+conocimiento: 4
 fuentes_integradas:
   - "[[2025-Bottema-Beutel-problem-behavior-measurement]]"
   - "[[2026-Nosova-autistic-adults-views-early-intervention]]"
   - "[[2024-Anixt-evidence-based-interventions-autism]]"
+  - "[[2025-Nicolosi-neurodiversity-behavior-analyst]]"
 estado: borrador
 resumen_ejecutivo: "Una revisión sistemática de 102 estudios de intervención temprana halla que solo el 8% definió conceptualmente qué es 'conducta problema' antes de intervenir para eliminarla, aportando evidencia empírica a la crítica de rigor conceptual en ABA e intervenciones conductuales tradicionales."
 preguntas_abiertas:
@@ -25,7 +26,7 @@ bibliography: "03-Datos/references.bib"
 # Capítulo 31 — ABA y análisis conductual aplicado: evidencia y controversias
 
 <!-- sync:version-badge -->
-> **v1.2** · conocimiento **3** · actualizado **2026-07-29**
+> **v1.3** · conocimiento **4** · actualizado **2026-08-08**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
@@ -77,7 +78,14 @@ WHERE contains(capitulos_relacionados, this.file.link)
 SORT fecha_captura DESC
 ```
 
+
+### ABA responde al NDM
+
+Ensayo desde análisis de conducta sobre el movimiento de neurodiversidad: útil como contrapunto a críticas y autodefensa ([@nicolosi2025ndba]; [[2025-Nicolosi-neurodiversity-behavior-analyst]]).
+
 ## Referencias citadas
+
+- [@nicolosi2025ndba] — [[2025-Nicolosi-neurodiversity-behavior-analyst]]
 
 - [@nosova2026] — [[2026-Nosova-autistic-adults-views-early-intervention]]
 - [@anixt2024] — [[2024-Anixt-evidence-based-interventions-autism]]

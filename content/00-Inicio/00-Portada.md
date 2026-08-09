@@ -11,6 +11,9 @@ tags:
 
 # Portada
 
-La portada del libro vive en [[index|Libro Vivo: Autismo]] (`02-Libro/index.md`).
+
+![[PortadaAutismoVivo.svg|700]]
+
+
 
 ← [[index|Ir a la portada]] · [[01-Indice|Índice]]

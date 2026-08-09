@@ -6,12 +6,14 @@ titulo: "Enfoques complementarios y pseudociencia (qué evitar)"
 dg-publish: true
 dg-home: false
 dg-permalink: /capitulos/complementarios-pseudociencia
-ultima_actualizacion: "2026-07-28"
-version: "1.1"
-conocimiento: 2
+ultima_actualizacion: "2026-08-08"
+version: "1.3"
+conocimiento: 4
 fuentes_integradas:
   - "[[2025-Doherty-CAM-autism-systematic-review]]"
   - "[[2025-Zhang-microbiota-gut-brain-axis-autism]]"
+  - "[[2025-Frye-FRAA-transgenerational-heritability]]"
+  - "[[2026-Ozturk-opioid-peptides-GFCF-diet]]"
 estado: revision
 resumen_ejecutivo: "CAM es frecuente en TEA, pero la evidencia de ensayos clínicos es limitada. Revisión sistemática Doherty 2025 (39 ensayos): vitaminas/minerales solo si hay deficiencia; dieta GFCF y varias dietas populares sin respaldo sólido; nutracéuticos dirigidos aún inconclusos. Priorizar seguridad, coste y no retrasar apoyos basados en evidencia."
 preguntas_abiertas:
@@ -25,7 +27,7 @@ bibliography: "03-Datos/references.bib"
 # Capítulo 37 — Enfoques complementarios y pseudociencia (qué evitar)
 
 <!-- sync:version-badge -->
-> **v1.1** · conocimiento **2** · actualizado **2026-07-28**
+> **v1.3** · conocimiento **4** · actualizado **2026-08-08**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
@@ -70,7 +72,21 @@ WHERE contains(capitulos_relacionados, this.file.link)
 SORT fecha_captura DESC
 ```
 
+
+### Contrapunto: FRAA y folato/leucovorina
+
+La línea FRAA (Frye et al.) reporta agregación familiar y correlación transgeneracional de autoanticuerpos ([@frye2025fraa]; [[2025-Frye-FRAA-transgenerational-heritability]]). Mientras la evidencia causal y de tratamiento no esté consolidada en ensayos robustos e independientes, no elevar a estándar clínico; situar junto a otras propuestas metabólicas/inmunológicas de evidencia limitada (ver [[Cap-05-Etiologia]]).
+
+
+### Contrapunto: hipótesis opioide y dieta GFCF
+
+Revisión de péptidos opioides/exorfinas y GFCF: ensayos clave sin diferencia vs placebo; limitaciones analíticas importantes ([@ozturk2026gfcf]; [[2026-Ozturk-opioid-peptides-GFCF-diet]]). **No elevar GFCF a estándar clínico.**
+
 ## Referencias citadas
+
+- [@ozturk2026gfcf] — [[2026-Ozturk-opioid-peptides-GFCF-diet]]
+
+- [@frye2025fraa] — [[2025-Frye-FRAA-transgenerational-heritability]]
 
 - [@doherty2025] — [[2025-Doherty-CAM-autism-systematic-review]]
 - [@zhang2025mgba] — [[2025-Zhang-microbiota-gut-brain-axis-autism]]

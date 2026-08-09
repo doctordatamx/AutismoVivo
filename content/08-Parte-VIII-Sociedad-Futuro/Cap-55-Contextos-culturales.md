@@ -9,10 +9,14 @@ dg-permalink: /capitulos/contextos-culturales
 fuentes_integradas:
   - "[[2025-Leung-neurodiversity-bilingual-EDI]]"
   - "[[2026-Castellon-bilingualism-myth-multilingual]]"
+  - "[[2025-Zhu-China-diagnosis-delay]]"
+  - "[[2026-AlGhadeer-sleep-disturbances-ASD-Saudi]]"
+  - "[[2025-Kariuki-NDD-burden-Kenya]]"
+  - "[[2026-Said-nutritional-rickets-ASD]]"
 estado: borrador
-ultima_actualizacion: "2026-08-06"
-version: "0.2"
-conocimiento: 2
+ultima_actualizacion: "2026-08-08"
+version: "0.6"
+conocimiento: 6
 resumen_ejecutivo: ""
 preguntas_abiertas: []
 tags:
@@ -22,7 +26,7 @@ tags:
 # Capítulo 55 — Autismo en contextos culturales, raza y acceso equitativo
 
 <!-- sync:version-badge -->
-> **v0.2** · conocimiento **2** · actualizado **2026-08-06**
+> **v0.6** · conocimiento **6** · actualizado **2026-08-08**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
@@ -40,6 +44,11 @@ _Pendiente de síntesis. Este capítulo se actualizará automáticamente cuando 
 
 La investigación en bilingüismo y neurodiversidad reproduce sesgos cuando usa normas monolingües o instrumentos no adaptados: se puede sobre o subestimar capacidades lingüísticas y cognitivas ([@leung2025bilin]; [[2025-Leung-neurodiversity-bilingual-EDI]]). En la clínica del autismo, el mito de que «hay que elegir una sola lengua» sigue activo pese a evidencia contraria ([@castellon2026]; [[2026-Castellon-bilingualism-myth-multilingual]]; ver [[Cap-32-Terapia-lenguaje-CAA]]). Un marco culturalmente sostenible sostiene la lengua del hogar y exige evaluación equitativa.
 
+
+### China: determinantes del retraso diagnóstico
+
+Cohorte terciaria china: mediana DDT 9,58 meses; demora ligada a lenguaje aparente normal, escolarización y prácticas del sistema sanitario ([@zhu2025delay]; [[2025-Zhu-China-diagnosis-delay]]).
+
 ### Perspectivas clave
 
 - **Evidencia clínica:**
@@ -47,6 +56,31 @@ La investigación en bilingüismo y neurodiversidad reproduce sesgos cuando usa 
 - **Controversias y debates:**
 
 ### Preguntas abiertas
+
+
+### Arabia Saudí (Al-Ahsa): sueño y TEA en clínica pediátrica
+
+Datos locales muestran carga elevada de alteraciones de sueño y factores familiares/culturales (ansiedad parental, arreglo de sueño) asociados al CSHQ ([@alghadeer2026sleep]; [[2026-AlGhadeer-sleep-disturbances-ASD-Saudi]]).
+
+
+### África oriental: carga de TND en edad escolar
+
+En zona rural keniana, casi 1 de cada 11 escolares tiene un TND confirmado; el TEA es frecuente (~1,6%) y los autores destacan factores ambientales prevenibles ([@kariuki2025kenya]; [[2025-Kariuki-NDD-burden-Kenya]]).
+
+
+### Inequidad y nutrición en TEA
+
+Todos los casos de raquitismo severo de Said et al. vivían en el quintil más bajo del Opportunity Index: selectividad × pobreza = daño óseo/metabólico ([@said2026rickets]; [[2026-Said-nutritional-rickets-ASD]]).
+
+## Referencias citadas
+
+- [@said2026rickets] — [[2026-Said-nutritional-rickets-ASD]]
+
+- [@kariuki2025kenya] — [[2025-Kariuki-NDD-burden-Kenya]]
+
+- [@alghadeer2026sleep] — [[2026-AlGhadeer-sleep-disturbances-ASD-Saudi]]
+
+- [@zhu2025delay] — [[2025-Zhu-China-diagnosis-delay]]
 
 ## Fuentes integradas
 

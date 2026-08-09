@@ -20,7 +20,7 @@ tags:
 # Capítulo 53 — Representación en medios, estigma y narrativas
 
 <!-- sync:version-badge -->
-> **v1.0** · conocimiento **0** · actualizado **2026-08-07**
+> **v1.0** · conocimiento **0** · actualizado **2026-08-08**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
